@@ -1,0 +1,40 @@
+{
+  "category": "Literature",
+  "metadata": {
+    "totalQuestions": 2,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 0
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "lit_001",
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "answers": [
+        {"text": "Jane Austen", "correct": true},
+        {"text": "Charlotte Brontë", "correct": false},
+        {"text": "Emily Brontë", "correct": false},
+        {"text": "Jane Austen Powers (International Woman of Mystery)", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Literature"
+    },
+    {
+      "id": "lit_002",
+      "question": "What is the first book in the Harry Potter series?",
+      "answers": [
+        {"text": "Harry Potter and the Philosopher's Stone", "correct": true},
+        {"text": "Harry Potter and the Chamber of Secrets", "correct": false},
+        {"text": "Harry Potter and the Prisoner of Azkaban", "correct": false},
+        {"text": "Harry Potter and the Unreasonably Long Copyright", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Literature"
+    }
+  ]
+}

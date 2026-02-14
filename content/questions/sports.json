@@ -1,0 +1,52 @@
+{
+  "category": "Sports",
+  "metadata": {
+    "totalQuestions": 3,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 1
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "sprt_001",
+      "question": "How many players are on a soccer team on the field at one time?",
+      "answers": [
+        {"text": "11", "correct": true},
+        {"text": "10", "correct": false},
+        {"text": "12", "correct": false},
+        {"text": "Depends how many showed up", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Sports"
+    },
+    {
+      "id": "sprt_002",
+      "question": "In which sport would you perform a 'slam dunk'?",
+      "answers": [
+        {"text": "Basketball", "correct": true},
+        {"text": "Volleyball", "correct": false},
+        {"text": "Tennis", "correct": false},
+        {"text": "Dunkin' Donuts", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Sports"
+    },
+    {
+      "id": "sprt_003",
+      "question": "How many Grand Slam tournaments are there in professional tennis annually?",
+      "answers": [
+        {"text": "4", "correct": true},
+        {"text": "5", "correct": false},
+        {"text": "3", "correct": false},
+        {"text": "One really long match", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Sports"
+    }
+  ]
+}

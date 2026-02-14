@@ -1,0 +1,40 @@
+{
+  "category": "Music",
+  "metadata": {
+    "totalQuestions": 2,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 0
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "mus_001",
+      "question": "How many keys does a standard piano have?",
+      "answers": [
+        {"text": "88", "correct": true},
+        {"text": "76", "correct": false},
+        {"text": "100", "correct": false},
+        {"text": "As many as you can afford", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Music"
+    },
+    {
+      "id": "mus_002",
+      "question": "Which band released the album 'Abbey Road'?",
+      "answers": [
+        {"text": "The Beatles", "correct": true},
+        {"text": "The Rolling Stones", "correct": false},
+        {"text": "The Who", "correct": false},
+        {"text": "The Beatles (the insects, not the band)", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Music"
+    }
+  ]
+}

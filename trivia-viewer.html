@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TriviaApp - Question Viewer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .stats {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 10px 20px;
+        }
+
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .filters {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .filter-group {
+            margin-bottom: 15px;
+        }
+
+        .filter-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+        }
+
+        select, input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 1em;
+            transition: border-color 0.3s;
+        }
+
+        select:focus, input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .category-section {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .category-header {
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 15px;
+            margin-bottom: 20px;
+        }
+
+        .category-title {
+            font-size: 2em;
+            color: #667eea;
+            margin-bottom: 8px;
+        }
+
+        .category-meta {
+            color: #666;
+            font-size: 0.95em;
+        }
+
+        .question-card {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-left: 5px solid #667eea;
+        }
+
+        .question-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+        }
+
+        .question-id {
+            font-family: 'Courier New', monospace;
+            background: #667eea;
+            color: white;
+            padding: 4px 10px;
+            border-radius: 5px;
+            font-size: 0.85em;
+        }
+
+        .difficulty-badge {
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .difficulty-easy {
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .difficulty-medium {
+            background: #fff3cd;
+            color: #856404;
+        }
+
+        .difficulty-hard {
+            background: #f8d7da;
+            color: #721c24;
+        }
+
+        .question-text {
+            font-size: 1.2em;
+            margin-bottom: 15px;
+            color: #2c3e50;
+            font-weight: 500;
+        }
+
+        .answers-list {
+            list-style: none;
+        }
+
+        .answer-item {
+            padding: 12px 15px;
+            margin-bottom: 8px;
+            border-radius: 8px;
+            background: white;
+            border: 2px solid #e0e0e0;
+            transition: all 0.3s;
+        }
+
+        .answer-correct {
+            background: #d4edda;
+            border-color: #28a745;
+            font-weight: 600;
+        }
+
+        .answer-correct::before {
+            content: "✓ ";
+            color: #28a745;
+            font-weight: bold;
+        }
+
+        .answer-absurd {
+            background: #fff9e6;
+            border-color: #ffc107;
+        }
+
+        .answer-absurd::after {
+            content: " 🎭";
+            margin-left: 5px;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 60px 20px;
+            color: #666;
+            font-size: 1.2em;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2em;
+            }
+
+            .stat-item {
+                flex: 1 1 50%;
+                margin-bottom: 15px;
+            }
+
+            .question-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .difficulty-badge {
+                margin-top: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎯 TriviaApp</h1>
+            <div class="subtitle">Question Database Viewer</div>
+        </header>
+
+        <div class="stats" id="stats"></div>
+
+        <div class="filters">
+            <div class="filter-group">
+                <label for="categoryFilter">Filter by Category:</label>
+                <select id="categoryFilter">
+                    <option value="all">All Categories</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="difficultyFilter">Filter by Difficulty:</label>
+                <select id="difficultyFilter">
+                    <option value="all">All Difficulties</option>
+                    <option value="easy">Easy</option>
+                    <option value="medium">Medium</option>
+                    <option value="hard">Hard</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="searchInput">Search Questions:</label>
+                <input type="text" id="searchInput" placeholder="Type to search questions...">
+            </div>
+        </div>
+
+        <div id="questions-container"></div>
+    </div>
+
+    <script>
+        const questionFiles = [
+            'animals.json', 'art.json', 'biology.json', 'chemistry.json',
+            'food.json', 'geography.json', 'history.json', 'human-body.json',
+            'inventions.json', 'languages.json', 'literature.json', 'mathematics.json',
+            'movies.json', 'music.json', 'mythology.json', 'physics.json',
+            'space.json', 'sports.json', 'technology.json', 'world-records.json'
+        ];
+
+        let allQuestions = [];
+        let categories = new Set();
+
+        async function loadQuestions() {
+            const promises = questionFiles.map(file =>
+                fetch(`content/questions/${file}`)
+                    .then(res => res.json())
+                    .catch(err => {
+                        console.error(`Failed to load ${file}:`, err);
+                        return null;
+                    })
+            );
+
+            const results = await Promise.all(promises);
+
+            results.forEach(data => {
+                if (data && data.questions) {
+                    allQuestions.push(data);
+                    categories.add(data.category);
+                }
+            });
+
+            populateCategoryFilter();
+            updateStats();
+            renderQuestions();
+        }
+
+        function populateCategoryFilter() {
+            const select = document.getElementById('categoryFilter');
+            Array.from(categories).sort().forEach(category => {
+                const option = document.createElement('option');
+                option.value = category;
+                option.textContent = category;
+                select.appendChild(option);
+            });
+        }
+
+        function updateStats() {
+            const totalQuestions = allQuestions.reduce((sum, cat) => sum + cat.questions.length, 0);
+            const totalCategories = categories.size;
+
+            let easyCount = 0, mediumCount = 0, hardCount = 0;
+            allQuestions.forEach(cat => {
+                cat.questions.forEach(q => {
+                    if (q.difficulty === 'easy') easyCount++;
+                    else if (q.difficulty === 'medium') mediumCount++;
+                    else if (q.difficulty === 'hard') hardCount++;
+                });
+            });
+
+            document.getElementById('stats').innerHTML = `
+                <div class="stat-item">
+                    <div class="stat-number">${totalCategories}</div>
+                    <div class="stat-label">Categories</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">${totalQuestions}</div>
+                    <div class="stat-label">Total Questions</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">${easyCount}</div>
+                    <div class="stat-label">Easy</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">${mediumCount}</div>
+                    <div class="stat-label">Medium</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">${hardCount}</div>
+                    <div class="stat-label">Hard</div>
+                </div>
+            `;
+        }
+
+        function renderQuestions() {
+            const categoryFilter = document.getElementById('categoryFilter').value;
+            const difficultyFilter = document.getElementById('difficultyFilter').value;
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+
+            const container = document.getElementById('questions-container');
+            container.innerHTML = '';
+
+            let filteredData = allQuestions;
+
+            if (categoryFilter !== 'all') {
+                filteredData = filteredData.filter(cat => cat.category === categoryFilter);
+            }
+
+            let hasResults = false;
+
+            filteredData.forEach(categoryData => {
+                const filteredQuestions = categoryData.questions.filter(q => {
+                    const matchesDifficulty = difficultyFilter === 'all' || q.difficulty === difficultyFilter;
+                    const matchesSearch = searchTerm === '' ||
+                        q.question.toLowerCase().includes(searchTerm) ||
+                        q.answers.some(a => a.text.toLowerCase().includes(searchTerm));
+                    return matchesDifficulty && matchesSearch;
+                });
+
+                if (filteredQuestions.length > 0) {
+                    hasResults = true;
+                    const section = document.createElement('div');
+                    section.className = 'category-section';
+
+                    section.innerHTML = `
+                        <div class="category-header">
+                            <div class="category-title">${categoryData.category}</div>
+                            <div class="category-meta">
+                                ${filteredQuestions.length} question${filteredQuestions.length !== 1 ? 's' : ''}
+                                | Version ${categoryData.metadata.version}
+                            </div>
+                        </div>
+                        ${filteredQuestions.map(q => `
+                            <div class="question-card">
+                                <div class="question-header">
+                                    <span class="question-id">${q.id}</span>
+                                    <span class="difficulty-badge difficulty-${q.difficulty}">${q.difficulty}</span>
+                                </div>
+                                <div class="question-text">${q.question}</div>
+                                <ul class="answers-list">
+                                    ${q.answers.map(a => `
+                                        <li class="answer-item ${a.correct ? 'answer-correct' : ''} ${a.absurd ? 'answer-absurd' : ''}">
+                                            ${a.text}
+                                        </li>
+                                    `).join('')}
+                                </ul>
+                            </div>
+                        `).join('')}
+                    `;
+
+                    container.appendChild(section);
+                }
+            });
+
+            if (!hasResults) {
+                container.innerHTML = '<div class="no-results">No questions found matching your filters.</div>';
+            }
+        }
+
+        document.getElementById('categoryFilter').addEventListener('change', renderQuestions);
+        document.getElementById('difficultyFilter').addEventListener('change', renderQuestions);
+        document.getElementById('searchInput').addEventListener('input', renderQuestions);
+
+        loadQuestions();
+    </script>
+</body>
+</html>

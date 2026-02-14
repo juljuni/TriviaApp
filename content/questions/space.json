@@ -1,0 +1,52 @@
+{
+  "category": "Space",
+  "metadata": {
+    "totalQuestions": 3,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 1
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "space_001",
+      "question": "How many moons does Earth have?",
+      "answers": [
+        {"text": "1", "correct": true},
+        {"text": "2", "correct": false},
+        {"text": "0", "correct": false},
+        {"text": "1, but it's shy", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Space"
+    },
+    {
+      "id": "space_002",
+      "question": "What is the name of the galaxy that contains our solar system?",
+      "answers": [
+        {"text": "Milky Way", "correct": true},
+        {"text": "Andromeda", "correct": false},
+        {"text": "Triangulum", "correct": false},
+        {"text": "Snickers (satisfies the galaxy)", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Space"
+    },
+    {
+      "id": "space_003",
+      "question": "How long does it take light from the Sun to reach Earth?",
+      "answers": [
+        {"text": "About 8 minutes", "correct": true},
+        {"text": "About 1 minute", "correct": false},
+        {"text": "Instantly", "correct": false},
+        {"text": "Depends on traffic", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Space"
+    }
+  ]
+}

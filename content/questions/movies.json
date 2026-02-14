@@ -1,0 +1,52 @@
+{
+  "category": "Movies",
+  "metadata": {
+    "totalQuestions": 3,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 1
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "mov_001",
+      "question": "Who directed the movie 'Jurassic Park'?",
+      "answers": [
+        {"text": "Steven Spielberg", "correct": true},
+        {"text": "James Cameron", "correct": false},
+        {"text": "George Lucas", "correct": false},
+        {"text": "Steven Spielbergosaurus", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Movies"
+    },
+    {
+      "id": "mov_002",
+      "question": "Which movie won the Academy Award for Best Picture in 1994?",
+      "answers": [
+        {"text": "Forrest Gump", "correct": true},
+        {"text": "The Shawshank Redemption", "correct": false},
+        {"text": "Pulp Fiction", "correct": false},
+        {"text": "Forrest Gump 2: The Gumpening", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Movies"
+    },
+    {
+      "id": "mov_003",
+      "question": "What was the first feature-length animated movie ever released?",
+      "answers": [
+        {"text": "Snow White and the Seven Dwarfs", "correct": true},
+        {"text": "Fantasia", "correct": false},
+        {"text": "Steamboat Willie", "correct": false},
+        {"text": "Shrek (the original classic)", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Movies"
+    }
+  ]
+}

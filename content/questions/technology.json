@@ -1,0 +1,40 @@
+{
+  "category": "Technology",
+  "metadata": {
+    "totalQuestions": 2,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 0
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "tech_001",
+      "question": "What does CPU stand for?",
+      "answers": [
+        {"text": "Central Processing Unit", "correct": true},
+        {"text": "Computer Power Unit", "correct": false},
+        {"text": "Central Power Unit", "correct": false},
+        {"text": "Computer's Powerful Unicorn", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Technology"
+    },
+    {
+      "id": "tech_002",
+      "question": "In what year was the first iPhone released?",
+      "answers": [
+        {"text": "2007", "correct": true},
+        {"text": "2005", "correct": false},
+        {"text": "2009", "correct": false},
+        {"text": "1984 (literally '1984')", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Technology"
+    }
+  ]
+}

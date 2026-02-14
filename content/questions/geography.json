@@ -1,0 +1,52 @@
+{
+  "category": "Geography",
+  "metadata": {
+    "totalQuestions": 3,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 1
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "geo_001",
+      "question": "What is the capital of Japan?",
+      "answers": [
+        {"text": "Tokyo", "correct": true},
+        {"text": "Osaka", "correct": false},
+        {"text": "Kyoto", "correct": false},
+        {"text": "Tokyo Drift", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Geography"
+    },
+    {
+      "id": "geo_002",
+      "question": "Which mountain range separates Europe from Asia?",
+      "answers": [
+        {"text": "Ural Mountains", "correct": true},
+        {"text": "Caucasus Mountains", "correct": false},
+        {"text": "Alps", "correct": false},
+        {"text": "The Iron Curtain (literally made of iron)", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Geography"
+    },
+    {
+      "id": "geo_003",
+      "question": "What is the smallest country in the world by population?",
+      "answers": [
+        {"text": "Vatican City", "correct": true},
+        {"text": "Monaco", "correct": false},
+        {"text": "Nauru", "correct": false},
+        {"text": "My apartment (population: me)", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Geography"
+    }
+  ]
+}

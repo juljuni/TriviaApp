@@ -1,0 +1,136 @@
+{
+  "category": "Art",
+  "metadata": {
+    "totalQuestions": 10,
+    "difficulty": {
+      "easy": 3,
+      "medium": 4,
+      "hard": 3
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "art_001",
+      "question": "Who painted the Mona Lisa?",
+      "answers": [
+        {"text": "Leonardo da Vinci", "correct": true},
+        {"text": "Michelangelo", "correct": false},
+        {"text": "Raphael", "correct": false},
+        {"text": "Leonardo di Caprio", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Art"
+    },
+    {
+      "id": "art_002",
+      "question": "In which museum is the Mona Lisa displayed?",
+      "answers": [
+        {"text": "Louvre Museum", "correct": true},
+        {"text": "British Museum", "correct": false},
+        {"text": "Uffizi Gallery", "correct": false},
+        {"text": "The Louvre Gift Shop", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Art"
+    },
+    {
+      "id": "art_003",
+      "question": "Which artist is famous for cutting off part of his own ear?",
+      "answers": [
+        {"text": "Vincent van Gogh", "correct": true},
+        {"text": "Pablo Picasso", "correct": false},
+        {"text": "Claude Monet", "correct": false},
+        {"text": "Mike Tyson", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Art"
+    },
+    {
+      "id": "art_004",
+      "question": "What art movement is Salvador Dali associated with?",
+      "answers": [
+        {"text": "Surrealism", "correct": true},
+        {"text": "Cubism", "correct": false},
+        {"text": "Impressionism", "correct": false},
+        {"text": "Meltyism", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Art"
+    },
+    {
+      "id": "art_005",
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "answers": [
+        {"text": "Michelangelo", "correct": true},
+        {"text": "Leonardo da Vinci", "correct": false},
+        {"text": "Raphael", "correct": false},
+        {"text": "Donatello", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Art"
+    },
+    {
+      "id": "art_006",
+      "question": "What is the art technique of creating images using small dots of color?",
+      "answers": [
+        {"text": "Pointillism", "correct": true},
+        {"text": "Cubism", "correct": false},
+        {"text": "Impressionism", "correct": false},
+        {"text": "Dotism", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Art"
+    },
+    {
+      "id": "art_007",
+      "question": "Which artist is known for the painting 'The Persistence of Memory' featuring melting clocks?",
+      "answers": [
+        {"text": "Salvador Dali", "correct": true},
+        {"text": "Rene Magritte", "correct": false},
+        {"text": "Max Ernst", "correct": false},
+        {"text": "Rolex", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Art"
+    },
+    {
+      "id": "art_008",
+      "question": "In which century did the Renaissance period begin in Italy?",
+      "answers": [
+        {"text": "14th century", "correct": true},
+        {"text": "15th century", "correct": false},
+        {"text": "16th century", "correct": false},
+        {"text": "The Renaissance Fair", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Art"
+    },
+    {
+      "id": "art_009",
+      "question": "Who painted 'Guernica', depicting the bombing of a Spanish town?",
+      "answers": [
+        {"text": "Pablo Picasso", "correct": true},
+        {"text": "Joan Miro", "correct": false},
+        {"text": "Salvador Dali", "correct": false},
+        {"text": "Pablo Escobar", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Art"
+    },
+    {
+      "id": "art_010",
+      "question": "What is the name of the Dutch artist known for his use of light and shadow, who painted 'The Night Watch'?",
+      "answers": [
+        {"text": "Rembrandt van Rijn", "correct": true},
+        {"text": "Johannes Vermeer", "correct": false},
+        {"text": "Peter Paul Rubens", "correct": false},
+        {"text": "Vincent van Gogh Sr.", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Art"
+    }
+  ]
+}

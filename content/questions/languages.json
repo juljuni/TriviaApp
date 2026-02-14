@@ -1,0 +1,40 @@
+{
+  "category": "Languages",
+  "metadata": {
+    "totalQuestions": 2,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 0
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "lang_001",
+      "question": "What is the most widely spoken language in the world by total speakers (native and non-native)?",
+      "answers": [
+        {"text": "English", "correct": true},
+        {"text": "Mandarin Chinese", "correct": false},
+        {"text": "Spanish", "correct": false},
+        {"text": "Emoji", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Languages"
+    },
+    {
+      "id": "lang_002",
+      "question": "How many official languages does Switzerland have?",
+      "answers": [
+        {"text": "4", "correct": true},
+        {"text": "3", "correct": false},
+        {"text": "2", "correct": false},
+        {"text": "All of them (it's Switzerland)", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Languages"
+    }
+  ]
+}

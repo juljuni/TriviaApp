@@ -1,0 +1,40 @@
+{
+  "category": "Mathematics",
+  "metadata": {
+    "totalQuestions": 2,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 0
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "math_001",
+      "question": "What is the value of pi (π) to two decimal places?",
+      "answers": [
+        {"text": "3.14", "correct": true},
+        {"text": "3.12", "correct": false},
+        {"text": "3.16", "correct": false},
+        {"text": "3.14159... (just kept going)", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Mathematics"
+    },
+    {
+      "id": "math_002",
+      "question": "What is the sum of the angles in a triangle?",
+      "answers": [
+        {"text": "180 degrees", "correct": true},
+        {"text": "360 degrees", "correct": false},
+        {"text": "90 degrees", "correct": false},
+        {"text": "Depends on the triangle's mood", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Mathematics"
+    }
+  ]
+}

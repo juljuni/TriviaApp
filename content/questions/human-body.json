@@ -1,0 +1,52 @@
+{
+  "category": "The Human Body",
+  "metadata": {
+    "totalQuestions": 3,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 1
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "body_001",
+      "question": "What is the largest organ in the human body?",
+      "answers": [
+        {"text": "Skin", "correct": true},
+        {"text": "Liver", "correct": false},
+        {"text": "Brain", "correct": false},
+        {"text": "The ego", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "The Human Body"
+    },
+    {
+      "id": "body_002",
+      "question": "How many chromosomes does a normal human cell contain?",
+      "answers": [
+        {"text": "46", "correct": true},
+        {"text": "23", "correct": false},
+        {"text": "48", "correct": false},
+        {"text": "23 pairs (they travel in buddy system)", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "The Human Body"
+    },
+    {
+      "id": "body_003",
+      "question": "What is the medical term for the collarbone?",
+      "answers": [
+        {"text": "Clavicle", "correct": true},
+        {"text": "Scapula", "correct": false},
+        {"text": "Sternum", "correct": false},
+        {"text": "Collarbonium", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "The Human Body"
+    }
+  ]
+}

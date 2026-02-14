@@ -1,0 +1,40 @@
+{
+  "category": "Inventions",
+  "metadata": {
+    "totalQuestions": 2,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 0
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "invt_001",
+      "question": "Who invented the telephone?",
+      "answers": [
+        {"text": "Alexander Graham Bell", "correct": true},
+        {"text": "Thomas Edison", "correct": false},
+        {"text": "Nikola Tesla", "correct": false},
+        {"text": "Alexander Graham Cracker", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Inventions"
+    },
+    {
+      "id": "invt_002",
+      "question": "In what year was the World Wide Web invented?",
+      "answers": [
+        {"text": "1989", "correct": true},
+        {"text": "1995", "correct": false},
+        {"text": "1982", "correct": false},
+        {"text": "1969 (on ARPANET's Myspace page)", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Inventions"
+    }
+  ]
+}

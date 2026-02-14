@@ -1,0 +1,40 @@
+{
+  "category": "Food",
+  "metadata": {
+    "totalQuestions": 2,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 0
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "food_001",
+      "question": "What is the main ingredient in guacamole?",
+      "answers": [
+        {"text": "Avocado", "correct": true},
+        {"text": "Tomato", "correct": false},
+        {"text": "Lime", "correct": false},
+        {"text": "Advocado (the lawyer fruit)", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Food"
+    },
+    {
+      "id": "food_002",
+      "question": "What type of pastry is used to make a croissant?",
+      "answers": [
+        {"text": "Puff pastry", "correct": true},
+        {"text": "Shortcrust pastry", "correct": false},
+        {"text": "Filo pastry", "correct": false},
+        {"text": "Crescent roll from a can", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Food"
+    }
+  ]
+}

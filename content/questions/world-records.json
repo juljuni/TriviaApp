@@ -1,0 +1,40 @@
+{
+  "category": "World Records",
+  "metadata": {
+    "totalQuestions": 2,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 0
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "wrec_001",
+      "question": "What is the tallest building in the world as of 2026?",
+      "answers": [
+        {"text": "Burj Khalifa", "correct": true},
+        {"text": "Shanghai Tower", "correct": false},
+        {"text": "Makkah Royal Clock Tower", "correct": false},
+        {"text": "My stack of unread emails", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "World Records"
+    },
+    {
+      "id": "wrec_002",
+      "question": "What is the longest flight distance by a bird without stopping?",
+      "answers": [
+        {"text": "About 12,000 km (Bar-tailed Godwit)", "correct": true},
+        {"text": "About 5,000 km", "correct": false},
+        {"text": "About 20,000 km", "correct": false},
+        {"text": "However far it takes to get away from taxes", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "World Records"
+    }
+  ]
+}

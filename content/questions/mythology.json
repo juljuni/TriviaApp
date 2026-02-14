@@ -1,0 +1,52 @@
+{
+  "category": "Mythology",
+  "metadata": {
+    "totalQuestions": 3,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 1
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "myth_001",
+      "question": "Who is the king of the gods in Greek mythology?",
+      "answers": [
+        {"text": "Zeus", "correct": true},
+        {"text": "Poseidon", "correct": false},
+        {"text": "Hades", "correct": false},
+        {"text": "Zeus (available on Amazon Prime)", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Mythology"
+    },
+    {
+      "id": "myth_002",
+      "question": "What is the name of Thor's hammer in Norse mythology?",
+      "answers": [
+        {"text": "Mjolnir", "correct": true},
+        {"text": "Gungnir", "correct": false},
+        {"text": "Excalibur", "correct": false},
+        {"text": "Mjolnir Pro Max", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Mythology"
+    },
+    {
+      "id": "myth_003",
+      "question": "Who is the Egyptian god of the dead?",
+      "answers": [
+        {"text": "Anubis", "correct": true},
+        {"text": "Ra", "correct": false},
+        {"text": "Horus", "correct": false},
+        {"text": "Anubis Pro (premium death subscription)", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Mythology"
+    }
+  ]
+}

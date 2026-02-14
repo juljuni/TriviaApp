@@ -1,0 +1,52 @@
+{
+  "category": "Chemistry",
+  "metadata": {
+    "totalQuestions": 3,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 1
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "chem_001",
+      "question": "What is the chemical formula for water?",
+      "answers": [
+        {"text": "H₂O", "correct": true},
+        {"text": "CO₂", "correct": false},
+        {"text": "O₂", "correct": false},
+        {"text": "H₂OMG", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Chemistry"
+    },
+    {
+      "id": "chem_002",
+      "question": "What is the pH of a neutral solution?",
+      "answers": [
+        {"text": "7", "correct": true},
+        {"text": "0", "correct": false},
+        {"text": "14", "correct": false},
+        {"text": "pH balanced, like shampoo", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Chemistry"
+    },
+    {
+      "id": "chem_003",
+      "question": "What is Avogadro's number (approximately)?",
+      "answers": [
+        {"text": "6.022 × 10²³", "correct": true},
+        {"text": "3.14 × 10²³", "correct": false},
+        {"text": "9.81 × 10²³", "correct": false},
+        {"text": "One guacamole", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Chemistry"
+    }
+  ]
+}

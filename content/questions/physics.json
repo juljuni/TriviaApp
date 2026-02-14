@@ -1,0 +1,52 @@
+{
+  "category": "Physics",
+  "metadata": {
+    "totalQuestions": 3,
+    "difficulty": {
+      "easy": 1,
+      "medium": 1,
+      "hard": 1
+    },
+    "version": "1.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
+  },
+  "questions": [
+    {
+      "id": "phys_001",
+      "question": "What is the unit of electrical resistance?",
+      "answers": [
+        {"text": "Ohm", "correct": true},
+        {"text": "Volt", "correct": false},
+        {"text": "Watt", "correct": false},
+        {"text": "Watts up", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Physics"
+    },
+    {
+      "id": "phys_002",
+      "question": "What is the acceleration due to gravity on Earth (approximately)?",
+      "answers": [
+        {"text": "9.8 m/s²", "correct": true},
+        {"text": "10 m/s²", "correct": false},
+        {"text": "8.9 m/s²", "correct": false},
+        {"text": "What goes up must come down m/s²", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Physics"
+    },
+    {
+      "id": "phys_003",
+      "question": "What is the name of the theoretical temperature at which all molecular motion ceases?",
+      "answers": [
+        {"text": "Absolute zero", "correct": true},
+        {"text": "Freezing point", "correct": false},
+        {"text": "Critical temperature", "correct": false},
+        {"text": "Absolute zero dark thirty", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Physics"
+    }
+  ]
+}
