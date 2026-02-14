@@ -208,15 +208,6 @@
             font-weight: bold;
         }
 
-        .answer-absurd {
-            background: #fff9e6;
-            border-color: #ffc107;
-        }
-
-        .answer-absurd::after {
-            content: " 🎭";
-            margin-left: 5px;
-        }
 
         .no-results {
             text-align: center;
@@ -412,7 +403,7 @@
                                 <div class="question-text">${q.question}</div>
                                 <ul class="answers-list">
                                     ${q.answers.map(a => `
-                                        <li class="answer-item ${a.correct ? 'answer-correct' : ''} ${a.absurd ? 'answer-absurd' : ''}">
+                                        <li class="answer-item ${a.correct ? 'answer-correct' : ''}">
                                             ${a.text}
                                         </li>
                                     `).join('')}
