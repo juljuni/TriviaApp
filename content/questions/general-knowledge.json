@@ -7,8 +7,9 @@
       "medium": 20,
       "hard": 10
     },
-    "version": "1.0",
-    "created": "2026-02-14"
+    "version": "2.0",
+    "created": "2026-02-14",
+    "updated": "2026-02-14"
   },
   "questions": [
     {
@@ -18,7 +19,7 @@
         {"text": "Jupiter", "correct": true},
         {"text": "Saturn", "correct": false},
         {"text": "Neptune", "correct": false},
-        {"text": "Earth (according to my toddler's drawings)", "correct": false, "absurd": true}
+        {"text": "Pluto (pre-2006 classification)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -30,7 +31,7 @@
         {"text": "7", "correct": true},
         {"text": "6", "correct": false},
         {"text": "8", "correct": false},
-        {"text": "3 (the ones that matter, obviously)", "correct": false, "absurd": true}
+        {"text": "5 (combining Eurasia)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -42,7 +43,7 @@
         {"text": "Paris", "correct": true},
         {"text": "Lyon", "correct": false},
         {"text": "Marseille", "correct": false},
-        {"text": "Croissant-upon-Seine", "correct": false, "absurd": true}
+        {"text": "Paris, Texas", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -54,7 +55,7 @@
         {"text": "Carbon dioxide", "correct": true},
         {"text": "Oxygen", "correct": false},
         {"text": "Nitrogen", "correct": false},
-        {"text": "Whatever's coming from the bins", "correct": false, "absurd": true}
+        {"text": "Helium", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -66,7 +67,7 @@
         {"text": "6", "correct": true},
         {"text": "5", "correct": false},
         {"text": "7", "correct": false},
-        {"text": "However many the cat hasn't destroyed yet", "correct": false, "absurd": true}
+        {"text": "12 (double-course model)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -78,7 +79,7 @@
         {"text": "0°C", "correct": true},
         {"text": "32°C", "correct": false},
         {"text": "-10°C", "correct": false},
-        {"text": "Room temperature in my flat apparently", "correct": false, "absurd": true}
+        {"text": "32°C (Fahrenheit confusion)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -90,7 +91,7 @@
         {"text": "Mars", "correct": true},
         {"text": "Venus", "correct": false},
         {"text": "Mercury", "correct": false},
-        {"text": "That one with all the communists", "correct": false, "absurd": true}
+        {"text": "Jupiter (during red spot season)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -102,7 +103,7 @@
         {"text": "6", "correct": true},
         {"text": "5", "correct": false},
         {"text": "8", "correct": false},
-        {"text": "Too many to count after pub quiz", "correct": false, "absurd": true}
+        {"text": "7 (including the base)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -114,7 +115,7 @@
         {"text": "Pacific Ocean", "correct": true},
         {"text": "Atlantic Ocean", "correct": false},
         {"text": "Indian Ocean", "correct": false},
-        {"text": "The one I cry into nightly", "correct": false, "absurd": true}
+        {"text": "The Specific Ocean", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -126,7 +127,7 @@
         {"text": "William Shakespeare", "correct": true},
         {"text": "Charles Dickens", "correct": false},
         {"text": "Jane Austen", "correct": false},
-        {"text": "Some bloke from Stratford with too much time", "correct": false, "absurd": true}
+        {"text": "Christopher Marlowe", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -138,7 +139,7 @@
         {"text": "300,000 km/s", "correct": true},
         {"text": "150,000 km/s", "correct": false},
         {"text": "500,000 km/s", "correct": false},
-        {"text": "Slower than my Wi-Fi, somehow", "correct": false, "absurd": true}
+        {"text": "299,792 km/s (technically correct)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -150,7 +151,7 @@
         {"text": "Vatican City", "correct": true},
         {"text": "Monaco", "correct": false},
         {"text": "San Marino", "correct": false},
-        {"text": "My studio flat in London", "correct": false, "absurd": true}
+        {"text": "Sealand", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -162,7 +163,7 @@
         {"text": "32", "correct": true},
         {"text": "28", "correct": false},
         {"text": "36", "correct": false},
-        {"text": "Depends on the rugby player", "correct": false, "absurd": true}
+        {"text": "28 (excluding wisdom teeth)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -174,7 +175,7 @@
         {"text": "100°C", "correct": true},
         {"text": "90°C", "correct": false},
         {"text": "110°C", "correct": false},
-        {"text": "212°C (I only speak Fahrenheit)", "correct": false, "absurd": true}
+        {"text": "212°C (Fahrenheit equivalent)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -186,7 +187,7 @@
         {"text": "Giraffe", "correct": true},
         {"text": "Elephant", "correct": false},
         {"text": "Ostrich", "correct": false},
-        {"text": "My neighbour on stilts at parties", "correct": false, "absurd": true}
+        {"text": "African elephant (standing)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -198,7 +199,7 @@
         {"text": "Antarctica", "correct": true},
         {"text": "Sahara", "correct": false},
         {"text": "Arabian Desert", "correct": false},
-        {"text": "My dating life", "correct": false, "absurd": true}
+        {"text": "Sahara (largest hot desert)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -210,7 +211,7 @@
         {"text": "7", "correct": true},
         {"text": "6", "correct": false},
         {"text": "8", "correct": false},
-        {"text": "None, it's Britain, we don't get sun", "correct": false, "absurd": true}
+        {"text": "6 (Newton's original spectrum)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -222,7 +223,7 @@
         {"text": "Au", "correct": true},
         {"text": "Go", "correct": false},
         {"text": "Gd", "correct": false},
-        {"text": "£££", "correct": false, "absurd": true}
+        {"text": "Au₂ (auric compound)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -234,7 +235,7 @@
         {"text": "366", "correct": true},
         {"text": "365", "correct": false},
         {"text": "364", "correct": false},
-        {"text": "Still too many Mondays", "correct": false, "absurd": true}
+        {"text": "365.25 (average)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -246,7 +247,7 @@
         {"text": "African elephant", "correct": true},
         {"text": "Hippopotamus", "correct": false},
         {"text": "White rhinoceros", "correct": false},
-        {"text": "My uncle after Christmas dinner", "correct": false, "absurd": true}
+        {"text": "Blue whale (when beached)", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -258,7 +259,7 @@
         {"text": "1912", "correct": true},
         {"text": "1905", "correct": false},
         {"text": "1920", "correct": false},
-        {"text": "Tuesday", "correct": false, "absurd": true}
+        {"text": "1912 (same year it launched)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -270,7 +271,7 @@
         {"text": "Stapes (in the ear)", "correct": true},
         {"text": "Phalanx", "correct": false},
         {"text": "Coccyx", "correct": false},
-        {"text": "My will to live on Mondays", "correct": false, "absurd": true}
+        {"text": "Stirrup bone (alternate name)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -282,7 +283,7 @@
         {"text": "South Africa (11)", "correct": true},
         {"text": "India", "correct": false},
         {"text": "Switzerland", "correct": false},
-        {"text": "The EU parliament cafeteria", "correct": false, "absurd": true}
+        {"text": "Papua New Guinea (850+ spoken)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -294,7 +295,7 @@
         {"text": "Diamond", "correct": true},
         {"text": "Tungsten", "correct": false},
         {"text": "Titanium", "correct": false},
-        {"text": "Three-day-old bread from Tesco", "correct": false, "absurd": true}
+        {"text": "Tungsten carbide (composite)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -306,7 +307,7 @@
         {"text": "206", "correct": true},
         {"text": "186", "correct": false},
         {"text": "226", "correct": false},
-        {"text": "Lost count at the chiropractor", "correct": false, "absurd": true}
+        {"text": "270 (infant count)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -318,7 +319,7 @@
         {"text": "Nile River", "correct": true},
         {"text": "Amazon River", "correct": false},
         {"text": "Yangtze River", "correct": false},
-        {"text": "The queue at the Post Office", "correct": false, "absurd": true}
+        {"text": "Amazon (with tributaries)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -330,7 +331,7 @@
         {"text": "AB negative", "correct": true},
         {"text": "O negative", "correct": false},
         {"text": "B negative", "correct": false},
-        {"text": "Type 'Can't-donate-I'm-squeamish'", "correct": false, "absurd": true}
+        {"text": "Type O-verrated", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -342,7 +343,7 @@
         {"text": "1945", "correct": true},
         {"text": "1944", "correct": false},
         {"text": "1946", "correct": false},
-        {"text": "When Grandad says it did", "correct": false, "absurd": true}
+        {"text": "1946 (peace treaties)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -354,7 +355,7 @@
         {"text": "Mercury", "correct": true},
         {"text": "Mars", "correct": false},
         {"text": "Venus", "correct": false},
-        {"text": "Pluto (still bitter about the demotion)", "correct": false, "absurd": true}
+        {"text": "Pluto (pre-reclassification)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -366,7 +367,7 @@
         {"text": "11", "correct": true},
         {"text": "8", "correct": false},
         {"text": "9", "correct": false},
-        {"text": "All of them, they're quite large", "correct": false, "absurd": true}
+        {"text": "12 (including maritime)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -378,7 +379,7 @@
         {"text": "Mandarin Chinese", "correct": true},
         {"text": "English", "correct": false},
         {"text": "Spanish", "correct": false},
-        {"text": "Sarcasm", "correct": false, "absurd": true}
+        {"text": "Chinese (all dialects)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -390,7 +391,7 @@
         {"text": "71%", "correct": true},
         {"text": "65%", "correct": false},
         {"text": "80%", "correct": false},
-        {"text": "100% during British summer", "correct": false, "absurd": true}
+        {"text": "75% (rounded)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -402,7 +403,7 @@
         {"text": "Canberra", "correct": true},
         {"text": "Sydney", "correct": false},
         {"text": "Melbourne", "correct": false},
-        {"text": "That place with all the spiders", "correct": false, "absurd": true}
+        {"text": "Sydney (cultural capital)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -414,7 +415,7 @@
         {"text": "3", "correct": true},
         {"text": "2", "correct": false},
         {"text": "1", "correct": false},
-        {"text": "More than I have after that breakup", "correct": false, "absurd": true}
+        {"text": "8 (one per arm)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -426,7 +427,7 @@
         {"text": "Nitrogen", "correct": true},
         {"text": "Oxygen", "correct": false},
         {"text": "Carbon dioxide", "correct": false},
-        {"text": "Whatever my teenager is vaping", "correct": false, "absurd": true}
+        {"text": "Air", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -438,7 +439,7 @@
         {"text": "15th century", "correct": true},
         {"text": "14th century", "correct": false},
         {"text": "16th century", "correct": false},
-        {"text": "Shortly before Twitter ruined everything", "correct": false, "absurd": true}
+        {"text": "13th century (woodblock)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -450,7 +451,7 @@
         {"text": "Liver", "correct": true},
         {"text": "Brain", "correct": false},
         {"text": "Lung", "correct": false},
-        {"text": "The part that craves crisps at 11pm", "correct": false, "absurd": true}
+        {"text": "Skin (if counted as internal)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -462,7 +463,7 @@
         {"text": "118", "correct": true},
         {"text": "103", "correct": false},
         {"text": "92", "correct": false},
-        {"text": "However many I memorized for the exam", "correct": false, "absurd": true}
+        {"text": "92 (naturally occurring)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -474,7 +475,7 @@
         {"text": "Mariana Trench", "correct": true},
         {"text": "Puerto Rico Trench", "correct": false},
         {"text": "Java Trench", "correct": false},
-        {"text": "The bit where my phone fell in", "correct": false, "absurd": true}
+        {"text": "Challenger Deep (same location)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -486,7 +487,7 @@
         {"text": "Canada", "correct": true},
         {"text": "Indonesia", "correct": false},
         {"text": "Russia", "correct": false},
-        {"text": "Whichever one has the most seagulls", "correct": false, "absurd": true}
+        {"text": "Norway (including fjords)", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -498,7 +499,7 @@
         {"text": "W", "correct": true},
         {"text": "Tu", "correct": false},
         {"text": "Tn", "correct": false},
-        {"text": "Y (because why make it easy)", "correct": false, "absurd": true}
+        {"text": "Wt", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -510,7 +511,7 @@
         {"text": "Damascus", "correct": true},
         {"text": "Jerusalem", "correct": false},
         {"text": "Athens", "correct": false},
-        {"text": "My gran's house, apparently", "correct": false, "absurd": true}
+        {"text": "Jericho", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -522,7 +523,7 @@
         {"text": "22 months", "correct": true},
         {"text": "15 months", "correct": false},
         {"text": "18 months", "correct": false},
-        {"text": "Longer than waiting for the broadband engineer", "correct": false, "absurd": true}
+        {"text": "24 months (rounded)", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -534,7 +535,7 @@
         {"text": "Sirius", "correct": true},
         {"text": "Betelgeuse", "correct": false},
         {"text": "Rigel", "correct": false},
-        {"text": "That one streetlight outside my window", "correct": false, "absurd": true}
+        {"text": "Polaris (North Star)", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -546,7 +547,7 @@
         {"text": "9", "correct": true},
         {"text": "7", "correct": false},
         {"text": "8", "correct": false},
-        {"text": "Fewer than they tried in the 1940s", "correct": false, "absurd": true}
+        {"text": "10 (including maritime)", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -558,7 +559,7 @@
         {"text": "Hydrogen", "correct": true},
         {"text": "Helium", "correct": false},
         {"text": "Carbon", "correct": false},
-        {"text": "Disappointment in humanity", "correct": false, "absurd": true}
+        {"text": "Dark matter (if counted)", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -570,7 +571,7 @@
         {"text": "1967", "correct": true},
         {"text": "1960", "correct": false},
         {"text": "1975", "correct": false},
-        {"text": "Before my last relationship clearly", "correct": false, "absurd": true}
+        {"text": "1968 (first long-term survival)", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -582,7 +583,7 @@
         {"text": "Mercury", "correct": true},
         {"text": "Gallium", "correct": false},
         {"text": "Cesium", "correct": false},
-        {"text": "My resolve after one drink", "correct": false, "absurd": true}
+        {"text": "Mercury retrograde", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -594,7 +595,7 @@
         {"text": "37", "correct": true},
         {"text": "42", "correct": false},
         {"text": "33", "correct": false},
-        {"text": "38 if you count the one I wrote in GCSE", "correct": false, "absurd": true}
+        {"text": "38 (including disputed works)", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -606,7 +607,7 @@
         {"text": "10", "correct": true},
         {"text": "9", "correct": false},
         {"text": "8", "correct": false},
-        {"text": "Softer than my mattress apparently", "correct": false, "absurd": true}
+        {"text": "11 (when perfectly cut)", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
