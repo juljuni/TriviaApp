@@ -1,0 +1,79 @@
+{
+  "categories": [
+    {
+      "id": "science",
+      "name": "Science",
+      "description": "Questions about biology, chemistry, physics, and general scientific knowledge",
+      "icon": "🔬",
+      "subcategories": ["biology", "chemistry", "physics", "astronomy", "earth-science"]
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "description": "World history, ancient civilizations, wars, and historical figures",
+      "icon": "📚",
+      "subcategories": ["ancient", "medieval", "modern", "world-wars", "american"]
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "description": "Countries, capitals, landmarks, physical geography, and world cultures",
+      "icon": "🌍",
+      "subcategories": ["countries", "capitals", "landmarks", "physical", "cultures"]
+    },
+    {
+      "id": "arts",
+      "name": "Arts & Literature",
+      "description": "Literature, visual arts, music, theater, and cultural works",
+      "icon": "🎨",
+      "subcategories": ["literature", "painting", "sculpture", "music", "theater"]
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment",
+      "description": "Movies, TV shows, celebrities, and pop culture",
+      "icon": "🎬",
+      "subcategories": ["movies", "tv-shows", "music-pop", "celebrities", "awards"]
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "description": "Sports history, athletes, championships, and sporting events",
+      "icon": "⚽",
+      "subcategories": ["football", "basketball", "baseball", "olympics", "soccer"]
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "description": "Computing, inventions, innovations, and technological advances",
+      "icon": "💻",
+      "subcategories": ["computing", "internet", "inventions", "space-tech", "ai"]
+    },
+    {
+      "id": "mythology",
+      "name": "Mythology",
+      "description": "Greek, Roman, Norse mythology and ancient legends",
+      "icon": "⚡",
+      "subcategories": ["greek", "roman", "norse", "egyptian", "world"]
+    },
+    {
+      "id": "food",
+      "name": "Food & Drink",
+      "description": "Cuisine, cooking, beverages, and culinary traditions",
+      "icon": "🍕",
+      "subcategories": ["cuisine", "beverages", "cooking", "ingredients", "traditions"]
+    },
+    {
+      "id": "nature",
+      "name": "Nature & Animals",
+      "description": "Wildlife, ecosystems, animal behavior, and natural phenomena",
+      "icon": "🦁",
+      "subcategories": ["mammals", "birds", "marine", "insects", "ecosystems"]
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2026-02-14",
+    "totalCategories": 10
+  }
+}

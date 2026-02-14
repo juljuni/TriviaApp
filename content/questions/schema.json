@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Trivia Question Schema",
+  "description": "Schema for trivia questions in TriviaApp",
+  "type": "object",
+  "required": ["id", "category", "question", "options", "correctAnswer", "difficulty", "explanation"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the question (format: CATEGORY_XXX)"
+    },
+    "category": {
+      "type": "string",
+      "description": "Category identifier matching categories.json"
+    },
+    "question": {
+      "type": "string",
+      "description": "The trivia question text",
+      "minLength": 10
+    },
+    "options": {
+      "type": "array",
+      "description": "Array of answer options",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 4,
+      "maxItems": 4
+    },
+    "correctAnswer": {
+      "type": "integer",
+      "description": "Index of the correct answer in options array (0-3)",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "difficulty": {
+      "type": "string",
+      "description": "Question difficulty level",
+      "enum": ["easy", "medium", "hard"]
+    },
+    "explanation": {
+      "type": "string",
+      "description": "Explanation of the correct answer with additional context",
+      "minLength": 20
+    },
+    "tags": {
+      "type": "array",
+      "description": "Optional tags for fine-grained categorization",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source": {
+      "type": "string",
+      "description": "Optional source or reference for the question"
+    }
+  }
+}
