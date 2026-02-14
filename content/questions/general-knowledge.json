@@ -7,19 +7,20 @@
       "medium": 20,
       "hard": 10
     },
-    "version": "2.0",
-    "created": "2026-02-14",
-    "updated": "2026-02-14"
+    "version": "3.0",
+    "created": "2026-02-15",
+    "updated": "2026-02-15"
   },
   "questions": [
     {
       "id": "gk_001",
-      "question": "What is the largest planet in our solar system?",
+      "question": "What is the capital of France?",
       "answers": [
-        {"text": "Jupiter", "correct": true},
-        {"text": "Saturn", "correct": false},
-        {"text": "Neptune", "correct": false},
-        {"text": "Pluto (pre-2006 classification)", "correct": false, "absurd": true}
+        {"text": "Paris", "correct": true},
+        {"text": "Lyon", "correct": false},
+        {"text": "Marseille", "correct": false},
+        {"text": "Bordeaux", "correct": false},
+        {"text": "Paris, Texas", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -31,583 +32,632 @@
         {"text": "7", "correct": true},
         {"text": "6", "correct": false},
         {"text": "8", "correct": false},
-        {"text": "5 (combining Eurasia)", "correct": false, "absurd": true}
+        {"text": "5", "correct": false},
+        {"text": "7-Eleven", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_003",
-      "question": "What is the capital of France?",
+      "question": "What is the largest planet in our solar system?",
       "answers": [
-        {"text": "Paris", "correct": true},
-        {"text": "Lyon", "correct": false},
-        {"text": "Marseille", "correct": false},
-        {"text": "Paris, Texas", "correct": false, "absurd": true}
+        {"text": "Jupiter", "correct": true},
+        {"text": "Saturn", "correct": false},
+        {"text": "Neptune", "correct": false},
+        {"text": "Uranus", "correct": false},
+        {"text": "Jupiter, Florida", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_004",
-      "question": "Which gas do plants absorb from the atmosphere?",
+      "question": "What is the chemical formula for water?",
       "answers": [
-        {"text": "Carbon dioxide", "correct": true},
-        {"text": "Oxygen", "correct": false},
-        {"text": "Nitrogen", "correct": false},
-        {"text": "Helium", "correct": false, "absurd": true}
+        {"text": "H₂O", "correct": true},
+        {"text": "CO₂", "correct": false},
+        {"text": "O₂", "correct": false},
+        {"text": "H₂O₂", "correct": false},
+        {"text": "H₂OMG", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_005",
-      "question": "How many strings does a standard guitar have?",
+      "question": "Who painted the Mona Lisa?",
       "answers": [
-        {"text": "6", "correct": true},
-        {"text": "5", "correct": false},
-        {"text": "7", "correct": false},
-        {"text": "12 (double-course model)", "correct": false, "absurd": true}
+        {"text": "Leonardo da Vinci", "correct": true},
+        {"text": "Michelangelo", "correct": false},
+        {"text": "Raphael", "correct": false},
+        {"text": "Donatello", "correct": false},
+        {"text": "Leonardo di Caprio", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_006",
-      "question": "What is the freezing point of water in Celsius?",
+      "question": "What is the powerhouse of the cell?",
       "answers": [
-        {"text": "0°C", "correct": true},
-        {"text": "32°C", "correct": false},
-        {"text": "-10°C", "correct": false},
-        {"text": "32°C (Fahrenheit confusion)", "correct": false, "absurd": true}
+        {"text": "Mitochondria", "correct": true},
+        {"text": "Nucleus", "correct": false},
+        {"text": "Ribosome", "correct": false},
+        {"text": "Chloroplast", "correct": false},
+        {"text": "Mighty-chondria", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_007",
-      "question": "Which planet is known as the Red Planet?",
+      "question": "How many days are in a leap year?",
       "answers": [
-        {"text": "Mars", "correct": true},
-        {"text": "Venus", "correct": false},
-        {"text": "Mercury", "correct": false},
-        {"text": "Jupiter (during red spot season)", "correct": false, "absurd": true}
+        {"text": "366", "correct": true},
+        {"text": "365", "correct": false},
+        {"text": "367", "correct": false},
+        {"text": "364", "correct": false},
+        {"text": "365.25", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_008",
-      "question": "How many sides does a hexagon have?",
+      "question": "What is the largest ocean on Earth?",
       "answers": [
-        {"text": "6", "correct": true},
-        {"text": "5", "correct": false},
-        {"text": "8", "correct": false},
-        {"text": "7 (including the base)", "correct": false, "absurd": true}
+        {"text": "Pacific Ocean", "correct": true},
+        {"text": "Atlantic Ocean", "correct": false},
+        {"text": "Indian Ocean", "correct": false},
+        {"text": "Arctic Ocean", "correct": false},
+        {"text": "Specific Ocean", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_009",
-      "question": "What is the largest ocean on Earth?",
+      "question": "Who invented the telephone?",
       "answers": [
-        {"text": "Pacific Ocean", "correct": true},
-        {"text": "Atlantic Ocean", "correct": false},
-        {"text": "Indian Ocean", "correct": false},
-        {"text": "The Specific Ocean", "correct": false, "absurd": true}
+        {"text": "Alexander Graham Bell", "correct": true},
+        {"text": "Thomas Edison", "correct": false},
+        {"text": "Nikola Tesla", "correct": false},
+        {"text": "Guglielmo Marconi", "correct": false},
+        {"text": "Alexander Graham Cracker", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_010",
-      "question": "Who wrote 'Romeo and Juliet'?",
+      "question": "What is the largest organ in the human body?",
       "answers": [
-        {"text": "William Shakespeare", "correct": true},
-        {"text": "Charles Dickens", "correct": false},
-        {"text": "Jane Austen", "correct": false},
-        {"text": "Christopher Marlowe", "correct": false, "absurd": true}
+        {"text": "Skin", "correct": true},
+        {"text": "Liver", "correct": false},
+        {"text": "Brain", "correct": false},
+        {"text": "Heart", "correct": false},
+        {"text": "The ego", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_011",
-      "question": "What is the speed of light (approximately)?",
+      "question": "How many colors are in a rainbow?",
       "answers": [
-        {"text": "300,000 km/s", "correct": true},
-        {"text": "150,000 km/s", "correct": false},
-        {"text": "500,000 km/s", "correct": false},
-        {"text": "299,792 km/s (technically correct)", "correct": false, "absurd": true}
+        {"text": "7", "correct": true},
+        {"text": "6", "correct": false},
+        {"text": "8", "correct": false},
+        {"text": "5", "correct": false},
+        {"text": "50 Shades", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_012",
-      "question": "What is the smallest country in the world by area?",
+      "question": "What is the capital of Japan?",
       "answers": [
-        {"text": "Vatican City", "correct": true},
-        {"text": "Monaco", "correct": false},
-        {"text": "San Marino", "correct": false},
-        {"text": "Sealand", "correct": false, "absurd": true}
+        {"text": "Tokyo", "correct": true},
+        {"text": "Osaka", "correct": false},
+        {"text": "Kyoto", "correct": false},
+        {"text": "Hiroshima", "correct": false},
+        {"text": "Tokyo Drift", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_013",
-      "question": "How many teeth does an adult human typically have?",
+      "question": "What is the freezing point of water in Celsius?",
       "answers": [
-        {"text": "32", "correct": true},
-        {"text": "28", "correct": false},
-        {"text": "36", "correct": false},
-        {"text": "28 (excluding wisdom teeth)", "correct": false, "absurd": true}
+        {"text": "0°C", "correct": true},
+        {"text": "32°C", "correct": false},
+        {"text": "100°C", "correct": false},
+        {"text": "-32°C", "correct": false},
+        {"text": "Ice cold", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_014",
-      "question": "What is the boiling point of water at sea level in Celsius?",
+      "question": "Which planet is known as the Red Planet?",
       "answers": [
-        {"text": "100°C", "correct": true},
-        {"text": "90°C", "correct": false},
-        {"text": "110°C", "correct": false},
-        {"text": "212°C (Fahrenheit equivalent)", "correct": false, "absurd": true}
+        {"text": "Mars", "correct": true},
+        {"text": "Venus", "correct": false},
+        {"text": "Jupiter", "correct": false},
+        {"text": "Mercury", "correct": false},
+        {"text": "Mars Bar", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_015",
-      "question": "Which animal is the tallest in the world?",
+      "question": "What gas do plants absorb from the atmosphere?",
       "answers": [
-        {"text": "Giraffe", "correct": true},
-        {"text": "Elephant", "correct": false},
-        {"text": "Ostrich", "correct": false},
-        {"text": "African elephant (standing)", "correct": false, "absurd": true}
+        {"text": "Carbon dioxide", "correct": true},
+        {"text": "Oxygen", "correct": false},
+        {"text": "Nitrogen", "correct": false},
+        {"text": "Hydrogen", "correct": false},
+        {"text": "Carbonated dioxide", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_016",
-      "question": "What is the largest desert in the world?",
+      "question": "How many legs does a spider have?",
       "answers": [
-        {"text": "Antarctica", "correct": true},
-        {"text": "Sahara", "correct": false},
-        {"text": "Arabian Desert", "correct": false},
-        {"text": "Sahara (largest hot desert)", "correct": false, "absurd": true}
+        {"text": "8", "correct": true},
+        {"text": "6", "correct": false},
+        {"text": "10", "correct": false},
+        {"text": "12", "correct": false},
+        {"text": "Too many", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_017",
-      "question": "How many colors are there in a rainbow?",
+      "question": "What is the speed of light approximately?",
       "answers": [
-        {"text": "7", "correct": true},
-        {"text": "6", "correct": false},
-        {"text": "8", "correct": false},
-        {"text": "6 (Newton's original spectrum)", "correct": false, "absurd": true}
+        {"text": "300,000 km/s", "correct": true},
+        {"text": "150,000 km/s", "correct": false},
+        {"text": "500,000 km/s", "correct": false},
+        {"text": "1,000,000 km/s", "correct": false},
+        {"text": "Light speed", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_018",
-      "question": "What is the chemical symbol for gold?",
+      "question": "What is the smallest country in the world?",
       "answers": [
-        {"text": "Au", "correct": true},
-        {"text": "Go", "correct": false},
-        {"text": "Gd", "correct": false},
-        {"text": "Au₂ (auric compound)", "correct": false, "absurd": true}
+        {"text": "Vatican City", "correct": true},
+        {"text": "Monaco", "correct": false},
+        {"text": "San Marino", "correct": false},
+        {"text": "Liechtenstein", "correct": false},
+        {"text": "My apartment", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_019",
-      "question": "How many days are in a leap year?",
+      "question": "How many bones are in the adult human body?",
       "answers": [
-        {"text": "366", "correct": true},
-        {"text": "365", "correct": false},
-        {"text": "364", "correct": false},
-        {"text": "365.25 (average)", "correct": false, "absurd": true}
+        {"text": "206", "correct": true},
+        {"text": "195", "correct": false},
+        {"text": "215", "correct": false},
+        {"text": "220", "correct": false},
+        {"text": "207 after breakfast", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_020",
-      "question": "What is the largest land animal?",
+      "question": "What is the largest mammal in the world?",
       "answers": [
-        {"text": "African elephant", "correct": true},
+        {"text": "Blue whale", "correct": true},
+        {"text": "African elephant", "correct": false},
+        {"text": "Giraffe", "correct": false},
         {"text": "Hippopotamus", "correct": false},
-        {"text": "White rhinoceros", "correct": false},
-        {"text": "Blue whale (when beached)", "correct": false, "absurd": true}
+        {"text": "Blue-ish whale", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
     },
     {
       "id": "gk_021",
-      "question": "In which year did the Titanic sink?",
+      "question": "Who painted 'Guernica', depicting the bombing of a Spanish town?",
       "answers": [
-        {"text": "1912", "correct": true},
-        {"text": "1905", "correct": false},
-        {"text": "1920", "correct": false},
-        {"text": "1912 (same year it launched)", "correct": false, "absurd": true}
+        {"text": "Pablo Picasso", "correct": true},
+        {"text": "Salvador Dali", "correct": false},
+        {"text": "Joan Miro", "correct": false},
+        {"text": "Francisco Goya", "correct": false},
+        {"text": "Pablo Escobar", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_022",
-      "question": "What is the smallest bone in the human body?",
+      "question": "What is the medical term for the collarbone?",
       "answers": [
-        {"text": "Stapes (in the ear)", "correct": true},
-        {"text": "Phalanx", "correct": false},
-        {"text": "Coccyx", "correct": false},
-        {"text": "Stirrup bone (alternate name)", "correct": false, "absurd": true}
+        {"text": "Clavicle", "correct": true},
+        {"text": "Scapula", "correct": false},
+        {"text": "Sternum", "correct": false},
+        {"text": "Humerus", "correct": false},
+        {"text": "Collarbonium", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_023",
-      "question": "Which country has the most official languages?",
+      "question": "Which artist is famous for cutting off part of his own ear?",
       "answers": [
-        {"text": "South Africa (11)", "correct": true},
-        {"text": "India", "correct": false},
-        {"text": "Switzerland", "correct": false},
-        {"text": "Papua New Guinea (850+ spoken)", "correct": false, "absurd": true}
+        {"text": "Vincent van Gogh", "correct": true},
+        {"text": "Paul Gauguin", "correct": false},
+        {"text": "Edvard Munch", "correct": false},
+        {"text": "Henri de Toulouse-Lautrec", "correct": false},
+        {"text": "Mike Tyson", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_024",
-      "question": "What is the hardest natural substance on Earth?",
+      "question": "What art movement is Salvador Dali associated with?",
       "answers": [
-        {"text": "Diamond", "correct": true},
-        {"text": "Tungsten", "correct": false},
-        {"text": "Titanium", "correct": false},
-        {"text": "Tungsten carbide (composite)", "correct": false, "absurd": true}
+        {"text": "Surrealism", "correct": true},
+        {"text": "Cubism", "correct": false},
+        {"text": "Impressionism", "correct": false},
+        {"text": "Expressionism", "correct": false},
+        {"text": "Meltyism", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_025",
-      "question": "How many bones are in the adult human body?",
-      "answers": [
-        {"text": "206", "correct": true},
-        {"text": "186", "correct": false},
-        {"text": "226", "correct": false},
-        {"text": "270 (infant count)", "correct": false, "absurd": true}
-      ],
-      "difficulty": "medium",
-      "category": "General Knowledge"
-    },
-    {
-      "id": "gk_026",
-      "question": "What is the longest river in the world?",
-      "answers": [
-        {"text": "Nile River", "correct": true},
-        {"text": "Amazon River", "correct": false},
-        {"text": "Yangtze River", "correct": false},
-        {"text": "Amazon (with tributaries)", "correct": false, "absurd": true}
-      ],
-      "difficulty": "medium",
-      "category": "General Knowledge"
-    },
-    {
-      "id": "gk_027",
-      "question": "What is the rarest blood type?",
+      "question": "What is the rarest blood type in humans?",
       "answers": [
         {"text": "AB negative", "correct": true},
         {"text": "O negative", "correct": false},
         {"text": "B negative", "correct": false},
+        {"text": "A negative", "correct": false},
         {"text": "Type O-verrated", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
-      "id": "gk_028",
-      "question": "In which year did World War II end?",
+      "id": "gk_026",
+      "question": "Which composer became deaf later in life but continued composing?",
       "answers": [
-        {"text": "1945", "correct": true},
-        {"text": "1944", "correct": false},
-        {"text": "1946", "correct": false},
-        {"text": "1946 (peace treaties)", "correct": false, "absurd": true}
+        {"text": "Ludwig van Beethoven", "correct": true},
+        {"text": "Wolfgang Amadeus Mozart", "correct": false},
+        {"text": "Johann Sebastian Bach", "correct": false},
+        {"text": "Franz Schubert", "correct": false},
+        {"text": "Ludwig van Beep-hoven", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_027",
+      "question": "What is the longest river in the world?",
+      "answers": [
+        {"text": "Nile River", "correct": true},
+        {"text": "Amazon River", "correct": false},
+        {"text": "Yangtze River", "correct": false},
+        {"text": "Mississippi River", "correct": false},
+        {"text": "De-Nile River", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_028",
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "answers": [
+        {"text": "William Shakespeare", "correct": true},
+        {"text": "Christopher Marlowe", "correct": false},
+        {"text": "Ben Jonson", "correct": false},
+        {"text": "John Webster", "correct": false},
+        {"text": "William Shakes-spear", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_029",
-      "question": "What is the smallest planet in our solar system?",
+      "question": "What is the hardest natural substance on Earth?",
       "answers": [
-        {"text": "Mercury", "correct": true},
-        {"text": "Mars", "correct": false},
-        {"text": "Venus", "correct": false},
-        {"text": "Pluto (pre-reclassification)", "correct": false, "absurd": true}
+        {"text": "Diamond", "correct": true},
+        {"text": "Graphene", "correct": false},
+        {"text": "Titanium", "correct": false},
+        {"text": "Tungsten", "correct": false},
+        {"text": "Diamondback", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_030",
-      "question": "How many time zones does Russia have?",
+      "question": "In what year did World War II end?",
       "answers": [
-        {"text": "11", "correct": true},
-        {"text": "8", "correct": false},
-        {"text": "9", "correct": false},
-        {"text": "12 (including maritime)", "correct": false, "absurd": true}
+        {"text": "1945", "correct": true},
+        {"text": "1944", "correct": false},
+        {"text": "1946", "correct": false},
+        {"text": "1943", "correct": false},
+        {"text": "1945-ish", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_031",
-      "question": "What is the most spoken language in the world by number of native speakers?",
+      "question": "What is the chemical symbol for gold?",
       "answers": [
-        {"text": "Mandarin Chinese", "correct": true},
-        {"text": "English", "correct": false},
-        {"text": "Spanish", "correct": false},
-        {"text": "Chinese (all dialects)", "correct": false, "absurd": true}
+        {"text": "Au", "correct": true},
+        {"text": "Ag", "correct": false},
+        {"text": "Go", "correct": false},
+        {"text": "Gd", "correct": false},
+        {"text": "AU-some", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_032",
-      "question": "What percentage of the Earth's surface is covered by water?",
+      "question": "Which country is home to the kangaroo?",
       "answers": [
-        {"text": "71%", "correct": true},
-        {"text": "65%", "correct": false},
-        {"text": "80%", "correct": false},
-        {"text": "75% (rounded)", "correct": false, "absurd": true}
+        {"text": "Australia", "correct": true},
+        {"text": "New Zealand", "correct": false},
+        {"text": "Papua New Guinea", "correct": false},
+        {"text": "Indonesia", "correct": false},
+        {"text": "Austria", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_033",
-      "question": "What is the capital of Australia?",
+      "question": "What is the most widely spoken language in the world by total speakers?",
       "answers": [
-        {"text": "Canberra", "correct": true},
-        {"text": "Sydney", "correct": false},
-        {"text": "Melbourne", "correct": false},
-        {"text": "Sydney (cultural capital)", "correct": false, "absurd": true}
+        {"text": "English", "correct": true},
+        {"text": "Mandarin Chinese", "correct": false},
+        {"text": "Spanish", "correct": false},
+        {"text": "Hindi", "correct": false},
+        {"text": "Emoji", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_034",
-      "question": "How many hearts does an octopus have?",
+      "question": "Who developed the theory of relativity?",
       "answers": [
-        {"text": "3", "correct": true},
-        {"text": "2", "correct": false},
-        {"text": "1", "correct": false},
-        {"text": "8 (one per arm)", "correct": false, "absurd": true}
+        {"text": "Albert Einstein", "correct": true},
+        {"text": "Isaac Newton", "correct": false},
+        {"text": "Niels Bohr", "correct": false},
+        {"text": "Stephen Hawking", "correct": false},
+        {"text": "Albert Ein-stein", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_035",
-      "question": "What is the most abundant gas in Earth's atmosphere?",
+      "question": "What is the largest desert in the world?",
       "answers": [
-        {"text": "Nitrogen", "correct": true},
-        {"text": "Oxygen", "correct": false},
-        {"text": "Carbon dioxide", "correct": false},
-        {"text": "Air", "correct": false, "absurd": true}
+        {"text": "Antarctic Desert", "correct": true},
+        {"text": "Sahara Desert", "correct": false},
+        {"text": "Arabian Desert", "correct": false},
+        {"text": "Gobi Desert", "correct": false},
+        {"text": "Dessert menu", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_036",
-      "question": "In which century was the printing press invented?",
+      "question": "How many teeth does an adult human typically have?",
       "answers": [
-        {"text": "15th century", "correct": true},
-        {"text": "14th century", "correct": false},
-        {"text": "16th century", "correct": false},
-        {"text": "13th century (woodblock)", "correct": false, "absurd": true}
+        {"text": "32", "correct": true},
+        {"text": "28", "correct": false},
+        {"text": "30", "correct": false},
+        {"text": "36", "correct": false},
+        {"text": "32-bit", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_037",
-      "question": "What is the largest internal organ in the human body?",
+      "question": "What is the tallest mountain in the world?",
       "answers": [
-        {"text": "Liver", "correct": true},
-        {"text": "Brain", "correct": false},
-        {"text": "Lung", "correct": false},
-        {"text": "Skin (if counted as internal)", "correct": false, "absurd": true}
+        {"text": "Mount Everest", "correct": true},
+        {"text": "K2", "correct": false},
+        {"text": "Kangchenjunga", "correct": false},
+        {"text": "Lhotse", "correct": false},
+        {"text": "Mount Ever-rest", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_038",
-      "question": "How many elements are in the periodic table?",
+      "question": "Who was the first person to walk on the Moon?",
       "answers": [
-        {"text": "118", "correct": true},
-        {"text": "103", "correct": false},
-        {"text": "92", "correct": false},
-        {"text": "92 (naturally occurring)", "correct": false, "absurd": true}
+        {"text": "Neil Armstrong", "correct": true},
+        {"text": "Buzz Aldrin", "correct": false},
+        {"text": "Michael Collins", "correct": false},
+        {"text": "Yuri Gagarin", "correct": false},
+        {"text": "Neil Armweak", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_039",
-      "question": "What is the deepest point in the ocean?",
+      "question": "What type of pastry is used to make a croissant?",
       "answers": [
-        {"text": "Mariana Trench", "correct": true},
-        {"text": "Puerto Rico Trench", "correct": false},
-        {"text": "Java Trench", "correct": false},
-        {"text": "Challenger Deep (same location)", "correct": false, "absurd": true}
+        {"text": "Puff pastry", "correct": true},
+        {"text": "Phyllo dough", "correct": false},
+        {"text": "Shortcrust pastry", "correct": false},
+        {"text": "Choux pastry", "correct": false},
+        {"text": "Crescent roll from a can", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_040",
-      "question": "Which country has the longest coastline in the world?",
+      "question": "What is the smallest bone in the human body?",
       "answers": [
-        {"text": "Canada", "correct": true},
-        {"text": "Indonesia", "correct": false},
-        {"text": "Russia", "correct": false},
-        {"text": "Norway (including fjords)", "correct": false, "absurd": true}
+        {"text": "Stapes", "correct": true},
+        {"text": "Incus", "correct": false},
+        {"text": "Malleus", "correct": false},
+        {"text": "Phalanx", "correct": false},
+        {"text": "Staplesium", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
     },
     {
       "id": "gk_041",
-      "question": "What is the chemical symbol for tungsten?",
+      "question": "What is the Planck constant approximately equal to?",
       "answers": [
-        {"text": "W", "correct": true},
-        {"text": "Tu", "correct": false},
-        {"text": "Tn", "correct": false},
-        {"text": "Wt", "correct": false, "absurd": true}
+        {"text": "6.626 × 10⁻³⁴ J·s", "correct": true},
+        {"text": "3.14 × 10⁻³⁴ J·s", "correct": false},
+        {"text": "9.81 × 10⁻³⁴ J·s", "correct": false},
+        {"text": "1.602 × 10⁻³⁴ J·s", "correct": false},
+        {"text": "6.626 × 10⁻³⁴ J·LOL", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
     },
     {
       "id": "gk_042",
-      "question": "What is the oldest continuously inhabited city in the world?",
+      "question": "Who wrote 'The Divine Comedy'?",
       "answers": [
-        {"text": "Damascus", "correct": true},
-        {"text": "Jerusalem", "correct": false},
-        {"text": "Athens", "correct": false},
-        {"text": "Jericho", "correct": false, "absurd": true}
+        {"text": "Dante Alighieri", "correct": true},
+        {"text": "Giovanni Boccaccio", "correct": false},
+        {"text": "Petrarch", "correct": false},
+        {"text": "Geoffrey Chaucer", "correct": false},
+        {"text": "Dante's Inferno-net Café", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
     },
     {
       "id": "gk_043",
-      "question": "What is the gestation period of an African elephant?",
+      "question": "What is the Avogadro constant approximately?",
       "answers": [
-        {"text": "22 months", "correct": true},
-        {"text": "15 months", "correct": false},
-        {"text": "18 months", "correct": false},
-        {"text": "24 months (rounded)", "correct": false, "absurd": true}
+        {"text": "6.022 × 10²³ mol⁻¹", "correct": true},
+        {"text": "3.14 × 10²³ mol⁻¹", "correct": false},
+        {"text": "9.81 × 10²³ mol⁻¹", "correct": false},
+        {"text": "2.718 × 10²³ mol⁻¹", "correct": false},
+        {"text": "A-voca-dro's number", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
     },
     {
       "id": "gk_044",
-      "question": "What is the brightest star in the night sky?",
+      "question": "In which battle did Napoleon Bonaparte suffer his final defeat?",
       "answers": [
-        {"text": "Sirius", "correct": true},
-        {"text": "Betelgeuse", "correct": false},
-        {"text": "Rigel", "correct": false},
-        {"text": "Polaris (North Star)", "correct": false, "absurd": true}
+        {"text": "Battle of Waterloo", "correct": true},
+        {"text": "Battle of Leipzig", "correct": false},
+        {"text": "Battle of Austerlitz", "correct": false},
+        {"text": "Battle of Borodino", "correct": false},
+        {"text": "Battle of Water-loo break", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
     },
     {
       "id": "gk_045",
-      "question": "How many countries share a land border with Germany?",
+      "question": "What is the name of the philosophical razor attributed to William of Ockham?",
       "answers": [
-        {"text": "9", "correct": true},
-        {"text": "7", "correct": false},
-        {"text": "8", "correct": false},
-        {"text": "10 (including maritime)", "correct": false, "absurd": true}
+        {"text": "Occam's Razor", "correct": true},
+        {"text": "Hanlon's Razor", "correct": false},
+        {"text": "Hitchens's Razor", "correct": false},
+        {"text": "Alder's Razor", "correct": false},
+        {"text": "Gillette's Razor", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
     },
     {
       "id": "gk_046",
-      "question": "What is the most common element in the universe?",
+      "question": "What is the half-life of Carbon-14, used in radiocarbon dating?",
       "answers": [
-        {"text": "Hydrogen", "correct": true},
-        {"text": "Helium", "correct": false},
-        {"text": "Carbon", "correct": false},
-        {"text": "Dark matter (if counted)", "correct": false, "absurd": true}
+        {"text": "5,730 years", "correct": true},
+        {"text": "4,500 years", "correct": false},
+        {"text": "10,000 years", "correct": false},
+        {"text": "2,500 years", "correct": false},
+        {"text": "Half past 14", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
     },
     {
       "id": "gk_047",
-      "question": "In what year was the first successful human heart transplant performed?",
+      "question": "Who formulated the laws of planetary motion?",
       "answers": [
-        {"text": "1967", "correct": true},
-        {"text": "1960", "correct": false},
-        {"text": "1975", "correct": false},
-        {"text": "1968 (first long-term survival)", "correct": false, "absurd": true}
+        {"text": "Johannes Kepler", "correct": true},
+        {"text": "Galileo Galilei", "correct": false},
+        {"text": "Tycho Brahe", "correct": false},
+        {"text": "Nicolaus Copernicus", "correct": false},
+        {"text": "Johannes Keep-ler", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
     },
     {
       "id": "gk_048",
-      "question": "What is the only metal that is liquid at room temperature?",
+      "question": "What is the philosophical thought experiment involving a ship whose parts are gradually replaced?",
       "answers": [
-        {"text": "Mercury", "correct": true},
-        {"text": "Gallium", "correct": false},
-        {"text": "Cesium", "correct": false},
-        {"text": "Mercury retrograde", "correct": false, "absurd": true}
+        {"text": "Ship of Theseus", "correct": true},
+        {"text": "Schrodinger's Cat", "correct": false},
+        {"text": "Trolley Problem", "correct": false},
+        {"text": "Chinese Room", "correct": false},
+        {"text": "Ship of These-nuts", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
     },
     {
       "id": "gk_049",
-      "question": "How many plays did William Shakespeare write?",
+      "question": "What is the name of the paradox where adding a road can increase traffic?",
       "answers": [
-        {"text": "37", "correct": true},
-        {"text": "42", "correct": false},
-        {"text": "33", "correct": false},
-        {"text": "38 (including disputed works)", "correct": false, "absurd": true}
+        {"text": "Braess's Paradox", "correct": true},
+        {"text": "Jevons Paradox", "correct": false},
+        {"text": "Simpson's Paradox", "correct": false},
+        {"text": "Condorcet Paradox", "correct": false},
+        {"text": "Traffic's Paradox", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
     },
     {
       "id": "gk_050",
-      "question": "What is the Mohs hardness of diamond?",
+      "question": "Who discovered penicillin in 1928?",
       "answers": [
-        {"text": "10", "correct": true},
-        {"text": "9", "correct": false},
-        {"text": "8", "correct": false},
-        {"text": "11 (when perfectly cut)", "correct": false, "absurd": true}
+        {"text": "Alexander Fleming", "correct": true},
+        {"text": "Louis Pasteur", "correct": false},
+        {"text": "Robert Koch", "correct": false},
+        {"text": "Joseph Lister", "correct": false},
+        {"text": "Alexander Flem-ing hot", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"

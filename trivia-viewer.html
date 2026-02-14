@@ -196,18 +196,6 @@
             transition: all 0.3s;
         }
 
-        .answer-correct {
-            background: #d4edda;
-            border-color: #28a745;
-            font-weight: 600;
-        }
-
-        .answer-correct::before {
-            content: "✓ ";
-            color: #28a745;
-            font-weight: bold;
-        }
-
 
         .no-results {
             text-align: center;
@@ -403,7 +391,7 @@
                                 <div class="question-text">${q.question}</div>
                                 <ul class="answers-list">
                                     ${q.answers.map(a => `
-                                        <li class="answer-item ${a.correct ? 'answer-correct' : ''}">
+                                        <li class="answer-item">
                                             ${a.text}
                                         </li>
                                     `).join('')}
