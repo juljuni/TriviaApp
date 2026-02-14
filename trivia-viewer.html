@@ -262,39 +262,25 @@
     </div>
 
     <script>
-        const questionFiles = [
-            'animals.json', 'art.json', 'biology.json', 'chemistry.json',
-            'food.json', 'geography.json', 'history.json', 'human-body.json',
-            'inventions.json', 'languages.json', 'literature.json', 'mathematics.json',
-            'movies.json', 'music.json', 'mythology.json', 'physics.json',
-            'space.json', 'sports.json', 'technology.json', 'world-records.json'
-        ];
-
         let allQuestions = [];
         let categories = new Set();
 
         async function loadQuestions() {
-            const promises = questionFiles.map(file =>
-                fetch(`content/questions/${file}`)
-                    .then(res => res.json())
-                    .catch(err => {
-                        console.error(`Failed to load ${file}:`, err);
-                        return null;
-                    })
-            );
+            try {
+                const response = await fetch('content/questions/general-knowledge.json');
+                const data = await response.json();
 
-            const results = await Promise.all(promises);
-
-            results.forEach(data => {
                 if (data && data.questions) {
                     allQuestions.push(data);
                     categories.add(data.category);
                 }
-            });
 
-            populateCategoryFilter();
-            updateStats();
-            renderQuestions();
+                populateCategoryFilter();
+                updateStats();
+                renderQuestions();
+            } catch (err) {
+                console.error('Failed to load questions:', err);
+            }
         }
 
         function populateCategoryFilter() {
