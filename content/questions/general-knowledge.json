@@ -1,13 +1,13 @@
 {
   "category": "General Knowledge",
   "metadata": {
-    "totalQuestions": 70,
+    "totalQuestions": 90,
     "difficulty": {
-      "easy": 30,
-      "medium": 27,
-      "hard": 13
+      "easy": 40,
+      "medium": 34,
+      "hard": 16
     },
-    "version": "4.0",
+    "version": "5.0",
     "created": "2026-02-15",
     "updated": "2026-02-15"
   },
@@ -918,6 +918,266 @@
         {"text": "Dorothy Hodgkin", "correct": false},
         {"text": "Barbara McClintock", "correct": false},
         {"text": "Marie Callender", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_071",
+      "question": "Who played Iron Man in the Marvel Cinematic Universe?",
+      "answers": [
+        {"text": "Robert Downey Jr.", "correct": true},
+        {"text": "Chris Evans", "correct": false},
+        {"text": "Mark Ruffalo", "correct": false},
+        {"text": "Chris Hemsworth", "correct": false},
+        {"text": "Tony Stark", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_072",
+      "question": "What social media platform uses a bird as its logo?",
+      "answers": [
+        {"text": "Twitter", "correct": true},
+        {"text": "Facebook", "correct": false},
+        {"text": "Instagram", "correct": false},
+        {"text": "TikTok", "correct": false},
+        {"text": "Tweeter", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_073",
+      "question": "Which video game features a plumber named Mario?",
+      "answers": [
+        {"text": "Super Mario Bros.", "correct": true},
+        {"text": "Sonic the Hedgehog", "correct": false},
+        {"text": "Donkey Kong Country", "correct": false},
+        {"text": "Zelda", "correct": false},
+        {"text": "Super Plumber Bros.", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_074",
+      "question": "What streaming service is known for its original series like Stranger Things?",
+      "answers": [
+        {"text": "Netflix", "correct": true},
+        {"text": "Hulu", "correct": false},
+        {"text": "Disney+", "correct": false},
+        {"text": "HBO Max", "correct": false},
+        {"text": "Netflicks", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_075",
+      "question": "Who sang the hit song 'Thriller'?",
+      "answers": [
+        {"text": "Michael Jackson", "correct": true},
+        {"text": "Prince", "correct": false},
+        {"text": "Elvis Presley", "correct": false},
+        {"text": "James Brown", "correct": false},
+        {"text": "Michael Jordan", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_076",
+      "question": "What movie features the quote 'May the Force be with you'?",
+      "answers": [
+        {"text": "Star Wars", "correct": true},
+        {"text": "Star Trek", "correct": false},
+        {"text": "Guardians of the Galaxy", "correct": false},
+        {"text": "Avatar", "correct": false},
+        {"text": "Star Warts", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_077",
+      "question": "Which pop star is known as the 'Queen of Pop'?",
+      "answers": [
+        {"text": "Madonna", "correct": true},
+        {"text": "Beyoncé", "correct": false},
+        {"text": "Lady Gaga", "correct": false},
+        {"text": "Britney Spears", "correct": false},
+        {"text": "Queen Latifah", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_078",
+      "question": "What TV show features characters named Ross, Rachel, and Monica?",
+      "answers": [
+        {"text": "Friends", "correct": true},
+        {"text": "Seinfeld", "correct": false},
+        {"text": "How I Met Your Mother", "correct": false},
+        {"text": "The Office", "correct": false},
+        {"text": "Enemies", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_079",
+      "question": "Which company makes the iPhone?",
+      "answers": [
+        {"text": "Apple", "correct": true},
+        {"text": "Samsung", "correct": false},
+        {"text": "Google", "correct": false},
+        {"text": "Microsoft", "correct": false},
+        {"text": "Pineapple", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_080",
+      "question": "What Disney movie features the song 'Let It Go'?",
+      "answers": [
+        {"text": "Frozen", "correct": true},
+        {"text": "Moana", "correct": false},
+        {"text": "Tangled", "correct": false},
+        {"text": "Brave", "correct": false},
+        {"text": "Defrosted", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_081",
+      "question": "Which British band released the album 'Abbey Road'?",
+      "answers": [
+        {"text": "The Beatles", "correct": true},
+        {"text": "The Rolling Stones", "correct": false},
+        {"text": "Led Zeppelin", "correct": false},
+        {"text": "Pink Floyd", "correct": false},
+        {"text": "The Beetles", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_082",
+      "question": "What year did the first iPhone release?",
+      "answers": [
+        {"text": "2007", "correct": true},
+        {"text": "2005", "correct": false},
+        {"text": "2010", "correct": false},
+        {"text": "2003", "correct": false},
+        {"text": "2014", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_083",
+      "question": "Who directed the movie 'Inception'?",
+      "answers": [
+        {"text": "Christopher Nolan", "correct": true},
+        {"text": "Steven Spielberg", "correct": false},
+        {"text": "James Cameron", "correct": false},
+        {"text": "Quentin Tarantino", "correct": false},
+        {"text": "Christopher Columbus", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_084",
+      "question": "What band is Freddie Mercury associated with?",
+      "answers": [
+        {"text": "Queen", "correct": true},
+        {"text": "The Who", "correct": false},
+        {"text": "AC/DC", "correct": false},
+        {"text": "Aerosmith", "correct": false},
+        {"text": "King", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_085",
+      "question": "Which actor played Jack in the movie Titanic?",
+      "answers": [
+        {"text": "Leonardo DiCaprio", "correct": true},
+        {"text": "Brad Pitt", "correct": false},
+        {"text": "Tom Cruise", "correct": false},
+        {"text": "Johnny Depp", "correct": false},
+        {"text": "Leonardo da Vinci", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_086",
+      "question": "What video game franchise features Master Chief?",
+      "answers": [
+        {"text": "Halo", "correct": true},
+        {"text": "Call of Duty", "correct": false},
+        {"text": "Gears of War", "correct": false},
+        {"text": "Destiny", "correct": false},
+        {"text": "Hello", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_087",
+      "question": "Which TV series is set in the fictional town of Hawkins?",
+      "answers": [
+        {"text": "Stranger Things", "correct": true},
+        {"text": "The Walking Dead", "correct": false},
+        {"text": "Twin Peaks", "correct": false},
+        {"text": "Riverdale", "correct": false},
+        {"text": "Stephen Hawkings", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_088",
+      "question": "Who is the lead singer of Coldplay?",
+      "answers": [
+        {"text": "Chris Martin", "correct": true},
+        {"text": "Bono", "correct": false},
+        {"text": "Adam Levine", "correct": false},
+        {"text": "Brandon Flowers", "correct": false},
+        {"text": "Chris Martini", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_089",
+      "question": "What year was YouTube founded?",
+      "answers": [
+        {"text": "2005", "correct": true},
+        {"text": "2008", "correct": false},
+        {"text": "2003", "correct": false},
+        {"text": "2010", "correct": false},
+        {"text": "2015", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_090",
+      "question": "Which film won Best Picture at the 2020 Oscars?",
+      "answers": [
+        {"text": "Parasite", "correct": true},
+        {"text": "1917", "correct": false},
+        {"text": "Joker", "correct": false},
+        {"text": "Once Upon a Time in Hollywood", "correct": false},
+        {"text": "Paradise", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
