@@ -150,7 +150,7 @@
         {"text": "6", "correct": false},
         {"text": "8", "correct": false},
         {"text": "5", "correct": false},
-        {"text": "50 Shades", "correct": false, "absurd": true}
+        {"text": "12", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -215,7 +215,7 @@
         {"text": "6", "correct": false},
         {"text": "10", "correct": false},
         {"text": "12", "correct": false},
-        {"text": "Too many", "correct": false, "absurd": true}
+        {"text": "100", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -254,7 +254,7 @@
         {"text": "195", "correct": false},
         {"text": "215", "correct": false},
         {"text": "220", "correct": false},
-        {"text": "207 after breakfast", "correct": false, "absurd": true}
+        {"text": "412", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -345,7 +345,7 @@
         {"text": "Wolfgang Amadeus Mozart", "correct": false},
         {"text": "Johann Sebastian Bach", "correct": false},
         {"text": "Franz Schubert", "correct": false},
-        {"text": "Ludwig van Beep-hoven", "correct": false, "absurd": true}
+        {"text": "Def Leppard", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -371,7 +371,7 @@
         {"text": "Christopher Marlowe", "correct": false},
         {"text": "Ben Jonson", "correct": false},
         {"text": "John Webster", "correct": false},
-        {"text": "William Shakes-spear", "correct": false, "absurd": true}
+        {"text": "William Shakesman", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -410,7 +410,7 @@
         {"text": "Ag", "correct": false},
         {"text": "Go", "correct": false},
         {"text": "Gd", "correct": false},
-        {"text": "AU-some", "correct": false, "absurd": true}
+        {"text": "Aurum", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -449,7 +449,7 @@
         {"text": "Isaac Newton", "correct": false},
         {"text": "Niels Bohr", "correct": false},
         {"text": "Stephen Hawking", "correct": false},
-        {"text": "Albert Ein-stein", "correct": false, "absurd": true}
+        {"text": "Albert Twostein", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -475,7 +475,7 @@
         {"text": "28", "correct": false},
         {"text": "30", "correct": false},
         {"text": "36", "correct": false},
-        {"text": "32-bit", "correct": false, "absurd": true}
+        {"text": "64", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -488,7 +488,7 @@
         {"text": "K2", "correct": false},
         {"text": "Kangchenjunga", "correct": false},
         {"text": "Lhotse", "correct": false},
-        {"text": "Mount Ever-rest", "correct": false, "absurd": true}
+        {"text": "Mount Neverest", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -501,7 +501,7 @@
         {"text": "Buzz Aldrin", "correct": false},
         {"text": "Michael Collins", "correct": false},
         {"text": "Yuri Gagarin", "correct": false},
-        {"text": "Neil Armweak", "correct": false, "absurd": true}
+        {"text": "Neil Legstrong", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -618,7 +618,7 @@
         {"text": "Galileo Galilei", "correct": false},
         {"text": "Tycho Brahe", "correct": false},
         {"text": "Nicolaus Copernicus", "correct": false},
-        {"text": "Johannes Keep-ler", "correct": false, "absurd": true}
+        {"text": "Johannes Gutenberg", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -657,7 +657,7 @@
         {"text": "Louis Pasteur", "correct": false},
         {"text": "Robert Koch", "correct": false},
         {"text": "Joseph Lister", "correct": false},
-        {"text": "Alexander Flem-ing hot", "correct": false, "absurd": true}
+        {"text": "Alexander Flamingo", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
