@@ -246,7 +246,8 @@
                 return;
             }
 
-            grid.innerHTML = filtered.map(question => {
+            // Reverse to show newest questions first
+            grid.innerHTML = filtered.reverse().map(question => {
                 const correctAnswer = question.answers.find(a => a.correct);
                 const absurdAnswer = question.answers.find(a => a.absurd);
 

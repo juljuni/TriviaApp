@@ -368,7 +368,7 @@
                                 | Version ${categoryData.metadata.version}
                             </div>
                         </div>
-                        ${filteredQuestions.map(q => `
+                        ${filteredQuestions.reverse().map(q => `
                             <div class="question-card">
                                 <div class="question-header">
                                     <span class="question-id">${q.id}</span>

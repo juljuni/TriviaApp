@@ -1,13 +1,13 @@
 {
   "category": "General Knowledge",
   "metadata": {
-    "totalQuestions": 50,
+    "totalQuestions": 70,
     "difficulty": {
-      "easy": 20,
-      "medium": 20,
-      "hard": 10
+      "easy": 30,
+      "medium": 27,
+      "hard": 13
     },
-    "version": "3.0",
+    "version": "4.0",
     "created": "2026-02-15",
     "updated": "2026-02-15"
   },
@@ -658,6 +658,266 @@
         {"text": "Robert Koch", "correct": false},
         {"text": "Joseph Lister", "correct": false},
         {"text": "Alexander Flamingo", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_051",
+      "question": "What is the boiling point of water at sea level in Celsius?",
+      "answers": [
+        {"text": "100°C", "correct": true},
+        {"text": "90°C", "correct": false},
+        {"text": "0°C", "correct": false},
+        {"text": "212°C", "correct": false},
+        {"text": "Hot enough", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_052",
+      "question": "What color is an emerald?",
+      "answers": [
+        {"text": "Green", "correct": true},
+        {"text": "Blue", "correct": false},
+        {"text": "Red", "correct": false},
+        {"text": "Purple", "correct": false},
+        {"text": "Emerald City", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_053",
+      "question": "How many sides does a pentagon have?",
+      "answers": [
+        {"text": "5", "correct": true},
+        {"text": "6", "correct": false},
+        {"text": "4", "correct": false},
+        {"text": "7", "correct": false},
+        {"text": "10", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_054",
+      "question": "What is the largest land animal?",
+      "answers": [
+        {"text": "African elephant", "correct": true},
+        {"text": "Giraffe", "correct": false},
+        {"text": "Hippopotamus", "correct": false},
+        {"text": "Rhinoceros", "correct": false},
+        {"text": "Elephantom", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_055",
+      "question": "What do bees produce?",
+      "answers": [
+        {"text": "Honey", "correct": true},
+        {"text": "Milk", "correct": false},
+        {"text": "Silk", "correct": false},
+        {"text": "Wax only", "correct": false},
+        {"text": "Honeydew melon", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_056",
+      "question": "Which ocean is the smallest?",
+      "answers": [
+        {"text": "Arctic Ocean", "correct": true},
+        {"text": "Indian Ocean", "correct": false},
+        {"text": "Atlantic Ocean", "correct": false},
+        {"text": "Southern Ocean", "correct": false},
+        {"text": "Arctic Monkeys", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_057",
+      "question": "What is the capital of Italy?",
+      "answers": [
+        {"text": "Rome", "correct": true},
+        {"text": "Milan", "correct": false},
+        {"text": "Venice", "correct": false},
+        {"text": "Florence", "correct": false},
+        {"text": "Rome, Georgia", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_058",
+      "question": "How many hours are in a day?",
+      "answers": [
+        {"text": "24", "correct": true},
+        {"text": "12", "correct": false},
+        {"text": "48", "correct": false},
+        {"text": "36", "correct": false},
+        {"text": "25", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_059",
+      "question": "What gas do humans breathe in?",
+      "answers": [
+        {"text": "Oxygen", "correct": true},
+        {"text": "Carbon dioxide", "correct": false},
+        {"text": "Nitrogen", "correct": false},
+        {"text": "Helium", "correct": false},
+        {"text": "Oxymoron", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_060",
+      "question": "Which animal is known as the King of the Jungle?",
+      "answers": [
+        {"text": "Lion", "correct": true},
+        {"text": "Tiger", "correct": false},
+        {"text": "Gorilla", "correct": false},
+        {"text": "Elephant", "correct": false},
+        {"text": "Lion King", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_061",
+      "question": "What is the smallest prime number?",
+      "answers": [
+        {"text": "2", "correct": true},
+        {"text": "1", "correct": false},
+        {"text": "3", "correct": false},
+        {"text": "0", "correct": false},
+        {"text": "Amazon Prime", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_062",
+      "question": "Who wrote '1984'?",
+      "answers": [
+        {"text": "George Orwell", "correct": true},
+        {"text": "Aldous Huxley", "correct": false},
+        {"text": "Ray Bradbury", "correct": false},
+        {"text": "H.G. Wells", "correct": false},
+        {"text": "Van Halen", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_063",
+      "question": "What is the currency of Japan?",
+      "answers": [
+        {"text": "Yen", "correct": true},
+        {"text": "Yuan", "correct": false},
+        {"text": "Won", "correct": false},
+        {"text": "Dollar", "correct": false},
+        {"text": "Yentle", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_064",
+      "question": "How many strings does a standard guitar have?",
+      "answers": [
+        {"text": "6", "correct": true},
+        {"text": "4", "correct": false},
+        {"text": "5", "correct": false},
+        {"text": "7", "correct": false},
+        {"text": "12", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_065",
+      "question": "What is the main ingredient in guacamole?",
+      "answers": [
+        {"text": "Avocado", "correct": true},
+        {"text": "Tomato", "correct": false},
+        {"text": "Onion", "correct": false},
+        {"text": "Lime", "correct": false},
+        {"text": "Guac", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_066",
+      "question": "What year did the Titanic sink?",
+      "answers": [
+        {"text": "1912", "correct": true},
+        {"text": "1905", "correct": false},
+        {"text": "1920", "correct": false},
+        {"text": "1898", "correct": false},
+        {"text": "1997", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_067",
+      "question": "What is the square root of 144?",
+      "answers": [
+        {"text": "12", "correct": true},
+        {"text": "11", "correct": false},
+        {"text": "13", "correct": false},
+        {"text": "14", "correct": false},
+        {"text": "24", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_068",
+      "question": "What is the name of the process by which plants make their food?",
+      "answers": [
+        {"text": "Photosynthesis", "correct": true},
+        {"text": "Respiration", "correct": false},
+        {"text": "Transpiration", "correct": false},
+        {"text": "Fermentation", "correct": false},
+        {"text": "Photofinish", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_069",
+      "question": "What is the smallest unit of life?",
+      "answers": [
+        {"text": "Cell", "correct": true},
+        {"text": "Atom", "correct": false},
+        {"text": "Molecule", "correct": false},
+        {"text": "Tissue", "correct": false},
+        {"text": "Cellphone", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "General Knowledge"
+    },
+    {
+      "id": "gk_070",
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "answers": [
+        {"text": "Marie Curie", "correct": true},
+        {"text": "Rosalind Franklin", "correct": false},
+        {"text": "Dorothy Hodgkin", "correct": false},
+        {"text": "Barbara McClintock", "correct": false},
+        {"text": "Marie Callender", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
