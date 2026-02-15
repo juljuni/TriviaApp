@@ -85,7 +85,7 @@
         {"text": "Nucleus", "correct": false},
         {"text": "Ribosome", "correct": false},
         {"text": "Chloroplast", "correct": false},
-        {"text": "Mighty-chondria", "correct": false, "absurd": true}
+        {"text": "Mightychondria", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -267,7 +267,7 @@
         {"text": "African elephant", "correct": false},
         {"text": "Giraffe", "correct": false},
         {"text": "Hippopotamus", "correct": false},
-        {"text": "Blue-ish whale", "correct": false, "absurd": true}
+        {"text": "Bluewhale", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -332,7 +332,7 @@
         {"text": "O negative", "correct": false},
         {"text": "B negative", "correct": false},
         {"text": "A negative", "correct": false},
-        {"text": "Type O-verrated", "correct": false, "absurd": true}
+        {"text": "Type Overrated", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -358,7 +358,7 @@
         {"text": "Amazon River", "correct": false},
         {"text": "Yangtze River", "correct": false},
         {"text": "Mississippi River", "correct": false},
-        {"text": "De-Nile River", "correct": false, "absurd": true}
+        {"text": "Denial River", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -397,7 +397,7 @@
         {"text": "1944", "correct": false},
         {"text": "1946", "correct": false},
         {"text": "1943", "correct": false},
-        {"text": "1945-ish", "correct": false, "absurd": true}
+        {"text": "1950", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -553,7 +553,7 @@
         {"text": "Giovanni Boccaccio", "correct": false},
         {"text": "Petrarch", "correct": false},
         {"text": "Geoffrey Chaucer", "correct": false},
-        {"text": "Dante's Inferno-net Café", "correct": false, "absurd": true}
+        {"text": "Dante Inferno", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -566,7 +566,7 @@
         {"text": "3.14 × 10²³ mol⁻¹", "correct": false},
         {"text": "9.81 × 10²³ mol⁻¹", "correct": false},
         {"text": "2.718 × 10²³ mol⁻¹", "correct": false},
-        {"text": "A-voca-dro's number", "correct": false, "absurd": true}
+        {"text": "Avocadros number", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -579,7 +579,7 @@
         {"text": "Battle of Leipzig", "correct": false},
         {"text": "Battle of Austerlitz", "correct": false},
         {"text": "Battle of Borodino", "correct": false},
-        {"text": "Battle of Water-loo break", "correct": false, "absurd": true}
+        {"text": "Battle of Waterloo Station", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -631,7 +631,7 @@
         {"text": "Schrodinger's Cat", "correct": false},
         {"text": "Trolley Problem", "correct": false},
         {"text": "Chinese Room", "correct": false},
-        {"text": "Ship of These-nuts", "correct": false, "absurd": true}
+        {"text": "Ship of Thesaurus", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
