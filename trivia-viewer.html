@@ -266,14 +266,24 @@
         let categories = new Set();
 
         async function loadQuestions() {
-            try {
-                const response = await fetch('content/questions/general-knowledge.json');
-                const data = await response.json();
+            const categoryFiles = [
+                'animals', 'art', 'biology', 'food', 'general-knowledge',
+                'geography', 'history', 'human-body', 'inventions', 'languages',
+                'literature', 'mathematics', 'movies', 'music', 'mythology',
+                'physics', 'space', 'technology'
+            ];
 
-                if (data && data.questions) {
-                    allQuestions.push(data);
-                    categories.add(data.category);
-                }
+            try {
+                const loadPromises = categoryFiles.map(async (category) => {
+                    const response = await fetch(`content/questions/${category}.json`);
+                    const data = await response.json();
+                    if (data && data.questions) {
+                        allQuestions.push(data);
+                        categories.add(data.category);
+                    }
+                });
+
+                await Promise.all(loadPromises);
 
                 populateCategoryFilter();
                 updateStats();

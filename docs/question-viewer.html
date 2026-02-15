@@ -203,21 +203,44 @@
 
         // Load questions from JSON
         async function loadQuestions() {
+            const categoryFiles = [
+                'animals', 'art', 'biology', 'food', 'general-knowledge',
+                'geography', 'history', 'human-body', 'inventions', 'languages',
+                'literature', 'mathematics', 'movies', 'music', 'mythology',
+                'physics', 'space', 'technology'
+            ];
+
             try {
-                const response = await fetch('../content/questions/general-knowledge.json');
-                if (!response.ok) {
-                    throw new Error('Failed to load questions');
-                }
-                const data = await response.json();
-                allQuestions = data.questions;
-                updateStats(data.metadata);
+                const loadPromises = categoryFiles.map(async (category) => {
+                    const response = await fetch(`../content/questions/${category}.json`);
+                    if (!response.ok) {
+                        throw new Error(`Failed to load ${category}`);
+                    }
+                    const data = await response.json();
+                    return data.questions;
+                });
+
+                const questionArrays = await Promise.all(loadPromises);
+                allQuestions = questionArrays.flat();
+
+                // Calculate metadata from all questions
+                const metadata = {
+                    totalQuestions: allQuestions.length,
+                    difficulty: {
+                        easy: allQuestions.filter(q => q.difficulty === 'easy').length,
+                        medium: allQuestions.filter(q => q.difficulty === 'medium').length,
+                        hard: allQuestions.filter(q => q.difficulty === 'hard').length
+                    }
+                };
+
+                updateStats(metadata);
                 displayQuestions();
             } catch (error) {
                 document.getElementById('questionsGrid').innerHTML = `
                     <div class="error">
                         <h2>Error Loading Questions</h2>
                         <p>${error.message}</p>
-                        <p>Make sure the file exists at: ../content/questions/general-knowledge.json</p>
+                        <p>Make sure the question files exist in ../content/questions/</p>
                     </div>
                 `;
             }
