@@ -19,7 +19,7 @@
         {"text": "Jane Austen", "correct": true},
         {"text": "Charlotte Brontë", "correct": false},
         {"text": "Emily Brontë", "correct": false},
-        {"text": "Jane Austen Powers (International Woman of Mystery)", "correct": false, "absurd": true}
+        {"text": "Emily Dickinson", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "Literature"
@@ -31,7 +31,7 @@
         {"text": "Harry Potter and the Philosopher's Stone", "correct": true},
         {"text": "Harry Potter and the Chamber of Secrets", "correct": false},
         {"text": "Harry Potter and the Prisoner of Azkaban", "correct": false},
-        {"text": "Harry Potter and the Unreasonably Long Copyright", "correct": false, "absurd": true}
+        {"text": "The Hobbit", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "Literature"

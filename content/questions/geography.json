@@ -19,7 +19,7 @@
         {"text": "Tokyo", "correct": true},
         {"text": "Osaka", "correct": false},
         {"text": "Kyoto", "correct": false},
-        {"text": "Tokyo Drift", "correct": false, "absurd": true}
+        {"text": "Nagasaki", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "Geography"
@@ -31,7 +31,7 @@
         {"text": "Ural Mountains", "correct": true},
         {"text": "Caucasus Mountains", "correct": false},
         {"text": "Alps", "correct": false},
-        {"text": "The Iron Curtain (literally made of iron)", "correct": false, "absurd": true}
+        {"text": "The Great Wall of China", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "Geography"
@@ -43,7 +43,7 @@
         {"text": "Vatican City", "correct": true},
         {"text": "Monaco", "correct": false},
         {"text": "Nauru", "correct": false},
-        {"text": "My apartment (population: me)", "correct": false, "absurd": true}
+        {"text": "Sealand", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "Geography"

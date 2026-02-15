@@ -19,7 +19,7 @@
         {"text": "Avocado", "correct": true},
         {"text": "Tomato", "correct": false},
         {"text": "Lime", "correct": false},
-        {"text": "Advocado (the lawyer fruit)", "correct": false, "absurd": true}
+        {"text": "Advocado", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "Food"

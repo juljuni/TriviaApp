@@ -31,7 +31,7 @@
         {"text": "The Beatles", "correct": true},
         {"text": "The Rolling Stones", "correct": false},
         {"text": "The Who", "correct": false},
-        {"text": "The Beatles (the insects, not the band)", "correct": false, "absurd": true}
+        {"text": "The Monkees", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "Music"

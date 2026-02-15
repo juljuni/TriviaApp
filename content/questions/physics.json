@@ -43,7 +43,7 @@
         {"text": "Absolute zero", "correct": true},
         {"text": "Freezing point", "correct": false},
         {"text": "Critical temperature", "correct": false},
-        {"text": "Absolute zero dark thirty", "correct": false, "absurd": true}
+        {"text": "Room temperature", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "Physics"

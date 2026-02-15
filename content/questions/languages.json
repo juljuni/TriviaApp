@@ -31,7 +31,7 @@
         {"text": "4", "correct": true},
         {"text": "3", "correct": false},
         {"text": "2", "correct": false},
-        {"text": "All of them (it's Switzerland)", "correct": false, "absurd": true}
+        {"text": "26", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "Languages"

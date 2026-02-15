@@ -19,7 +19,7 @@
         {"text": "Cheetah", "correct": true},
         {"text": "Lion", "correct": false},
         {"text": "Gazelle", "correct": false},
-        {"text": "Leopard (spotted edition)", "correct": false, "absurd": true}
+        {"text": "Secretariat", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "Animals"
@@ -103,7 +103,7 @@
         {"text": "22 months", "correct": true},
         {"text": "12 months", "correct": false},
         {"text": "18 months", "correct": false},
-        {"text": "Elephanternity", "correct": false, "absurd": true}
+        {"text": "44 months", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "Animals"
@@ -115,7 +115,7 @@
         {"text": "African grey parrot", "correct": true},
         {"text": "Crow", "correct": false},
         {"text": "Mockingbird", "correct": false},
-        {"text": "Mockingbird (the literal one)", "correct": false, "absurd": true}
+        {"text": "Alexa", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "Animals"

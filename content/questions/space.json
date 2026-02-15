@@ -31,7 +31,7 @@
         {"text": "Milky Way", "correct": true},
         {"text": "Andromeda", "correct": false},
         {"text": "Triangulum", "correct": false},
-        {"text": "Snickers (satisfies the galaxy)", "correct": false, "absurd": true}
+        {"text": "Snickers", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "Space"

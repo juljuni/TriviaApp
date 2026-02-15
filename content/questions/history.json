@@ -19,7 +19,7 @@
         {"text": "1492", "correct": true},
         {"text": "1482", "correct": false},
         {"text": "1502", "correct": false},
-        {"text": "1492 BC (he was early)", "correct": false, "absurd": true}
+        {"text": "1776", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "History"
@@ -31,7 +31,7 @@
         {"text": "George Washington", "correct": true},
         {"text": "Thomas Jefferson", "correct": false},
         {"text": "John Adams", "correct": false},
-        {"text": "George Washington Carver (he invented peanuts)", "correct": false, "absurd": true}
+        {"text": "Benjamin Franklin", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "History"
@@ -43,7 +43,7 @@
         {"text": "1989", "correct": true},
         {"text": "1987", "correct": false},
         {"text": "1991", "correct": false},
-        {"text": "2009 (Pink Floyd concert)", "correct": false, "absurd": true}
+        {"text": "1776", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "History"

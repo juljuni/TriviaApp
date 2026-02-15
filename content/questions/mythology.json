@@ -19,7 +19,7 @@
         {"text": "Zeus", "correct": true},
         {"text": "Poseidon", "correct": false},
         {"text": "Hades", "correct": false},
-        {"text": "Zeus (available on Amazon Prime)", "correct": false, "absurd": true}
+        {"text": "Apollo", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "Mythology"
@@ -31,7 +31,7 @@
         {"text": "Mjolnir", "correct": true},
         {"text": "Gungnir", "correct": false},
         {"text": "Excalibur", "correct": false},
-        {"text": "Mjolnir Pro Max", "correct": false, "absurd": true}
+        {"text": "Hammertime", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "Mythology"
@@ -43,7 +43,7 @@
         {"text": "Anubis", "correct": true},
         {"text": "Ra", "correct": false},
         {"text": "Horus", "correct": false},
-        {"text": "Anubis Pro (premium death subscription)", "correct": false, "absurd": true}
+        {"text": "Osiris", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "Mythology"

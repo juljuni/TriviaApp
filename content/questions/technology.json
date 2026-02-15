@@ -31,7 +31,7 @@
         {"text": "2007", "correct": true},
         {"text": "2005", "correct": false},
         {"text": "2009", "correct": false},
-        {"text": "1984 (literally '1984')", "correct": false, "absurd": true}
+        {"text": "1984", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "Technology"

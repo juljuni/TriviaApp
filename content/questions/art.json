@@ -31,7 +31,7 @@
         {"text": "Louvre Museum", "correct": true},
         {"text": "British Museum", "correct": false},
         {"text": "Uffizi Gallery", "correct": false},
-        {"text": "The Louvre Gift Shop", "correct": false, "absurd": true}
+        {"text": "Metropolitan Museum of Fart", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "Art"
@@ -103,7 +103,7 @@
         {"text": "14th century", "correct": true},
         {"text": "15th century", "correct": false},
         {"text": "16th century", "correct": false},
-        {"text": "The Renaissance Fair", "correct": false, "absurd": true}
+        {"text": "21st century", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "Art"

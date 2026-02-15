@@ -19,7 +19,7 @@
         {"text": "Mitochondria", "correct": true},
         {"text": "Nucleus", "correct": false},
         {"text": "Ribosome", "correct": false},
-        {"text": "Mighty-chondria", "correct": false, "absurd": true}
+        {"text": "Mightychondria", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "Science"

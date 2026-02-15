@@ -19,7 +19,7 @@
         {"text": "3.14", "correct": true},
         {"text": "3.12", "correct": false},
         {"text": "3.16", "correct": false},
-        {"text": "3.14159... (just kept going)", "correct": false, "absurd": true}
+        {"text": "22/7 exactly", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "Mathematics"

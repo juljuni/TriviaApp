@@ -20,7 +20,7 @@
         {"text": "Lyon", "correct": false},
         {"text": "Marseille", "correct": false},
         {"text": "Bordeaux", "correct": false},
-        {"text": "Paris, Texas", "correct": false, "absurd": true}
+        {"text": "Baguette", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -46,7 +46,7 @@
         {"text": "Saturn", "correct": false},
         {"text": "Neptune", "correct": false},
         {"text": "Uranus", "correct": false},
-        {"text": "Jupiter, Florida", "correct": false, "absurd": true}
+        {"text": "Pluto", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -163,7 +163,7 @@
         {"text": "Osaka", "correct": false},
         {"text": "Kyoto", "correct": false},
         {"text": "Hiroshima", "correct": false},
-        {"text": "Tokyo Drift", "correct": false, "absurd": true}
+        {"text": "Godzilla", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -189,7 +189,7 @@
         {"text": "Venus", "correct": false},
         {"text": "Jupiter", "correct": false},
         {"text": "Mercury", "correct": false},
-        {"text": "Mars Bar", "correct": false, "absurd": true}
+        {"text": "Krypton", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -202,7 +202,7 @@
         {"text": "Oxygen", "correct": false},
         {"text": "Nitrogen", "correct": false},
         {"text": "Hydrogen", "correct": false},
-        {"text": "Carbonated dioxide", "correct": false, "absurd": true}
+        {"text": "Natural gas", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -267,7 +267,7 @@
         {"text": "African elephant", "correct": false},
         {"text": "Giraffe", "correct": false},
         {"text": "Hippopotamus", "correct": false},
-        {"text": "Bluewhale", "correct": false, "absurd": true}
+        {"text": "Godzilla", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -371,7 +371,7 @@
         {"text": "Christopher Marlowe", "correct": false},
         {"text": "Ben Jonson", "correct": false},
         {"text": "John Webster", "correct": false},
-        {"text": "William Shakesman", "correct": false, "absurd": true}
+        {"text": "Taylor Swift", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -384,7 +384,7 @@
         {"text": "Graphene", "correct": false},
         {"text": "Titanium", "correct": false},
         {"text": "Tungsten", "correct": false},
-        {"text": "Diamondback", "correct": false, "absurd": true}
+        {"text": "Bedrock", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -410,7 +410,7 @@
         {"text": "Ag", "correct": false},
         {"text": "Go", "correct": false},
         {"text": "Gd", "correct": false},
-        {"text": "Aurum", "correct": false, "absurd": true}
+        {"text": "$$", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -449,7 +449,7 @@
         {"text": "Isaac Newton", "correct": false},
         {"text": "Niels Bohr", "correct": false},
         {"text": "Stephen Hawking", "correct": false},
-        {"text": "Albert Twostein", "correct": false, "absurd": true}
+        {"text": "Doc Brown", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -488,7 +488,7 @@
         {"text": "K2", "correct": false},
         {"text": "Kangchenjunga", "correct": false},
         {"text": "Lhotse", "correct": false},
-        {"text": "Mount Neverest", "correct": false, "absurd": true}
+        {"text": "Mount Olympus", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -501,7 +501,7 @@
         {"text": "Buzz Aldrin", "correct": false},
         {"text": "Michael Collins", "correct": false},
         {"text": "Yuri Gagarin", "correct": false},
-        {"text": "Neil Legstrong", "correct": false, "absurd": true}
+        {"text": "Buzz Lightyear", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -553,7 +553,7 @@
         {"text": "Giovanni Boccaccio", "correct": false},
         {"text": "Petrarch", "correct": false},
         {"text": "Geoffrey Chaucer", "correct": false},
-        {"text": "Dante Inferno", "correct": false, "absurd": true}
+        {"text": "Mario Kart", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -566,7 +566,7 @@
         {"text": "3.14 × 10²³ mol⁻¹", "correct": false},
         {"text": "9.81 × 10²³ mol⁻¹", "correct": false},
         {"text": "2.718 × 10²³ mol⁻¹", "correct": false},
-        {"text": "Avocadros number", "correct": false, "absurd": true}
+        {"text": "One guacamole", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -579,7 +579,7 @@
         {"text": "Battle of Leipzig", "correct": false},
         {"text": "Battle of Austerlitz", "correct": false},
         {"text": "Battle of Borodino", "correct": false},
-        {"text": "Battle of Waterloo Station", "correct": false, "absurd": true}
+        {"text": "Battle Royale", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -631,7 +631,7 @@
         {"text": "Schrodinger's Cat", "correct": false},
         {"text": "Trolley Problem", "correct": false},
         {"text": "Chinese Room", "correct": false},
-        {"text": "Ship of Thesaurus", "correct": false, "absurd": true}
+        {"text": "Cruise Control", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -657,7 +657,7 @@
         {"text": "Louis Pasteur", "correct": false},
         {"text": "Robert Koch", "correct": false},
         {"text": "Joseph Lister", "correct": false},
-        {"text": "Alexander Flamingo", "correct": false, "absurd": true}
+        {"text": "Sir Lancelot", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -683,7 +683,7 @@
         {"text": "Blue", "correct": false},
         {"text": "Red", "correct": false},
         {"text": "Purple", "correct": false},
-        {"text": "Emerald City", "correct": false, "absurd": true}
+        {"text": "Kryptonite", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -709,7 +709,7 @@
         {"text": "Giraffe", "correct": false},
         {"text": "Hippopotamus", "correct": false},
         {"text": "Rhinoceros", "correct": false},
-        {"text": "Elephantom", "correct": false, "absurd": true}
+        {"text": "King Kong", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -722,7 +722,7 @@
         {"text": "Milk", "correct": false},
         {"text": "Silk", "correct": false},
         {"text": "Wax only", "correct": false},
-        {"text": "Honeydew melon", "correct": false, "absurd": true}
+        {"text": "Jazz", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -735,7 +735,7 @@
         {"text": "Indian Ocean", "correct": false},
         {"text": "Atlantic Ocean", "correct": false},
         {"text": "Southern Ocean", "correct": false},
-        {"text": "Arctic Monkeys", "correct": false, "absurd": true}
+        {"text": "Pacific Ocean", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -748,7 +748,7 @@
         {"text": "Milan", "correct": false},
         {"text": "Venice", "correct": false},
         {"text": "Florence", "correct": false},
-        {"text": "Rome, Georgia", "correct": false, "absurd": true}
+        {"text": "Colosseum", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -774,7 +774,7 @@
         {"text": "Carbon dioxide", "correct": false},
         {"text": "Nitrogen", "correct": false},
         {"text": "Helium", "correct": false},
-        {"text": "Oxymoron", "correct": false, "absurd": true}
+        {"text": "Air", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -787,7 +787,7 @@
         {"text": "Tiger", "correct": false},
         {"text": "Gorilla", "correct": false},
         {"text": "Elephant", "correct": false},
-        {"text": "Lion King", "correct": false, "absurd": true}
+        {"text": "Simba", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -826,7 +826,7 @@
         {"text": "Yuan", "correct": false},
         {"text": "Won", "correct": false},
         {"text": "Dollar", "correct": false},
-        {"text": "Yentle", "correct": false, "absurd": true}
+        {"text": "Yodel", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -852,7 +852,7 @@
         {"text": "Tomato", "correct": false},
         {"text": "Onion", "correct": false},
         {"text": "Lime", "correct": false},
-        {"text": "Guac", "correct": false, "absurd": true}
+        {"text": "Green stuff", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -891,7 +891,7 @@
         {"text": "Respiration", "correct": false},
         {"text": "Transpiration", "correct": false},
         {"text": "Fermentation", "correct": false},
-        {"text": "Photofinish", "correct": false, "absurd": true}
+        {"text": "Instagramming", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -904,7 +904,7 @@
         {"text": "Atom", "correct": false},
         {"text": "Molecule", "correct": false},
         {"text": "Tissue", "correct": false},
-        {"text": "Cellphone", "correct": false, "absurd": true}
+        {"text": "Pixel", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -943,7 +943,7 @@
         {"text": "Facebook", "correct": false},
         {"text": "Instagram", "correct": false},
         {"text": "TikTok", "correct": false},
-        {"text": "Tweeter", "correct": false, "absurd": true}
+        {"text": "MySpace", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -956,7 +956,7 @@
         {"text": "Sonic the Hedgehog", "correct": false},
         {"text": "Donkey Kong Country", "correct": false},
         {"text": "Zelda", "correct": false},
-        {"text": "Super Plumber Bros.", "correct": false, "absurd": true}
+        {"text": "Luigi's Mansion", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -969,7 +969,7 @@
         {"text": "Hulu", "correct": false},
         {"text": "Disney+", "correct": false},
         {"text": "HBO Max", "correct": false},
-        {"text": "Netflicks", "correct": false, "absurd": true}
+        {"text": "Blockbuster", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -995,7 +995,7 @@
         {"text": "Star Trek", "correct": false},
         {"text": "Guardians of the Galaxy", "correct": false},
         {"text": "Avatar", "correct": false},
-        {"text": "Star Warts", "correct": false, "absurd": true}
+        {"text": "Space Jam", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -1008,7 +1008,7 @@
         {"text": "Beyoncé", "correct": false},
         {"text": "Lady Gaga", "correct": false},
         {"text": "Britney Spears", "correct": false},
-        {"text": "Queen Latifah", "correct": false, "absurd": true}
+        {"text": "Freddie Mercury", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -1034,7 +1034,7 @@
         {"text": "Samsung", "correct": false},
         {"text": "Google", "correct": false},
         {"text": "Microsoft", "correct": false},
-        {"text": "Pineapple", "correct": false, "absurd": true}
+        {"text": "Microsoft", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -1060,7 +1060,7 @@
         {"text": "The Rolling Stones", "correct": false},
         {"text": "Led Zeppelin", "correct": false},
         {"text": "Pink Floyd", "correct": false},
-        {"text": "The Beetles", "correct": false, "absurd": true}
+        {"text": "The Monkees", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -1125,7 +1125,7 @@
         {"text": "Call of Duty", "correct": false},
         {"text": "Gears of War", "correct": false},
         {"text": "Destiny", "correct": false},
-        {"text": "Hello", "correct": false, "absurd": true}
+        {"text": "Minecraft", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -1138,7 +1138,7 @@
         {"text": "The Walking Dead", "correct": false},
         {"text": "Twin Peaks", "correct": false},
         {"text": "Riverdale", "correct": false},
-        {"text": "Stephen Hawkings", "correct": false, "absurd": true}
+        {"text": "Shelbyville", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -1151,7 +1151,7 @@
         {"text": "Bono", "correct": false},
         {"text": "Adam Levine", "correct": false},
         {"text": "Brandon Flowers", "correct": false},
-        {"text": "Chris Martini", "correct": false, "absurd": true}
+        {"text": "Elton John", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"
@@ -1177,7 +1177,7 @@
         {"text": "1917", "correct": false},
         {"text": "Joker", "correct": false},
         {"text": "Once Upon a Time in Hollywood", "correct": false},
-        {"text": "Paradise", "correct": false, "absurd": true}
+        {"text": "Avatar", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "General Knowledge"

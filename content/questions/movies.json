@@ -19,7 +19,7 @@
         {"text": "Steven Spielberg", "correct": true},
         {"text": "James Cameron", "correct": false},
         {"text": "George Lucas", "correct": false},
-        {"text": "Steven Spielbergosaurus", "correct": false, "absurd": true}
+        {"text": "Martin Scorsese", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "Movies"
@@ -31,7 +31,7 @@
         {"text": "Forrest Gump", "correct": true},
         {"text": "The Shawshank Redemption", "correct": false},
         {"text": "Pulp Fiction", "correct": false},
-        {"text": "Forrest Gump 2: The Gumpening", "correct": false, "absurd": true}
+        {"text": "Titanic", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "Movies"
@@ -43,7 +43,7 @@
         {"text": "Snow White and the Seven Dwarfs", "correct": true},
         {"text": "Fantasia", "correct": false},
         {"text": "Steamboat Willie", "correct": false},
-        {"text": "Shrek (the original classic)", "correct": false, "absurd": true}
+        {"text": "Toy Story", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "Movies"

@@ -31,7 +31,7 @@
         {"text": "46", "correct": true},
         {"text": "23", "correct": false},
         {"text": "48", "correct": false},
-        {"text": "23 pairs (they travel in buddy system)", "correct": false, "absurd": true}
+        {"text": "92", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "The Human Body"

@@ -31,7 +31,7 @@
         {"text": "1989", "correct": true},
         {"text": "1995", "correct": false},
         {"text": "1982", "correct": false},
-        {"text": "1969 (on ARPANET's Myspace page)", "correct": false, "absurd": true}
+        {"text": "1776", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "Inventions"
