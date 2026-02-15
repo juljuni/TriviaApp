@@ -33,7 +33,7 @@
         {"text": "6", "correct": false},
         {"text": "8", "correct": false},
         {"text": "5", "correct": false},
-        {"text": "7-Eleven", "correct": false, "absurd": true}
+        {"text": "47", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
