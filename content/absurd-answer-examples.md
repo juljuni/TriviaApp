@@ -48,6 +48,97 @@ These are PERFECT absurd answers. All future question generation must match this
 **Absurd Answer:** Emoji
 **Why it works:** Universal communication system, technically "spoken" by billions
 
+## THE CRITICAL RULE: DON'T TELEGRAPH THE ANSWER
+
+The absurd answer must NOT give away the correct answer through shared words or obvious derivatives.
+
+### BAD Examples (Telegraph the Answer)
+
+❌ **Question:** What is the capital of France?
+**Absurd:** Paris, Texas
+**Why it fails:** Literally says "Paris" - gives away the correct answer immediately
+
+❌ **Question:** What is the fastest land animal?
+**Absurd:** Cheeto
+**Why it fails:** Wordplay on "Cheetah" - reveals the correct answer
+
+❌ **Question:** What is the only mammal that can fly?
+**Absurd:** Batmobile
+**Why it fails:** Contains "Bat" - telegraphs the correct answer
+
+### GOOD Examples (Don't Telegraph)
+
+✅ **Question:** Who painted the Mona Lisa?
+**Good Absurd:** Donatello Versace
+**Why it works:** Different Renaissance artist name + fashion designer, doesn't reveal "Leonardo"
+
+✅ **Question:** Who painted 'Guernica'?
+**Good Absurd:** Andy Warthog
+**Why it works:** Different artist (Warhol) + animal pun, doesn't reveal "Picasso"
+
+✅ **Question:** What is the capital of France?
+**Good Absurd:** Versailles
+**Why it works:** Related to France but different city, doesn't scream "Paris"
+
+✅ **Question:** What is the fastest land animal?
+**Good Absurd:** Secretariat
+**Why it works:** Famous fast racehorse, in the "fast animals" universe but doesn't reveal "Cheetah"
+
+✅ **Question:** What animal has black and white stripes?
+**Good Absurd:** Referee
+**Why it works:** Has stripes, completely different category, doesn't reveal "Zebra"
+
+## THE 80/20 RULE FOR SHARED NAMES
+
+**80% of the time:** Absurd answer shares NO words/names with correct answer
+- Use related concepts from same universe
+- Different names, people, places
+- No derivatives or wordplay on correct answer
+
+**20% of the time:** Shared first name IS acceptable IF it's genuinely funnier
+- Leonardo di Caprio (actor vs painter - genuinely hilarious)
+- Alexander Graham Cracker (snack pun too perfect to pass up)
+- Pablo Escobar (drug lord vs artist - peak comedy)
+- Kangaroo Jack (movie reference, classic)
+
+**The test:** Ask "Is this shared-name version SIGNIFICANTLY funnier than a non-shared alternative?"
+- If yes → use it
+- If no → find something completely different that doesn't share words
+
+## Updated Absurd Answer Techniques
+
+1. **Same universe, different entity**
+   - Artist question? Use different artist (Donatello instead of Leonardo)
+   - Fast animal? Use different fast thing (Secretariat instead of Cheetah)
+   - City question? Use different city in same country
+
+2. **Category confusion**
+   - Referee for striped animal
+   - Superman for flying mammal
+   - Godzilla for large reptile
+
+3. **Simple exaggeration for numbers** (no wordplay needed)
+   - 6 legs → 12 legs
+   - 22 months → 44 months
+
+4. **Real thing in wrong context**
+   - Emoji for language
+   - Red Bull for flying mammal
+
+5. **ONLY use shared names when genuinely funnier** (20% of time)
+   - Leonardo di Caprio
+   - Alexander Graham Cracker
+   - Pablo Escobar
+
+## What NOT to do
+
+❌ Derivatives of correct answer (Cheeto from Cheetah)
+❌ Wordplay that contains correct answer (Batmobile contains Bat)
+❌ Same place name with qualifier (Paris, Texas still says Paris)
+❌ Hyphens in wordplay
+❌ Brackets anywhere
+❌ Made-up words that sound like correct answer
+
 ## Absurd Answer Formula
 
 Premium techniques that work:
