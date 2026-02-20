@@ -1,0 +1,666 @@
+{
+  "category": "Fast Food",
+  "metadata": {
+    "totalQuestions": 50,
+    "difficulty": {
+      "easy": 20,
+      "medium": 20,
+      "hard": 10
+    },
+    "version": "1.0",
+    "created": "2026-02-20",
+    "updated": "2026-02-20"
+  },
+  "questions": [
+    {
+      "id": "ff_001",
+      "question": "Which fast food chain has golden arches as its logo?",
+      "answers": [
+        {"text": "McDonald's", "correct": true},
+        {"text": "Burger King", "correct": false},
+        {"text": "Wendy's", "correct": false},
+        {"text": "Five Guys", "correct": false},
+        {"text": "The Arc de Triomphe", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_002",
+      "question": "What is the name of Burger King's signature burger?",
+      "answers": [
+        {"text": "Whopper", "correct": true},
+        {"text": "Big Mac", "correct": false},
+        {"text": "Royale with Cheese", "correct": false},
+        {"text": "Double Double", "correct": false},
+        {"text": "The Absolute Unit", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_003",
+      "question": "What is the name of Wendy's signature frozen dessert?",
+      "answers": [
+        {"text": "Frosty", "correct": true},
+        {"text": "Blizzard", "correct": false},
+        {"text": "McFlurry", "correct": false},
+        {"text": "Arctic Shake", "correct": false},
+        {"text": "Snowbert", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_004",
+      "question": "Which fast food chain uses the slogan \"I'm Lovin' It\"?",
+      "answers": [
+        {"text": "McDonald's", "correct": true},
+        {"text": "Burger King", "correct": false},
+        {"text": "Wendy's", "correct": false},
+        {"text": "Chick-fil-A", "correct": false},
+        {"text": "Olive Garden", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_005",
+      "question": "What is the name of McDonald's famous clown mascot?",
+      "answers": [
+        {"text": "Ronald McDonald", "correct": true},
+        {"text": "Grimace", "correct": false},
+        {"text": "The Hamburglar", "correct": false},
+        {"text": "Mayor McCheese", "correct": false},
+        {"text": "Bozo the Burger", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_006",
+      "question": "Which fast food chain is famous for serving fried chicken in a bucket?",
+      "answers": [
+        {"text": "KFC", "correct": true},
+        {"text": "Popeyes", "correct": false},
+        {"text": "Chick-fil-A", "correct": false},
+        {"text": "Church's Chicken", "correct": false},
+        {"text": "Chicken of the Sea", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_007",
+      "question": "What does the abbreviation KFC stand for?",
+      "answers": [
+        {"text": "Kentucky Fried Chicken", "correct": true},
+        {"text": "Kansas Fried Chicken", "correct": false},
+        {"text": "Kentucky Fresh Chicken", "correct": false},
+        {"text": "Korean Fried Chicken", "correct": false},
+        {"text": "Krispy Finger Cuisine", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_008",
+      "question": "Which fast food chain features a red-haired girl in its logo?",
+      "answers": [
+        {"text": "Wendy's", "correct": true},
+        {"text": "Dairy Queen", "correct": false},
+        {"text": "Hardee's", "correct": false},
+        {"text": "Arby's", "correct": false},
+        {"text": "Pippi Longstocking's", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_009",
+      "question": "Which fast food chain uses the slogan \"Think Outside the Bun\"?",
+      "answers": [
+        {"text": "Taco Bell", "correct": true},
+        {"text": "Del Taco", "correct": false},
+        {"text": "Chipotle", "correct": false},
+        {"text": "Qdoba", "correct": false},
+        {"text": "Hallmark Cards", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_010",
+      "question": "What type of food is Subway primarily known for selling?",
+      "answers": [
+        {"text": "Submarine sandwiches", "correct": true},
+        {"text": "Wraps", "correct": false},
+        {"text": "Pizza", "correct": false},
+        {"text": "Hot dogs", "correct": false},
+        {"text": "Actual submarines", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_026",
+      "question": "Which fast food chain's mascot is known simply as \"The King\"?",
+      "answers": [
+        {"text": "Burger King", "correct": true},
+        {"text": "Dairy Queen", "correct": false},
+        {"text": "McDonald's", "correct": false},
+        {"text": "Hardee's", "correct": false},
+        {"text": "Lord Farquaad", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_027",
+      "question": "What is the name of Dairy Queen's signature blended ice cream treat with mix-ins?",
+      "answers": [
+        {"text": "Blizzard", "correct": true},
+        {"text": "McFlurry", "correct": false},
+        {"text": "Frosty", "correct": false},
+        {"text": "Snowstorm", "correct": false},
+        {"text": "The Frostinator", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_028",
+      "question": "Which fast food chain is best known for its roast beef sandwiches?",
+      "answers": [
+        {"text": "Arby's", "correct": true},
+        {"text": "Hardee's", "correct": false},
+        {"text": "Bob Evans", "correct": false},
+        {"text": "Denny's", "correct": false},
+        {"text": "The Carnegie Deli", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_029",
+      "question": "What is the name of McDonald's signature fish sandwich?",
+      "answers": [
+        {"text": "Filet-O-Fish", "correct": true},
+        {"text": "Ocean Burger", "correct": false},
+        {"text": "McSalmon", "correct": false},
+        {"text": "Fishwich", "correct": false},
+        {"text": "The Poseidon Special", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_030",
+      "question": "Which fast food chain uses the slogan \"Eat Fresh\"?",
+      "answers": [
+        {"text": "Subway", "correct": true},
+        {"text": "Panera Bread", "correct": false},
+        {"text": "Freshii", "correct": false},
+        {"text": "Jersey Mike's", "correct": false},
+        {"text": "Whole Foods", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_031",
+      "question": "Which animals appear in Chick-fil-A's famous advertising campaign, holding signs that read \"Eat Mor Chikin\"?",
+      "answers": [
+        {"text": "Cows", "correct": true},
+        {"text": "Chickens", "correct": false},
+        {"text": "Pigs", "correct": false},
+        {"text": "Horses", "correct": false},
+        {"text": "Accountants", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_032",
+      "question": "Which fast food pizza chain was co-founded by brothers Frank and Dan Carney in 1958?",
+      "answers": [
+        {"text": "Pizza Hut", "correct": true},
+        {"text": "Little Caesars", "correct": false},
+        {"text": "Domino's", "correct": false},
+        {"text": "Papa John's", "correct": false},
+        {"text": "The Leaning Tower of Pizza", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_033",
+      "question": "Which fast food chain uses the slogan \"Finger Lickin' Good\"?",
+      "answers": [
+        {"text": "KFC", "correct": true},
+        {"text": "Popeyes", "correct": false},
+        {"text": "Chick-fil-A", "correct": false},
+        {"text": "Church's Chicken", "correct": false},
+        {"text": "The Hand Model Association", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_034",
+      "question": "In which country did McDonald's originate?",
+      "answers": [
+        {"text": "United States", "correct": true},
+        {"text": "Canada", "correct": false},
+        {"text": "United Kingdom", "correct": false},
+        {"text": "Australia", "correct": false},
+        {"text": "Hamburgland", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_035",
+      "question": "Which fast food chain sells the McRib, a limited-time pork sandwich with a cult following?",
+      "answers": [
+        {"text": "McDonald's", "correct": true},
+        {"text": "Burger King", "correct": false},
+        {"text": "Hardee's", "correct": false},
+        {"text": "Wendy's", "correct": false},
+        {"text": "The Pork Council", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_011",
+      "question": "In what year did brothers Richard and Maurice McDonald open their first restaurant?",
+      "answers": [
+        {"text": "1940", "correct": true},
+        {"text": "1955", "correct": false},
+        {"text": "1948", "correct": false},
+        {"text": "1962", "correct": false},
+        {"text": "1776", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_012",
+      "question": "Which fast food chain was founded by Dave Thomas in 1969?",
+      "answers": [
+        {"text": "Wendy's", "correct": true},
+        {"text": "Hardee's", "correct": false},
+        {"text": "Carl's Jr.", "correct": false},
+        {"text": "Dairy Queen", "correct": false},
+        {"text": "Applebee's", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_013",
+      "question": "Which fast food chain's long-running slogan was \"Have It Your Way\"?",
+      "answers": [
+        {"text": "Burger King", "correct": true},
+        {"text": "McDonald's", "correct": false},
+        {"text": "Subway", "correct": false},
+        {"text": "Wendy's", "correct": false},
+        {"text": "IKEA", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_014",
+      "question": "In what year did McDonald's introduce the Happy Meal?",
+      "answers": [
+        {"text": "1979", "correct": true},
+        {"text": "1985", "correct": false},
+        {"text": "1975", "correct": false},
+        {"text": "1982", "correct": false},
+        {"text": "1492", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_015",
+      "question": "What is KFC founder Colonel Sanders' actual first name?",
+      "answers": [
+        {"text": "Harland", "correct": true},
+        {"text": "Harold", "correct": false},
+        {"text": "Harvey", "correct": false},
+        {"text": "Herbert", "correct": false},
+        {"text": "Kentucky", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_016",
+      "question": "On which day of the week are all Chick-fil-A restaurants closed?",
+      "answers": [
+        {"text": "Sunday", "correct": true},
+        {"text": "Saturday", "correct": false},
+        {"text": "Monday", "correct": false},
+        {"text": "Friday", "correct": false},
+        {"text": "Shrove Tuesday", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_017",
+      "question": "What is the name of In-N-Out Burger's most famous secret menu preparation style?",
+      "answers": [
+        {"text": "Animal Style", "correct": true},
+        {"text": "Monster Style", "correct": false},
+        {"text": "Protein Style", "correct": false},
+        {"text": "Wild Style", "correct": false},
+        {"text": "Steve Irwin Style", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_018",
+      "question": "Which businessman is credited with turning McDonald's into a global franchise empire in the 1950s?",
+      "answers": [
+        {"text": "Ray Kroc", "correct": true},
+        {"text": "Walt Disney", "correct": false},
+        {"text": "Howard Johnson", "correct": false},
+        {"text": "Dave Thomas", "correct": false},
+        {"text": "Colonel Mustard", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_019",
+      "question": "In what city did Dave Thomas open the first Wendy's restaurant in 1969?",
+      "answers": [
+        {"text": "Columbus, Ohio", "correct": true},
+        {"text": "Cincinnati, Ohio", "correct": false},
+        {"text": "Cleveland, Ohio", "correct": false},
+        {"text": "Detroit, Michigan", "correct": false},
+        {"text": "Atlantis", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_020",
+      "question": "Which fast food chain offered a Szechuan dipping sauce in 1998 as a promotional tie-in with the Disney animated film Mulan?",
+      "answers": [
+        {"text": "McDonald's", "correct": true},
+        {"text": "Panda Express", "correct": false},
+        {"text": "KFC", "correct": false},
+        {"text": "Burger King", "correct": false},
+        {"text": "General Tso's Kitchen", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_036",
+      "question": "Which fast food chain's chicken sandwich went viral in 2019, sparking what media called a \"chicken sandwich war\"?",
+      "answers": [
+        {"text": "Popeyes", "correct": true},
+        {"text": "Chick-fil-A", "correct": false},
+        {"text": "McDonald's", "correct": false},
+        {"text": "Wendy's", "correct": false},
+        {"text": "General Tso", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_037",
+      "question": "Who founded Chick-fil-A?",
+      "answers": [
+        {"text": "Truett Cathy", "correct": true},
+        {"text": "Dave Thomas", "correct": false},
+        {"text": "Ray Kroc", "correct": false},
+        {"text": "Howard Johnson", "correct": false},
+        {"text": "Foghorn Leghorn", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_038",
+      "question": "In what year did the first Burger King restaurant open in Jacksonville, Florida?",
+      "answers": [
+        {"text": "1953", "correct": true},
+        {"text": "1961", "correct": false},
+        {"text": "1947", "correct": false},
+        {"text": "1958", "correct": false},
+        {"text": "1348", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_039",
+      "question": "What free snack does Five Guys famously offer customers to enjoy while their order is being prepared?",
+      "answers": [
+        {"text": "Peanuts", "correct": true},
+        {"text": "Mints", "correct": false},
+        {"text": "Hand wipes", "correct": false},
+        {"text": "Stickers", "correct": false},
+        {"text": "A strongly worded letter", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_040",
+      "question": "Which fast food chain sells the Baconator, a burger stacked with multiple strips of bacon?",
+      "answers": [
+        {"text": "Wendy's", "correct": true},
+        {"text": "Burger King", "correct": false},
+        {"text": "Hardee's", "correct": false},
+        {"text": "McDonald's", "correct": false},
+        {"text": "Ron Swanson's Diner", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_041",
+      "question": "Which parent company owns both KFC and Taco Bell?",
+      "answers": [
+        {"text": "Yum! Brands", "correct": true},
+        {"text": "Restaurant Brands International", "correct": false},
+        {"text": "Inspire Brands", "correct": false},
+        {"text": "Darden Restaurants", "correct": false},
+        {"text": "FoodCorp International", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_042",
+      "question": "What is the name of the fictional fast food restaurant featured prominently in the TV show \"The Simpsons\"?",
+      "answers": [
+        {"text": "Krusty Burger", "correct": true},
+        {"text": "McDougal's", "correct": false},
+        {"text": "Quahog Burger", "correct": false},
+        {"text": "Shelbyville Burger", "correct": false},
+        {"text": "The Kwik-E-Mart", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_043",
+      "question": "Which fast food chain, founded in Wichita, Kansas in 1921, is considered one of the oldest in America?",
+      "answers": [
+        {"text": "White Castle", "correct": true},
+        {"text": "Steak 'n Shake", "correct": false},
+        {"text": "Sonic", "correct": false},
+        {"text": "Denny's", "correct": false},
+        {"text": "The Black Knight's Tavern", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_044",
+      "question": "Which fast food chain popularized the breakfast sandwich with its Egg McMuffin?",
+      "answers": [
+        {"text": "McDonald's", "correct": true},
+        {"text": "Burger King", "correct": false},
+        {"text": "Denny's", "correct": false},
+        {"text": "IHOP", "correct": false},
+        {"text": "The American Egg Board", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_045",
+      "question": "In which city is Wendy's corporate headquarters located?",
+      "answers": [
+        {"text": "Dublin, Ohio", "correct": true},
+        {"text": "Columbus, Ohio", "correct": false},
+        {"text": "Cincinnati, Ohio", "correct": false},
+        {"text": "Atlanta, Georgia", "correct": false},
+        {"text": "Frostbite Falls, Minnesota", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_021",
+      "question": "What was the name of McDonald's original mascot used before Ronald McDonald was introduced?",
+      "answers": [
+        {"text": "Speedee", "correct": true},
+        {"text": "Hamburger Pete", "correct": false},
+        {"text": "Happy", "correct": false},
+        {"text": "Birdie", "correct": false},
+        {"text": "The Road Runner", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_022",
+      "question": "In which California city did Glen Bell open the very first Taco Bell restaurant in 1962?",
+      "answers": [
+        {"text": "Downey", "correct": true},
+        {"text": "San Bernardino", "correct": false},
+        {"text": "Anaheim", "correct": false},
+        {"text": "Riverside", "correct": false},
+        {"text": "Guadalajara", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_023",
+      "question": "The Jollibee fast food chain, which outsells McDonald's in its home country, originated in which nation?",
+      "answers": [
+        {"text": "Philippines", "correct": true},
+        {"text": "Indonesia", "correct": false},
+        {"text": "Malaysia", "correct": false},
+        {"text": "Vietnam", "correct": false},
+        {"text": "Jollyville, Texas", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_024",
+      "question": "In what year was the Big Mac first introduced at McDonald's?",
+      "answers": [
+        {"text": "1968", "correct": true},
+        {"text": "1972", "correct": false},
+        {"text": "1964", "correct": false},
+        {"text": "1975", "correct": false},
+        {"text": "1066", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_025",
+      "question": "The name 'Arby's' is derived from the initials of which founding brothers?",
+      "answers": [
+        {"text": "Raffel Brothers", "correct": true},
+        {"text": "Reynolds Brothers", "correct": false},
+        {"text": "Robertson Brothers", "correct": false},
+        {"text": "Randall Brothers", "correct": false},
+        {"text": "Roast Beef Brothers", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_046",
+      "question": "Which McDonald's franchisee is credited with creating the Big Mac in 1967?",
+      "answers": [
+        {"text": "Jim Delligatti", "correct": true},
+        {"text": "Ray Kroc", "correct": false},
+        {"text": "Michael James", "correct": false},
+        {"text": "Bob Martinez", "correct": false},
+        {"text": "Chef Boyardee", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_047",
+      "question": "Who founded In-N-Out Burger in Baldwin Park, California in 1948?",
+      "answers": [
+        {"text": "Harry Snyder", "correct": true},
+        {"text": "Carl Karcher", "correct": false},
+        {"text": "Glen Bell", "correct": false},
+        {"text": "Robert Peterson", "correct": false},
+        {"text": "Jack Nicholson", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_048",
+      "question": "What was the original name of the restaurant that eventually became Sonic Drive-In when it opened in 1953?",
+      "answers": [
+        {"text": "Top Hat Drive-In", "correct": true},
+        {"text": "Crown Drive-In", "correct": false},
+        {"text": "Speedy's", "correct": false},
+        {"text": "Lightning Burger", "correct": false},
+        {"text": "The Oklahoma Roundup", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_049",
+      "question": "Which fast food chain's \"Super Size\" meal option was discontinued in 2004 following the release of the documentary \"Super Size Me\"?",
+      "answers": [
+        {"text": "McDonald's", "correct": true},
+        {"text": "Burger King", "correct": false},
+        {"text": "Wendy's", "correct": false},
+        {"text": "KFC", "correct": false},
+        {"text": "The US Congress", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Fast Food"
+    },
+    {
+      "id": "ff_050",
+      "question": "When the McDonald brothers relaunched their restaurant in 1948 with the Speedee Service System, how much did a hamburger cost?",
+      "answers": [
+        {"text": "15 cents", "correct": true},
+        {"text": "25 cents", "correct": false},
+        {"text": "10 cents", "correct": false},
+        {"text": "35 cents", "correct": false},
+        {"text": "3 shillings", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Fast Food"
+    }
+  ]
+}

@@ -1,49 +1,663 @@
 {
   "category": "History",
   "metadata": {
-    "totalQuestions": 3,
+    "totalQuestions": 50,
     "difficulty": {
-      "easy": 1,
-      "medium": 1,
-      "hard": 1
+      "easy": 20,
+      "medium": 20,
+      "hard": 10
     },
     "version": "1.0",
-    "created": "2026-02-15",
-    "updated": "2026-02-15"
+    "created": "2026-02-20",
+    "updated": "2026-02-20"
   },
   "questions": [
     {
       "id": "hist_001",
-      "question": "In what year did Christopher Columbus reach the Americas?",
+      "question": "Who was the first President of the United States?",
       "answers": [
-        {"text": "1492", "correct": true},
-        {"text": "1482", "correct": false},
-        {"text": "1502", "correct": false},
-        {"text": "1776", "correct": false, "absurd": true}
+        {"text": "George Washington", "correct": true},
+        {"text": "John Adams", "correct": false},
+        {"text": "Thomas Jefferson", "correct": false},
+        {"text": "Benjamin Franklin", "correct": false},
+        {"text": "George Foreman", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "History"
     },
     {
       "id": "hist_002",
-      "question": "Who was the first President of the United States?",
+      "question": "In which year did World War II end?",
       "answers": [
-        {"text": "George Washington", "correct": true},
-        {"text": "Thomas Jefferson", "correct": false},
-        {"text": "John Adams", "correct": false},
-        {"text": "Benjamin Franklin", "correct": false, "absurd": true}
+        {"text": "1945", "correct": true},
+        {"text": "1943", "correct": false},
+        {"text": "1944", "correct": false},
+        {"text": "1947", "correct": false},
+        {"text": "1918", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_003",
+      "question": "Which of the Seven Wonders of the Ancient World was located in Alexandria, Egypt?",
+      "answers": [
+        {"text": "The Lighthouse of Alexandria", "correct": true},
+        {"text": "The Colossus of Rhodes", "correct": false},
+        {"text": "The Hanging Gardens of Babylon", "correct": false},
+        {"text": "The Temple of Artemis", "correct": false},
+        {"text": "The Library of Alexandria", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_004",
+      "question": "Who was the first human to walk on the Moon?",
+      "answers": [
+        {"text": "Neil Armstrong", "correct": true},
+        {"text": "Buzz Aldrin", "correct": false},
+        {"text": "Yuri Gagarin", "correct": false},
+        {"text": "Alan Shepard", "correct": false},
+        {"text": "Buzz Lightyear", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_005",
+      "question": "Which Egyptian queen was famous for her alliances with Julius Caesar and Mark Antony?",
+      "answers": [
+        {"text": "Cleopatra", "correct": true},
+        {"text": "Nefertiti", "correct": false},
+        {"text": "Hatshepsut", "correct": false},
+        {"text": "Boudicca", "correct": false},
+        {"text": "Elizabeth Taylor", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_006",
+      "question": "In what year did the Berlin Wall fall?",
+      "answers": [
+        {"text": "1989", "correct": true},
+        {"text": "1991", "correct": false},
+        {"text": "1987", "correct": false},
+        {"text": "1985", "correct": false},
+        {"text": "1776", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_007",
+      "question": "Which country sponsored Christopher Columbus's voyage when he reached the Americas in 1492?",
+      "answers": [
+        {"text": "Spain", "correct": true},
+        {"text": "Portugal", "correct": false},
+        {"text": "England", "correct": false},
+        {"text": "France", "correct": false},
+        {"text": "India", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_008",
+      "question": "How many wives did King Henry VIII of England have?",
+      "answers": [
+        {"text": "6", "correct": true},
+        {"text": "4", "correct": false},
+        {"text": "8", "correct": false},
+        {"text": "3", "correct": false},
+        {"text": "12", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_009",
+      "question": "What was the name of the ocean liner that sank on its maiden voyage in 1912?",
+      "answers": [
+        {"text": "Titanic", "correct": true},
+        {"text": "Lusitania", "correct": false},
+        {"text": "Britannic", "correct": false},
+        {"text": "Olympic", "correct": false},
+        {"text": "The Unsinkable Molly Brown", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_010",
+      "question": "Which artist painted the ceiling of the Sistine Chapel?",
+      "answers": [
+        {"text": "Michelangelo", "correct": true},
+        {"text": "Leonardo da Vinci", "correct": false},
+        {"text": "Raphael", "correct": false},
+        {"text": "Botticelli", "correct": false},
+        {"text": "The Pope", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_011",
+      "question": "Which ancient civilization built the Pyramids of Giza?",
+      "answers": [
+        {"text": "Ancient Egyptians", "correct": true},
+        {"text": "Ancient Romans", "correct": false},
+        {"text": "Ancient Greeks", "correct": false},
+        {"text": "Mesopotamians", "correct": false},
+        {"text": "Aliens", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_012",
+      "question": "In what year did the United States declare independence?",
+      "answers": [
+        {"text": "1776", "correct": true},
+        {"text": "1783", "correct": false},
+        {"text": "1774", "correct": false},
+        {"text": "1789", "correct": false},
+        {"text": "1066", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_013",
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "answers": [
+        {"text": "Marie Curie", "correct": true},
+        {"text": "Florence Nightingale", "correct": false},
+        {"text": "Rosalind Franklin", "correct": false},
+        {"text": "Ada Lovelace", "correct": false},
+        {"text": "Alfred Nobel", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_014",
+      "question": "What name is given to the plague that killed roughly one third of Europe's population in the 14th century?",
+      "answers": [
+        {"text": "The Black Death", "correct": true},
+        {"text": "The Plague of Justinian", "correct": false},
+        {"text": "The Spanish Flu", "correct": false},
+        {"text": "The Great Sweating", "correct": false},
+        {"text": "The Great Coughing", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_015",
+      "question": "Which country built the Great Wall to protect against northern invasions?",
+      "answers": [
+        {"text": "China", "correct": true},
+        {"text": "Japan", "correct": false},
+        {"text": "Mongolia", "correct": false},
+        {"text": "Korea", "correct": false},
+        {"text": "Donald Trump", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_016",
+      "question": "Who was the first female Prime Minister of the United Kingdom?",
+      "answers": [
+        {"text": "Margaret Thatcher", "correct": true},
+        {"text": "Theresa May", "correct": false},
+        {"text": "Angela Merkel", "correct": false},
+        {"text": "Indira Gandhi", "correct": false},
+        {"text": "Angela Lansbury", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_017",
+      "question": "In which city was President John F. Kennedy assassinated in 1963?",
+      "answers": [
+        {"text": "Dallas", "correct": true},
+        {"text": "Houston", "correct": false},
+        {"text": "New Orleans", "correct": false},
+        {"text": "Washington D.C.", "correct": false},
+        {"text": "Fort Worth", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_018",
+      "question": "What ancient temple sits atop the Acropolis of Athens?",
+      "answers": [
+        {"text": "The Parthenon", "correct": true},
+        {"text": "The Pantheon", "correct": false},
+        {"text": "The Colosseum", "correct": false},
+        {"text": "The Agora", "correct": false},
+        {"text": "Mount Olympus", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_019",
+      "question": "What name is given to the global conflict between the Allied and Axis powers from 1939 to 1945?",
+      "answers": [
+        {"text": "World War II", "correct": true},
+        {"text": "The Great War", "correct": false},
+        {"text": "The Cold War", "correct": false},
+        {"text": "The Hundred Years' War", "correct": false},
+        {"text": "The War to End All Wars", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_020",
+      "question": "What was the name of the first artificial satellite, launched by the Soviet Union in 1957?",
+      "answers": [
+        {"text": "Sputnik", "correct": true},
+        {"text": "Explorer 1", "correct": false},
+        {"text": "Luna 1", "correct": false},
+        {"text": "Vostok 1", "correct": false},
+        {"text": "Google Maps", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "History"
+    },
+    {
+      "id": "hist_021",
+      "question": "Which Carthaginian general famously crossed the Alps with war elephants to attack Rome?",
+      "answers": [
+        {"text": "Hannibal Barca", "correct": true},
+        {"text": "Julius Caesar", "correct": false},
+        {"text": "Alexander the Great", "correct": false},
+        {"text": "Scipio Africanus", "correct": false},
+        {"text": "The Elephant Man", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "History"
     },
     {
-      "id": "hist_003",
-      "question": "The fall of the Berlin Wall occurred in which year?",
+      "id": "hist_022",
+      "question": "Who was the last Tsar of Russia, executed along with his family in 1918?",
       "answers": [
-        {"text": "1989", "correct": true},
-        {"text": "1987", "correct": false},
-        {"text": "1991", "correct": false},
+        {"text": "Nicholas II", "correct": true},
+        {"text": "Alexander III", "correct": false},
+        {"text": "Nicholas I", "correct": false},
+        {"text": "Alexander II", "correct": false},
+        {"text": "Rasputin", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_023",
+      "question": "In what year did World War I begin?",
+      "answers": [
+        {"text": "1914", "correct": true},
+        {"text": "1912", "correct": false},
+        {"text": "1916", "correct": false},
+        {"text": "1918", "correct": false},
+        {"text": "1815", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_024",
+      "question": "Which empire was the largest in history by total land area?",
+      "answers": [
+        {"text": "The British Empire", "correct": true},
+        {"text": "The Mongol Empire", "correct": false},
+        {"text": "The Roman Empire", "correct": false},
+        {"text": "The Russian Empire", "correct": false},
+        {"text": "The Evil Empire", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_025",
+      "question": "What was the name of the ship Charles Darwin sailed on during his famous voyage of discovery?",
+      "answers": [
+        {"text": "HMS Beagle", "correct": true},
+        {"text": "HMS Endeavour", "correct": false},
+        {"text": "HMS Discovery", "correct": false},
+        {"text": "HMS Challenger", "correct": false},
+        {"text": "The Galápagos Express", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_026",
+      "question": "Who led the Cuban Revolution that overthrew President Batista in 1959?",
+      "answers": [
+        {"text": "Fidel Castro", "correct": true},
+        {"text": "Che Guevara", "correct": false},
+        {"text": "Camilo Cienfuegos", "correct": false},
+        {"text": "Raúl Castro", "correct": false},
+        {"text": "Gloria Estefan", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_027",
+      "question": "What wall did the Romans build to mark the northern boundary of their empire in Britain?",
+      "answers": [
+        {"text": "Hadrian's Wall", "correct": true},
+        {"text": "Offa's Dyke", "correct": false},
+        {"text": "The Antonine Wall", "correct": false},
+        {"text": "The Saxon Shore", "correct": false},
+        {"text": "The Wall Street", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_028",
+      "question": "Who is credited with inventing the movable type printing press in the 15th century?",
+      "answers": [
+        {"text": "Johannes Gutenberg", "correct": true},
+        {"text": "William Caxton", "correct": false},
+        {"text": "Aldus Manutius", "correct": false},
+        {"text": "Nicolas Jenson", "correct": false},
+        {"text": "Jeff Bezos", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_029",
+      "question": "In which country did the apartheid system formally end in the early 1990s?",
+      "answers": [
+        {"text": "South Africa", "correct": true},
+        {"text": "Zimbabwe", "correct": false},
+        {"text": "Namibia", "correct": false},
+        {"text": "Kenya", "correct": false},
+        {"text": "Johannesburg", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_030",
+      "question": "What was the code name for the Allied invasion of Normandy on June 6, 1944?",
+      "answers": [
+        {"text": "Operation Overlord", "correct": true},
+        {"text": "Operation Sea Lion", "correct": false},
+        {"text": "Operation Market Garden", "correct": false},
+        {"text": "Operation Torch", "correct": false},
+        {"text": "Operation IKEA", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_031",
+      "question": "Which empire conquered Constantinople in 1453, bringing the Byzantine Empire to an end?",
+      "answers": [
+        {"text": "The Ottoman Empire", "correct": true},
+        {"text": "The Mongol Empire", "correct": false},
+        {"text": "The Seljuk Empire", "correct": false},
+        {"text": "The Mamluk Sultanate", "correct": false},
+        {"text": "Turkish Delight", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_032",
+      "question": "Who co-wrote the Communist Manifesto with Friedrich Engels?",
+      "answers": [
+        {"text": "Karl Marx", "correct": true},
+        {"text": "Vladimir Lenin", "correct": false},
+        {"text": "Leon Trotsky", "correct": false},
+        {"text": "Joseph Stalin", "correct": false},
+        {"text": "Groucho Marx", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_033",
+      "question": "What ancient trade network connected China to the Mediterranean world?",
+      "answers": [
+        {"text": "The Silk Road", "correct": true},
+        {"text": "The Spice Route", "correct": false},
+        {"text": "The Amber Road", "correct": false},
+        {"text": "The Incense Route", "correct": false},
+        {"text": "Route 66", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_034",
+      "question": "In what year did Yuri Gagarin become the first human to travel to space?",
+      "answers": [
+        {"text": "1961", "correct": true},
+        {"text": "1957", "correct": false},
+        {"text": "1963", "correct": false},
+        {"text": "1969", "correct": false},
         {"text": "1776", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_035",
+      "question": "What name is given to the period of economic boom and cultural dynamism in 1920s America?",
+      "answers": [
+        {"text": "The Roaring Twenties", "correct": true},
+        {"text": "The Gilded Age", "correct": false},
+        {"text": "The Progressive Era", "correct": false},
+        {"text": "The Belle Époque", "correct": false},
+        {"text": "The Screaming Thirties", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_036",
+      "question": "What British passenger liner was sunk by a German U-boat in 1915, helping shift American opinion toward the war?",
+      "answers": [
+        {"text": "RMS Lusitania", "correct": true},
+        {"text": "RMS Mauretania", "correct": false},
+        {"text": "SS Arabic", "correct": false},
+        {"text": "RMS Laconia", "correct": false},
+        {"text": "The Titanic", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_037",
+      "question": "Which US President authorized the dropping of atomic bombs on Japan in 1945?",
+      "answers": [
+        {"text": "Harry Truman", "correct": true},
+        {"text": "Franklin D. Roosevelt", "correct": false},
+        {"text": "Dwight Eisenhower", "correct": false},
+        {"text": "Herbert Hoover", "correct": false},
+        {"text": "Oppenheimer", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_038",
+      "question": "What was the code name for the operation that evacuated Allied troops from Dunkirk in 1940?",
+      "answers": [
+        {"text": "Operation Dynamo", "correct": true},
+        {"text": "Operation Torch", "correct": false},
+        {"text": "Operation Husky", "correct": false},
+        {"text": "Operation Market Garden", "correct": false},
+        {"text": "Operation Nemo", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_039",
+      "question": "Which country was divided into East and West as a result of the Cold War?",
+      "answers": [
+        {"text": "Germany", "correct": true},
+        {"text": "Vietnam", "correct": false},
+        {"text": "Korea", "correct": false},
+        {"text": "Austria", "correct": false},
+        {"text": "The Iron Curtain", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_040",
+      "question": "What was the code name of the atomic bomb dropped on Hiroshima on August 6, 1945?",
+      "answers": [
+        {"text": "Little Boy", "correct": true},
+        {"text": "Fat Man", "correct": false},
+        {"text": "Trinity", "correct": false},
+        {"text": "Enola Gay", "correct": false},
+        {"text": "Dr. Strangelove", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "History"
+    },
+    {
+      "id": "hist_041",
+      "question": "What document, signed in 1215, forced King John of England to limit his own power?",
+      "answers": [
+        {"text": "Magna Carta", "correct": true},
+        {"text": "The Act of Settlement", "correct": false},
+        {"text": "The Bill of Rights", "correct": false},
+        {"text": "The Petition of Right", "correct": false},
+        {"text": "Terms and Conditions", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "History"
+    },
+    {
+      "id": "hist_042",
+      "question": "Which Native American people helped the Pilgrims survive their first winter at Plymouth in 1620?",
+      "answers": [
+        {"text": "The Wampanoag", "correct": true},
+        {"text": "The Iroquois", "correct": false},
+        {"text": "The Cherokee", "correct": false},
+        {"text": "The Mohawk", "correct": false},
+        {"text": "Thanksgiving", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "History"
+    },
+    {
+      "id": "hist_043",
+      "question": "Which Byzantine emperor commissioned the construction of the Hagia Sophia in the 6th century?",
+      "answers": [
+        {"text": "Justinian I", "correct": true},
+        {"text": "Constantine I", "correct": false},
+        {"text": "Theodosius II", "correct": false},
+        {"text": "Basil II", "correct": false},
+        {"text": "Sophia Loren", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "History"
+    },
+    {
+      "id": "hist_044",
+      "question": "Which Athenian general commanded the forces that defeated the Persians at the Battle of Marathon in 490 BC?",
+      "answers": [
+        {"text": "Miltiades", "correct": true},
+        {"text": "Themistocles", "correct": false},
+        {"text": "Aristides", "correct": false},
+        {"text": "Pericles", "correct": false},
+        {"text": "The Boston Marathon", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "History"
+    },
+    {
+      "id": "hist_045",
+      "question": "What was the code name for the German invasion of the Soviet Union launched in June 1941?",
+      "answers": [
+        {"text": "Operation Barbarossa", "correct": true},
+        {"text": "Operation Sea Lion", "correct": false},
+        {"text": "Operation Citadel", "correct": false},
+        {"text": "Operation Typhoon", "correct": false},
+        {"text": "The Russian Winter", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "History"
+    },
+    {
+      "id": "hist_046",
+      "question": "What was the name of the treaty signed in 1919 that formally ended World War I?",
+      "answers": [
+        {"text": "Treaty of Versailles", "correct": true},
+        {"text": "Treaty of Westphalia", "correct": false},
+        {"text": "Treaty of Brest-Litovsk", "correct": false},
+        {"text": "Treaty of Lausanne", "correct": false},
+        {"text": "Treaty of Pancakes", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "History"
+    },
+    {
+      "id": "hist_047",
+      "question": "What was the name of the first permanent English settlement established in America, founded in 1607?",
+      "answers": [
+        {"text": "Jamestown", "correct": true},
+        {"text": "Plymouth", "correct": false},
+        {"text": "Roanoke", "correct": false},
+        {"text": "St. Augustine", "correct": false},
+        {"text": "Fort Apache", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "History"
+    },
+    {
+      "id": "hist_048",
+      "question": "Which Roman Emperor issued the Edict of Milan in 313 AD, granting religious tolerance throughout the empire?",
+      "answers": [
+        {"text": "Constantine I", "correct": true},
+        {"text": "Theodosius I", "correct": false},
+        {"text": "Diocletian", "correct": false},
+        {"text": "Julian", "correct": false},
+        {"text": "Keanu Reeves", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "History"
+    },
+    {
+      "id": "hist_049",
+      "question": "What ancient artifact, discovered in 1799, was the key to decoding Egyptian hieroglyphics?",
+      "answers": [
+        {"text": "The Rosetta Stone", "correct": true},
+        {"text": "The Champollion Tablet", "correct": false},
+        {"text": "The Dendera Zodiac", "correct": false},
+        {"text": "The Karnak Stele", "correct": false},
+        {"text": "Google Translate", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "History"
+    },
+    {
+      "id": "hist_050",
+      "question": "Which ancient Greek philosopher was sentenced to death and executed by drinking hemlock in 399 BC?",
+      "answers": [
+        {"text": "Socrates", "correct": true},
+        {"text": "Plato", "correct": false},
+        {"text": "Aristotle", "correct": false},
+        {"text": "Diogenes", "correct": false},
+        {"text": "Hemlock Holmes", "correct": false, "absurd": true}
       ],
       "difficulty": "hard",
       "category": "History"
