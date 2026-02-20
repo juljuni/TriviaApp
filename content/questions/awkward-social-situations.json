@@ -1,0 +1,1466 @@
+{
+  "category": "Awkward Social Situations",
+  "metadata": {
+    "totalQuestions": 50,
+    "difficulty": {
+      "easy": 20,
+      "medium": 20,
+      "hard": 10
+    },
+    "version": "1.0",
+    "created": "2026-02-20",
+    "updated": "2026-02-21"
+  },
+  "questions": [
+    {
+      "id": "awk_001",
+      "question": "What embarrassing phrase do most people blurt out when a restaurant server wishes them 'enjoy your meal'?",
+      "answers": [
+        {
+          "text": "You too",
+          "correct": true
+        },
+        {
+          "text": "Thank you so much",
+          "correct": false
+        },
+        {
+          "text": "Same to you",
+          "correct": false
+        },
+        {
+          "text": "Much appreciated",
+          "correct": false
+        },
+        {
+          "text": "Many happy returns",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_002",
+      "question": "When you enthusiastically wave at someone who was not actually waving at you, what is the most common instinctive cover-up?",
+      "answers": [
+        {
+          "text": "Pretend to fix your hair",
+          "correct": true
+        },
+        {
+          "text": "Immediately check your phone",
+          "correct": false
+        },
+        {
+          "text": "Point dramatically at something behind them",
+          "correct": false
+        },
+        {
+          "text": "Fake a sneeze",
+          "correct": false
+        },
+        {
+          "text": "Submit a formal retraction",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_003",
+      "question": "What classic strategy do people use to avoid revealing they have forgotten someone's name when introducing them to a third person?",
+      "answers": [
+        {
+          "text": "Let the other person introduce themselves",
+          "correct": true
+        },
+        {
+          "text": "Use 'this is my friend' and skip the name entirely",
+          "correct": false
+        },
+        {
+          "text": "Fake a phone call before introductions happen",
+          "correct": false
+        },
+        {
+          "text": "Ask how they spell their name to buy time",
+          "correct": false
+        },
+        {
+          "text": "Request photo ID",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_004",
+      "question": "When you accidentally say 'I love you' to the wrong person at the end of a phone call, what do most people do first?",
+      "answers": [
+        {
+          "text": "Hang up immediately",
+          "correct": true
+        },
+        {
+          "text": "Laugh it off and blame force of habit",
+          "correct": false
+        },
+        {
+          "text": "Say 'I meant to say goodbye'",
+          "correct": false
+        },
+        {
+          "text": "Wait in silence to see how they respond",
+          "correct": false
+        },
+        {
+          "text": "Retract the statement via formal channels",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_005",
+      "question": "When you hold a door open for someone who is still too far away, forcing them into an apologetic jog-walk, what do most door-holders do?",
+      "answers": [
+        {
+          "text": "Give an apologetic smile and keep holding it",
+          "correct": true
+        },
+        {
+          "text": "Let the door close slowly as a mercy",
+          "correct": false
+        },
+        {
+          "text": "Walk through first and leave it for them to catch",
+          "correct": false
+        },
+        {
+          "text": "Call out 'no rush, take your time!'",
+          "correct": false
+        },
+        {
+          "text": "Acknowledge receipt and await arrival",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_006",
+      "question": "When you and a stranger keep stepping in the same direction while trying to pass each other in a corridor, what do most people eventually say?",
+      "answers": [
+        {
+          "text": "Sorry, after you",
+          "correct": true
+        },
+        {
+          "text": "We have to stop meeting like this",
+          "correct": false
+        },
+        {
+          "text": "You first, no you first",
+          "correct": false
+        },
+        {
+          "text": "Nothing, just freeze and wait",
+          "correct": false
+        },
+        {
+          "text": "Formally yield the right of way",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_007",
+      "question": "What do most people stare at intently when they spot someone they know but desperately want to avoid?",
+      "answers": [
+        {
+          "text": "Their phone",
+          "correct": true
+        },
+        {
+          "text": "The floor",
+          "correct": false
+        },
+        {
+          "text": "Something in the far distance",
+          "correct": false
+        },
+        {
+          "text": "A nearby shelf or sign",
+          "correct": false
+        },
+        {
+          "text": "A laminated safety procedure",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_008",
+      "question": "When someone tells a joke you did not understand and you laugh anyway, what do most people do immediately after?",
+      "answers": [
+        {
+          "text": "Nod and hope no follow-up question comes",
+          "correct": true
+        },
+        {
+          "text": "Ask them to explain it immediately",
+          "correct": false
+        },
+        {
+          "text": "Repeat the punchline as if savoring it",
+          "correct": false
+        },
+        {
+          "text": "Admit they did not get it",
+          "correct": false
+        },
+        {
+          "text": "Log it for future comprehension review",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_009",
+      "question": "What is the most universally devastating single-character response to receive after sending a long, heartfelt text message?",
+      "answers": [
+        {
+          "text": "k",
+          "correct": true
+        },
+        {
+          "text": "A thumbs-up reaction",
+          "correct": false
+        },
+        {
+          "text": "lol",
+          "correct": false
+        },
+        {
+          "text": "No reply at all",
+          "correct": false
+        },
+        {
+          "text": "A form letter",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_010",
+      "question": "What do most people immediately do the moment they realize they have accidentally liked a photo from years ago while scrolling through someone's profile?",
+      "answers": [
+        {
+          "text": "Unlike it instantly and put the phone face-down",
+          "correct": true
+        },
+        {
+          "text": "Leave it to avoid a second notification from unliking",
+          "correct": false
+        },
+        {
+          "text": "Send a casual message to cover their tracks",
+          "correct": false
+        },
+        {
+          "text": "Temporarily block the person",
+          "correct": false
+        },
+        {
+          "text": "Report the post as a misfiled interaction",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_011",
+      "question": "What term describes the anxiety felt when you can see that someone has opened and read your message but has not responded?",
+      "answers": [
+        {
+          "text": "Read receipt anxiety",
+          "correct": true
+        },
+        {
+          "text": "Blue tick dread",
+          "correct": false
+        },
+        {
+          "text": "Message limbo",
+          "correct": false
+        },
+        {
+          "text": "Notification paralysis",
+          "correct": false
+        },
+        {
+          "text": "Asynchronous response disorder",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_012",
+      "question": "In modern texting etiquette, after approximately how many days does replying to a message typically become awkward without offering some explanation?",
+      "answers": [
+        {
+          "text": "3 days",
+          "correct": true
+        },
+        {
+          "text": "24 hours",
+          "correct": false
+        },
+        {
+          "text": "5 days",
+          "correct": false
+        },
+        {
+          "text": "1 week",
+          "correct": false
+        },
+        {
+          "text": "30 working days",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_013",
+      "question": "What term describes the act of sending a second message to someone before they have replied to your first?",
+      "answers": [
+        {
+          "text": "Double texting",
+          "correct": true
+        },
+        {
+          "text": "Follow-up messaging",
+          "correct": false
+        },
+        {
+          "text": "Bump texting",
+          "correct": false
+        },
+        {
+          "text": "Stacking messages",
+          "correct": false
+        },
+        {
+          "text": "Unsolicited sequential communication",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_014",
+      "question": "When you unexpectedly run into your ex while they are with their new partner, what physical adjustment do most people make almost immediately?",
+      "answers": [
+        {
+          "text": "Stand up straighter",
+          "correct": true
+        },
+        {
+          "text": "Slow their walking pace",
+          "correct": false
+        },
+        {
+          "text": "Smile wider than usual",
+          "correct": false
+        },
+        {
+          "text": "Reach for their phone",
+          "correct": false
+        },
+        {
+          "text": "Execute a full personal brand refresh",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_015",
+      "question": "What is the universally agreed safest conversation topic for elevator small talk with a colleague or stranger?",
+      "answers": [
+        {
+          "text": "The weather",
+          "correct": true
+        },
+        {
+          "text": "The building or office",
+          "correct": false
+        },
+        {
+          "text": "Traffic or the commute",
+          "correct": false
+        },
+        {
+          "text": "How busy everyone is",
+          "correct": false
+        },
+        {
+          "text": "The geopolitical implications of the current fiscal quarter",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_016",
+      "question": "What is the term for when someone shares excessively personal information with a casual acquaintance or stranger far too early in the relationship?",
+      "answers": [
+        {
+          "text": "Oversharing",
+          "correct": true
+        },
+        {
+          "text": "TMI dumping",
+          "correct": false
+        },
+        {
+          "text": "Emotional frontloading",
+          "correct": false
+        },
+        {
+          "text": "Verbal boundary violation",
+          "correct": false
+        },
+        {
+          "text": "Uninvited biographical disclosure event",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_017",
+      "question": "What behavioral technique, recommended for disengaging from manipulative or excessively talkative people, involves giving deliberately flat and uninteresting responses?",
+      "answers": [
+        {
+          "text": "Grey rocking",
+          "correct": true
+        },
+        {
+          "text": "Active disengagement",
+          "correct": false
+        },
+        {
+          "text": "Strategic aloofness",
+          "correct": false
+        },
+        {
+          "text": "Emotional distancing",
+          "correct": false
+        },
+        {
+          "text": "Tactical conversational hibernation",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_018",
+      "question": "When you mishear someone three times in a row and still cannot understand them, what do most people do rather than ask a fourth time?",
+      "answers": [
+        {
+          "text": "Nod and pretend to have understood",
+          "correct": true
+        },
+        {
+          "text": "Ask them to text it instead",
+          "correct": false
+        },
+        {
+          "text": "Concentrate intensely and ask once more",
+          "correct": false
+        },
+        {
+          "text": "Apologize and explain they have trouble hearing",
+          "correct": false
+        },
+        {
+          "text": "Request a written transcript",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_019",
+      "question": "What does receiving a text message written entirely in capital letters most commonly signal to the reader?",
+      "answers": [
+        {
+          "text": "The sender is angry or shouting",
+          "correct": true
+        },
+        {
+          "text": "The sender is very excited",
+          "correct": false
+        },
+        {
+          "text": "The sender has autocaps accidentally enabled",
+          "correct": false
+        },
+        {
+          "text": "The sender wants to stress the importance",
+          "correct": false
+        },
+        {
+          "text": "A formal declaration of written intent",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_020",
+      "question": "What is the first thing most people do after accidentally hitting 'reply all' on a company email with a comment intended only for one person?",
+      "answers": [
+        {
+          "text": "Send a panicked recall message immediately",
+          "correct": true
+        },
+        {
+          "text": "Send a follow-up apology to the whole chain",
+          "correct": false
+        },
+        {
+          "text": "Leave it and hope nobody reads it closely",
+          "correct": false
+        },
+        {
+          "text": "Contact IT to delete it from everyone's inbox",
+          "correct": false
+        },
+        {
+          "text": "Initiate an enterprise-level communication retraction",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_021",
+      "question": "What psychological term describes the discomfort of watching someone else's embarrassing social blunder, even when the person committing it seems completely unaware?",
+      "answers": [
+        {
+          "text": "Vicarious embarrassment",
+          "correct": true
+        },
+        {
+          "text": "Secondhand cringe",
+          "correct": false
+        },
+        {
+          "text": "Empathic mortification",
+          "correct": false
+        },
+        {
+          "text": "Transferred shame",
+          "correct": false
+        },
+        {
+          "text": "Transpersonal humiliation absorption",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_022",
+      "question": "What French term, now used in English, describes the perfectly witty comeback that only occurs to you after the awkward moment has already passed?",
+      "answers": [
+        {
+          "text": "L'esprit de l'escalier",
+          "correct": true
+        },
+        {
+          "text": "La réponse tardive",
+          "correct": false
+        },
+        {
+          "text": "Le mot parfait",
+          "correct": false
+        },
+        {
+          "text": "La réplique manquée",
+          "correct": false
+        },
+        {
+          "text": "Retroactive conversational brilliance syndrome",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_023",
+      "question": "What term distinguishes the gradual deliberate reduction of contact with someone from an abrupt complete cessation of communication?",
+      "answers": [
+        {
+          "text": "The slow fade",
+          "correct": true
+        },
+        {
+          "text": "Soft ghosting",
+          "correct": false
+        },
+        {
+          "text": "Digital withdrawal",
+          "correct": false
+        },
+        {
+          "text": "Passive ghosting",
+          "correct": false
+        },
+        {
+          "text": "The phased disengagement protocol",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_024",
+      "question": "What is the technical Freudian term for a verbal slip in which someone accidentally says what they unconsciously meant rather than what they consciously intended?",
+      "answers": [
+        {
+          "text": "Parapraxis",
+          "correct": true
+        },
+        {
+          "text": "Verbal lapsus",
+          "correct": false
+        },
+        {
+          "text": "Psychic spillage",
+          "correct": false
+        },
+        {
+          "text": "Unconscious disclosure",
+          "correct": false
+        },
+        {
+          "text": "Involuntary truth transmission",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_025",
+      "question": "What psychological phenomenon explains why people consistently overestimate how much others notice and judge their appearance, behavior, or mistakes in social situations?",
+      "answers": [
+        {
+          "text": "The spotlight effect",
+          "correct": true
+        },
+        {
+          "text": "Observational bias",
+          "correct": false
+        },
+        {
+          "text": "Social visibility illusion",
+          "correct": false
+        },
+        {
+          "text": "Performative self-awareness",
+          "correct": false
+        },
+        {
+          "text": "Chronic observation overestimation",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_026",
+      "question": "When you go in for a handshake but the other person goes in for a hug simultaneously, what do most people end up performing?",
+      "answers": [
+        {
+          "text": "An awkward combination of both, resulting in a shoulder pat",
+          "correct": true
+        },
+        {
+          "text": "A full hug while ignoring the handshake",
+          "correct": false
+        },
+        {
+          "text": "A firm handshake while they stand there with arms open",
+          "correct": false
+        },
+        {
+          "text": "A complete freeze until one person retreats",
+          "correct": false
+        },
+        {
+          "text": "A very formal bow",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_027",
+      "question": "When you realize mid-story that you have already told this exact story to this exact person before, what do most people do?",
+      "answers": [
+        {
+          "text": "Speed through the ending and hope the other person is too polite to mention it",
+          "correct": true
+        },
+        {
+          "text": "Stop immediately and apologize for the repetition",
+          "correct": false
+        },
+        {
+          "text": "Claim the story has a different ending this time",
+          "correct": false
+        },
+        {
+          "text": "Ask if they remember hearing it",
+          "correct": false
+        },
+        {
+          "text": "Tell it again but slower and with more detail",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_028",
+      "question": "What expression do most people wear on their face when a group of strangers or coworkers sings 'Happy Birthday' to them in a public setting?",
+      "answers": [
+        {
+          "text": "An uncomfortable frozen smile held for the entire song",
+          "correct": true
+        },
+        {
+          "text": "Eyes closed and head bowed, waiting for it to end",
+          "correct": false
+        },
+        {
+          "text": "Looking at the cake to avoid eye contact with anyone",
+          "correct": false
+        },
+        {
+          "text": "Mouthing the words along to feel less awkward",
+          "correct": false
+        },
+        {
+          "text": "Genuine tears of joy streaming down their face",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_029",
+      "question": "What typically happens when someone says 'you're welcome' before the other person has actually said thank you?",
+      "answers": [
+        {
+          "text": "They keep talking immediately to bury it",
+          "correct": true
+        },
+        {
+          "text": "They correct themselves and say 'I mean, no problem'",
+          "correct": false
+        },
+        {
+          "text": "Both parties pretend it did not happen",
+          "correct": false
+        },
+        {
+          "text": "The other person thanks them to smooth it over",
+          "correct": false
+        },
+        {
+          "text": "They file a formal complaint with HR",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_030",
+      "question": "When you accidentally send a text clearly meant for someone else to the wrong person, what do most people do first?",
+      "answers": [
+        {
+          "text": "Delete the message from the conversation if the platform allows it",
+          "correct": true
+        },
+        {
+          "text": "Immediately send a follow-up explaining it was a mistake",
+          "correct": false
+        },
+        {
+          "text": "Call the recipient to explain before they can read it",
+          "correct": false
+        },
+        {
+          "text": "Leave it and hope the recipient does not check their phone",
+          "correct": false
+        },
+        {
+          "text": "Change their phone number immediately",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_031",
+      "question": "What is the name given to the social phenomenon where two people say goodbye to each other but continue talking and fail to actually part ways for another ten minutes or more?",
+      "answers": [
+        {
+          "text": "The long goodbye",
+          "correct": true
+        },
+        {
+          "text": "The doorstep dilemma",
+          "correct": false
+        },
+        {
+          "text": "The departure loop",
+          "correct": false
+        },
+        {
+          "text": "The farewell stall",
+          "correct": false
+        },
+        {
+          "text": "The Irish exit",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_032",
+      "question": "When you walk past the street, shop, or door you intended to enter and do not want to look like you made a mistake, what do most people do?",
+      "answers": [
+        {
+          "text": "Continue walking a short distance before casually doubling back",
+          "correct": true
+        },
+        {
+          "text": "Stop immediately and turn around without hesitation",
+          "correct": false
+        },
+        {
+          "text": "Pull out their phone and pretend to check directions",
+          "correct": false
+        },
+        {
+          "text": "Walk around the block to approach from the other direction",
+          "correct": false
+        },
+        {
+          "text": "Call out 'Wrong store!' loudly to establish dominance",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_033",
+      "question": "When you accidentally laugh at exactly the wrong moment during a sad or serious conversation, what do most people instinctively do?",
+      "answers": [
+        {
+          "text": "Convert the laugh into a cough or throat-clearing",
+          "correct": true
+        },
+        {
+          "text": "Apologize immediately and explain themselves",
+          "correct": false
+        },
+        {
+          "text": "Pretend they sneezed",
+          "correct": false
+        },
+        {
+          "text": "Go silent and look at their hands",
+          "correct": false
+        },
+        {
+          "text": "Commit fully and laugh harder to own it",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_034",
+      "question": "When someone's name disappears from memory within seconds of being introduced, what strategy do most people use for the rest of the conversation?",
+      "answers": [
+        {
+          "text": "Avoid using the person's name entirely until they hear it again naturally",
+          "correct": true
+        },
+        {
+          "text": "Ask them to repeat it as soon as possible",
+          "correct": false
+        },
+        {
+          "text": "Introduce them to a third person hoping they will say their own name",
+          "correct": false
+        },
+        {
+          "text": "Check their phone for any record of the name",
+          "correct": false
+        },
+        {
+          "text": "Make up a nickname and use that instead",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_035",
+      "question": "When someone is caught talking or singing to themselves in public and realizes others have noticed, what do most people instinctively do?",
+      "answers": [
+        {
+          "text": "Pretend they are on a phone call or listening through earbuds",
+          "correct": true
+        },
+        {
+          "text": "Laugh it off and acknowledge what they were doing",
+          "correct": false
+        },
+        {
+          "text": "Go completely silent and stare straight ahead",
+          "correct": false
+        },
+        {
+          "text": "Increase their pace to leave the area",
+          "correct": false
+        },
+        {
+          "text": "Start a TikTok live stream immediately",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_036",
+      "question": "What is the term for the behavior of someone who has stopped communicating with you romantically or socially but continues watching all of your social media stories without making contact?",
+      "answers": [
+        {
+          "text": "Orbiting",
+          "correct": true
+        },
+        {
+          "text": "Soft ghosting",
+          "correct": false
+        },
+        {
+          "text": "Digital lurking",
+          "correct": false
+        },
+        {
+          "text": "Story haunting",
+          "correct": false
+        },
+        {
+          "text": "Astronaut training",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_037",
+      "question": "What is the term 'phubbing' used to describe?",
+      "answers": [
+        {
+          "text": "Snubbing someone in person in favor of paying attention to your phone",
+          "correct": true
+        },
+        {
+          "text": "Blocking someone on all platforms simultaneously",
+          "correct": false
+        },
+        {
+          "text": "Sending a message and immediately pretending you did not",
+          "correct": false
+        },
+        {
+          "text": "Scrolling mindlessly without reading anything",
+          "correct": false
+        },
+        {
+          "text": "A new Pokémon evolution",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_038",
+      "question": "What social media practice involves posting carefully ambiguous content that hints at a new romantic relationship without officially announcing it?",
+      "answers": [
+        {
+          "text": "Soft launching",
+          "correct": true
+        },
+        {
+          "text": "Breadcrumbing",
+          "correct": false
+        },
+        {
+          "text": "Relationship teasing",
+          "correct": false
+        },
+        {
+          "text": "Situationship signaling",
+          "correct": false
+        },
+        {
+          "text": "Hard launching a submarine",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_039",
+      "question": "What does the term 'breadcrumbing' mean in modern dating?",
+      "answers": [
+        {
+          "text": "Sending occasional flirty messages to keep someone's interest while never intending to commit",
+          "correct": true
+        },
+        {
+          "text": "Gradually reducing contact over weeks until communication quietly stops",
+          "correct": false
+        },
+        {
+          "text": "Following someone's social media activity without ever making direct contact",
+          "correct": false
+        },
+        {
+          "text": "Leaving clues about your romantic interest instead of stating it directly",
+          "correct": false
+        },
+        {
+          "text": "Leaving an actual trail of breadcrumbs",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_040",
+      "question": "When you realize mid-complaint that the person you are complaining about has just walked into the room behind you, what do most people do?",
+      "answers": [
+        {
+          "text": "Abruptly change topic and act completely natural",
+          "correct": true
+        },
+        {
+          "text": "Stop mid-sentence and go quiet",
+          "correct": false
+        },
+        {
+          "text": "Continue at a lower volume hoping they did not hear",
+          "correct": false
+        },
+        {
+          "text": "Leave the room on a pretend errand",
+          "correct": false
+        },
+        {
+          "text": "Turn around and hug them warmly",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_041",
+      "question": "What term describes the act of typing a message in a chat, changing your mind, and deleting it before sending — a behavior now visible to others through typing indicators?",
+      "answers": [
+        {
+          "text": "Ghost typing",
+          "correct": true
+        },
+        {
+          "text": "Phantom messaging",
+          "correct": false
+        },
+        {
+          "text": "Silent drafting",
+          "correct": false
+        },
+        {
+          "text": "Message withdrawal",
+          "correct": false
+        },
+        {
+          "text": "Ghost writing",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_042",
+      "question": "What name is given to the social media tactic of following an account to prompt a follow-back and then immediately unfollowing once the follow-back is secured?",
+      "answers": [
+        {
+          "text": "Follow-unfollow",
+          "correct": true
+        },
+        {
+          "text": "Bait following",
+          "correct": false
+        },
+        {
+          "text": "Vanity farming",
+          "correct": false
+        },
+        {
+          "text": "Ghost following",
+          "correct": false
+        },
+        {
+          "text": "The pyramid scheme",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_043",
+      "question": "What is the term for a romantic connection that is neither a casual hookup nor a committed relationship, existing in a deliberately undefined middle ground?",
+      "answers": [
+        {
+          "text": "A situationship",
+          "correct": true
+        },
+        {
+          "text": "Soft dating",
+          "correct": false
+        },
+        {
+          "text": "Romantic ambiguity",
+          "correct": false
+        },
+        {
+          "text": "An undefined partnership",
+          "correct": false
+        },
+        {
+          "text": "A Swiss relationship",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_044",
+      "question": "What is 'zombieing' in modern dating terminology?",
+      "answers": [
+        {
+          "text": "When someone who previously ghosted you suddenly reappears and acts as if nothing happened",
+          "correct": true
+        },
+        {
+          "text": "When someone ends things but keeps watching your social media",
+          "correct": false
+        },
+        {
+          "text": "When a person gradually reduces contact until they vanish completely",
+          "correct": false
+        },
+        {
+          "text": "When two people repeatedly break up and reconcile",
+          "correct": false
+        },
+        {
+          "text": "The Walking Dead season finale",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_045",
+      "question": "What is the social term for the behavior of repeatedly agreeing to plans you have no intention of keeping, typically cancelling with a different excuse each time?",
+      "answers": [
+        {
+          "text": "Flaking",
+          "correct": true
+        },
+        {
+          "text": "Soft cancelling",
+          "correct": false
+        },
+        {
+          "text": "Plan dodging",
+          "correct": false
+        },
+        {
+          "text": "Commitment avoidance",
+          "correct": false
+        },
+        {
+          "text": "Making actual flakes",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_046",
+      "question": "According to Robin Dunbar's research on social cognition, what is the approximate maximum number of stable social relationships the human brain can comfortably maintain at one time?",
+      "answers": [
+        {
+          "text": "150",
+          "correct": true
+        },
+        {
+          "text": "50",
+          "correct": false
+        },
+        {
+          "text": "250",
+          "correct": false
+        },
+        {
+          "text": "500",
+          "correct": false
+        },
+        {
+          "text": "7 billion",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_047",
+      "question": "What is the 'pratfall effect' in social psychology?",
+      "answers": [
+        {
+          "text": "Highly competent people become more likeable after making a visible mistake or blunder",
+          "correct": true
+        },
+        {
+          "text": "People feel more embarrassed watching others fail than they do when failing themselves",
+          "correct": false
+        },
+        {
+          "text": "Apologies after public blunders always restore the apologizer's original reputation",
+          "correct": false
+        },
+        {
+          "text": "People are more forgiving of mistakes made in public than in private",
+          "correct": false
+        },
+        {
+          "text": "Falling down stairs makes you president",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_048",
+      "question": "What is 'pluralistic ignorance' in social settings?",
+      "answers": [
+        {
+          "text": "When everyone privately doubts a norm but incorrectly assumes everyone else believes in it",
+          "correct": true
+        },
+        {
+          "text": "The collective failure to acknowledge something everyone privately knows to be true",
+          "correct": false
+        },
+        {
+          "text": "When a group makes a decision no individual member would make alone",
+          "correct": false
+        },
+        {
+          "text": "Staying silent in groups because you assume others are better informed",
+          "correct": false
+        },
+        {
+          "text": "Being dumb in multiple languages",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_049",
+      "question": "Erving Goffman coined 'impression management' to describe what aspect of everyday social behavior?",
+      "answers": [
+        {
+          "text": "Strategically controlling your self-presentation to shape how others perceive you",
+          "correct": true
+        },
+        {
+          "text": "The subconscious adjustment of behavior based on perceived audience expectations",
+          "correct": false
+        },
+        {
+          "text": "The effort to appear consistent across different social roles and contexts",
+          "correct": false
+        },
+        {
+          "text": "The tendency to behave differently when aware of being watched",
+          "correct": false
+        },
+        {
+          "text": "LinkedIn profile management",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Awkward Social Situations"
+    },
+    {
+      "id": "awk_050",
+      "question": "What term describes the psychological mechanism explaining why individuals in a large group are less likely to help in an emergency, as each person assumes someone else will step in?",
+      "answers": [
+        {
+          "text": "Diffusion of responsibility",
+          "correct": true
+        },
+        {
+          "text": "The bystander effect",
+          "correct": false
+        },
+        {
+          "text": "Social loafing",
+          "correct": false
+        },
+        {
+          "text": "Collective inaction",
+          "correct": false
+        },
+        {
+          "text": "Someone Else's Problem field",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Awkward Social Situations"
+    }
+  ]
+}

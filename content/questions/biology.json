@@ -1,5 +1,5 @@
 {
-  "category": "Science",
+  "category": "Biology",
   "metadata": {
     "totalQuestions": 10,
     "difficulty": {
@@ -16,121 +16,251 @@
       "id": "bio_001",
       "question": "What is the powerhouse of the cell?",
       "answers": [
-        {"text": "Mitochondria", "correct": true},
-        {"text": "Nucleus", "correct": false},
-        {"text": "Ribosome", "correct": false},
-        {"text": "Mightychondria", "correct": false, "absurd": true}
+        {
+          "text": "Mitochondria",
+          "correct": true
+        },
+        {
+          "text": "Nucleus",
+          "correct": false
+        },
+        {
+          "text": "Ribosome",
+          "correct": false
+        },
+        {
+          "text": "Mightychondria",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
-      "category": "Science"
+      "category": "Biology"
     },
     {
       "id": "bio_002",
       "question": "How many chambers does the human heart have?",
       "answers": [
-        {"text": "4", "correct": true},
-        {"text": "3", "correct": false},
-        {"text": "2", "correct": false},
-        {"text": "4.5", "correct": false, "absurd": true}
+        {
+          "text": "4",
+          "correct": true
+        },
+        {
+          "text": "3",
+          "correct": false
+        },
+        {
+          "text": "2",
+          "correct": false
+        },
+        {
+          "text": "4.5",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
-      "category": "Science"
+      "category": "Biology"
     },
     {
       "id": "bio_003",
       "question": "What percentage of human DNA is shared with chimpanzees?",
       "answers": [
-        {"text": "98-99%", "correct": true},
-        {"text": "85-90%", "correct": false},
-        {"text": "75-80%", "correct": false},
-        {"text": "99.9%", "correct": false, "absurd": true}
+        {
+          "text": "98-99%",
+          "correct": true
+        },
+        {
+          "text": "85-90%",
+          "correct": false
+        },
+        {
+          "text": "75-80%",
+          "correct": false
+        },
+        {
+          "text": "99.9%",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
-      "category": "Science"
+      "category": "Biology"
     },
     {
       "id": "bio_004",
       "question": "What is the process by which plants make their own food?",
       "answers": [
-        {"text": "Photosynthesis", "correct": true},
-        {"text": "Respiration", "correct": false},
-        {"text": "Fermentation", "correct": false},
-        {"text": "Chlorophyllation", "correct": false, "absurd": true}
+        {
+          "text": "Photosynthesis",
+          "correct": true
+        },
+        {
+          "text": "Respiration",
+          "correct": false
+        },
+        {
+          "text": "Fermentation",
+          "correct": false
+        },
+        {
+          "text": "Chlorophyllation",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
-      "category": "Science"
+      "category": "Biology"
     },
     {
       "id": "bio_005",
       "question": "What type of blood cells fight infection?",
       "answers": [
-        {"text": "White blood cells", "correct": true},
-        {"text": "Red blood cells", "correct": false},
-        {"text": "Platelets", "correct": false},
-        {"text": "Battle cells", "correct": false, "absurd": true}
+        {
+          "text": "White blood cells",
+          "correct": true
+        },
+        {
+          "text": "Red blood cells",
+          "correct": false
+        },
+        {
+          "text": "Platelets",
+          "correct": false
+        },
+        {
+          "text": "Battle cells",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
-      "category": "Science"
+      "category": "Biology"
     },
     {
       "id": "bio_006",
       "question": "What is the largest organ in the human body?",
       "answers": [
-        {"text": "Skin", "correct": true},
-        {"text": "Liver", "correct": false},
-        {"text": "Brain", "correct": false},
-        {"text": "The ego", "correct": false, "absurd": true}
+        {
+          "text": "Skin",
+          "correct": true
+        },
+        {
+          "text": "Liver",
+          "correct": false
+        },
+        {
+          "text": "Brain",
+          "correct": false
+        },
+        {
+          "text": "The ego",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
-      "category": "Science"
+      "category": "Biology"
     },
     {
       "id": "bio_007",
       "question": "What is the name of the pigment that gives plants their green color?",
       "answers": [
-        {"text": "Chlorophyll", "correct": true},
-        {"text": "Carotene", "correct": false},
-        {"text": "Melanin", "correct": false},
-        {"text": "Verdophyll", "correct": false, "absurd": true}
+        {
+          "text": "Chlorophyll",
+          "correct": true
+        },
+        {
+          "text": "Carotene",
+          "correct": false
+        },
+        {
+          "text": "Melanin",
+          "correct": false
+        },
+        {
+          "text": "Verdophyll",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
-      "category": "Science"
+      "category": "Biology"
     },
     {
       "id": "bio_008",
       "question": "What is the study of fungi called?",
       "answers": [
-        {"text": "Mycology", "correct": true},
-        {"text": "Botany", "correct": false},
-        {"text": "Zoology", "correct": false},
-        {"text": "Fungology", "correct": false, "absurd": true}
+        {
+          "text": "Mycology",
+          "correct": true
+        },
+        {
+          "text": "Botany",
+          "correct": false
+        },
+        {
+          "text": "Zoology",
+          "correct": false
+        },
+        {
+          "text": "Fungology",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
-      "category": "Science"
+      "category": "Biology"
     },
     {
       "id": "bio_009",
       "question": "How many bones are in the adult human body?",
       "answers": [
-        {"text": "206", "correct": true},
-        {"text": "196", "correct": false},
-        {"text": "216", "correct": false},
-        {"text": "A skeleton", "correct": false, "absurd": true}
+        {
+          "text": "206",
+          "correct": true
+        },
+        {
+          "text": "196",
+          "correct": false
+        },
+        {
+          "text": "216",
+          "correct": false
+        },
+        {
+          "text": "A skeleton",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
-      "category": "Science"
+      "category": "Biology"
     },
     {
       "id": "bio_010",
       "question": "What is the name of the process where a cell divides to produce two identical daughter cells?",
       "answers": [
-        {"text": "Mitosis", "correct": true},
-        {"text": "Meiosis", "correct": false},
-        {"text": "Binary fission", "correct": false},
-        {"text": "Cell division", "correct": false, "absurd": true}
+        {
+          "text": "Mitosis",
+          "correct": true
+        },
+        {
+          "text": "Meiosis",
+          "correct": false
+        },
+        {
+          "text": "Binary fission",
+          "correct": false
+        },
+        {
+          "text": "Cell division",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
-      "category": "Science"
+      "category": "Biology"
     }
   ]
 }
