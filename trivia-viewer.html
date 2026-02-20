@@ -193,9 +193,46 @@
             border-radius: 8px;
             background: white;
             border: 2px solid #e0e0e0;
-            transition: all 0.3s;
+            transition: all 0.2s;
+            cursor: pointer;
+            user-select: none;
         }
 
+        .answers-list:not(.answered) .answer-item:hover {
+            border-color: #667eea;
+            background: #f0f0ff;
+            transform: translateX(4px);
+        }
+
+        .answers-list.answered .answer-item {
+            cursor: default;
+        }
+
+        .answer-item.correct {
+            background: #d4edda;
+            border-color: #28a745;
+            color: #155724;
+            font-weight: 600;
+        }
+
+        .answer-item.incorrect {
+            background: #f8d7da;
+            border-color: #dc3545;
+            color: #721c24;
+        }
+
+        .answer-item.revealed {
+            background: #d4edda;
+            border-color: #28a745;
+            color: #155724;
+            font-weight: 600;
+        }
+
+        .answer-item .tag {
+            float: right;
+            font-size: 0.8em;
+            opacity: 0.8;
+        }
 
         .no-results {
             text-align: center;
@@ -346,6 +383,30 @@
             `;
         }
 
+        function shuffle(arr) {
+            return [...arr].sort(() => Math.random() - 0.5);
+        }
+
+        function checkAnswer(el) {
+            const list = el.closest('.answers-list');
+            if (list.classList.contains('answered')) return;
+            list.classList.add('answered');
+
+            if (el.dataset.correct === 'true') {
+                el.classList.add('correct');
+                el.innerHTML += '<span class="tag">✓ correct</span>';
+            } else {
+                el.classList.add('incorrect');
+                el.innerHTML += '<span class="tag">✗ wrong</span>';
+                list.querySelectorAll('.answer-item').forEach(item => {
+                    if (item.dataset.correct === 'true') {
+                        item.classList.add('revealed');
+                        item.innerHTML += '<span class="tag">✓ correct</span>';
+                    }
+                });
+            }
+        }
+
         function renderQuestions() {
             const categoryFilter = document.getElementById('categoryFilter').value;
             const difficultyFilter = document.getElementById('difficultyFilter').value;
@@ -392,8 +453,8 @@
                                 </div>
                                 <div class="question-text">${q.question}</div>
                                 <ul class="answers-list">
-                                    ${q.answers.map(a => `
-                                        <li class="answer-item">
+                                    ${shuffle(q.answers).map(a => `
+                                        <li class="answer-item" data-correct="${a.correct}" onclick="checkAnswer(this)">
                                             ${a.text}
                                         </li>
                                     `).join('')}
