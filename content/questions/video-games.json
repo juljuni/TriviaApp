@@ -1,0 +1,1466 @@
+{
+  "category": "Video Games",
+  "metadata": {
+    "totalQuestions": 50,
+    "difficulty": {
+      "easy": 20,
+      "medium": 20,
+      "hard": 10
+    },
+    "version": "2.0",
+    "created": "2026-02-21",
+    "updated": "2026-02-21"
+  },
+  "questions": [
+    {
+      "id": "vgm_001",
+      "question": "What is Mario's occupation in the Super Mario franchise?",
+      "answers": [
+        {
+          "text": "Plumber",
+          "correct": true
+        },
+        {
+          "text": "Carpenter",
+          "correct": false
+        },
+        {
+          "text": "Baker",
+          "correct": false
+        },
+        {
+          "text": "Electrician",
+          "correct": false
+        },
+        {
+          "text": "Unlicensed contractor",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_002",
+      "question": "What is the name of the princess Mario typically rescues in the Super Mario series?",
+      "answers": [
+        {
+          "text": "Princess Peach",
+          "correct": true
+        },
+        {
+          "text": "Princess Daisy",
+          "correct": false
+        },
+        {
+          "text": "Princess Zelda",
+          "correct": false
+        },
+        {
+          "text": "Princess Rosalina",
+          "correct": false
+        },
+        {
+          "text": "The one who keeps getting kidnapped",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_003",
+      "question": "Who created Minecraft before Microsoft acquired it in 2014?",
+      "answers": [
+        {
+          "text": "Markus \"Notch\" Persson",
+          "correct": true
+        },
+        {
+          "text": "Jens Bergensten",
+          "correct": false
+        },
+        {
+          "text": "Tobias Sjögren",
+          "correct": false
+        },
+        {
+          "text": "Erik Broman",
+          "correct": false
+        },
+        {
+          "text": "Steve",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_004",
+      "question": "What gaming company created Sonic the Hedgehog?",
+      "answers": [
+        {
+          "text": "Sega",
+          "correct": true
+        },
+        {
+          "text": "Nintendo",
+          "correct": false
+        },
+        {
+          "text": "Capcom",
+          "correct": false
+        },
+        {
+          "text": "Namco",
+          "correct": false
+        },
+        {
+          "text": "The company that tried its hardest",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_005",
+      "question": "In The Legend of Zelda, what is the name of the playable hero (not the princess)?",
+      "answers": [
+        {
+          "text": "Link",
+          "correct": true
+        },
+        {
+          "text": "Zelda",
+          "correct": false
+        },
+        {
+          "text": "Ganon",
+          "correct": false
+        },
+        {
+          "text": "Hyrule",
+          "correct": false
+        },
+        {
+          "text": "Your browser history",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_006",
+      "question": "How many Pokémon appeared in the original Generation 1 Pokédex?",
+      "answers": [
+        {
+          "text": "151",
+          "correct": true
+        },
+        {
+          "text": "150",
+          "correct": false
+        },
+        {
+          "text": "152",
+          "correct": false
+        },
+        {
+          "text": "155",
+          "correct": false
+        },
+        {
+          "text": "MissingNo.",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_007",
+      "question": "What item do players collect in Super Mario games to gain an extra life?",
+      "answers": [
+        {
+          "text": "A 1-Up Mushroom",
+          "correct": true
+        },
+        {
+          "text": "A Super Star",
+          "correct": false
+        },
+        {
+          "text": "A Coin",
+          "correct": false
+        },
+        {
+          "text": "A Fire Flower",
+          "correct": false
+        },
+        {
+          "text": "A participation trophy",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_008",
+      "question": "In Minecraft, what is the most durable material used to craft tools and armor?",
+      "answers": [
+        {
+          "text": "Diamond",
+          "correct": true
+        },
+        {
+          "text": "Gold",
+          "correct": false
+        },
+        {
+          "text": "Iron",
+          "correct": false
+        },
+        {
+          "text": "Obsidian",
+          "correct": false
+        },
+        {
+          "text": "Netherite",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_009",
+      "question": "In what year was the original Super Mario Bros. released for the Nintendo Entertainment System?",
+      "answers": [
+        {
+          "text": "1985",
+          "correct": true
+        },
+        {
+          "text": "1983",
+          "correct": false
+        },
+        {
+          "text": "1987",
+          "correct": false
+        },
+        {
+          "text": "1986",
+          "correct": false
+        },
+        {
+          "text": "The Big Bang (gaming edition)",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_010",
+      "question": "What is the name of Donkey Kong's smaller sidekick nephew who wears a red cap?",
+      "answers": [
+        {
+          "text": "Diddy Kong",
+          "correct": true
+        },
+        {
+          "text": "Funky Kong",
+          "correct": false
+        },
+        {
+          "text": "Lanky Kong",
+          "correct": false
+        },
+        {
+          "text": "Tiny Kong",
+          "correct": false
+        },
+        {
+          "text": "P. Diddy Kong",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_011",
+      "question": "What is the name of Link's fairy companion in The Legend of Zelda: Ocarina of Time, famous for the repeatedly shouted catchphrase \"Hey, listen!\"?",
+      "answers": [
+        {
+          "text": "Navi",
+          "correct": true
+        },
+        {
+          "text": "Tatl",
+          "correct": false
+        },
+        {
+          "text": "Fi",
+          "correct": false
+        },
+        {
+          "text": "Midna",
+          "correct": false
+        },
+        {
+          "text": "The most blocked contact in Hyrule",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_012",
+      "question": "What indie farming and life simulation game, developed solo by Eric Barone over four years, takes place in a small town called Pelican Town?",
+      "answers": [
+        {
+          "text": "Stardew Valley",
+          "correct": true
+        },
+        {
+          "text": "Terraria",
+          "correct": false
+        },
+        {
+          "text": "Harvest Moon",
+          "correct": false
+        },
+        {
+          "text": "My Time at Portia",
+          "correct": false
+        },
+        {
+          "text": "The game your therapist recommended",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_013",
+      "question": "What is the name of the iconic cheat code — Up, Up, Down, Down, Left, Right, Left, Right, B, A — associated with Konami games?",
+      "answers": [
+        {
+          "text": "The Konami Code",
+          "correct": true
+        },
+        {
+          "text": "The Cheat Master Code",
+          "correct": false
+        },
+        {
+          "text": "The 30 Lives Code",
+          "correct": false
+        },
+        {
+          "text": "The God Mode Code",
+          "correct": false
+        },
+        {
+          "text": "↑ ↑ ↓ ↓ ← → ← → B A",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_014",
+      "question": "What 2011 open-world RPG features the now-legendary line “I used to be an adventurer like you, then I took an arrow to the knee”?",
+      "answers": [
+        {
+          "text": "The Elder Scrolls V: Skyrim",
+          "correct": true
+        },
+        {
+          "text": "The Witcher 2",
+          "correct": false
+        },
+        {
+          "text": "Dragon Age II",
+          "correct": false
+        },
+        {
+          "text": "Dark Souls",
+          "correct": false
+        },
+        {
+          "text": "The game still being ported to new platforms",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_015",
+      "question": "What battle royale game, released free-to-play in 2017, popularized the genre with its building mechanics and cartoonish art style?",
+      "answers": [
+        {
+          "text": "Fortnite",
+          "correct": true
+        },
+        {
+          "text": "PUBG",
+          "correct": false
+        },
+        {
+          "text": "Apex Legends",
+          "correct": false
+        },
+        {
+          "text": "Warzone",
+          "correct": false
+        },
+        {
+          "text": "The reason your nephew won't talk to you anymore",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_016",
+      "question": "In which FromSoftware game does the screen read \"You Died\" after each death, with all your collected currency dropped at the death location?",
+      "answers": [
+        {
+          "text": "Dark Souls",
+          "correct": true
+        },
+        {
+          "text": "Bloodborne",
+          "correct": false
+        },
+        {
+          "text": "Elden Ring",
+          "correct": false
+        },
+        {
+          "text": "Sekiro: Shadows Die Twice",
+          "correct": false
+        },
+        {
+          "text": "Therapy in the form of dying repeatedly",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_017",
+      "question": "What is the name of the main antagonist in the Halo series — a religious alien alliance bent on activating ancient superweapons?",
+      "answers": [
+        {
+          "text": "The Covenant",
+          "correct": true
+        },
+        {
+          "text": "The Flood",
+          "correct": false
+        },
+        {
+          "text": "The Forerunners",
+          "correct": false
+        },
+        {
+          "text": "The Banished",
+          "correct": false
+        },
+        {
+          "text": "Master Chief's extremely persistent fan club",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_018",
+      "question": "In Grand Theft Auto V, what are the names of the three playable protagonists?",
+      "answers": [
+        {
+          "text": "Michael, Trevor, and Franklin",
+          "correct": true
+        },
+        {
+          "text": "Tommy, Claude, and Niko",
+          "correct": false
+        },
+        {
+          "text": "CJ, Vic, and Tony",
+          "correct": false
+        },
+        {
+          "text": "Niko, Luis, and Johnny",
+          "correct": false
+        },
+        {
+          "text": "Michael, Scott, and Dwight",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_019",
+      "question": "What 2014 indie horror game features a security guard named Mike Schmidt surviving five nights against murderous animatronic animals at a pizza restaurant?",
+      "answers": [
+        {
+          "text": "Five Nights at Freddy's",
+          "correct": true
+        },
+        {
+          "text": "Amnesia: The Dark Descent",
+          "correct": false
+        },
+        {
+          "text": "Outlast",
+          "correct": false
+        },
+        {
+          "text": "Slender: The Eight Pages",
+          "correct": false
+        },
+        {
+          "text": "A real health code violation",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_020",
+      "question": "What 1993 id Software game, featuring a space marine fighting demons on Mars, is credited with popularizing the first-person shooter genre?",
+      "answers": [
+        {
+          "text": "Doom",
+          "correct": true
+        },
+        {
+          "text": "Wolfenstein 3D",
+          "correct": false
+        },
+        {
+          "text": "Quake",
+          "correct": false
+        },
+        {
+          "text": "Heretic",
+          "correct": false
+        },
+        {
+          "text": "The game that convinced parents the internet was dangerous",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_021",
+      "question": "What was the original Japanese name for the NES (Nintendo Entertainment System) when it launched in Japan in July 1983?",
+      "answers": [
+        {
+          "text": "Famicom (Family Computer)",
+          "correct": true
+        },
+        {
+          "text": "Super Cassette Vision",
+          "correct": false
+        },
+        {
+          "text": "Nintendo Home Computer",
+          "correct": false
+        },
+        {
+          "text": "PC Engine",
+          "correct": false
+        },
+        {
+          "text": "A Japanese appliance that changed everything",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_022",
+      "question": "In Super Mario 64, how many Power Stars must be collected before the player can access the final Bowser battle?",
+      "answers": [
+        {
+          "text": "70",
+          "correct": true
+        },
+        {
+          "text": "80",
+          "correct": false
+        },
+        {
+          "text": "60",
+          "correct": false
+        },
+        {
+          "text": "100",
+          "correct": false
+        },
+        {
+          "text": "However many you collected before giving up",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_023",
+      "question": "The Konami Code was first programmed by Kazuhisa Hashimoto for which 1985 game, created as a personal shortcut so he could test the game without dying?",
+      "answers": [
+        {
+          "text": "Gradius",
+          "correct": true
+        },
+        {
+          "text": "Contra",
+          "correct": false
+        },
+        {
+          "text": "Castlevania",
+          "correct": false
+        },
+        {
+          "text": "Teenage Mutant Ninja Turtles",
+          "correct": false
+        },
+        {
+          "text": "The world's most helpful game design oversight",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_024",
+      "question": "Which indie developer, working solo under the alias \"ConcernedApe,\" spent four years building Stardew Valley before releasing it in 2016?",
+      "answers": [
+        {
+          "text": "Eric Barone",
+          "correct": true
+        },
+        {
+          "text": "Rami Ismail",
+          "correct": false
+        },
+        {
+          "text": "Edmund McMillen",
+          "correct": false
+        },
+        {
+          "text": "Phil Fish",
+          "correct": false
+        },
+        {
+          "text": "The most productive four years of any adult's life",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_025",
+      "question": "What 2023 RPG by Larian Studios, set in the Forgotten Realms D&D universe, became one of the most-played single-player games in Steam history at launch?",
+      "answers": [
+        {
+          "text": "Baldur's Gate 3",
+          "correct": true
+        },
+        {
+          "text": "Starfield",
+          "correct": false
+        },
+        {
+          "text": "Cyberpunk 2077",
+          "correct": false
+        },
+        {
+          "text": "The Witcher 3: Wild Hunt",
+          "correct": false
+        },
+        {
+          "text": "The reason people started canceling plans in 2023",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_026",
+      "question": "What franchise features a blue hedgehog who collects golden rings and battles the villainous Dr. Eggman?",
+      "answers": [
+        {
+          "text": "Sonic the Hedgehog",
+          "correct": true
+        },
+        {
+          "text": "Crash Bandicoot",
+          "correct": false
+        },
+        {
+          "text": "Rayman",
+          "correct": false
+        },
+        {
+          "text": "Spyro",
+          "correct": false
+        },
+        {
+          "text": "Sonic the Restaurant",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_027",
+      "question": "What is the name of Ash Ketchum's iconic electric Pokémon companion throughout the Pokémon animated series?",
+      "answers": [
+        {
+          "text": "Pikachu",
+          "correct": true
+        },
+        {
+          "text": "Raichu",
+          "correct": false
+        },
+        {
+          "text": "Jolteon",
+          "correct": false
+        },
+        {
+          "text": "Eevee",
+          "correct": false
+        },
+        {
+          "text": "A very aggressive yellow mouse",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_028",
+      "question": "What Nintendo party game franchise features up to four players competing in mini-games on virtual board game maps?",
+      "answers": [
+        {
+          "text": "Mario Party",
+          "correct": true
+        },
+        {
+          "text": "Mario Kart",
+          "correct": false
+        },
+        {
+          "text": "Super Smash Bros.",
+          "correct": false
+        },
+        {
+          "text": "Wii Sports",
+          "correct": false
+        },
+        {
+          "text": "The reason families stopped speaking at Christmas",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_029",
+      "question": "What is the name of the fictional land where most Legend of Zelda games are set?",
+      "answers": [
+        {
+          "text": "Hyrule",
+          "correct": true
+        },
+        {
+          "text": "Termina",
+          "correct": false
+        },
+        {
+          "text": "Skyloft",
+          "correct": false
+        },
+        {
+          "text": "Lorule",
+          "correct": false
+        },
+        {
+          "text": "Zelda's house",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_030",
+      "question": "What Street Fighter character is known for the Hadouken fireball move and a signature white gi?",
+      "answers": [
+        {
+          "text": "Ryu",
+          "correct": true
+        },
+        {
+          "text": "Ken",
+          "correct": false
+        },
+        {
+          "text": "Guile",
+          "correct": false
+        },
+        {
+          "text": "Sagat",
+          "correct": false
+        },
+        {
+          "text": "The guy at the arcade who beat you with one hand",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_031",
+      "question": "What role-playing game series by Square Enix features characters like Cloud Strife, Lightning, and Tidus in epic fantasy adventures?",
+      "answers": [
+        {
+          "text": "Final Fantasy",
+          "correct": true
+        },
+        {
+          "text": "Dragon Quest",
+          "correct": false
+        },
+        {
+          "text": "Kingdom Hearts",
+          "correct": false
+        },
+        {
+          "text": "Chrono Trigger",
+          "correct": false
+        },
+        {
+          "text": "A very optimistic name for a game with 16 sequels",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_032",
+      "question": "What is the name of the virtual currency used in Fortnite to purchase cosmetic items and Battle Passes?",
+      "answers": [
+        {
+          "text": "V-Bucks",
+          "correct": true
+        },
+        {
+          "text": "Gold Coins",
+          "correct": false
+        },
+        {
+          "text": "Credits",
+          "correct": false
+        },
+        {
+          "text": "Gems",
+          "correct": false
+        },
+        {
+          "text": "Your parents' credit card",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_033",
+      "question": "What Nintendo racing franchise pits Mario, Luigi, and their friends against each other on colorful themed tracks?",
+      "answers": [
+        {
+          "text": "Mario Kart",
+          "correct": true
+        },
+        {
+          "text": "Mario Party",
+          "correct": false
+        },
+        {
+          "text": "F-Zero",
+          "correct": false
+        },
+        {
+          "text": "Diddy Kong Racing",
+          "correct": false
+        },
+        {
+          "text": "The reason you throw blue shells at your friends",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_034",
+      "question": "In what game do players mine resources, craft tools, and build structures while surviving against Creepers and other monsters?",
+      "answers": [
+        {
+          "text": "Minecraft",
+          "correct": true
+        },
+        {
+          "text": "Roblox",
+          "correct": false
+        },
+        {
+          "text": "Terraria",
+          "correct": false
+        },
+        {
+          "text": "LEGO Worlds",
+          "correct": false
+        },
+        {
+          "text": "Therapy for people who like control",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_035",
+      "question": "What is the name of the villain in the original Donkey Kong arcade game who throws barrels at the player?",
+      "answers": [
+        {
+          "text": "Donkey Kong",
+          "correct": true
+        },
+        {
+          "text": "King K. Rool",
+          "correct": false
+        },
+        {
+          "text": "Funky Kong",
+          "correct": false
+        },
+        {
+          "text": "Cranky Kong",
+          "correct": false
+        },
+        {
+          "text": "King Kong's unemployed cousin",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_036",
+      "question": "What is the name of the underwater dystopian city at the heart of the original BioShock, built by the libertarian industrialist Andrew Ryan?",
+      "answers": [
+        {
+          "text": "Rapture",
+          "correct": true
+        },
+        {
+          "text": "Atlantis",
+          "correct": false
+        },
+        {
+          "text": "Columbia",
+          "correct": false
+        },
+        {
+          "text": "Arcadia",
+          "correct": false
+        },
+        {
+          "text": "A city with no unions and no regulations",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_037",
+      "question": "What 2005 GameCube and PlayStation 2 game, widely considered one of the greatest ever made, reinvented survival horror with its over-the-shoulder camera and featured Leon S. Kennedy in rural Spain?",
+      "answers": [
+        {
+          "text": "Resident Evil 4",
+          "correct": true
+        },
+        {
+          "text": "Resident Evil 3",
+          "correct": false
+        },
+        {
+          "text": "Silent Hill 3",
+          "correct": false
+        },
+        {
+          "text": "Dead Space",
+          "correct": false
+        },
+        {
+          "text": "Your game of the year for the third time",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_038",
+      "question": "What 2016 Blizzard hero shooter, featuring characters like Tracer, Mercy, and Reinhardt, is widely credited with popularizing the hero shooter genre?",
+      "answers": [
+        {
+          "text": "Overwatch",
+          "correct": true
+        },
+        {
+          "text": "Team Fortress 2",
+          "correct": false
+        },
+        {
+          "text": "Valorant",
+          "correct": false
+        },
+        {
+          "text": "Paladins",
+          "correct": false
+        },
+        {
+          "text": "76 colorful excuses to argue online",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_039",
+      "question": "What is the best-selling standalone video game of all time, with over 500 million copies sold across all platforms including mobile?",
+      "answers": [
+        {
+          "text": "Tetris",
+          "correct": true
+        },
+        {
+          "text": "Minecraft",
+          "correct": false
+        },
+        {
+          "text": "Grand Theft Auto V",
+          "correct": false
+        },
+        {
+          "text": "Mario Kart Wii",
+          "correct": false
+        },
+        {
+          "text": "The one your grandma actually plays",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_040",
+      "question": "What game franchise, created by Hideo Kojima, is famous for its stealth gameplay, fourth-wall-breaking moments, and famously convoluted storylines?",
+      "answers": [
+        {
+          "text": "Metal Gear Solid",
+          "correct": true
+        },
+        {
+          "text": "Splinter Cell",
+          "correct": false
+        },
+        {
+          "text": "Hitman",
+          "correct": false
+        },
+        {
+          "text": "Deus Ex",
+          "correct": false
+        },
+        {
+          "text": "A very long movie with occasional sneaking",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_041",
+      "question": "What 2002 Grand Theft Auto game, set in a Miami-inspired city in the 1980s, features protagonist Tommy Vercetti building a criminal empire?",
+      "answers": [
+        {
+          "text": "Grand Theft Auto: Vice City",
+          "correct": true
+        },
+        {
+          "text": "Grand Theft Auto: San Andreas",
+          "correct": false
+        },
+        {
+          "text": "Grand Theft Auto III",
+          "correct": false
+        },
+        {
+          "text": "Grand Theft Auto IV",
+          "correct": false
+        },
+        {
+          "text": "Miami Vice but you're the villain",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_042",
+      "question": "What 2017 Nintendo Switch launch title placed Link in an open-world Hyrule for the first time, allowing players to climb, glide, and approach challenges in any order?",
+      "answers": [
+        {
+          "text": "The Legend of Zelda: Breath of the Wild",
+          "correct": true
+        },
+        {
+          "text": "The Legend of Zelda: Twilight Princess",
+          "correct": false
+        },
+        {
+          "text": "The Legend of Zelda: Skyward Sword",
+          "correct": false
+        },
+        {
+          "text": "The Legend of Zelda: A Link Between Worlds",
+          "correct": false
+        },
+        {
+          "text": "The reason you forgot to eat for 12 hours",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_043",
+      "question": "What is the name of the witcher protagonist in CD Projekt Red's acclaimed RPG series, known for his white hair, dual swords, and monster-hunting contracts?",
+      "answers": [
+        {
+          "text": "Geralt of Rivia",
+          "correct": true
+        },
+        {
+          "text": "Yennefer",
+          "correct": false
+        },
+        {
+          "text": "Ciri",
+          "correct": false
+        },
+        {
+          "text": "Dandelion",
+          "correct": false
+        },
+        {
+          "text": "Henry Cavill's emotional support character",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_044",
+      "question": "What 2020 RPG by CD Projekt Red, set in a dystopian open-world city, features protagonist V implanted with the digital consciousness of a deceased rockstar?",
+      "answers": [
+        {
+          "text": "Cyberpunk 2077",
+          "correct": true
+        },
+        {
+          "text": "Deus Ex: Mankind Divided",
+          "correct": false
+        },
+        {
+          "text": "Observer",
+          "correct": false
+        },
+        {
+          "text": "Starfield",
+          "correct": false
+        },
+        {
+          "text": "The game that bricked PlayStation 4s",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_045",
+      "question": "What 2001 Nintendo GameCube launch title features Luigi exploring a haunted mansion, vacuuming up ghosts to rescue his brother?",
+      "answers": [
+        {
+          "text": "Luigi's Mansion",
+          "correct": true
+        },
+        {
+          "text": "Mario's Haunted House",
+          "correct": false
+        },
+        {
+          "text": "Ghost Trick",
+          "correct": false
+        },
+        {
+          "text": "Luigi's Ghost House",
+          "correct": false
+        },
+        {
+          "text": "Luigi finally getting a starring role and immediately regretting it",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_046",
+      "question": "What is the name of the doomed mining spaceship at the center of Dead Space, overrun by alien creatures called Necromorphs?",
+      "answers": [
+        {
+          "text": "The USG Ishimura",
+          "correct": true
+        },
+        {
+          "text": "The Nostromo",
+          "correct": false
+        },
+        {
+          "text": "The Event Horizon",
+          "correct": false
+        },
+        {
+          "text": "The USG O'Bannon",
+          "correct": false
+        },
+        {
+          "text": "A very poorly managed mining operation",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_047",
+      "question": "What 1986 NES game, when completed in under five hours, reveals that bounty hunter Samus Aran is a woman — a twist that shocked many players at the time?",
+      "answers": [
+        {
+          "text": "Metroid",
+          "correct": true
+        },
+        {
+          "text": "Super Metroid",
+          "correct": false
+        },
+        {
+          "text": "Metroid II: Return of Samus",
+          "correct": false
+        },
+        {
+          "text": "Metroid Fusion",
+          "correct": false
+        },
+        {
+          "text": "The game that made everyone feel bad for making assumptions",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_048",
+      "question": "What 1981 Nintendo arcade game introduced a character called \"Jumpman\" — who was later renamed and became the most recognizable character in gaming history?",
+      "answers": [
+        {
+          "text": "Donkey Kong",
+          "correct": true
+        },
+        {
+          "text": "Mario Bros.",
+          "correct": false
+        },
+        {
+          "text": "Donkey Kong Jr.",
+          "correct": false
+        },
+        {
+          "text": "Popeye",
+          "correct": false
+        },
+        {
+          "text": "The reason Nintendo got sued by Universal Pictures",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_049",
+      "question": "Which Nintendo designer, known as the \"father of modern video games,\" created Mario, The Legend of Zelda, and Donkey Kong?",
+      "answers": [
+        {
+          "text": "Shigeru Miyamoto",
+          "correct": true
+        },
+        {
+          "text": "Gunpei Yokoi",
+          "correct": false
+        },
+        {
+          "text": "Masahiro Sakurai",
+          "correct": false
+        },
+        {
+          "text": "Koji Kondo",
+          "correct": false
+        },
+        {
+          "text": "The guy your parents have unknowingly funded for 40 years",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Video Games"
+    },
+    {
+      "id": "vgm_050",
+      "question": "What infamous glitch in the original Super Mario Bros. sends players to a looping, endless underwater level known as \"World -1\"?",
+      "answers": [
+        {
+          "text": "The Minus World",
+          "correct": true
+        },
+        {
+          "text": "The Warp Zone glitch",
+          "correct": false
+        },
+        {
+          "text": "The Infinite Loop",
+          "correct": false
+        },
+        {
+          "text": "The Negative World",
+          "correct": false
+        },
+        {
+          "text": "The reason speedrunners have trust issues",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Video Games"
+    }
+  ]
+}

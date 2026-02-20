@@ -1,0 +1,1466 @@
+{
+  "category": "Memes",
+  "metadata": {
+    "totalQuestions": 50,
+    "difficulty": {
+      "easy": 20,
+      "medium": 20,
+      "hard": 10
+    },
+    "version": "2.0",
+    "created": "2026-02-21",
+    "updated": "2026-02-21"
+  },
+  "questions": [
+    {
+      "id": "mem_001",
+      "question": "What is the name of the stock photo meme showing a man turning to look at a passing woman while his girlfriend glares at him?",
+      "answers": [
+        {
+          "text": "Distracted Boyfriend",
+          "correct": true
+        },
+        {
+          "text": "Side-Eye Boyfriend",
+          "correct": false
+        },
+        {
+          "text": "Wandering Eye",
+          "correct": false
+        },
+        {
+          "text": "The Third-Wheel",
+          "correct": false
+        },
+        {
+          "text": "Every guy at a car show",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_002",
+      "question": "In the \"Rickroll\" prank, victims are tricked into clicking a link that plays what song?",
+      "answers": [
+        {
+          "text": "\"Never Gonna Give You Up\" by Rick Astley",
+          "correct": true
+        },
+        {
+          "text": "\"It's Not Unusual\" by Tom Jones",
+          "correct": false
+        },
+        {
+          "text": "\"Take On Me\" by A-ha",
+          "correct": false
+        },
+        {
+          "text": "\"Don't You Want Me\" by Human League",
+          "correct": false
+        },
+        {
+          "text": "\"Never Gonna Let You Down\"",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_003",
+      "question": "What unimpressed white cat — photographed sitting at a dinner table opposite a screaming woman — became one of the internet's most beloved meme animals?",
+      "answers": [
+        {
+          "text": "Smudge",
+          "correct": true
+        },
+        {
+          "text": "Grumpy Cat",
+          "correct": false
+        },
+        {
+          "text": "Keyboard Cat",
+          "correct": false
+        },
+        {
+          "text": "Lil Bub",
+          "correct": false
+        },
+        {
+          "text": "Gordon Ramsay's cat",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_004",
+      "question": "What dog breed stars in the \"Doge\" meme, shown with colorful Comic Sans text like \"wow,\" \"such internet,\" and \"very meme\"?",
+      "answers": [
+        {
+          "text": "Shiba Inu",
+          "correct": true
+        },
+        {
+          "text": "Akita",
+          "correct": false
+        },
+        {
+          "text": "Samoyed",
+          "correct": false
+        },
+        {
+          "text": "Hokkaido",
+          "correct": false
+        },
+        {
+          "text": "Much dog. Very answer.",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_005",
+      "question": "What film provides the screenshot for the \"One Does Not Simply Walk into Mordor\" meme featuring the character Boromir?",
+      "answers": [
+        {
+          "text": "The Lord of the Rings: The Fellowship of the Ring",
+          "correct": true
+        },
+        {
+          "text": "The Hobbit",
+          "correct": false
+        },
+        {
+          "text": "Gladiator",
+          "correct": false
+        },
+        {
+          "text": "Troy",
+          "correct": false
+        },
+        {
+          "text": "Sean Bean's IMDb page",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_006",
+      "question": "The \"Press F to pay respects\" button prompt first appeared in what video game?",
+      "answers": [
+        {
+          "text": "Call of Duty: Advanced Warfare",
+          "correct": true
+        },
+        {
+          "text": "Call of Duty: Modern Warfare",
+          "correct": false
+        },
+        {
+          "text": "The Sims 4",
+          "correct": false
+        },
+        {
+          "text": "FIFA 14",
+          "correct": false
+        },
+        {
+          "text": "A military funeral",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_007",
+      "question": "What movie does the \"This is Sparta!\" meme come from, in which King Leonidas kicks a messenger into a pit?",
+      "answers": [
+        {
+          "text": "300",
+          "correct": true
+        },
+        {
+          "text": "Troy",
+          "correct": false
+        },
+        {
+          "text": "Gladiator",
+          "correct": false
+        },
+        {
+          "text": "Braveheart",
+          "correct": false
+        },
+        {
+          "text": "Sparta, Greece",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_008",
+      "question": "What cartoon frog, created by artist Matt Furie in 2005, became one of the most recognizable meme characters on the internet?",
+      "answers": [
+        {
+          "text": "Pepe the Frog",
+          "correct": true
+        },
+        {
+          "text": "Kermit the Frog",
+          "correct": false
+        },
+        {
+          "text": "Michigan J. Frog",
+          "correct": false
+        },
+        {
+          "text": "Dat Boi",
+          "correct": false
+        },
+        {
+          "text": "Frogger",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_009",
+      "question": "What does \"TFW\" stand for in internet and meme culture?",
+      "answers": [
+        {
+          "text": "That Feel When",
+          "correct": true
+        },
+        {
+          "text": "Too Far Weird",
+          "correct": false
+        },
+        {
+          "text": "That's For Winning",
+          "correct": false
+        },
+        {
+          "text": "The Funniest Whatever",
+          "correct": false
+        },
+        {
+          "text": "That Friday Feeling",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_010",
+      "question": "What animal is shown sitting calmly in a room that is completely on fire in the \"This is Fine\" webcomic meme?",
+      "answers": [
+        {
+          "text": "A dog",
+          "correct": true
+        },
+        {
+          "text": "A cat",
+          "correct": false
+        },
+        {
+          "text": "A fox",
+          "correct": false
+        },
+        {
+          "text": "A bear",
+          "correct": false
+        },
+        {
+          "text": "A financial advisor in 2008",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_011",
+      "question": "What is the real name of \"Grumpy Cat,\" whose permanently grumpy expression was caused by feline dwarfism?",
+      "answers": [
+        {
+          "text": "Tardar Sauce",
+          "correct": true
+        },
+        {
+          "text": "Sourpuss",
+          "correct": false
+        },
+        {
+          "text": "Princess Grumple",
+          "correct": false
+        },
+        {
+          "text": "Frowny",
+          "correct": false
+        },
+        {
+          "text": "Gordon Ramsay",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_012",
+      "question": "The viral \"Coffin Dance\" meme features pallbearers performing an elaborate dancing funeral ritual from which African country?",
+      "answers": [
+        {
+          "text": "Ghana",
+          "correct": true
+        },
+        {
+          "text": "Nigeria",
+          "correct": false
+        },
+        {
+          "text": "Kenya",
+          "correct": false
+        },
+        {
+          "text": "Ethiopia",
+          "correct": false
+        },
+        {
+          "text": "The most upbeat funeral industry on Earth",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_013",
+      "question": "Who is the real person behind the \"Hide the Pain Harold\" meme — a Hungarian retired electrical engineer whose forced wide smile became a global stock photo phenomenon?",
+      "answers": [
+        {
+          "text": "András Arató",
+          "correct": true
+        },
+        {
+          "text": "Harold Smith",
+          "correct": false
+        },
+        {
+          "text": "Günther Müller",
+          "correct": false
+        },
+        {
+          "text": "Pekka Nykänen",
+          "correct": false
+        },
+        {
+          "text": "Harold from Harold & Kumar",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_014",
+      "question": "What 2013 internet craze involved groups of people doing normal things before suddenly cutting to everyone dancing to an electronic music track?",
+      "answers": [
+        {
+          "text": "The Harlem Shake",
+          "correct": true
+        },
+        {
+          "text": "The Mannequin Challenge",
+          "correct": false
+        },
+        {
+          "text": "The Running Man Challenge",
+          "correct": false
+        },
+        {
+          "text": "The Ice Bucket Challenge",
+          "correct": false
+        },
+        {
+          "text": "Harlem Globetrotters practice footage",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_015",
+      "question": "The viral 2014 \"Ice Bucket Challenge\" raised awareness and funding for research into what disease?",
+      "answers": [
+        {
+          "text": "ALS (Amyotrophic Lateral Sclerosis)",
+          "correct": true
+        },
+        {
+          "text": "Multiple sclerosis",
+          "correct": false
+        },
+        {
+          "text": "Parkinson's disease",
+          "correct": false
+        },
+        {
+          "text": "Muscular dystrophy",
+          "correct": false
+        },
+        {
+          "text": "A sudden urge to be cold and wet",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_016",
+      "question": "What 2011 internet meme features an animated cat with a Pop-Tart body flying through space while leaving a rainbow trail?",
+      "answers": [
+        {
+          "text": "Nyan Cat",
+          "correct": true
+        },
+        {
+          "text": "Keyboard Cat",
+          "correct": false
+        },
+        {
+          "text": "Pusheen",
+          "correct": false
+        },
+        {
+          "text": "Rainbow Dash",
+          "correct": false
+        },
+        {
+          "text": "A Pop-Tart with trust issues",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_017",
+      "question": "The \"Harambe\" meme is based on a gorilla who was shot after a child fell into his enclosure in 2016. At which zoo did this happen?",
+      "answers": [
+        {
+          "text": "Cincinnati Zoo",
+          "correct": true
+        },
+        {
+          "text": "San Diego Zoo",
+          "correct": false
+        },
+        {
+          "text": "Bronx Zoo",
+          "correct": false
+        },
+        {
+          "text": "Chicago Zoo",
+          "correct": false
+        },
+        {
+          "text": "The Cincinnati Bengals' training facility",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_018",
+      "question": "Which conspiracy theorist, known for his appearances on the History Channel's Ancient Aliens, became a meme due to his wild hair and the phrase \"I'm not saying it was aliens\"?",
+      "answers": [
+        {
+          "text": "Giorgio A. Tsoukalos",
+          "correct": true
+        },
+        {
+          "text": "Erich von Däniken",
+          "correct": false
+        },
+        {
+          "text": "Graham Hancock",
+          "correct": false
+        },
+        {
+          "text": "David Icke",
+          "correct": false
+        },
+        {
+          "text": "Giorgio Armani",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_019",
+      "question": "The \"Salt Bae\" meme features chef Nusret Gökçe dramatically salting meat. What is his nationality?",
+      "answers": [
+        {
+          "text": "Turkish",
+          "correct": true
+        },
+        {
+          "text": "Greek",
+          "correct": false
+        },
+        {
+          "text": "Lebanese",
+          "correct": false
+        },
+        {
+          "text": "Iranian",
+          "correct": false
+        },
+        {
+          "text": "Extra salty",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_020",
+      "question": "The phrase \"I can has cheezburger?\" is associated with which early internet meme format featuring cats with misspelled captions?",
+      "answers": [
+        {
+          "text": "LOLcats",
+          "correct": true
+        },
+        {
+          "text": "Advice Animals",
+          "correct": false
+        },
+        {
+          "text": "Rage Comics",
+          "correct": false
+        },
+        {
+          "text": "Doge memes",
+          "correct": false
+        },
+        {
+          "text": "A toddler's attempt at a food review",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_021",
+      "question": "The \"Loss\" webcomic, which spawned countless minimalist meme derivatives, was published in which webcomic series in 2008?",
+      "answers": [
+        {
+          "text": "Ctrl+Alt+Del",
+          "correct": true
+        },
+        {
+          "text": "Penny Arcade",
+          "correct": false
+        },
+        {
+          "text": "xkcd",
+          "correct": false
+        },
+        {
+          "text": "VG Cats",
+          "correct": false
+        },
+        {
+          "text": "The keyboard shortcut that launched a thousand memes",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_022",
+      "question": "The \"To Be Continued\" freeze-frame meme uses the opening notes of what prog rock song?",
+      "answers": [
+        {
+          "text": "\"Roundabout\" by Yes",
+          "correct": true
+        },
+        {
+          "text": "\"Bohemian Rhapsody\" by Queen",
+          "correct": false
+        },
+        {
+          "text": "\"Africa\" by Toto",
+          "correct": false
+        },
+        {
+          "text": "\"Don't Stop Believin'\" by Journey",
+          "correct": false
+        },
+        {
+          "text": "A British traffic circle",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_023",
+      "question": "What is the name of the crying/contemplative face character — originating from a 2010 Polish internet forum — that became a universal symbol of emotional relatability?",
+      "answers": [
+        {
+          "text": "Wojak",
+          "correct": true
+        },
+        {
+          "text": "Pepe",
+          "correct": false
+        },
+        {
+          "text": "Chad",
+          "correct": false
+        },
+        {
+          "text": "Doomer",
+          "correct": false
+        },
+        {
+          "text": "Every person on public transit",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_024",
+      "question": "The phrase \"All your base are belong to us\" entered internet culture as one of the first viral memes. It comes from the notorious mistranslation of which 1991 Sega game?",
+      "answers": [
+        {
+          "text": "Zero Wing",
+          "correct": true
+        },
+        {
+          "text": "Street Fighter II",
+          "correct": false
+        },
+        {
+          "text": "Altered Beast",
+          "correct": false
+        },
+        {
+          "text": "Turrican",
+          "correct": false
+        },
+        {
+          "text": "The entire Sega quality control department",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_025",
+      "question": "The \"Ugandan Knuckles\" meme, featuring a poorly rendered Knuckles the Echidna asking \"Do you know de wey?\", originated in which virtual reality platform in late 2017?",
+      "answers": [
+        {
+          "text": "VRChat",
+          "correct": true
+        },
+        {
+          "text": "Rec Room",
+          "correct": false
+        },
+        {
+          "text": "Second Life",
+          "correct": false
+        },
+        {
+          "text": "AltspaceVR",
+          "correct": false
+        },
+        {
+          "text": "A Reddit thread that got out of hand",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_026",
+      "question": "What does \"GG\" stand for in gaming and internet culture?",
+      "answers": [
+        {
+          "text": "Good Game",
+          "correct": true
+        },
+        {
+          "text": "Great Going",
+          "correct": false
+        },
+        {
+          "text": "Get Going",
+          "correct": false
+        },
+        {
+          "text": "Good Grief",
+          "correct": false
+        },
+        {
+          "text": "Good Grief, Charlie Brown",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_027",
+      "question": "What 2012 South Korean music video became the first YouTube video to reach one billion views and inspired a worldwide horse-riding dance craze?",
+      "answers": [
+        {
+          "text": "\"Gangnam Style\" by PSY",
+          "correct": true
+        },
+        {
+          "text": "\"Gentleman\" by PSY",
+          "correct": false
+        },
+        {
+          "text": "\"Call Me Maybe\" by Carly Rae Jepsen",
+          "correct": false
+        },
+        {
+          "text": "\"Harlem Shake\" by Baauer",
+          "correct": false
+        },
+        {
+          "text": "Horse dancing",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_028",
+      "question": "What does \"SMH\" stand for in internet slang?",
+      "answers": [
+        {
+          "text": "Shaking My Head",
+          "correct": true
+        },
+        {
+          "text": "So Much Hate",
+          "correct": false
+        },
+        {
+          "text": "Such Much Horror",
+          "correct": false
+        },
+        {
+          "text": "Still My Homie",
+          "correct": false
+        },
+        {
+          "text": "Slow Motion Headbanging",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_029",
+      "question": "What viral YouTube video from 2007 shows a toddler biting his older brother's finger and laughing about it?",
+      "answers": [
+        {
+          "text": "Charlie Bit My Finger",
+          "correct": true
+        },
+        {
+          "text": "David After Dentist",
+          "correct": false
+        },
+        {
+          "text": "Sneezing Panda",
+          "correct": false
+        },
+        {
+          "text": "Evolution of Dance",
+          "correct": false
+        },
+        {
+          "text": "Prince Charles's dental records",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_030",
+      "question": "What does \"GOAT\" stand for when used to describe the best person in any field?",
+      "answers": [
+        {
+          "text": "Greatest Of All Time",
+          "correct": true
+        },
+        {
+          "text": "Greatest Overall Achievement Trophy",
+          "correct": false
+        },
+        {
+          "text": "God Of All Things",
+          "correct": false
+        },
+        {
+          "text": "Grand Outstanding Athletic Talent",
+          "correct": false
+        },
+        {
+          "text": "Goat cheese",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_031",
+      "question": "The famous \"Dramatic Chipmunk\" video — featuring a dramatic orchestral sting as an animal stares into the camera — actually features what animal?",
+      "answers": [
+        {
+          "text": "A prairie dog",
+          "correct": true
+        },
+        {
+          "text": "A chipmunk",
+          "correct": false
+        },
+        {
+          "text": "A squirrel",
+          "correct": false
+        },
+        {
+          "text": "A gopher",
+          "correct": false
+        },
+        {
+          "text": "The drama teacher from your high school",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_032",
+      "question": "What does \"IRL\" stand for in internet culture?",
+      "answers": [
+        {
+          "text": "In Real Life",
+          "correct": true
+        },
+        {
+          "text": "It's Really Lame",
+          "correct": false
+        },
+        {
+          "text": "Internet Real Language",
+          "correct": false
+        },
+        {
+          "text": "In Relevant Language",
+          "correct": false
+        },
+        {
+          "text": "In Roblox Lore",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_033",
+      "question": "What platform originated the \"Stories\" format — 24-hour disappearing photo and video posts — later copied by Instagram, Facebook, and others?",
+      "answers": [
+        {
+          "text": "Snapchat",
+          "correct": true
+        },
+        {
+          "text": "Instagram",
+          "correct": false
+        },
+        {
+          "text": "Twitter",
+          "correct": false
+        },
+        {
+          "text": "WhatsApp",
+          "correct": false
+        },
+        {
+          "text": "The messages you delete before sending",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_034",
+      "question": "The phrase \"That's what she said\" as a comeback joke was popularized by which fictional TV character?",
+      "answers": [
+        {
+          "text": "Michael Scott (The Office)",
+          "correct": true
+        },
+        {
+          "text": "Dwight Schrute",
+          "correct": false
+        },
+        {
+          "text": "Jim Halpert",
+          "correct": false
+        },
+        {
+          "text": "Kevin Malone",
+          "correct": false
+        },
+        {
+          "text": "David Brent",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_035",
+      "question": "What 2019 viral meme, calling for a coordinated raid of a classified military facility, led to an actual music festival event in Nevada called \"Alienstock\"?",
+      "answers": [
+        {
+          "text": "Storm Area 51",
+          "correct": true
+        },
+        {
+          "text": "Raid Area 51",
+          "correct": false
+        },
+        {
+          "text": "Operation Alien",
+          "correct": false
+        },
+        {
+          "text": "March on Groom Lake",
+          "correct": false
+        },
+        {
+          "text": "A very poorly organized field trip",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_036",
+      "question": "What short-form video platform, active from 2013 to 2017, is credited with launching many internet comedians and pioneering the looping video format later popularized by TikTok?",
+      "answers": [
+        {
+          "text": "Vine",
+          "correct": true
+        },
+        {
+          "text": "Musical.ly",
+          "correct": false
+        },
+        {
+          "text": "YouNow",
+          "correct": false
+        },
+        {
+          "text": "Keek",
+          "correct": false
+        },
+        {
+          "text": "A plant",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_037",
+      "question": "The 2016 \"Mannequin Challenge,\" where groups froze mid-action while a camera moved through them, was typically soundtracked by what song?",
+      "answers": [
+        {
+          "text": "\"Black Beatles\" by Rae Sremmurd",
+          "correct": true
+        },
+        {
+          "text": "\"Harlem Shake\" by Baauer",
+          "correct": false
+        },
+        {
+          "text": "\"In My Feelings\" by Drake",
+          "correct": false
+        },
+        {
+          "text": "\"Rockstar\" by Post Malone",
+          "correct": false
+        },
+        {
+          "text": "Abbey Road, side B",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_038",
+      "question": "What is the real name of YouTube's long-running most-subscribed individual creator, known for gaming commentary and the catchphrase \"Subscribe to PewDiePie\"?",
+      "answers": [
+        {
+          "text": "Felix Kjellberg",
+          "correct": true
+        },
+        {
+          "text": "Jimmy Donaldson",
+          "correct": false
+        },
+        {
+          "text": "Mark Fischbach",
+          "correct": false
+        },
+        {
+          "text": "Sean McLoughlin",
+          "correct": false
+        },
+        {
+          "text": "Felix the Cat",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_039",
+      "question": "The \"Distracted Boyfriend\" stock photo was taken by which Spanish photographer, who was reportedly surprised when his image became a global meme?",
+      "answers": [
+        {
+          "text": "Antonio Guillem",
+          "correct": true
+        },
+        {
+          "text": "Carlos Morales",
+          "correct": false
+        },
+        {
+          "text": "David González",
+          "correct": false
+        },
+        {
+          "text": "Miguel Fernández",
+          "correct": false
+        },
+        {
+          "text": "The girlfriend's lawyer",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_040",
+      "question": "What musician's 2000 song \"Stan\" — about an obsessive fan — gave the internet the word \"stan,\" now used to mean an intense devoted supporter?",
+      "answers": [
+        {
+          "text": "Eminem",
+          "correct": true
+        },
+        {
+          "text": "Jay-Z",
+          "correct": false
+        },
+        {
+          "text": "Marilyn Manson",
+          "correct": false
+        },
+        {
+          "text": "Limp Bizkit",
+          "correct": false
+        },
+        {
+          "text": "Stan Lee",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_041",
+      "question": "The \"Friday\" song by Rebecca Black, which became notorious as one of the most-disliked YouTube videos of its era, was released in what year?",
+      "answers": [
+        {
+          "text": "2011",
+          "correct": true
+        },
+        {
+          "text": "2010",
+          "correct": false
+        },
+        {
+          "text": "2012",
+          "correct": false
+        },
+        {
+          "text": "2009",
+          "correct": false
+        },
+        {
+          "text": "A year that should not be named",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_042",
+      "question": "What internet slang term describes when a reply to a post receives significantly more likes than the original, implying the original was badly received?",
+      "answers": [
+        {
+          "text": "Getting ratioed",
+          "correct": true
+        },
+        {
+          "text": "Getting ghosted",
+          "correct": false
+        },
+        {
+          "text": "Getting subtweeted",
+          "correct": false
+        },
+        {
+          "text": "Getting dunked",
+          "correct": false
+        },
+        {
+          "text": "Getting long divisioned",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_043",
+      "question": "The viral \"OK Boomer\" phrase, used to dismiss older generations, went mainstream in 2019. What generation does \"boomer\" refer to?",
+      "answers": [
+        {
+          "text": "Baby Boomers (born 1946–1964)",
+          "correct": true
+        },
+        {
+          "text": "Anyone over 50",
+          "correct": false
+        },
+        {
+          "text": "The Greatest Generation",
+          "correct": false
+        },
+        {
+          "text": "Generation X",
+          "correct": false
+        },
+        {
+          "text": "People who still have a printer that works",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_044",
+      "question": "What is the origin of the internet expression \"on fleek,\" meaning perfectly on point, which went viral after a 2014 Vine video?",
+      "answers": [
+        {
+          "text": "A Vine by user Peaches Monroee describing her eyebrows",
+          "correct": true
+        },
+        {
+          "text": "A tweet by Rihanna",
+          "correct": false
+        },
+        {
+          "text": "A lyric from Nicki Minaj",
+          "correct": false
+        },
+        {
+          "text": "A caption on a Kim Kardashian Instagram post",
+          "correct": false
+        },
+        {
+          "text": "Marilyn Monroe's eyebrow stylist",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_045",
+      "question": "What internet phenomenon, popular in 2020, involved people posting side-by-side photos captioned \"How it started vs. how it's going\"?",
+      "answers": [
+        {
+          "text": "The \"How It Started vs. How It's Going\" trend",
+          "correct": true
+        },
+        {
+          "text": "The 10-Year Challenge",
+          "correct": false
+        },
+        {
+          "text": "The Glow-Up Challenge",
+          "correct": false
+        },
+        {
+          "text": "The Throwback Trend",
+          "correct": false
+        },
+        {
+          "text": "Every LinkedIn profile ever",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_046",
+      "question": "In what year did the original \"Numa Numa\" video — featuring Gary Brolsma enthusiastically lip-syncing to \"Dragostea Din Tei\" — first go viral, making it one of the earliest internet video sensations?",
+      "answers": [
+        {
+          "text": "2004",
+          "correct": true
+        },
+        {
+          "text": "2002",
+          "correct": false
+        },
+        {
+          "text": "2006",
+          "correct": false
+        },
+        {
+          "text": "2005",
+          "correct": false
+        },
+        {
+          "text": "A Tuesday",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_047",
+      "question": "The word \"meme\" was coined in 1976 by which evolutionary biologist in his book \"The Selfish Gene,\" to describe ideas that spread and replicate culturally like genes?",
+      "answers": [
+        {
+          "text": "Richard Dawkins",
+          "correct": true
+        },
+        {
+          "text": "Daniel Dennett",
+          "correct": false
+        },
+        {
+          "text": "Steven Pinker",
+          "correct": false
+        },
+        {
+          "text": "E.O. Wilson",
+          "correct": false
+        },
+        {
+          "text": "Charles Darwin",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_048",
+      "question": "The classic early internet meme site \"YTMND\" (You're the Man Now Dog) takes its name from a line spoken by Sean Connery in which 2000 film?",
+      "answers": [
+        {
+          "text": "Finding Forrester",
+          "correct": true
+        },
+        {
+          "text": "The League of Extraordinary Gentlemen",
+          "correct": false
+        },
+        {
+          "text": "Entrapment",
+          "correct": false
+        },
+        {
+          "text": "The Rock",
+          "correct": false
+        },
+        {
+          "text": "A Sean Connery impression contest",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_049",
+      "question": "The \"Rickrolling\" phenomenon originated on 4chan in 2007, where users posted the Rick Astley link under the pretense of it being a trailer for which highly anticipated video game?",
+      "answers": [
+        {
+          "text": "Grand Theft Auto IV",
+          "correct": true
+        },
+        {
+          "text": "Halo 3",
+          "correct": false
+        },
+        {
+          "text": "Call of Duty 4",
+          "correct": false
+        },
+        {
+          "text": "Half-Life 2: Episode Two",
+          "correct": false
+        },
+        {
+          "text": "A very trustworthy link",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Memes"
+    },
+    {
+      "id": "mem_050",
+      "question": "The \"Trollface\" meme character was created by artist Carlos Ramirez (known online as \"Whynne\") and first posted to DeviantArt in what year?",
+      "answers": [
+        {
+          "text": "2008",
+          "correct": true
+        },
+        {
+          "text": "2006",
+          "correct": false
+        },
+        {
+          "text": "2010",
+          "correct": false
+        },
+        {
+          "text": "2007",
+          "correct": false
+        },
+        {
+          "text": "Around the time the internet peaked",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Memes"
+    }
+  ]
+}
