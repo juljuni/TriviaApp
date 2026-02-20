@@ -1,0 +1,27 @@
+[Unit]
+Description=Trivia Question Generator (one-shot)
+After=network.target
+# Requires claude CLI to be authenticated before running
+
+[Service]
+Type=oneshot
+User=julie
+WorkingDirectory=/home/julie/TriviaApp
+
+# Add the directory containing the `claude` binary to PATH
+Environment="PATH=/usr/local/bin:/usr/bin:/bin:/home/julie/.local/bin:/home/julie/.npm-global/bin"
+
+ExecStart=/usr/bin/python3 /home/julie/TriviaApp/trivia-gen.py
+
+# Append to log file (script also logs here internally)
+StandardOutput=append:/var/log/trivia-gen.log
+StandardError=append:/var/log/trivia-gen.log
+
+# Keep service queryable after exit (systemctl status will show last result)
+RemainAfterExit=yes
+
+# Give it plenty of time — 19 categories × 2 batches × ~60s each = ~40 min worst case
+TimeoutStartSec=3600
+
+[Install]
+WantedBy=multi-user.target

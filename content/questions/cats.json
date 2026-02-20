@@ -16,11 +16,22 @@
       "id": "cats_001",
       "question": "What is the collective noun for a group of cats?",
       "answers": [
-        {"text": "A clowder", "correct": true},
-        {"text": "A pack", "correct": false},
-        {"text": "A herd", "correct": false},
-        {"text": "A flock", "correct": false},
-        {"text": "A catastrophe", "correct": false, "absurd": true}
+        {
+          "text": "A clowder",
+          "correct": true
+        },
+        {
+          "text": "A pack",
+          "correct": false
+        },
+        {
+          "text": "A herd",
+          "correct": false
+        },
+        {
+          "text": "A flock",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -29,11 +40,22 @@
       "id": "cats_002",
       "question": "Which cat breed is known for its flat face and long, luxurious fur?",
       "answers": [
-        {"text": "Persian", "correct": true},
-        {"text": "Siamese", "correct": false},
-        {"text": "Maine Coon", "correct": false},
-        {"text": "Ragdoll", "correct": false},
-        {"text": "Golden Retriever", "correct": false, "absurd": true}
+        {
+          "text": "Persian",
+          "correct": true
+        },
+        {
+          "text": "Siamese",
+          "correct": false
+        },
+        {
+          "text": "Maine Coon",
+          "correct": false
+        },
+        {
+          "text": "Ragdoll",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -42,11 +64,22 @@
       "id": "cats_003",
       "question": "What is the name for the low, vibrating rumble a cat makes when content?",
       "answers": [
-        {"text": "Purr", "correct": true},
-        {"text": "Meow", "correct": false},
-        {"text": "Chirp", "correct": false},
-        {"text": "Trill", "correct": false},
-        {"text": "ASMR", "correct": false, "absurd": true}
+        {
+          "text": "Purr",
+          "correct": true
+        },
+        {
+          "text": "Meow",
+          "correct": false
+        },
+        {
+          "text": "Chirp",
+          "correct": false
+        },
+        {
+          "text": "Trill",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -55,11 +88,22 @@
       "id": "cats_004",
       "question": "According to popular folklore, how many lives does a cat have?",
       "answers": [
-        {"text": "9", "correct": true},
-        {"text": "7", "correct": false},
-        {"text": "13", "correct": false},
-        {"text": "6", "correct": false},
-        {"text": "18", "correct": false, "absurd": true}
+        {
+          "text": "9",
+          "correct": true
+        },
+        {
+          "text": "7",
+          "correct": false
+        },
+        {
+          "text": "13",
+          "correct": false
+        },
+        {
+          "text": "6",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -68,11 +112,22 @@
       "id": "cats_005",
       "question": "What is the correct term for an unspayed female cat?",
       "answers": [
-        {"text": "Queen", "correct": true},
-        {"text": "Molly", "correct": false},
-        {"text": "Dam", "correct": false},
-        {"text": "Doe", "correct": false},
-        {"text": "Madam Paws", "correct": false, "absurd": true}
+        {
+          "text": "Queen",
+          "correct": true
+        },
+        {
+          "text": "Molly",
+          "correct": false
+        },
+        {
+          "text": "Dam",
+          "correct": false
+        },
+        {
+          "text": "Doe",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -81,11 +136,22 @@
       "id": "cats_006",
       "question": "Which orange cartoon cat is famous for loving lasagna and hating Mondays?",
       "answers": [
-        {"text": "Garfield", "correct": true},
-        {"text": "Heathcliff", "correct": false},
-        {"text": "Felix", "correct": false},
-        {"text": "Tom", "correct": false},
-        {"text": "Jon Arbuckle", "correct": false, "absurd": true}
+        {
+          "text": "Garfield",
+          "correct": true
+        },
+        {
+          "text": "Heathcliff",
+          "correct": false
+        },
+        {
+          "text": "Felix",
+          "correct": false
+        },
+        {
+          "text": "Tom",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -94,11 +160,22 @@
       "id": "cats_007",
       "question": "Approximately how long is a cat's pregnancy?",
       "answers": [
-        {"text": "About 63 to 65 days", "correct": true},
-        {"text": "About 30 days", "correct": false},
-        {"text": "About 90 days", "correct": false},
-        {"text": "About 120 days", "correct": false},
-        {"text": "Nine months", "correct": false, "absurd": true}
+        {
+          "text": "About 63 to 65 days",
+          "correct": true
+        },
+        {
+          "text": "About 30 days",
+          "correct": false
+        },
+        {
+          "text": "About 90 days",
+          "correct": false
+        },
+        {
+          "text": "About 120 days",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -107,11 +184,22 @@
       "id": "cats_008",
       "question": "Which cat breed is famous for being born with no tail, or a very short one?",
       "answers": [
-        {"text": "Manx", "correct": true},
-        {"text": "Scottish Fold", "correct": false},
-        {"text": "American Bobtail", "correct": false},
-        {"text": "Japanese Bobtail", "correct": false},
-        {"text": "Boxer", "correct": false, "absurd": true}
+        {
+          "text": "Manx",
+          "correct": true
+        },
+        {
+          "text": "Scottish Fold",
+          "correct": false
+        },
+        {
+          "text": "American Bobtail",
+          "correct": false
+        },
+        {
+          "text": "Japanese Bobtail",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -120,11 +208,22 @@
       "id": "cats_009",
       "question": "What is the popular term for a cat's sudden burst of frantic running and leaping, often happening at night?",
       "answers": [
-        {"text": "Zoomies", "correct": true},
-        {"text": "Night terrors", "correct": false},
-        {"text": "Midnight madness", "correct": false},
-        {"text": "Nocturnal sprints", "correct": false},
-        {"text": "5G activation", "correct": false, "absurd": true}
+        {
+          "text": "Zoomies",
+          "correct": true
+        },
+        {
+          "text": "Night terrors",
+          "correct": false
+        },
+        {
+          "text": "Midnight madness",
+          "correct": false
+        },
+        {
+          "text": "Nocturnal sprints",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -133,11 +232,22 @@
       "id": "cats_010",
       "question": "What is the name of the ancient Egyptian goddess depicted as a cat or with a cat's head?",
       "answers": [
-        {"text": "Bastet", "correct": true},
-        {"text": "Sekhmet", "correct": false},
-        {"text": "Isis", "correct": false},
-        {"text": "Hathor", "correct": false},
-        {"text": "Mewtwo", "correct": false, "absurd": true}
+        {
+          "text": "Bastet",
+          "correct": true
+        },
+        {
+          "text": "Sekhmet",
+          "correct": false
+        },
+        {
+          "text": "Isis",
+          "correct": false
+        },
+        {
+          "text": "Hathor",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -146,11 +256,22 @@
       "id": "cats_011",
       "question": "How many toes does a normal domestic cat have in total?",
       "answers": [
-        {"text": "18", "correct": true},
-        {"text": "16", "correct": false},
-        {"text": "20", "correct": false},
-        {"text": "14", "correct": false},
-        {"text": "32", "correct": false, "absurd": true}
+        {
+          "text": "18",
+          "correct": true
+        },
+        {
+          "text": "16",
+          "correct": false
+        },
+        {
+          "text": "20",
+          "correct": false
+        },
+        {
+          "text": "14",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -159,11 +280,22 @@
       "id": "cats_012",
       "question": "Which wild cat holds the record as the fastest land animal on Earth?",
       "answers": [
-        {"text": "Cheetah", "correct": true},
-        {"text": "Leopard", "correct": false},
-        {"text": "Jaguar", "correct": false},
-        {"text": "Lion", "correct": false},
-        {"text": "Usain Bolt", "correct": false, "absurd": true}
+        {
+          "text": "Cheetah",
+          "correct": true
+        },
+        {
+          "text": "Leopard",
+          "correct": false
+        },
+        {
+          "text": "Jaguar",
+          "correct": false
+        },
+        {
+          "text": "Lion",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -172,11 +304,22 @@
       "id": "cats_013",
       "question": "What is the term for a cat born with more toes than the standard number?",
       "answers": [
-        {"text": "Polydactyl", "correct": true},
-        {"text": "Heterodactyl", "correct": false},
-        {"text": "Syndactyl", "correct": false},
-        {"text": "Multidactyl", "correct": false},
-        {"text": "Thumbelina", "correct": false, "absurd": true}
+        {
+          "text": "Polydactyl",
+          "correct": true
+        },
+        {
+          "text": "Heterodactyl",
+          "correct": false
+        },
+        {
+          "text": "Syndactyl",
+          "correct": false
+        },
+        {
+          "text": "Multidactyl",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -185,11 +328,22 @@
       "id": "cats_014",
       "question": "Who is the primary villain in the Andrew Lloyd Webber musical 'Cats'?",
       "answers": [
-        {"text": "Macavity", "correct": true},
-        {"text": "Grizabella", "correct": false},
-        {"text": "Old Deuteronomy", "correct": false},
-        {"text": "Bustopher Jones", "correct": false},
-        {"text": "Andrew Lloyd Webber", "correct": false, "absurd": true}
+        {
+          "text": "Macavity",
+          "correct": true
+        },
+        {
+          "text": "Grizabella",
+          "correct": false
+        },
+        {
+          "text": "Old Deuteronomy",
+          "correct": false
+        },
+        {
+          "text": "Bustopher Jones",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -198,11 +352,22 @@
       "id": "cats_015",
       "question": "Which cat breed is recognized by its striking blue eyes and darker coloring on its face, ears, paws, and tail?",
       "answers": [
-        {"text": "Siamese", "correct": true},
-        {"text": "Birman", "correct": false},
-        {"text": "Balinese", "correct": false},
-        {"text": "Ragdoll", "correct": false},
-        {"text": "Husky", "correct": false, "absurd": true}
+        {
+          "text": "Siamese",
+          "correct": true
+        },
+        {
+          "text": "Birman",
+          "correct": false
+        },
+        {
+          "text": "Balinese",
+          "correct": false
+        },
+        {
+          "text": "Ragdoll",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -211,11 +376,22 @@
       "id": "cats_016",
       "question": "What is the typical lifespan of a well-cared-for indoor domestic cat?",
       "answers": [
-        {"text": "12 to 18 years", "correct": true},
-        {"text": "5 to 8 years", "correct": false},
-        {"text": "8 to 12 years", "correct": false},
-        {"text": "20 to 25 years", "correct": false},
-        {"text": "9 lives", "correct": false, "absurd": true}
+        {
+          "text": "12 to 18 years",
+          "correct": true
+        },
+        {
+          "text": "5 to 8 years",
+          "correct": false
+        },
+        {
+          "text": "8 to 12 years",
+          "correct": false
+        },
+        {
+          "text": "20 to 25 years",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -224,11 +400,22 @@
       "id": "cats_017",
       "question": "What is the name for the behavior where a cat rhythmically pushes its paws in and out against a soft surface?",
       "answers": [
-        {"text": "Kneading", "correct": true},
-        {"text": "Bunting", "correct": false},
-        {"text": "Trilling", "correct": false},
-        {"text": "Caching", "correct": false},
-        {"text": "Acupuncture", "correct": false, "absurd": true}
+        {
+          "text": "Kneading",
+          "correct": true
+        },
+        {
+          "text": "Bunting",
+          "correct": false
+        },
+        {
+          "text": "Trilling",
+          "correct": false
+        },
+        {
+          "text": "Caching",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -237,11 +424,22 @@
       "id": "cats_018",
       "question": "Which cat breed is famous for having no fur at all?",
       "answers": [
-        {"text": "Sphynx", "correct": true},
-        {"text": "Donskoy", "correct": false},
-        {"text": "Peterbald", "correct": false},
-        {"text": "Bambino", "correct": false},
-        {"text": "Kojak", "correct": false, "absurd": true}
+        {
+          "text": "Sphynx",
+          "correct": true
+        },
+        {
+          "text": "Donskoy",
+          "correct": false
+        },
+        {
+          "text": "Peterbald",
+          "correct": false
+        },
+        {
+          "text": "Bambino",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -250,11 +448,22 @@
       "id": "cats_019",
       "question": "What is the scientific name for the domestic cat?",
       "answers": [
-        {"text": "Felis catus", "correct": true},
-        {"text": "Felis domesticus", "correct": false},
-        {"text": "Felis silvestris", "correct": false},
-        {"text": "Panthera domestica", "correct": false},
-        {"text": "Just Cat", "correct": false, "absurd": true}
+        {
+          "text": "Felis catus",
+          "correct": true
+        },
+        {
+          "text": "Felis domesticus",
+          "correct": false
+        },
+        {
+          "text": "Felis silvestris",
+          "correct": false
+        },
+        {
+          "text": "Panthera domestica",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -263,11 +472,22 @@
       "id": "cats_020",
       "question": "What are the small, backward-facing barbs on a cat's tongue called?",
       "answers": [
-        {"text": "Papillae", "correct": true},
-        {"text": "Filaments", "correct": false},
-        {"text": "Spicules", "correct": false},
-        {"text": "Cilia", "correct": false},
-        {"text": "Tongue comb", "correct": false, "absurd": true}
+        {
+          "text": "Papillae",
+          "correct": true
+        },
+        {
+          "text": "Filaments",
+          "correct": false
+        },
+        {
+          "text": "Spicules",
+          "correct": false
+        },
+        {
+          "text": "Cilia",
+          "correct": false
+        }
       ],
       "difficulty": "easy",
       "category": "Cats"
@@ -276,11 +496,22 @@
       "id": "cats_021",
       "question": "What was the real name of the internet-famous Grumpy Cat, whose perpetual scowl made her a global meme?",
       "answers": [
-        {"text": "Tardar Sauce", "correct": true},
-        {"text": "Princess Poutyface", "correct": false},
-        {"text": "Sourpuss", "correct": false},
-        {"text": "Grumchetta", "correct": false},
-        {"text": "Monday", "correct": false, "absurd": true}
+        {
+          "text": "Tardar Sauce",
+          "correct": true
+        },
+        {
+          "text": "Princess Poutyface",
+          "correct": false
+        },
+        {
+          "text": "Sourpuss",
+          "correct": false
+        },
+        {
+          "text": "Grumchetta",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -289,11 +520,22 @@
       "id": "cats_022",
       "question": "How many hours per day does the average adult cat sleep?",
       "answers": [
-        {"text": "12 to 16 hours", "correct": true},
-        {"text": "6 to 8 hours", "correct": false},
-        {"text": "8 to 10 hours", "correct": false},
-        {"text": "18 to 20 hours", "correct": false},
-        {"text": "All of them", "correct": false, "absurd": true}
+        {
+          "text": "12 to 16 hours",
+          "correct": true
+        },
+        {
+          "text": "6 to 8 hours",
+          "correct": false
+        },
+        {
+          "text": "8 to 10 hours",
+          "correct": false
+        },
+        {
+          "text": "18 to 20 hours",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -302,11 +544,22 @@
       "id": "cats_023",
       "question": "What do you call a cat with a white base coat and distinct patches of two other colors?",
       "answers": [
-        {"text": "Calico", "correct": true},
-        {"text": "Tortoiseshell", "correct": false},
-        {"text": "Piebald", "correct": false},
-        {"text": "Parti-colored", "correct": false},
-        {"text": "Neapolitan", "correct": false, "absurd": true}
+        {
+          "text": "Calico",
+          "correct": true
+        },
+        {
+          "text": "Tortoiseshell",
+          "correct": false
+        },
+        {
+          "text": "Piebald",
+          "correct": false
+        },
+        {
+          "text": "Parti-colored",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -315,11 +568,22 @@
       "id": "cats_024",
       "question": "What biological mechanism allows cats to almost always land on their feet when they fall?",
       "answers": [
-        {"text": "The righting reflex", "correct": true},
-        {"text": "Flexible spine", "correct": false},
-        {"text": "Inner ear balance", "correct": false},
-        {"text": "Vestibular system", "correct": false},
-        {"text": "Pure luck", "correct": false, "absurd": true}
+        {
+          "text": "The righting reflex",
+          "correct": true
+        },
+        {
+          "text": "Flexible spine",
+          "correct": false
+        },
+        {
+          "text": "Inner ear balance",
+          "correct": false
+        },
+        {
+          "text": "Vestibular system",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -328,11 +592,22 @@
       "id": "cats_025",
       "question": "Which cat breed is known for going completely limp and relaxed when picked up, as if boneless?",
       "answers": [
-        {"text": "Ragdoll", "correct": true},
-        {"text": "Maine Coon", "correct": false},
-        {"text": "Ragamuffin", "correct": false},
-        {"text": "Turkish Van", "correct": false},
-        {"text": "Beanbag Chair", "correct": false, "absurd": true}
+        {
+          "text": "Ragdoll",
+          "correct": true
+        },
+        {
+          "text": "Maine Coon",
+          "correct": false
+        },
+        {
+          "text": "Ragamuffin",
+          "correct": false
+        },
+        {
+          "text": "Turkish Van",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -341,11 +616,22 @@
       "id": "cats_026",
       "question": "What is the name of the animated internet cat with a Pop-Tart body that flies through space trailing a rainbow?",
       "answers": [
-        {"text": "Nyan Cat", "correct": true},
-        {"text": "LOL Cat", "correct": false},
-        {"text": "Keyboard Cat", "correct": false},
-        {"text": "Longcat", "correct": false},
-        {"text": "Pop-Tart", "correct": false, "absurd": true}
+        {
+          "text": "Nyan Cat",
+          "correct": true
+        },
+        {
+          "text": "LOL Cat",
+          "correct": false
+        },
+        {
+          "text": "Keyboard Cat",
+          "correct": false
+        },
+        {
+          "text": "Longcat",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -354,11 +640,22 @@
       "id": "cats_027",
       "question": "What is the term for when a cat presses its head or body against objects and people to deposit its scent?",
       "answers": [
-        {"text": "Bunting", "correct": true},
-        {"text": "Kneading", "correct": false},
-        {"text": "Treading", "correct": false},
-        {"text": "Caching", "correct": false},
-        {"text": "LinkedIn", "correct": false, "absurd": true}
+        {
+          "text": "Bunting",
+          "correct": true
+        },
+        {
+          "text": "Kneading",
+          "correct": false
+        },
+        {
+          "text": "Treading",
+          "correct": false
+        },
+        {
+          "text": "Caching",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -367,11 +664,22 @@
       "id": "cats_028",
       "question": "What fur color pattern is extremely rare in male cats, occurring roughly once in every 3,000 births, due to its sex-linked genetics?",
       "answers": [
-        {"text": "Tortoiseshell", "correct": true},
-        {"text": "Orange", "correct": false},
-        {"text": "White", "correct": false},
-        {"text": "Black", "correct": false},
-        {"text": "Plaid", "correct": false, "absurd": true}
+        {
+          "text": "Tortoiseshell",
+          "correct": true
+        },
+        {
+          "text": "Orange",
+          "correct": false
+        },
+        {
+          "text": "White",
+          "correct": false
+        },
+        {
+          "text": "Black",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -380,11 +688,22 @@
       "id": "cats_029",
       "question": "What is the term for the social behavior when two cats lick and groom each other?",
       "answers": [
-        {"text": "Allogrooming", "correct": true},
-        {"text": "Social grooming", "correct": false},
-        {"text": "Mutual grooming", "correct": false},
-        {"text": "Communal grooming", "correct": false},
-        {"text": "Speed dating", "correct": false, "absurd": true}
+        {
+          "text": "Allogrooming",
+          "correct": true
+        },
+        {
+          "text": "Social grooming",
+          "correct": false
+        },
+        {
+          "text": "Mutual grooming",
+          "correct": false
+        },
+        {
+          "text": "Communal grooming",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -393,11 +712,22 @@
       "id": "cats_030",
       "question": "What is the name of the reflective layer behind a cat's retina that causes its eyes to glow when light hits them in the dark?",
       "answers": [
-        {"text": "Tapetum lucidum", "correct": true},
-        {"text": "Iris reflector", "correct": false},
-        {"text": "Choroid membrane", "correct": false},
-        {"text": "Tapetal layer", "correct": false},
-        {"text": "Cat goggles", "correct": false, "absurd": true}
+        {
+          "text": "Tapetum lucidum",
+          "correct": true
+        },
+        {
+          "text": "Iris reflector",
+          "correct": false
+        },
+        {
+          "text": "Choroid membrane",
+          "correct": false
+        },
+        {
+          "text": "Tapetal layer",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -406,11 +736,22 @@
       "id": "cats_031",
       "question": "What are the scent-producing glands located between a cat's toes called, which leave marks when a cat scratches?",
       "answers": [
-        {"text": "Interdigital glands", "correct": true},
-        {"text": "Sebaceous glands", "correct": false},
-        {"text": "Eccrine glands", "correct": false},
-        {"text": "Metatarsal glands", "correct": false},
-        {"text": "Scratch cards", "correct": false, "absurd": true}
+        {
+          "text": "Interdigital glands",
+          "correct": true
+        },
+        {
+          "text": "Sebaceous glands",
+          "correct": false
+        },
+        {
+          "text": "Eccrine glands",
+          "correct": false
+        },
+        {
+          "text": "Metatarsal glands",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -419,11 +760,22 @@
       "id": "cats_032",
       "question": "Which wild cat is the most widely distributed in the Americas and is also known as cougar or mountain lion?",
       "answers": [
-        {"text": "Puma", "correct": true},
-        {"text": "Bobcat", "correct": false},
-        {"text": "Ocelot", "correct": false},
-        {"text": "Jaguar", "correct": false},
-        {"text": "Mountain Dew", "correct": false, "absurd": true}
+        {
+          "text": "Puma",
+          "correct": true
+        },
+        {
+          "text": "Bobcat",
+          "correct": false
+        },
+        {
+          "text": "Ocelot",
+          "correct": false
+        },
+        {
+          "text": "Jaguar",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -432,11 +784,22 @@
       "id": "cats_033",
       "question": "What is the collective name for a group of kittens born to the same mother?",
       "answers": [
-        {"text": "A kindle", "correct": true},
-        {"text": "A litter", "correct": false},
-        {"text": "A brood", "correct": false},
-        {"text": "A clutter", "correct": false},
-        {"text": "A Netflix queue", "correct": false, "absurd": true}
+        {
+          "text": "A kindle",
+          "correct": true
+        },
+        {
+          "text": "A litter",
+          "correct": false
+        },
+        {
+          "text": "A brood",
+          "correct": false
+        },
+        {
+          "text": "A clutter",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -445,11 +808,22 @@
       "id": "cats_034",
       "question": "What is the name of the distinctive marking found on the forehead of all tabby cats, shaped like the letter M?",
       "answers": [
-        {"text": "M marking", "correct": true},
-        {"text": "Blaze", "correct": false},
-        {"text": "Star", "correct": false},
-        {"text": "Stripe", "correct": false},
-        {"text": "Widow's peak", "correct": false, "absurd": true}
+        {
+          "text": "M marking",
+          "correct": true
+        },
+        {
+          "text": "Blaze",
+          "correct": false
+        },
+        {
+          "text": "Star",
+          "correct": false
+        },
+        {
+          "text": "Stripe",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -458,11 +832,22 @@
       "id": "cats_035",
       "question": "How many teeth does a fully grown adult cat have?",
       "answers": [
-        {"text": "30", "correct": true},
-        {"text": "28", "correct": false},
-        {"text": "32", "correct": false},
-        {"text": "26", "correct": false},
-        {"text": "60", "correct": false, "absurd": true}
+        {
+          "text": "30",
+          "correct": true
+        },
+        {
+          "text": "28",
+          "correct": false
+        },
+        {
+          "text": "32",
+          "correct": false
+        },
+        {
+          "text": "26",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -471,11 +856,22 @@
       "id": "cats_036",
       "question": "Which cartoon cat is famous for perpetually and unsuccessfully trying to catch Tweety Bird?",
       "answers": [
-        {"text": "Sylvester", "correct": true},
-        {"text": "Tom", "correct": false},
-        {"text": "Felix", "correct": false},
-        {"text": "Garfield", "correct": false},
-        {"text": "Wile E. Coyote", "correct": false, "absurd": true}
+        {
+          "text": "Sylvester",
+          "correct": true
+        },
+        {
+          "text": "Tom",
+          "correct": false
+        },
+        {
+          "text": "Felix",
+          "correct": false
+        },
+        {
+          "text": "Garfield",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -484,11 +880,22 @@
       "id": "cats_037",
       "question": "Which cat breed takes its name from an ancient kingdom in Southeast Asia and is considered one of the world's oldest recognized breeds?",
       "answers": [
-        {"text": "Siamese", "correct": true},
-        {"text": "Thai", "correct": false},
-        {"text": "Korat", "correct": false},
-        {"text": "Burmese", "correct": false},
-        {"text": "Pad Thai", "correct": false, "absurd": true}
+        {
+          "text": "Siamese",
+          "correct": true
+        },
+        {
+          "text": "Thai",
+          "correct": false
+        },
+        {
+          "text": "Korat",
+          "correct": false
+        },
+        {
+          "text": "Burmese",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -497,11 +904,22 @@
       "id": "cats_038",
       "question": "What is the term for the comfort behavior in which cats suck or chew on wool, blankets, or other soft fabrics, a habit carried over from kittenhood?",
       "answers": [
-        {"text": "Wool sucking", "correct": true},
-        {"text": "Object fixation", "correct": false},
-        {"text": "Redirected nursing", "correct": false},
-        {"text": "Pica", "correct": false},
-        {"text": "The Oedipus Complex", "correct": false, "absurd": true}
+        {
+          "text": "Wool sucking",
+          "correct": true
+        },
+        {
+          "text": "Object fixation",
+          "correct": false
+        },
+        {
+          "text": "Redirected nursing",
+          "correct": false
+        },
+        {
+          "text": "Pica",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -510,11 +928,22 @@
       "id": "cats_039",
       "question": "What is the name of the Japanese lucky cat figurine, typically depicted with one raised paw, believed to bring good fortune to its owner?",
       "answers": [
-        {"text": "Maneki-neko", "correct": true},
-        {"text": "Daruma", "correct": false},
-        {"text": "Tanuki", "correct": false},
-        {"text": "Feng shui cat", "correct": false},
-        {"text": "Ceiling Cat", "correct": false, "absurd": true}
+        {
+          "text": "Maneki-neko",
+          "correct": true
+        },
+        {
+          "text": "Daruma",
+          "correct": false
+        },
+        {
+          "text": "Tanuki",
+          "correct": false
+        },
+        {
+          "text": "Feng shui cat",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -523,11 +952,22 @@
       "id": "cats_040",
       "question": "In Japanese folklore, what is the name of a domestic cat that has lived long enough to develop supernatural powers and shapeshift?",
       "answers": [
-        {"text": "Bakeneko", "correct": true},
-        {"text": "Nekomata", "correct": false},
-        {"text": "Kirin", "correct": false},
-        {"text": "Werecat", "correct": false},
-        {"text": "Professor Whiskers", "correct": false, "absurd": true}
+        {
+          "text": "Bakeneko",
+          "correct": true
+        },
+        {
+          "text": "Nekomata",
+          "correct": false
+        },
+        {
+          "text": "Kirin",
+          "correct": false
+        },
+        {
+          "text": "Werecat",
+          "correct": false
+        }
       ],
       "difficulty": "medium",
       "category": "Cats"
@@ -536,11 +976,22 @@
       "id": "cats_041",
       "question": "What is the medical term for the vestigial collarbone that cats possess, which floats freely in the chest muscle rather than connecting to other bones?",
       "answers": [
-        {"text": "Clavicle", "correct": true},
-        {"text": "Furcula", "correct": false},
-        {"text": "Coracoid", "correct": false},
-        {"text": "Scapula", "correct": false},
-        {"text": "Collarbonium", "correct": false, "absurd": true}
+        {
+          "text": "Clavicle",
+          "correct": true
+        },
+        {
+          "text": "Furcula",
+          "correct": false
+        },
+        {
+          "text": "Coracoid",
+          "correct": false
+        },
+        {
+          "text": "Scapula",
+          "correct": false
+        }
       ],
       "difficulty": "hard",
       "category": "Cats"
@@ -549,11 +1000,22 @@
       "id": "cats_042",
       "question": "In cat genetics, which sex-linked gene located on the X chromosome determines whether a cat will have an orange or black coat?",
       "answers": [
-        {"text": "The O gene", "correct": true},
-        {"text": "The B gene", "correct": false},
-        {"text": "The A gene", "correct": false},
-        {"text": "The W gene", "correct": false},
-        {"text": "Garfield", "correct": false, "absurd": true}
+        {
+          "text": "The O gene",
+          "correct": true
+        },
+        {
+          "text": "The B gene",
+          "correct": false
+        },
+        {
+          "text": "The A gene",
+          "correct": false
+        },
+        {
+          "text": "The W gene",
+          "correct": false
+        }
       ],
       "difficulty": "hard",
       "category": "Cats"
@@ -562,11 +1024,22 @@
       "id": "cats_043",
       "question": "What genetic condition, caused by failure of pigment cells to migrate properly during development, produces irregular white patches in a cat's coat?",
       "answers": [
-        {"text": "Piebaldism", "correct": true},
-        {"text": "Leucism", "correct": false},
-        {"text": "Albinism", "correct": false},
-        {"text": "Vitiligo", "correct": false},
-        {"text": "Dalmatian", "correct": false, "absurd": true}
+        {
+          "text": "Piebaldism",
+          "correct": true
+        },
+        {
+          "text": "Leucism",
+          "correct": false
+        },
+        {
+          "text": "Albinism",
+          "correct": false
+        },
+        {
+          "text": "Vitiligo",
+          "correct": false
+        }
       ],
       "difficulty": "hard",
       "category": "Cats"
@@ -575,11 +1048,22 @@
       "id": "cats_044",
       "question": "What is the medical term for abnormally dilated pupils in a cat, which can indicate neurological disease, toxin exposure, or high blood pressure?",
       "answers": [
-        {"text": "Mydriasis", "correct": true},
-        {"text": "Miosis", "correct": false},
-        {"text": "Anisocoria", "correct": false},
-        {"text": "Buphthalmos", "correct": false},
-        {"text": "Permanent puppy eyes", "correct": false, "absurd": true}
+        {
+          "text": "Mydriasis",
+          "correct": true
+        },
+        {
+          "text": "Miosis",
+          "correct": false
+        },
+        {
+          "text": "Anisocoria",
+          "correct": false
+        },
+        {
+          "text": "Buphthalmos",
+          "correct": false
+        }
       ],
       "difficulty": "hard",
       "category": "Cats"
@@ -588,11 +1072,22 @@
       "id": "cats_045",
       "question": "Unlike all other large cats, cheetahs have a unique claw structure that gives them exceptional traction while sprinting. What is this feature?",
       "answers": [
-        {"text": "Semi-retractable claws", "correct": true},
-        {"text": "Curved retractable claws", "correct": false},
-        {"text": "Adhesive paw pads", "correct": false},
-        {"text": "Rigid wrist joints", "correct": false},
-        {"text": "Nike", "correct": false, "absurd": true}
+        {
+          "text": "Semi-retractable claws",
+          "correct": true
+        },
+        {
+          "text": "Curved retractable claws",
+          "correct": false
+        },
+        {
+          "text": "Adhesive paw pads",
+          "correct": false
+        },
+        {
+          "text": "Rigid wrist joints",
+          "correct": false
+        }
       ],
       "difficulty": "hard",
       "category": "Cats"
@@ -601,11 +1096,22 @@
       "id": "cats_046",
       "question": "What is the name of the genetic pattern that produces individual hairs banded with alternating rings of light and dark pigment, seen in wild-type cats?",
       "answers": [
-        {"text": "Agouti", "correct": true},
-        {"text": "Tabby", "correct": false},
-        {"text": "Brindling", "correct": false},
-        {"text": "Bicolor banding", "correct": false},
-        {"text": "Sprinkles", "correct": false, "absurd": true}
+        {
+          "text": "Agouti",
+          "correct": true
+        },
+        {
+          "text": "Tabby",
+          "correct": false
+        },
+        {
+          "text": "Brindling",
+          "correct": false
+        },
+        {
+          "text": "Bicolor banding",
+          "correct": false
+        }
       ],
       "difficulty": "hard",
       "category": "Cats"
@@ -614,11 +1120,22 @@
       "id": "cats_047",
       "question": "Which dominant gene in cats produces an all-white coat and is closely linked to hereditary deafness, especially in blue-eyed individuals?",
       "answers": [
-        {"text": "The Dominant White gene", "correct": true},
-        {"text": "The Leucism gene", "correct": false},
-        {"text": "The Albinism allele", "correct": false},
-        {"text": "The Tyrosinase gene", "correct": false},
-        {"text": "Beethoven", "correct": false, "absurd": true}
+        {
+          "text": "The Dominant White gene",
+          "correct": true
+        },
+        {
+          "text": "The Leucism gene",
+          "correct": false
+        },
+        {
+          "text": "The Albinism allele",
+          "correct": false
+        },
+        {
+          "text": "The Tyrosinase gene",
+          "correct": false
+        }
       ],
       "difficulty": "hard",
       "category": "Cats"
@@ -627,11 +1144,22 @@
       "id": "cats_048",
       "question": "What is the scientific term used by veterinarians and animal behaviorists for the bursts of hyperactive running that cats commonly exhibit, especially at night?",
       "answers": [
-        {"text": "FRAP", "correct": true},
-        {"text": "REM sleep behavior", "correct": false},
-        {"text": "Hyperkinesis", "correct": false},
-        {"text": "Nocturnal arousal", "correct": false},
-        {"text": "The 3 AM Alarm", "correct": false, "absurd": true}
+        {
+          "text": "FRAP",
+          "correct": true
+        },
+        {
+          "text": "REM sleep behavior",
+          "correct": false
+        },
+        {
+          "text": "Hyperkinesis",
+          "correct": false
+        },
+        {
+          "text": "Nocturnal arousal",
+          "correct": false
+        }
       ],
       "difficulty": "hard",
       "category": "Cats"
@@ -640,11 +1168,22 @@
       "id": "cats_049",
       "question": "In which ancient region did the wildcat ancestor of domestic cats, Felis silvestris lybica, first begin living alongside human settlements around 10,000 years ago?",
       "answers": [
-        {"text": "The Fertile Crescent", "correct": true},
-        {"text": "Egypt", "correct": false},
-        {"text": "North Africa", "correct": false},
-        {"text": "The Indus Valley", "correct": false},
-        {"text": "The Garden of Eden", "correct": false, "absurd": true}
+        {
+          "text": "The Fertile Crescent",
+          "correct": true
+        },
+        {
+          "text": "Egypt",
+          "correct": false
+        },
+        {
+          "text": "North Africa",
+          "correct": false
+        },
+        {
+          "text": "The Indus Valley",
+          "correct": false
+        }
       ],
       "difficulty": "hard",
       "category": "Cats"
@@ -653,11 +1192,22 @@
       "id": "cats_050",
       "question": "What is the name of the compulsive condition in cats that causes them to eat non-food items such as plastic, wool, or rubber?",
       "answers": [
-        {"text": "Pica", "correct": true},
-        {"text": "Allotriophagy", "correct": false},
-        {"text": "Coprophagia", "correct": false},
-        {"text": "Trichophagia", "correct": false},
-        {"text": "Adventurous eating", "correct": false, "absurd": true}
+        {
+          "text": "Pica",
+          "correct": true
+        },
+        {
+          "text": "Allotriophagy",
+          "correct": false
+        },
+        {
+          "text": "Coprophagia",
+          "correct": false
+        },
+        {
+          "text": "Trichophagia",
+          "correct": false
+        }
       ],
       "difficulty": "hard",
       "category": "Cats"
