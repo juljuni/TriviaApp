@@ -267,20 +267,26 @@
 
         async function loadQuestions() {
             const categoryFiles = [
-                'animals', 'art', 'biology', 'food', 'general-knowledge',
-                'geography', 'history', 'human-body', 'inventions', 'languages',
-                'literature', 'mathematics', 'movies', 'music', 'mythology',
-                'physics', 'space', 'technology'
+                'animals', 'art', 'australian-pop-culture', 'biology', 'cats',
+                'chemistry', 'conspiracy-theories', 'fast-food', 'food',
+                'general-knowledge', 'geography', 'history', 'human-body',
+                'inventions', 'languages', 'literature', 'mathematics',
+                'millennials', 'movies', 'music', 'mythology', 'physics',
+                'pop-culture', 'science', 'space', 'sports', 'technology',
+                'world-records'
             ];
 
             try {
                 const loadPromises = categoryFiles.map(async (category) => {
-                    const response = await fetch(`content/questions/${category}.json`);
-                    const data = await response.json();
-                    if (data && data.questions) {
-                        allQuestions.push(data);
-                        categories.add(data.category);
-                    }
+                    try {
+                        const response = await fetch(`content/questions/${category}.json`);
+                        if (!response.ok) return;
+                        const data = await response.json();
+                        if (data && data.questions) {
+                            allQuestions.push(data);
+                            categories.add(data.category);
+                        }
+                    } catch (e) { /* skip missing files */ }
                 });
 
                 await Promise.all(loadPromises);
