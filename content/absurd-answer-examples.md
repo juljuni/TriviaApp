@@ -48,6 +48,110 @@ These are PERFECT absurd answers. All future question generation must match this
 **Absurd Answer:** Emoji
 **Why it works:** Universal communication system, technically "spoken" by billions
 
+**Question:** What is the fastest land animal?
+**Absurd Answer:** Usain Bolt
+**Why it works:** Real person famous for speed, wrong category (human not animal), passes the 1-2 second pause test
+
+**Question:** What is the chemical symbol for gold?
+**Absurd Answer:** Ag
+**Why it works:** Real element symbol (silver), close enough to confuse, looks like a legitimate answer
+
+
+## WHAT MAKES ABSURD ANSWERS ACTUALLY FUNNY
+
+**GOOD absurd answers (use these techniques):**
+
+1. **Name overlap with twist:**
+   - Leonardo da Vinci → Leonardo di Caprio (actor not painter)
+   - Alexander Graham Bell → Alexander Graham Cracker (snack not inventor)
+   - Pablo Picasso → Pablo Escobar (drug lord not artist)
+
+2. **Shared context/lore:**
+   - Vincent van Gogh (cut off ear) → Mike Tyson (bit off ear)
+   - Salvador Dali (melting art) → Meltyism (fake art movement)
+
+3. **Real thing, wrong category:**
+   - Capital of France? → Versailles (real city, not capital)
+   - Flying mammal? → Red Bull (gives you wings)
+   - Striped animal? → Referee (wears stripes)
+
+4. **Format/unit confusion:**
+   - 100°C (boiling point) → 100°F (wrong unit, sounds plausible)
+   - H₂O (water) → H₂OMG (extends chemical notation)
+
+5. **Simple exaggeration (numbers only):**
+   - 8 legs (spider) → 100 legs (way off but specific)
+   - 88 keys (piano) → 176 keys (double, creates doubt)
+
+**BAD absurd answers (NEVER do these):**
+
+❌ Generic/lazy:
+   - "Too many"
+   - "A lot"
+   - "More than you think"
+   - "It depends"
+
+❌ Self-referential:
+   - "My dating life"
+   - "Your mother"
+   - "Still waiting"
+
+❌ Just adding modifiers:
+   - "Big Mac" → "Really Big Mac"
+   - "Paris" → "Big Paris"
+
+❌ Obvious made-up words:
+   - "Cheeto" for Cheetah
+   - "Mockingbird" → "Mockingbirdo"
+
+❌ Random unrelated things:
+   - "What's the capital of France?" → "Banana"
+   - No connection = not funny
+
+❌ Trying too hard:
+   - Multiple puns stacked
+   - Explaining the joke in the answer
+   - Too clever/obscure
+
+
+## THE TEST
+
+Before accepting an absurd answer, ask:
+1. Would someone pause for 1-2 seconds thinking it MIGHT be right?
+2. Is it in the same universe as the question?
+3. Does it use one of the GOOD techniques above?
+4. Is it naturally funny without explanation?
+
+If NO to any of these → generate a different absurd answer.
+
+
+## EXAMPLES OF GOOD VS BAD
+
+**Question:** What is the fastest land animal?
+
+❌ BAD: "Speedy McSpeedface" (made-up, trying too hard)
+❌ BAD: "Really fast cheetah" (lazy modifier)
+❌ BAD: "Your ex running from commitment" (self-referential)
+✅ GOOD: "Usain Bolt" (real person, famous for speed, wrong category)
+✅ GOOD: "Secretariat" (real fast animal, wrong type)
+
+**Question:** Who painted the Mona Lisa?
+
+❌ BAD: "Leonardo DaVinky" (silly misspelling)
+❌ BAD: "The Mona Lisa painter" (just restating)
+❌ BAD: "Some Italian guy" (too vague)
+✅ GOOD: "Leonardo di Caprio" (name overlap, actor not painter)
+✅ GOOD: "Donatello Versace" (different Renaissance artist + fashion)
+
+**Question:** What is the chemical symbol for gold?
+
+❌ BAD: "Go" (too obvious it's wrong)
+❌ BAD: "Au-some" (pun with hyphen, breaks rules)
+❌ BAD: "GOLD" (just spelling it out)
+✅ GOOD: "Ag" (real element - silver, close enough to confuse)
+✅ GOOD: "Aurum" (actual Latin name, sounds made up)
+
+
 ## THE CRITICAL RULE: DON'T TELEGRAPH THE ANSWER
 
 The absurd answer must NOT give away the correct answer through shared words or obvious derivatives.
@@ -88,6 +192,7 @@ The absurd answer must NOT give away the correct answer through shared words or 
 **Good Absurd:** Referee
 **Why it works:** Has stripes, completely different category, doesn't reveal "Zebra"
 
+
 ## THE 80/20 RULE FOR SHARED NAMES
 
 **80% of the time:** Absurd answer shares NO words/names with correct answer
@@ -105,30 +210,19 @@ The absurd answer must NOT give away the correct answer through shared words or 
 - If yes → use it
 - If no → find something completely different that doesn't share words
 
-## Updated Absurd Answer Techniques
 
-1. **Same universe, different entity**
-   - Artist question? Use different artist (Donatello instead of Leonardo)
-   - Fast animal? Use different fast thing (Secretariat instead of Cheetah)
-   - City question? Use different city in same country
+## Absurd Answer Techniques (Ranked Best to Worst)
 
-2. **Category confusion**
-   - Referee for striped animal
-   - Superman for flying mammal
-   - Godzilla for large reptile
+1. **Name overlap + pun** (Alexander Graham Bell → Alexander Graham Cracker, Leonardo da Vinci → Leonardo di Caprio, Pablo Picasso → Pablo Escobar)
+2. **Shared lore/context** (Mike Tyson ear incident, croissant/crescent roll shapes)
+3. **Real thing, wrong category** (Referee for striped animal, Red Bull for flying mammal, Usain Bolt for fastest animal, Versailles for capital of France)
+4. **Format mimicry** (H₂OMG uses chemical notation, Collarbonium sounds medical, Ag is a real element symbol)
+5. **Plausible suffix** (-ium like Collarbonium, -ism like Meltyism)
+6. **Abstract made literal** (ego as physical organ)
+7. **Simple exaggeration** (numbers only — double or absurdly high)
 
-3. **Simple exaggeration for numbers** (no wordplay needed)
-   - 6 legs → 12 legs
-   - 22 months → 44 months
+Techniques 1–4 produce the best results. Techniques 5–7 are fallbacks when nothing better exists.
 
-4. **Real thing in wrong context**
-   - Emoji for language
-   - Red Bull for flying mammal
-
-5. **ONLY use shared names when genuinely funnier** (20% of time)
-   - Leonardo di Caprio
-   - Alexander Graham Cracker
-   - Pablo Escobar
 
 ## What NOT to do
 
@@ -138,18 +232,11 @@ The absurd answer must NOT give away the correct answer through shared words or 
 ❌ Hyphens in wordplay
 ❌ Brackets anywhere
 ❌ Made-up words that sound like correct answer
+❌ Generic lazy answers (Too many, A lot, It depends)
+❌ Self-referential humor (My dating life, Your mom, Still waiting)
+❌ Random unrelated things with no connection to the question
+❌ Overly complex multi-layered puns
 
-## Absurd Answer Formula
-
-Premium techniques that work:
-1. **Name overlap + pun** (Alexander Graham Bell → Alexander Graham Cracker, Leonardo da Vinci → Leonardo di Caprio, Pablo Picasso → Pablo Escobar)
-2. **Extend/modify correct answer** (H₂O → H₂OMG, Mitochondria → Mightychondria)
-3. **Plausible suffix** (-ium like Collarbonium, -ism like Meltyism)
-4. **Shared lore/context** (Mike Tyson ear incident, croissant/crescent roll shapes)
-5. **Abstract made literal** (ego as physical organ)
-6. **Category confusion** (celebrity as painter, drug lord as artist)
-7. **Format mimicry** (H₂OMG uses chemical notation, Collarbonium sounds medical)
-8. **Universal truth disguised** (Emoji is actually universally used)
 
 ## Critical Rules
 
@@ -185,6 +272,7 @@ ALWAYS do these:
 ✅ Wordplay that maintains plausibility
 ✅ Reference shared cultural knowledge
 ✅ Keep the same format/structure as real answers
+
 
 ## NUMBER-BASED QUESTIONS
 
