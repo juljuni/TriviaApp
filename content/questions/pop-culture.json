@@ -1,0 +1,666 @@
+{
+  "category": "Pop Culture",
+  "metadata": {
+    "totalQuestions": 50,
+    "difficulty": {
+      "easy": 20,
+      "medium": 20,
+      "hard": 10
+    },
+    "version": "1.0",
+    "created": "2026-02-20",
+    "updated": "2026-02-20"
+  },
+  "questions": [
+    {
+      "id": "pc_001",
+      "question": "Which band recorded 'Bohemian Rhapsody'?",
+      "answers": [
+        {"text": "Queen", "correct": true},
+        {"text": "The Rolling Stones", "correct": false},
+        {"text": "Led Zeppelin", "correct": false},
+        {"text": "Fleetwood Mac", "correct": false},
+        {"text": "Wayne's World", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_002",
+      "question": "In 'Friends', what was the name of Ross's pet monkey?",
+      "answers": [
+        {"text": "Marcel", "correct": true},
+        {"text": "Bubbles", "correct": false},
+        {"text": "Bongo", "correct": false},
+        {"text": "Coco", "correct": false},
+        {"text": "Harambe", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_003",
+      "question": "Which Disney film features the song 'Let It Go'?",
+      "answers": [
+        {"text": "Frozen", "correct": true},
+        {"text": "Tangled", "correct": false},
+        {"text": "Brave", "correct": false},
+        {"text": "Moana", "correct": false},
+        {"text": "Jack Frost", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_004",
+      "question": "Which actor played Tony Stark / Iron Man in the MCU?",
+      "answers": [
+        {"text": "Robert Downey Jr.", "correct": true},
+        {"text": "Chris Evans", "correct": false},
+        {"text": "Mark Ruffalo", "correct": false},
+        {"text": "Chris Pratt", "correct": false},
+        {"text": "Tony Montana", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_005",
+      "question": "What is the name of Harry Potter's owl?",
+      "answers": [
+        {"text": "Hedwig", "correct": true},
+        {"text": "Errol", "correct": false},
+        {"text": "Pigwidgeon", "correct": false},
+        {"text": "Archimedes", "correct": false},
+        {"text": "Postmaster General", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_006",
+      "question": "Which TV show is set in the fictional city of Pawnee, Indiana?",
+      "answers": [
+        {"text": "Parks and Recreation", "correct": true},
+        {"text": "The Office", "correct": false},
+        {"text": "Community", "correct": false},
+        {"text": "Scrubs", "correct": false},
+        {"text": "Indiana Jones", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_007",
+      "question": "Which pop star is associated with the 'Eras Tour' concert series?",
+      "answers": [
+        {"text": "Taylor Swift", "correct": true},
+        {"text": "Beyoncé", "correct": false},
+        {"text": "Ariana Grande", "correct": false},
+        {"text": "Katy Perry", "correct": false},
+        {"text": "Ticketmaster", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_008",
+      "question": "Which streaming platform produced 'Stranger Things'?",
+      "answers": [
+        {"text": "Netflix", "correct": true},
+        {"text": "HBO Max", "correct": false},
+        {"text": "Hulu", "correct": false},
+        {"text": "Disney+", "correct": false},
+        {"text": "Blockbuster", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_009",
+      "question": "Who provides the voice of Woody in the Toy Story films?",
+      "answers": [
+        {"text": "Tom Hanks", "correct": true},
+        {"text": "Tim Allen", "correct": false},
+        {"text": "Billy Crystal", "correct": false},
+        {"text": "John Goodman", "correct": false},
+        {"text": "Woody Allen", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_010",
+      "question": "Which video game franchise features the soldier known as Master Chief?",
+      "answers": [
+        {"text": "Halo", "correct": true},
+        {"text": "Call of Duty", "correct": false},
+        {"text": "Destiny", "correct": false},
+        {"text": "Titanfall", "correct": false},
+        {"text": "Top Gun", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_011",
+      "question": "Which film franchise features the Autobots Optimus Prime and Bumblebee?",
+      "answers": [
+        {"text": "Transformers", "correct": true},
+        {"text": "Power Rangers", "correct": false},
+        {"text": "Voltron", "correct": false},
+        {"text": "Pacific Rim", "correct": false},
+        {"text": "Fast and the Furious", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_012",
+      "question": "Which artist performed the hit song 'Bad Guy'?",
+      "answers": [
+        {"text": "Billie Eilish", "correct": true},
+        {"text": "Olivia Rodrigo", "correct": false},
+        {"text": "Halsey", "correct": false},
+        {"text": "Dua Lipa", "correct": false},
+        {"text": "Tim Burton", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_013",
+      "question": "Which superhero is nicknamed 'The Dark Knight'?",
+      "answers": [
+        {"text": "Batman", "correct": true},
+        {"text": "Spider-Man", "correct": false},
+        {"text": "Iron Man", "correct": false},
+        {"text": "Black Panther", "correct": false},
+        {"text": "Sir Lancelot", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_014",
+      "question": "Which TV series features dragons and a throne made of swords?",
+      "answers": [
+        {"text": "Game of Thrones", "correct": true},
+        {"text": "The Witcher", "correct": false},
+        {"text": "Rings of Power", "correct": false},
+        {"text": "Vikings", "correct": false},
+        {"text": "Dragons' Den", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_015",
+      "question": "Who played the Joker in the 2019 film 'Joker'?",
+      "answers": [
+        {"text": "Joaquin Phoenix", "correct": true},
+        {"text": "Heath Ledger", "correct": false},
+        {"text": "Jack Nicholson", "correct": false},
+        {"text": "Jared Leto", "correct": false},
+        {"text": "River Phoenix", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_016",
+      "question": "What is the name of the young clownfish in 'Finding Nemo'?",
+      "answers": [
+        {"text": "Nemo", "correct": true},
+        {"text": "Gill", "correct": false},
+        {"text": "Dory", "correct": false},
+        {"text": "Marlin", "correct": false},
+        {"text": "Captain Ahab", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_017",
+      "question": "Which boy band performed the hit 'Bye Bye Bye'?",
+      "answers": [
+        {"text": "NSYNC", "correct": true},
+        {"text": "Backstreet Boys", "correct": false},
+        {"text": "New Kids on the Block", "correct": false},
+        {"text": "Boyz II Men", "correct": false},
+        {"text": "The Village People", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_018",
+      "question": "Which app is best known for short-form dance and lip-sync videos?",
+      "answers": [
+        {"text": "TikTok", "correct": true},
+        {"text": "Instagram", "correct": false},
+        {"text": "Snapchat", "correct": false},
+        {"text": "YouTube Shorts", "correct": false},
+        {"text": "Riverdance", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_019",
+      "question": "Which film features the iconic line 'I'll be back'?",
+      "answers": [
+        {"text": "The Terminator", "correct": true},
+        {"text": "Predator", "correct": false},
+        {"text": "RoboCop", "correct": false},
+        {"text": "Total Recall", "correct": false},
+        {"text": "Arnold Schwarzenegger", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_020",
+      "question": "What is the name of Dwayne Johnson's character in the Fast and Furious films?",
+      "answers": [
+        {"text": "Luke Hobbs", "correct": true},
+        {"text": "Dominic Toretto", "correct": false},
+        {"text": "Roman Pearce", "correct": false},
+        {"text": "Tej Parker", "correct": false},
+        {"text": "The Rock", "correct": false, "absurd": true}
+      ],
+      "difficulty": "easy",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_021",
+      "question": "What subject did Walter White teach before becoming a drug manufacturer in 'Breaking Bad'?",
+      "answers": [
+        {"text": "Chemistry", "correct": true},
+        {"text": "Biology", "correct": false},
+        {"text": "Physics", "correct": false},
+        {"text": "Mathematics", "correct": false},
+        {"text": "Home Economics", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_022",
+      "question": "What film holds the all-time record as the highest-grossing movie (unadjusted for inflation)?",
+      "answers": [
+        {"text": "Avatar", "correct": true},
+        {"text": "Avengers: Endgame", "correct": false},
+        {"text": "Titanic", "correct": false},
+        {"text": "Top Gun: Maverick", "correct": false},
+        {"text": "Waterworld", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_023",
+      "question": "Which rapper's legal name is Aubrey Drake Graham?",
+      "answers": [
+        {"text": "Drake", "correct": true},
+        {"text": "Kanye West", "correct": false},
+        {"text": "Kendrick Lamar", "correct": false},
+        {"text": "J. Cole", "correct": false},
+        {"text": "Aubrey Hepburn", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_024",
+      "question": "In what year was the original 'Star Wars' film released?",
+      "answers": [
+        {"text": "1977", "correct": true},
+        {"text": "1975", "correct": false},
+        {"text": "1980", "correct": false},
+        {"text": "1983", "correct": false},
+        {"text": "1966", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_025",
+      "question": "Which singer is nicknamed 'The Queen of Pop'?",
+      "answers": [
+        {"text": "Madonna", "correct": true},
+        {"text": "Beyoncé", "correct": false},
+        {"text": "Whitney Houston", "correct": false},
+        {"text": "Mariah Carey", "correct": false},
+        {"text": "Pop Idol", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_026",
+      "question": "Which Infinity Stone controls time in the Marvel Cinematic Universe?",
+      "answers": [
+        {"text": "Time Stone", "correct": true},
+        {"text": "Space Stone", "correct": false},
+        {"text": "Mind Stone", "correct": false},
+        {"text": "Power Stone", "correct": false},
+        {"text": "The Swatch", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_027",
+      "question": "Which noble house in 'Game of Thrones' uses the words 'Winter is coming'?",
+      "answers": [
+        {"text": "House Stark", "correct": true},
+        {"text": "House Lannister", "correct": false},
+        {"text": "House Baratheon", "correct": false},
+        {"text": "House Targaryen", "correct": false},
+        {"text": "The Weather Channel", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_028",
+      "question": "Which film won the very first Academy Award for Best Animated Feature at the 2002 ceremony?",
+      "answers": [
+        {"text": "Shrek", "correct": true},
+        {"text": "Monsters Inc.", "correct": false},
+        {"text": "Ice Age", "correct": false},
+        {"text": "Jimmy Neutron: Boy Genius", "correct": false},
+        {"text": "Bee Movie", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_029",
+      "question": "Who played Katniss Everdeen in The Hunger Games film series?",
+      "answers": [
+        {"text": "Jennifer Lawrence", "correct": true},
+        {"text": "Emma Watson", "correct": false},
+        {"text": "Shailene Woodley", "correct": false},
+        {"text": "Kristen Stewart", "correct": false},
+        {"text": "Bella Swan", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_030",
+      "question": "What is the name of the fictional high school in the musical 'Grease'?",
+      "answers": [
+        {"text": "Rydell High", "correct": true},
+        {"text": "Bayside High", "correct": false},
+        {"text": "East High", "correct": false},
+        {"text": "West Beverly High", "correct": false},
+        {"text": "Thunderbirds Technical Institute", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_031",
+      "question": "Which band released the album 'Abbey Road'?",
+      "answers": [
+        {"text": "The Beatles", "correct": true},
+        {"text": "The Rolling Stones", "correct": false},
+        {"text": "The Who", "correct": false},
+        {"text": "The Kinks", "correct": false},
+        {"text": "Abbey Road Construction Workers", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_032",
+      "question": "What is rapper Eminem's real name?",
+      "answers": [
+        {"text": "Marshall Mathers", "correct": true},
+        {"text": "Curtis Jackson", "correct": false},
+        {"text": "Dwayne Carter", "correct": false},
+        {"text": "Calvin Broadus", "correct": false},
+        {"text": "Vanilla Ice", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_033",
+      "question": "In which city is the sitcom 'Seinfeld' primarily set?",
+      "answers": [
+        {"text": "New York City", "correct": true},
+        {"text": "Chicago", "correct": false},
+        {"text": "Los Angeles", "correct": false},
+        {"text": "Boston", "correct": false},
+        {"text": "Festivus", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_034",
+      "question": "Who directed the film 'Pulp Fiction'?",
+      "answers": [
+        {"text": "Quentin Tarantino", "correct": true},
+        {"text": "Martin Scorsese", "correct": false},
+        {"text": "David Fincher", "correct": false},
+        {"text": "Guy Ritchie", "correct": false},
+        {"text": "Uma Thurman", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_035",
+      "question": "What is the name of Tony Stark's AI assistant in the MCU?",
+      "answers": [
+        {"text": "JARVIS", "correct": true},
+        {"text": "FRIDAY", "correct": false},
+        {"text": "EDITH", "correct": false},
+        {"text": "HOMER", "correct": false},
+        {"text": "Siri", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_036",
+      "question": "Which artist released 'Lemonade' as a visual album in 2016?",
+      "answers": [
+        {"text": "Beyoncé", "correct": true},
+        {"text": "Rihanna", "correct": false},
+        {"text": "Adele", "correct": false},
+        {"text": "Taylor Swift", "correct": false},
+        {"text": "Country Time", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_037",
+      "question": "Which video game series features the line 'It's dangerous to go alone, take this'?",
+      "answers": [
+        {"text": "The Legend of Zelda", "correct": true},
+        {"text": "Final Fantasy", "correct": false},
+        {"text": "Pokémon", "correct": false},
+        {"text": "Dragon Quest", "correct": false},
+        {"text": "Bear Grylls", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_038",
+      "question": "Which actress played Hermione Granger in the Harry Potter film series?",
+      "answers": [
+        {"text": "Emma Watson", "correct": true},
+        {"text": "Emma Stone", "correct": false},
+        {"text": "Emma Roberts", "correct": false},
+        {"text": "Bonnie Wright", "correct": false},
+        {"text": "Rupert Grint", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_039",
+      "question": "What is the name of the fictional paper company in 'The Office' (US)?",
+      "answers": [
+        {"text": "Dunder Mifflin", "correct": true},
+        {"text": "Wernham Hogg", "correct": false},
+        {"text": "Initech", "correct": false},
+        {"text": "Vandelay Industries", "correct": false},
+        {"text": "Staples", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_040",
+      "question": "Which pop group featured members known as Scary, Sporty, Baby, Ginger, and Posh?",
+      "answers": [
+        {"text": "Spice Girls", "correct": true},
+        {"text": "Destiny's Child", "correct": false},
+        {"text": "TLC", "correct": false},
+        {"text": "En Vogue", "correct": false},
+        {"text": "The Masked Singer", "correct": false, "absurd": true}
+      ],
+      "difficulty": "medium",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_041",
+      "question": "What was the original working title of 'Friends' before the show aired?",
+      "answers": [
+        {"text": "Insomnia Cafe", "correct": true},
+        {"text": "Six of One", "correct": false},
+        {"text": "Friends Like Us", "correct": false},
+        {"text": "Across the Hall", "correct": false},
+        {"text": "How I Met Your Mother", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_042",
+      "question": "Which Oscar-winning film is based on Stephen King's novella 'Rita Hayworth and Shawshank Redemption'?",
+      "answers": [
+        {"text": "The Shawshank Redemption", "correct": true},
+        {"text": "The Green Mile", "correct": false},
+        {"text": "Misery", "correct": false},
+        {"text": "Stand by Me", "correct": false},
+        {"text": "Rita Hayworth", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_043",
+      "question": "What is Lady Gaga's real name?",
+      "answers": [
+        {"text": "Stefani Germanotta", "correct": true},
+        {"text": "Alicia Moore", "correct": false},
+        {"text": "Robyn Fenty", "correct": false},
+        {"text": "Melissa Jefferson", "correct": false},
+        {"text": "Lady Gagarin", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_044",
+      "question": "In what year did 'The Simpsons' premiere as its own standalone series?",
+      "answers": [
+        {"text": "1989", "correct": true},
+        {"text": "1991", "correct": false},
+        {"text": "1987", "correct": false},
+        {"text": "1993", "correct": false},
+        {"text": "1984", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_045",
+      "question": "Which director made both '2001: A Space Odyssey' and 'The Shining'?",
+      "answers": [
+        {"text": "Stanley Kubrick", "correct": true},
+        {"text": "Ridley Scott", "correct": false},
+        {"text": "Steven Spielberg", "correct": false},
+        {"text": "Roman Polanski", "correct": false},
+        {"text": "HAL 9000", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_046",
+      "question": "What is the name of the fictional Scandinavian kingdom in 'Frozen'?",
+      "answers": [
+        {"text": "Arendelle", "correct": true},
+        {"text": "Montunui", "correct": false},
+        {"text": "Corona", "correct": false},
+        {"text": "Avalor", "correct": false},
+        {"text": "Narnia", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_047",
+      "question": "Which rapper released the debut album 'Reasonable Doubt' in 1996?",
+      "answers": [
+        {"text": "Jay-Z", "correct": true},
+        {"text": "Nas", "correct": false},
+        {"text": "The Notorious B.I.G.", "correct": false},
+        {"text": "Rakim", "correct": false},
+        {"text": "Judge Judy", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_048",
+      "question": "What is the name of Jon Snow's direwolf in 'Game of Thrones'?",
+      "answers": [
+        {"text": "Ghost", "correct": true},
+        {"text": "Grey Wind", "correct": false},
+        {"text": "Nymeria", "correct": false},
+        {"text": "Lady", "correct": false},
+        {"text": "Casper", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_049",
+      "question": "Which film won the Academy Award for Best Picture at the 2020 ceremony?",
+      "answers": [
+        {"text": "Parasite", "correct": true},
+        {"text": "1917", "correct": false},
+        {"text": "Joker", "correct": false},
+        {"text": "Once Upon a Time in Hollywood", "correct": false},
+        {"text": "Avengers: Endgame", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Pop Culture"
+    },
+    {
+      "id": "pc_050",
+      "question": "Which 1999 film introduced the 'bullet time' slow-motion visual effect?",
+      "answers": [
+        {"text": "The Matrix", "correct": true},
+        {"text": "Fight Club", "correct": false},
+        {"text": "The Sixth Sense", "correct": false},
+        {"text": "American Beauty", "correct": false},
+        {"text": "Keanu Reeves", "correct": false, "absurd": true}
+      ],
+      "difficulty": "hard",
+      "category": "Pop Culture"
+    }
+  ]
+}
