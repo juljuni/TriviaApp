@@ -1,0 +1,1466 @@
+{
+  "category": "Psychology",
+  "metadata": {
+    "totalQuestions": 50,
+    "difficulty": {
+      "easy": 10,
+      "medium": 10,
+      "hard": 30
+    },
+    "version": "1.0",
+    "created": "2026-02-21",
+    "updated": "2026-02-21"
+  },
+  "questions": [
+    {
+      "id": "psy_001",
+      "question": "What personality type describes someone who recharges their energy by spending time alone?",
+      "answers": [
+        {
+          "text": "Introvert",
+          "correct": true
+        },
+        {
+          "text": "Ambivert",
+          "correct": false
+        },
+        {
+          "text": "Extrovert",
+          "correct": false
+        },
+        {
+          "text": "Empath",
+          "correct": false
+        },
+        {
+          "text": "WiFi on airplane mode",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_002",
+      "question": "What is the psychological term for an irrational, intense fear of a specific object or situation?",
+      "answers": [
+        {
+          "text": "Phobia",
+          "correct": true
+        },
+        {
+          "text": "Anxiety",
+          "correct": false
+        },
+        {
+          "text": "Paranoia",
+          "correct": false
+        },
+        {
+          "text": "Neurosis",
+          "correct": false
+        },
+        {
+          "text": "The heebie-jeebies",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_003",
+      "question": "What is the body’s automatic response that prepares you to either confront or escape a perceived threat?",
+      "answers": [
+        {
+          "text": "The fight-or-flight response",
+          "correct": true
+        },
+        {
+          "text": "The stress response",
+          "correct": false
+        },
+        {
+          "text": "The adrenaline rush",
+          "correct": false
+        },
+        {
+          "text": "The panic response",
+          "correct": false
+        },
+        {
+          "text": "The Red Bull Response",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_004",
+      "question": "Which Russian psychologist famously conditioned dogs to salivate at the sound of a bell?",
+      "answers": [
+        {
+          "text": "Ivan Pavlov",
+          "correct": true
+        },
+        {
+          "text": "B.F. Skinner",
+          "correct": false
+        },
+        {
+          "text": "John Watson",
+          "correct": false
+        },
+        {
+          "text": "Lev Vygotsky",
+          "correct": false
+        },
+        {
+          "text": "Ivan Drago",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_005",
+      "question": "Who is known as the “father of psychoanalysis”?",
+      "answers": [
+        {
+          "text": "Sigmund Freud",
+          "correct": true
+        },
+        {
+          "text": "Carl Jung",
+          "correct": false
+        },
+        {
+          "text": "Alfred Adler",
+          "correct": false
+        },
+        {
+          "text": "Wilhelm Wundt",
+          "correct": false
+        },
+        {
+          "text": "Carl Sagan",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_006",
+      "question": "What cognitive bias causes people to favor information that confirms their existing beliefs?",
+      "answers": [
+        {
+          "text": "Confirmation bias",
+          "correct": true
+        },
+        {
+          "text": "Anchoring bias",
+          "correct": false
+        },
+        {
+          "text": "Selection bias",
+          "correct": false
+        },
+        {
+          "text": "Hindsight bias",
+          "correct": false
+        },
+        {
+          "text": "The I-told-you-so instinct",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_007",
+      "question": "What does the abbreviation “IQ” stand for?",
+      "answers": [
+        {
+          "text": "Intelligence Quotient",
+          "correct": true
+        },
+        {
+          "text": "Intellectual Quality",
+          "correct": false
+        },
+        {
+          "text": "Intelligence Quality",
+          "correct": false
+        },
+        {
+          "text": "Intellect Quotient",
+          "correct": false
+        },
+        {
+          "text": "I Quit",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_008",
+      "question": "In Freudian psychology, what are the unconscious strategies the ego uses to protect itself from anxiety?",
+      "answers": [
+        {
+          "text": "Defense mechanisms",
+          "correct": true
+        },
+        {
+          "text": "Coping strategies",
+          "correct": false
+        },
+        {
+          "text": "Ego barriers",
+          "correct": false
+        },
+        {
+          "text": "Stress responses",
+          "correct": false
+        },
+        {
+          "text": "Plausible deniability",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_009",
+      "question": "What phobia involves a fear of open or crowded spaces?",
+      "answers": [
+        {
+          "text": "Agoraphobia",
+          "correct": true
+        },
+        {
+          "text": "Claustrophobia",
+          "correct": false
+        },
+        {
+          "text": "Social phobia",
+          "correct": false
+        },
+        {
+          "text": "Demophobia",
+          "correct": false
+        },
+        {
+          "text": "The “I’m not going outside” syndrome",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_010",
+      "question": "What is the technical term for an extreme fear of heights?",
+      "answers": [
+        {
+          "text": "Acrophobia",
+          "correct": true
+        },
+        {
+          "text": "Vertigo",
+          "correct": false
+        },
+        {
+          "text": "Altophobia",
+          "correct": false
+        },
+        {
+          "text": "Batophobia",
+          "correct": false
+        },
+        {
+          "text": "Fear of the top shelf",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_011",
+      "question": "What controversial 1971 study assigned college students to roles as either guards or prisoners?",
+      "answers": [
+        {
+          "text": "The Stanford Prison Experiment",
+          "correct": true
+        },
+        {
+          "text": "The Milgram Experiment",
+          "correct": false
+        },
+        {
+          "text": "The Zimbardo Conformity Study",
+          "correct": false
+        },
+        {
+          "text": "The Asch Obedience Test",
+          "correct": false
+        },
+        {
+          "text": "The Worst Semester Abroad",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_012",
+      "question": "Which psychologist’s famous experiment tested obedience by having participants administer what they believed were electric shocks?",
+      "answers": [
+        {
+          "text": "Stanley Milgram",
+          "correct": true
+        },
+        {
+          "text": "Philip Zimbardo",
+          "correct": false
+        },
+        {
+          "text": "Solomon Asch",
+          "correct": false
+        },
+        {
+          "text": "Albert Bandura",
+          "correct": false
+        },
+        {
+          "text": "The Electric Slide experiment",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_013",
+      "question": "What theory arranges human needs in a five-level pyramid, from basic survival to self-actualization?",
+      "answers": [
+        {
+          "text": "Maslow’s hierarchy of needs",
+          "correct": true
+        },
+        {
+          "text": "Erikson’s stages of development",
+          "correct": false
+        },
+        {
+          "text": "Herzberg’s motivation theory",
+          "correct": false
+        },
+        {
+          "text": "Alderfer’s ERG theory",
+          "correct": false
+        },
+        {
+          "text": "The food pyramid, but for feelings",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_014",
+      "question": "In Freud’s structural model of the psyche, which component mediates between the id and the superego?",
+      "answers": [
+        {
+          "text": "The ego",
+          "correct": true
+        },
+        {
+          "text": "The consciousness",
+          "correct": false
+        },
+        {
+          "text": "The self",
+          "correct": false
+        },
+        {
+          "text": "The persona",
+          "correct": false
+        },
+        {
+          "text": "Kanye West",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_015",
+      "question": "What mental shortcut causes people to overestimate the likelihood of events they can easily recall?",
+      "answers": [
+        {
+          "text": "The availability heuristic",
+          "correct": true
+        },
+        {
+          "text": "The representativeness heuristic",
+          "correct": false
+        },
+        {
+          "text": "The anchoring effect",
+          "correct": false
+        },
+        {
+          "text": "The recency bias",
+          "correct": false
+        },
+        {
+          "text": "The Jaws Effect",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_016",
+      "question": "What defense mechanism involves attributing your own unacceptable thoughts or feelings to someone else?",
+      "answers": [
+        {
+          "text": "Projection",
+          "correct": true
+        },
+        {
+          "text": "Displacement",
+          "correct": false
+        },
+        {
+          "text": "Rationalization",
+          "correct": false
+        },
+        {
+          "text": "Transference",
+          "correct": false
+        },
+        {
+          "text": "A PowerPoint presentation",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_017",
+      "question": "Which psychologist proposed that children progress through four stages of cognitive development?",
+      "answers": [
+        {
+          "text": "Jean Piaget",
+          "correct": true
+        },
+        {
+          "text": "Lev Vygotsky",
+          "correct": false
+        },
+        {
+          "text": "Erik Erikson",
+          "correct": false
+        },
+        {
+          "text": "Lawrence Kohlberg",
+          "correct": false
+        },
+        {
+          "text": "Jean-Luc Picard",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_018",
+      "question": "What popular personality assessment categorizes people into 16 types using four dichotomies?",
+      "answers": [
+        {
+          "text": "The Myers-Briggs Type Indicator",
+          "correct": true
+        },
+        {
+          "text": "The Big Five Inventory",
+          "correct": false
+        },
+        {
+          "text": "The Enneagram",
+          "correct": false
+        },
+        {
+          "text": "The DISC Assessment",
+          "correct": false
+        },
+        {
+          "text": "The Sorting Hat",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_019",
+      "question": "What phenomenon describes people exerting less effort when working in a group than when working alone?",
+      "answers": [
+        {
+          "text": "Social loafing",
+          "correct": true
+        },
+        {
+          "text": "Groupthink",
+          "correct": false
+        },
+        {
+          "text": "Free riding",
+          "correct": false
+        },
+        {
+          "text": "The bystander effect",
+          "correct": false
+        },
+        {
+          "text": "The office potluck effect",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_020",
+      "question": "What phenomenon occurs when people modify their behavior because they know they are being observed?",
+      "answers": [
+        {
+          "text": "The Hawthorne effect",
+          "correct": true
+        },
+        {
+          "text": "The observer effect",
+          "correct": false
+        },
+        {
+          "text": "The placebo effect",
+          "correct": false
+        },
+        {
+          "text": "The demand effect",
+          "correct": false
+        },
+        {
+          "text": "The LinkedIn Effect",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_021",
+      "question": "What experiment, developed by Mary Ainsworth, assessed infant attachment by observing reactions to a caregiver leaving and returning?",
+      "answers": [
+        {
+          "text": "The Strange Situation",
+          "correct": true
+        },
+        {
+          "text": "The Attachment Assessment",
+          "correct": false
+        },
+        {
+          "text": "The Separation Anxiety Test",
+          "correct": false
+        },
+        {
+          "text": "The Infant Bond Study",
+          "correct": false
+        },
+        {
+          "text": "Every Pixar Movie Ever",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_022",
+      "question": "What phenomenon, studied by Elizabeth Loftus, shows that misleading post-event information can alter a person’s memory?",
+      "answers": [
+        {
+          "text": "The misinformation effect",
+          "correct": true
+        },
+        {
+          "text": "False memory syndrome",
+          "correct": false
+        },
+        {
+          "text": "Suggestibility bias",
+          "correct": false
+        },
+        {
+          "text": "The recollection error",
+          "correct": false
+        },
+        {
+          "text": "The Telephone Game",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_023",
+      "question": "In CBT, what technique involves identifying and challenging negative thought patterns to replace them with more balanced ones?",
+      "answers": [
+        {
+          "text": "Cognitive restructuring",
+          "correct": true
+        },
+        {
+          "text": "Thought suppression",
+          "correct": false
+        },
+        {
+          "text": "Mindfulness reframing",
+          "correct": false
+        },
+        {
+          "text": "Behavioral activation",
+          "correct": false
+        },
+        {
+          "text": "Brain renovation",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_024",
+      "question": "What experiment by Albert Bandura demonstrated that children learn aggressive behavior by observing adults?",
+      "answers": [
+        {
+          "text": "The Bobo doll experiment",
+          "correct": true
+        },
+        {
+          "text": "The Little Albert experiment",
+          "correct": false
+        },
+        {
+          "text": "The social learning test",
+          "correct": false
+        },
+        {
+          "text": "The modeling study",
+          "correct": false
+        },
+        {
+          "text": "The world’s saddest toy review",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_025",
+      "question": "According to George Miller’s 1956 paper, what is the average number of items a person can hold in short-term memory?",
+      "answers": [
+        {
+          "text": "7, plus or minus 2",
+          "correct": true
+        },
+        {
+          "text": "5, plus or minus 1",
+          "correct": false
+        },
+        {
+          "text": "10, plus or minus 3",
+          "correct": false
+        },
+        {
+          "text": "12, plus or minus 2",
+          "correct": false
+        },
+        {
+          "text": "The number of items you forget at the grocery store",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_026",
+      "question": "In the Big Five personality model, which trait describes a person’s tendency to be outgoing, energetic, and sociable?",
+      "answers": [
+        {
+          "text": "Extraversion",
+          "correct": true
+        },
+        {
+          "text": "Agreeableness",
+          "correct": false
+        },
+        {
+          "text": "Openness",
+          "correct": false
+        },
+        {
+          "text": "Conscientiousness",
+          "correct": false
+        },
+        {
+          "text": "Being the main character",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_027",
+      "question": "What cognitive bias makes you notice something more frequently after you first become aware of it?",
+      "answers": [
+        {
+          "text": "The frequency illusion",
+          "correct": true
+        },
+        {
+          "text": "The spotlight effect",
+          "correct": false
+        },
+        {
+          "text": "Attentional bias",
+          "correct": false
+        },
+        {
+          "text": "The recency effect",
+          "correct": false
+        },
+        {
+          "text": "The reason you keep seeing your ex’s name everywhere",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_028",
+      "question": "What personality disorder is characterized by an inflated sense of self-importance, a need for admiration, and a lack of empathy?",
+      "answers": [
+        {
+          "text": "Narcissistic Personality Disorder",
+          "correct": true
+        },
+        {
+          "text": "Histrionic Personality Disorder",
+          "correct": false
+        },
+        {
+          "text": "Antisocial Personality Disorder",
+          "correct": false
+        },
+        {
+          "text": "Borderline Personality Disorder",
+          "correct": false
+        },
+        {
+          "text": "Main character syndrome",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_029",
+      "question": "What psychological state, described by Mihaly Csikszentmihalyi, occurs when a person is fully immersed and energized during an activity?",
+      "answers": [
+        {
+          "text": "Flow",
+          "correct": true
+        },
+        {
+          "text": "Peak experience",
+          "correct": false
+        },
+        {
+          "text": "Hyperfocus",
+          "correct": false
+        },
+        {
+          "text": "Mindfulness",
+          "correct": false
+        },
+        {
+          "text": "Going sicko mode",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_030",
+      "question": "What term describes the mental discomfort experienced when holding two contradictory beliefs at the same time?",
+      "answers": [
+        {
+          "text": "Cognitive dissonance",
+          "correct": true
+        },
+        {
+          "text": "Cognitive conflict",
+          "correct": false
+        },
+        {
+          "text": "Belief discrepancy",
+          "correct": false
+        },
+        {
+          "text": "Mental incongruence",
+          "correct": false
+        },
+        {
+          "text": "Going vegan but still wearing leather",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_031",
+      "question": "What theory, developed by John Bowlby, proposes that early bonds between children and caregivers have a lasting impact on development?",
+      "answers": [
+        {
+          "text": "Attachment theory",
+          "correct": true
+        },
+        {
+          "text": "Object relations theory",
+          "correct": false
+        },
+        {
+          "text": "Bonding theory",
+          "correct": false
+        },
+        {
+          "text": "Social learning theory",
+          "correct": false
+        },
+        {
+          "text": "The thing your therapist keeps bringing back to your childhood",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_032",
+      "question": "What law states that performance increases with arousal up to a point, after which further arousal causes it to decline?",
+      "answers": [
+        {
+          "text": "The Yerkes-Dodson law",
+          "correct": true
+        },
+        {
+          "text": "Weber’s law",
+          "correct": false
+        },
+        {
+          "text": "Fitts’s law",
+          "correct": false
+        },
+        {
+          "text": "The law of diminishing returns",
+          "correct": false
+        },
+        {
+          "text": "The three-coffees-is-too-many principle",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_033",
+      "question": "What psychological concept, famously tested in the Stanford marshmallow experiment, measures a child’s ability to resist a smaller reward for a larger one later?",
+      "answers": [
+        {
+          "text": "Delay of gratification",
+          "correct": true
+        },
+        {
+          "text": "Impulse control",
+          "correct": false
+        },
+        {
+          "text": "Self-regulation",
+          "correct": false
+        },
+        {
+          "text": "Reward anticipation",
+          "correct": false
+        },
+        {
+          "text": "The reason diets start on Mondays",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_034",
+      "question": "What psychological technique induces a trance-like state of heightened focus and suggestibility?",
+      "answers": [
+        {
+          "text": "Hypnosis",
+          "correct": true
+        },
+        {
+          "text": "Meditation",
+          "correct": false
+        },
+        {
+          "text": "Guided imagery",
+          "correct": false
+        },
+        {
+          "text": "Neuro-linguistic programming",
+          "correct": false
+        },
+        {
+          "text": "Watching four hours of TikTok",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_035",
+      "question": "What disorder, commonly found in war veterans and trauma survivors, involves flashbacks, nightmares, and severe anxiety?",
+      "answers": [
+        {
+          "text": "Post-Traumatic Stress Disorder",
+          "correct": true
+        },
+        {
+          "text": "Acute Stress Disorder",
+          "correct": false
+        },
+        {
+          "text": "Adjustment Disorder",
+          "correct": false
+        },
+        {
+          "text": "Complex Grief Disorder",
+          "correct": false
+        },
+        {
+          "text": "The reason some people hate fireworks",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_036",
+      "question": "What cognitive bias causes people with limited knowledge in a field to greatly overestimate their own competence?",
+      "answers": [
+        {
+          "text": "The Dunning-Kruger effect",
+          "correct": true
+        },
+        {
+          "text": "Impostor syndrome",
+          "correct": false
+        },
+        {
+          "text": "The superiority complex",
+          "correct": false
+        },
+        {
+          "text": "The Lake Wobegon effect",
+          "correct": false
+        },
+        {
+          "text": "Every hot take on social media",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_037",
+      "question": "What widely used therapy combines techniques for changing unhelpful thinking patterns with strategies for modifying behavior?",
+      "answers": [
+        {
+          "text": "Cognitive Behavioral Therapy",
+          "correct": true
+        },
+        {
+          "text": "Psychodynamic therapy",
+          "correct": false
+        },
+        {
+          "text": "Rational Emotive Therapy",
+          "correct": false
+        },
+        {
+          "text": "Gestalt therapy",
+          "correct": false
+        },
+        {
+          "text": "Arguing with yourself until you calm down",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_038",
+      "question": "What cognitive bias causes a positive impression in one area to influence opinions in other unrelated areas?",
+      "answers": [
+        {
+          "text": "The halo effect",
+          "correct": true
+        },
+        {
+          "text": "The mere exposure effect",
+          "correct": false
+        },
+        {
+          "text": "The positivity bias",
+          "correct": false
+        },
+        {
+          "text": "The attribution effect",
+          "correct": false
+        },
+        {
+          "text": "Celebrity endorsements",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_039",
+      "question": "What memory phenomenon explains why people tend to remember the first and last items in a list better than the middle ones?",
+      "answers": [
+        {
+          "text": "The serial position effect",
+          "correct": true
+        },
+        {
+          "text": "The primacy effect",
+          "correct": false
+        },
+        {
+          "text": "The spacing effect",
+          "correct": false
+        },
+        {
+          "text": "The chunking effect",
+          "correct": false
+        },
+        {
+          "text": "The reason nobody remembers the middle child",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_040",
+      "question": "What cognitive bias describes the tendency to attribute others’ behavior to their character rather than their circumstances?",
+      "answers": [
+        {
+          "text": "The fundamental attribution error",
+          "correct": true
+        },
+        {
+          "text": "The correspondence bias",
+          "correct": false
+        },
+        {
+          "text": "The actor-observer bias",
+          "correct": false
+        },
+        {
+          "text": "The self-serving bias",
+          "correct": false
+        },
+        {
+          "text": "Road rage, but make it academic",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_041",
+      "question": "What humanistic therapy, developed by Carl Rogers, emphasizes empathy, unconditional positive regard, and genuineness?",
+      "answers": [
+        {
+          "text": "Person-centered therapy",
+          "correct": true
+        },
+        {
+          "text": "Existential therapy",
+          "correct": false
+        },
+        {
+          "text": "Motivational interviewing",
+          "correct": false
+        },
+        {
+          "text": "Solution-focused therapy",
+          "correct": false
+        },
+        {
+          "text": "Venting to a friend who never interrupts",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_042",
+      "question": "What type of social influence causes people to conform in order to be liked or accepted by a group?",
+      "answers": [
+        {
+          "text": "Normative social influence",
+          "correct": true
+        },
+        {
+          "text": "Informational social influence",
+          "correct": false
+        },
+        {
+          "text": "Social pressure",
+          "correct": false
+        },
+        {
+          "text": "Peer influence",
+          "correct": false
+        },
+        {
+          "text": "Peer pressure wearing a lab coat",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_043",
+      "question": "What psychological process involves a disconnection from one’s thoughts, feelings, surroundings, or sense of identity?",
+      "answers": [
+        {
+          "text": "Dissociation",
+          "correct": true
+        },
+        {
+          "text": "Derealization",
+          "correct": false
+        },
+        {
+          "text": "Repression",
+          "correct": false
+        },
+        {
+          "text": "Detachment",
+          "correct": false
+        },
+        {
+          "text": "Zoning out during a two-hour meeting",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_044",
+      "question": "What type of long-term memory stores personal experiences and specific events, including their time and place?",
+      "answers": [
+        {
+          "text": "Episodic memory",
+          "correct": true
+        },
+        {
+          "text": "Semantic memory",
+          "correct": false
+        },
+        {
+          "text": "Procedural memory",
+          "correct": false
+        },
+        {
+          "text": "Autobiographical memory",
+          "correct": false
+        },
+        {
+          "text": "Your brain’s scrapbook",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_045",
+      "question": "What therapy, developed by Marsha Linehan, was originally designed to treat borderline personality disorder using mindfulness and emotional regulation?",
+      "answers": [
+        {
+          "text": "Dialectical Behavior Therapy",
+          "correct": true
+        },
+        {
+          "text": "Schema Therapy",
+          "correct": false
+        },
+        {
+          "text": "Mentalization-Based Therapy",
+          "correct": false
+        },
+        {
+          "text": "Acceptance and Commitment Therapy",
+          "correct": false
+        },
+        {
+          "text": "Therapy, but it’s also debate club",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_046",
+      "question": "What psychological condition, studied by Martin Seligman, occurs when a person believes they cannot control or escape negative situations?",
+      "answers": [
+        {
+          "text": "Learned helplessness",
+          "correct": true
+        },
+        {
+          "text": "Acquired passivity",
+          "correct": false
+        },
+        {
+          "text": "Conditioned surrender",
+          "correct": false
+        },
+        {
+          "text": "Behavioral resignation",
+          "correct": false
+        },
+        {
+          "text": "That feeling when you call tech support",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_047",
+      "question": "What concept, introduced by Lev Vygotsky, describes the gap between what a learner can do alone and what they can do with guidance?",
+      "answers": [
+        {
+          "text": "The zone of proximal development",
+          "correct": true
+        },
+        {
+          "text": "The learning gap",
+          "correct": false
+        },
+        {
+          "text": "The scaffolding zone",
+          "correct": false
+        },
+        {
+          "text": "The developmental threshold",
+          "correct": false
+        },
+        {
+          "text": "The “fake it till you make it” zone",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_048",
+      "question": "What personality model measures Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism?",
+      "answers": [
+        {
+          "text": "The Big Five (OCEAN)",
+          "correct": true
+        },
+        {
+          "text": "The HEXACO model",
+          "correct": false
+        },
+        {
+          "text": "The Myers-Briggs model",
+          "correct": false
+        },
+        {
+          "text": "The 16 Personality Factors",
+          "correct": false
+        },
+        {
+          "text": "The five-star review of personality models",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_049",
+      "question": "What theory, developed by George Kelly, proposes that people understand the world through personal mental frameworks called “constructs”?",
+      "answers": [
+        {
+          "text": "Personal construct theory",
+          "correct": true
+        },
+        {
+          "text": "Schema theory",
+          "correct": false
+        },
+        {
+          "text": "Attribution theory",
+          "correct": false
+        },
+        {
+          "text": "Social constructivism",
+          "correct": false
+        },
+        {
+          "text": "The mental filing cabinet you never organize",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    },
+    {
+      "id": "psy_050",
+      "question": "What cognitive ability allows a person to understand that others have beliefs, desires, and intentions different from their own?",
+      "answers": [
+        {
+          "text": "Theory of mind",
+          "correct": true
+        },
+        {
+          "text": "Empathy",
+          "correct": false
+        },
+        {
+          "text": "Social cognition",
+          "correct": false
+        },
+        {
+          "text": "Perspective-taking",
+          "correct": false
+        },
+        {
+          "text": "The realization that other people are also real",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Psychology"
+    }
+  ]
+}

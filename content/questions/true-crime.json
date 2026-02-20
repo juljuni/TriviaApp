@@ -1,0 +1,1466 @@
+{
+  "category": "True Crime",
+  "metadata": {
+    "totalQuestions": 50,
+    "difficulty": {
+      "easy": 20,
+      "medium": 20,
+      "hard": 10
+    },
+    "version": "1.0",
+    "created": "2026-02-21",
+    "updated": "2026-02-21"
+  },
+  "questions": [
+    {
+      "id": "tc_001",
+      "question": "What former NFL star was acquitted of the 1994 murders of Nicole Brown Simpson and Ron Goldman?",
+      "answers": [
+        {
+          "text": "O.J. Simpson",
+          "correct": true
+        },
+        {
+          "text": "Aaron Hernandez",
+          "correct": false
+        },
+        {
+          "text": "Ray Lewis",
+          "correct": false
+        },
+        {
+          "text": "Rae Carruth",
+          "correct": false
+        },
+        {
+          "text": "The Glove",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_002",
+      "question": "What serial killer, executed in 1989, confessed to murdering at least 30 women across multiple U.S. states in the 1970s?",
+      "answers": [
+        {
+          "text": "Ted Bundy",
+          "correct": true
+        },
+        {
+          "text": "Jeffrey Dahmer",
+          "correct": false
+        },
+        {
+          "text": "John Wayne Gacy",
+          "correct": false
+        },
+        {
+          "text": "Gary Ridgway",
+          "correct": false
+        },
+        {
+          "text": "John Wayne",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_003",
+      "question": "What former federal penitentiary on an island in San Francisco Bay is one of the most famous prisons in history?",
+      "answers": [
+        {
+          "text": "Alcatraz",
+          "correct": true
+        },
+        {
+          "text": "San Quentin",
+          "correct": false
+        },
+        {
+          "text": "Rikers Island",
+          "correct": false
+        },
+        {
+          "text": "Sing Sing",
+          "correct": false
+        },
+        {
+          "text": "Shutter Island",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_004",
+      "question": "What groundbreaking 2014 podcast investigated the murder of Hae Min Lee and the conviction of Adnan Syed?",
+      "answers": [
+        {
+          "text": "Serial",
+          "correct": true
+        },
+        {
+          "text": "Crime Junkie",
+          "correct": false
+        },
+        {
+          "text": "My Favorite Murder",
+          "correct": false
+        },
+        {
+          "text": "Criminal",
+          "correct": false
+        },
+        {
+          "text": "Cereal",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_005",
+      "question": "What Milwaukee serial killer, known as the \"Milwaukee Cannibal,\" murdered 17 men and boys between 1978 and 1991?",
+      "answers": [
+        {
+          "text": "Jeffrey Dahmer",
+          "correct": true
+        },
+        {
+          "text": "John Wayne Gacy",
+          "correct": false
+        },
+        {
+          "text": "Ed Gein",
+          "correct": false
+        },
+        {
+          "text": "Richard Ramirez",
+          "correct": false
+        },
+        {
+          "text": "The Donner Party",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_006",
+      "question": "What unidentified serial killer terrorized the Whitechapel district of London in 1888?",
+      "answers": [
+        {
+          "text": "Jack the Ripper",
+          "correct": true
+        },
+        {
+          "text": "The Zodiac Killer",
+          "correct": false
+        },
+        {
+          "text": "The Yorkshire Ripper",
+          "correct": false
+        },
+        {
+          "text": "The Boston Strangler",
+          "correct": false
+        },
+        {
+          "text": "Spring-Heeled Jack",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_007",
+      "question": "What Netflix documentary series followed the case of Steven Avery, a Wisconsin man convicted of murder after being previously exonerated of a different crime?",
+      "answers": [
+        {
+          "text": "Making a Murderer",
+          "correct": true
+        },
+        {
+          "text": "The Staircase",
+          "correct": false
+        },
+        {
+          "text": "The Jinx",
+          "correct": false
+        },
+        {
+          "text": "Don't F**k with Cats",
+          "correct": false
+        },
+        {
+          "text": "Making It",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_008",
+      "question": "What type of biological evidence, first used in a criminal conviction in 1987, revolutionized forensic science by allowing identification from trace samples?",
+      "answers": [
+        {
+          "text": "DNA evidence",
+          "correct": true
+        },
+        {
+          "text": "Fingerprint analysis",
+          "correct": false
+        },
+        {
+          "text": "Blood type matching",
+          "correct": false
+        },
+        {
+          "text": "Fiber analysis",
+          "correct": false
+        },
+        {
+          "text": "23andMe",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_009",
+      "question": "What notorious Chicago gangster, known as \"Scarface,\" was ultimately convicted of tax evasion in 1931?",
+      "answers": [
+        {
+          "text": "Al Capone",
+          "correct": true
+        },
+        {
+          "text": "John Dillinger",
+          "correct": false
+        },
+        {
+          "text": "Lucky Luciano",
+          "correct": false
+        },
+        {
+          "text": "Bugsy Siegel",
+          "correct": false
+        },
+        {
+          "text": "Al Gore",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_010",
+      "question": "What cult leader directed his followers to commit the 1969 Tate-LaBianca murders in Los Angeles?",
+      "answers": [
+        {
+          "text": "Charles Manson",
+          "correct": true
+        },
+        {
+          "text": "Jim Jones",
+          "correct": false
+        },
+        {
+          "text": "David Koresh",
+          "correct": false
+        },
+        {
+          "text": "Marshall Applewhite",
+          "correct": false
+        },
+        {
+          "text": "The Beatles",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_011",
+      "question": "What serial killer, active in Wichita, Kansas from 1974 to 1991, named himself after his method: \"Bind, Torture, Kill\"?",
+      "answers": [
+        {
+          "text": "Dennis Rader",
+          "correct": true
+        },
+        {
+          "text": "Gary Ridgway",
+          "correct": false
+        },
+        {
+          "text": "Richard Ramirez",
+          "correct": false
+        },
+        {
+          "text": "David Berkowitz",
+          "correct": false
+        },
+        {
+          "text": "Dennis the Menace",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_012",
+      "question": "In what year was six-year-old JonBenét Ramsey found murdered in her family's Boulder, Colorado home, in a case that remains officially unsolved?",
+      "answers": [
+        {
+          "text": "1996",
+          "correct": true
+        },
+        {
+          "text": "1994",
+          "correct": false
+        },
+        {
+          "text": "1998",
+          "correct": false
+        },
+        {
+          "text": "2001",
+          "correct": false
+        },
+        {
+          "text": "1066",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_013",
+      "question": "What HBO documentary series featured Robert Durst apparently muttering \"killed them all\" while his microphone was still on?",
+      "answers": [
+        {
+          "text": "The Jinx",
+          "correct": true
+        },
+        {
+          "text": "Making a Murderer",
+          "correct": false
+        },
+        {
+          "text": "The Staircase",
+          "correct": false
+        },
+        {
+          "text": "Evil Genius",
+          "correct": false
+        },
+        {
+          "text": "Hot Mic: The Documentary",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_014",
+      "question": "What unidentified serial killer sent coded ciphers to San Francisco Bay Area newspapers in the late 1960s and early 1970s?",
+      "answers": [
+        {
+          "text": "The Zodiac Killer",
+          "correct": true
+        },
+        {
+          "text": "The Unabomber",
+          "correct": false
+        },
+        {
+          "text": "The Night Stalker",
+          "correct": false
+        },
+        {
+          "text": "The Son of Sam",
+          "correct": false
+        },
+        {
+          "text": "A particularly angry Scorpio",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_015",
+      "question": "What FBI unit, established in the 1970s, pioneered the technique of criminal profiling to help identify serial offenders?",
+      "answers": [
+        {
+          "text": "The Behavioral Science Unit",
+          "correct": true
+        },
+        {
+          "text": "The Criminal Minds Division",
+          "correct": false
+        },
+        {
+          "text": "The Serial Crimes Bureau",
+          "correct": false
+        },
+        {
+          "text": "The Violent Crimes Task Force",
+          "correct": false
+        },
+        {
+          "text": "Criminal Minds",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_016",
+      "question": "What is the pseudonym of the man who hijacked a Northwest Orient Airlines flight in 1971, collected a $200,000 ransom, and parachuted into the wilderness never to be found?",
+      "answers": [
+        {
+          "text": "D.B. Cooper",
+          "correct": true
+        },
+        {
+          "text": "Frank Abagnale",
+          "correct": false
+        },
+        {
+          "text": "Jimmy Hoffa",
+          "correct": false
+        },
+        {
+          "text": "The Barefoot Bandit",
+          "correct": false
+        },
+        {
+          "text": "Gary from Accounting",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_017",
+      "question": "What serial killer, known as \"The Killer Clown,\" murdered at least 33 young men and buried most of them beneath his Chicago-area home?",
+      "answers": [
+        {
+          "text": "John Wayne Gacy",
+          "correct": true
+        },
+        {
+          "text": "Jeffrey Dahmer",
+          "correct": false
+        },
+        {
+          "text": "Ted Bundy",
+          "correct": false
+        },
+        {
+          "text": "Ed Gein",
+          "correct": false
+        },
+        {
+          "text": "Ronald McDonald",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_018",
+      "question": "What nonprofit legal organization, founded in 1992, works to exonerate wrongfully convicted people using DNA evidence?",
+      "answers": [
+        {
+          "text": "The Innocence Project",
+          "correct": true
+        },
+        {
+          "text": "The Justice Initiative",
+          "correct": false
+        },
+        {
+          "text": "The Freedom Foundation",
+          "correct": false
+        },
+        {
+          "text": "The Exoneration Alliance",
+          "correct": false
+        },
+        {
+          "text": "The \"Oops, Our Bad\" Initiative",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_019",
+      "question": "What serial killer terrorized New York City in 1976–77, claiming a neighbor's dog told him to kill?",
+      "answers": [
+        {
+          "text": "David Berkowitz",
+          "correct": true
+        },
+        {
+          "text": "Richard Ramirez",
+          "correct": false
+        },
+        {
+          "text": "Albert DeSalvo",
+          "correct": false
+        },
+        {
+          "text": "Dennis Rader",
+          "correct": false
+        },
+        {
+          "text": "Lassie",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_020",
+      "question": "What Depression-era outlaw couple robbed banks and stores across the central United States before being killed in a police ambush in 1934?",
+      "answers": [
+        {
+          "text": "Bonnie and Clyde",
+          "correct": true
+        },
+        {
+          "text": "Ma Barker and Fred Barker",
+          "correct": false
+        },
+        {
+          "text": "John Dillinger and Billie Frechette",
+          "correct": false
+        },
+        {
+          "text": "Baby Face Nelson and Helen Gillis",
+          "correct": false
+        },
+        {
+          "text": "Romeo and Juliet with firearms",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_021",
+      "question": "What truck painter, arrested in 2001, confessed to murdering 49 women in Washington state over nearly two decades, earning the name \"The Green River Killer\"?",
+      "answers": [
+        {
+          "text": "Gary Ridgway",
+          "correct": true
+        },
+        {
+          "text": "Robert Pickton",
+          "correct": false
+        },
+        {
+          "text": "Dennis Rader",
+          "correct": false
+        },
+        {
+          "text": "Joel Rifkin",
+          "correct": false
+        },
+        {
+          "text": "The Jolly Green Giant",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_022",
+      "question": "What FBI-maintained database, launched in 1998, stores DNA profiles from convicted offenders and crime scenes to help solve cases nationwide?",
+      "answers": [
+        {
+          "text": "CODIS",
+          "correct": true
+        },
+        {
+          "text": "AFIS",
+          "correct": false
+        },
+        {
+          "text": "VICAP",
+          "correct": false
+        },
+        {
+          "text": "NCIC",
+          "correct": false
+        },
+        {
+          "text": "iCloud, but for criminals",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_023",
+      "question": "What serial killer terrorized Los Angeles in 1985 with home invasions and murders, and was identified after his fingerprint was matched through a new database?",
+      "answers": [
+        {
+          "text": "Richard Ramirez",
+          "correct": true
+        },
+        {
+          "text": "David Berkowitz",
+          "correct": false
+        },
+        {
+          "text": "Angelo Buono",
+          "correct": false
+        },
+        {
+          "text": "William Bonin",
+          "correct": false
+        },
+        {
+          "text": "Richard Nixon",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_024",
+      "question": "What 1990 art theft in Boston remains the largest unsolved property crime in history, with 13 works worth an estimated $500 million still missing?",
+      "answers": [
+        {
+          "text": "The Isabella Stewart Gardner Museum heist",
+          "correct": true
+        },
+        {
+          "text": "The Mona Lisa theft",
+          "correct": false
+        },
+        {
+          "text": "The Antwerp Diamond Heist",
+          "correct": false
+        },
+        {
+          "text": "The Crown Jewels robbery",
+          "correct": false
+        },
+        {
+          "text": "A very ambitious interior redecorating",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_025",
+      "question": "What serial killer and rapist, active in California from 1974 to 1986, was finally identified in 2018 through genetic genealogy as former police officer Joseph DeAngelo?",
+      "answers": [
+        {
+          "text": "The Golden State Killer",
+          "correct": true
+        },
+        {
+          "text": "The Zodiac Killer",
+          "correct": false
+        },
+        {
+          "text": "The Grim Sleeper",
+          "correct": false
+        },
+        {
+          "text": "The Night Stalker",
+          "correct": false
+        },
+        {
+          "text": "California's most invasive HOA president",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_026",
+      "question": "What domestic terrorist, known as the \"Unabomber,\" mailed explosives to academics and airlines over 17 years before being arrested in a Montana cabin in 1996?",
+      "answers": [
+        {
+          "text": "Ted Kaczynski",
+          "correct": true
+        },
+        {
+          "text": "Eric Rudolph",
+          "correct": false
+        },
+        {
+          "text": "Timothy McVeigh",
+          "correct": false
+        },
+        {
+          "text": "Terry Nichols",
+          "correct": false
+        },
+        {
+          "text": "Henry David Thoreau, but angrier",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_027",
+      "question": "What Army veteran carried out the 1995 Oklahoma City bombing, killing 168 people in what was then the deadliest act of domestic terrorism in U.S. history?",
+      "answers": [
+        {
+          "text": "Timothy McVeigh",
+          "correct": true
+        },
+        {
+          "text": "Eric Rudolph",
+          "correct": false
+        },
+        {
+          "text": "Terry Nichols",
+          "correct": false
+        },
+        {
+          "text": "Ted Kaczynski",
+          "correct": false
+        },
+        {
+          "text": "Eric Clapton",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_028",
+      "question": "What American financier ran the largest Ponzi scheme in history, defrauding investors of approximately $65 billion before his arrest in 2008?",
+      "answers": [
+        {
+          "text": "Bernie Madoff",
+          "correct": true
+        },
+        {
+          "text": "Charles Ponzi",
+          "correct": false
+        },
+        {
+          "text": "Jordan Belfort",
+          "correct": false
+        },
+        {
+          "text": "Ivan Boesky",
+          "correct": false
+        },
+        {
+          "text": "Bernie Sanders",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_029",
+      "question": "What Florida serial killer, convicted in 1992 of murdering seven men along state highways, became the subject of the 2003 film \"Monster\"?",
+      "answers": [
+        {
+          "text": "Aileen Wuornos",
+          "correct": true
+        },
+        {
+          "text": "Myra Hindley",
+          "correct": false
+        },
+        {
+          "text": "Rosemary West",
+          "correct": false
+        },
+        {
+          "text": "Belle Gunness",
+          "correct": false
+        },
+        {
+          "text": "Charlize Theron",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_030",
+      "question": "What con artist, whose story was adapted into \"Catch Me If You Can,\" successfully impersonated a Pan Am pilot, doctor, and lawyer while cashing millions in fraudulent checks?",
+      "answers": [
+        {
+          "text": "Frank Abagnale",
+          "correct": true
+        },
+        {
+          "text": "Victor Lustig",
+          "correct": false
+        },
+        {
+          "text": "Jordan Belfort",
+          "correct": false
+        },
+        {
+          "text": "Stanley Mark Rifkin",
+          "correct": false
+        },
+        {
+          "text": "A LinkedIn profile brought to life",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_031",
+      "question": "What iconic 1963 British robbery, in which thieves stole over £2.6 million from a Royal Mail train, became one of the most romanticized crimes in history?",
+      "answers": [
+        {
+          "text": "The Great Train Robbery",
+          "correct": true
+        },
+        {
+          "text": "The Hatton Garden Heist",
+          "correct": false
+        },
+        {
+          "text": "The Brink's-Mat Robbery",
+          "correct": false
+        },
+        {
+          "text": "The Millennium Dome Robbery",
+          "correct": false
+        },
+        {
+          "text": "Thomas the Tank Engine's darkest day",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_032",
+      "question": "What rapper was fatally shot in a Las Vegas drive-by shooting in September 1996, in a case that remains officially unsolved?",
+      "answers": [
+        {
+          "text": "Tupac Shakur",
+          "correct": true
+        },
+        {
+          "text": "The Notorious B.I.G.",
+          "correct": false
+        },
+        {
+          "text": "Jam Master Jay",
+          "correct": false
+        },
+        {
+          "text": "Nipsey Hussle",
+          "correct": false
+        },
+        {
+          "text": "2Pac-Man",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_033",
+      "question": "What Depression-era outlaw, declared \"Public Enemy Number One\" by the FBI, was shot and killed outside a Chicago cinema in July 1934?",
+      "answers": [
+        {
+          "text": "John Dillinger",
+          "correct": true
+        },
+        {
+          "text": "Pretty Boy Floyd",
+          "correct": false
+        },
+        {
+          "text": "Baby Face Nelson",
+          "correct": false
+        },
+        {
+          "text": "Ma Barker",
+          "correct": false
+        },
+        {
+          "text": "John Deere",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_034",
+      "question": "What Colombian drug lord ran the Medellín Cartel and became one of the wealthiest criminals in history before being killed by authorities in 1993?",
+      "answers": [
+        {
+          "text": "Pablo Escobar",
+          "correct": true
+        },
+        {
+          "text": "El Chapo",
+          "correct": false
+        },
+        {
+          "text": "Griselda Blanco",
+          "correct": false
+        },
+        {
+          "text": "Carlos Lehder",
+          "correct": false
+        },
+        {
+          "text": "Pablo Picasso",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_035",
+      "question": "What cult leader orchestrated the 1978 mass death of over 900 followers in Jonestown, Guyana?",
+      "answers": [
+        {
+          "text": "Jim Jones",
+          "correct": true
+        },
+        {
+          "text": "David Koresh",
+          "correct": false
+        },
+        {
+          "text": "Marshall Applewhite",
+          "correct": false
+        },
+        {
+          "text": "Charles Manson",
+          "correct": false
+        },
+        {
+          "text": "Indiana Jones",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_036",
+      "question": "What psychological phenomenon, named after a 1973 Stockholm bank robbery, describes captives developing positive feelings toward their captors?",
+      "answers": [
+        {
+          "text": "Stockholm syndrome",
+          "correct": true
+        },
+        {
+          "text": "Trauma bonding",
+          "correct": false
+        },
+        {
+          "text": "Lima syndrome",
+          "correct": false
+        },
+        {
+          "text": "Captor identification",
+          "correct": false
+        },
+        {
+          "text": "The ABBA Effect",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_037",
+      "question": "What British GP, convicted in 2000 of 15 murders, is believed to have killed an estimated 218 patients — making him possibly the most prolific serial killer in modern history?",
+      "answers": [
+        {
+          "text": "Harold Shipman",
+          "correct": true
+        },
+        {
+          "text": "Peter Sutcliffe",
+          "correct": false
+        },
+        {
+          "text": "Dennis Nilsen",
+          "correct": false
+        },
+        {
+          "text": "John Christie",
+          "correct": false
+        },
+        {
+          "text": "Dr. Oz",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_038",
+      "question": "What Mexican cartel boss, known as \"El Chapo,\" escaped from two maximum-security prisons before being extradited to the United States in 2017?",
+      "answers": [
+        {
+          "text": "Joaquín \"El Chapo\" Guzmán",
+          "correct": true
+        },
+        {
+          "text": "Amado Carrillo Fuentes",
+          "correct": false
+        },
+        {
+          "text": "Miguel Ángel Félix Gallardo",
+          "correct": false
+        },
+        {
+          "text": "Osiel Cárdenas Guillén",
+          "correct": false
+        },
+        {
+          "text": "The world's most enthusiastic tunnel engineer",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_039",
+      "question": "What 1972 political scandal, involving a break-in at Democratic Party headquarters ordered by members of Nixon's reelection campaign, ultimately led to the president's resignation?",
+      "answers": [
+        {
+          "text": "The Watergate scandal",
+          "correct": true
+        },
+        {
+          "text": "The Iran-Contra affair",
+          "correct": false
+        },
+        {
+          "text": "The Pentagon Papers scandal",
+          "correct": false
+        },
+        {
+          "text": "The Teapot Dome scandal",
+          "correct": false
+        },
+        {
+          "text": "The reason every scandal ends in -gate",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_040",
+      "question": "What FBI counterintelligence program, active from 1956 to 1971, used illegal surveillance and infiltration to disrupt domestic political organizations including civil rights groups?",
+      "answers": [
+        {
+          "text": "COINTELPRO",
+          "correct": true
+        },
+        {
+          "text": "Operation CHAOS",
+          "correct": false
+        },
+        {
+          "text": "Project MOCKINGBIRD",
+          "correct": false
+        },
+        {
+          "text": "Operation GARDEN PLOT",
+          "correct": false
+        },
+        {
+          "text": "Extremely aggressive neighborhood watch",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_041",
+      "question": "What forensic discipline analyzes skeletal remains to determine the age, sex, stature, and cause of death of unidentified individuals?",
+      "answers": [
+        {
+          "text": "Forensic anthropology",
+          "correct": true
+        },
+        {
+          "text": "Forensic pathology",
+          "correct": false
+        },
+        {
+          "text": "Forensic archaeology",
+          "correct": false
+        },
+        {
+          "text": "Osteology",
+          "correct": false
+        },
+        {
+          "text": "Bones, but for science",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_042",
+      "question": "What legal protection, established in Miranda v. Arizona (1966), requires police to inform suspects of their rights before interrogation?",
+      "answers": [
+        {
+          "text": "Miranda rights",
+          "correct": true
+        },
+        {
+          "text": "Due process rights",
+          "correct": false
+        },
+        {
+          "text": "The exclusionary rule",
+          "correct": false
+        },
+        {
+          "text": "The right to counsel",
+          "correct": false
+        },
+        {
+          "text": "Miranda Kerr",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_043",
+      "question": "What British toddler disappeared from a holiday apartment in Praia da Luz, Portugal in May 2007, triggering one of the most extensive international missing persons investigations in history?",
+      "answers": [
+        {
+          "text": "Madeleine McCann",
+          "correct": true
+        },
+        {
+          "text": "Holly Wells",
+          "correct": false
+        },
+        {
+          "text": "Jessica Chapman",
+          "correct": false
+        },
+        {
+          "text": "Shannon Matthews",
+          "correct": false
+        },
+        {
+          "text": "Madeline (the children's book character)",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_044",
+      "question": "What notorious French con artist sold the Eiffel Tower — twice — by posing as a government official authorized to sell it for scrap metal?",
+      "answers": [
+        {
+          "text": "Victor Lustig",
+          "correct": true
+        },
+        {
+          "text": "Frank Abagnale",
+          "correct": false
+        },
+        {
+          "text": "Charles Ponzi",
+          "correct": false
+        },
+        {
+          "text": "Ferdinand Waldo Demara",
+          "correct": false
+        },
+        {
+          "text": "The world's most ambitious estate agent",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_045",
+      "question": "What infamous stockbroker, known as \"The Wolf of Wall Street,\" defrauded investors through a massive pump-and-dump scheme at his firm Stratton Oakmont?",
+      "answers": [
+        {
+          "text": "Jordan Belfort",
+          "correct": true
+        },
+        {
+          "text": "Bernie Madoff",
+          "correct": false
+        },
+        {
+          "text": "Ivan Boesky",
+          "correct": false
+        },
+        {
+          "text": "Michael Milken",
+          "correct": false
+        },
+        {
+          "text": "Gordon Gekko",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_046",
+      "question": "What landmark 1993 Supreme Court ruling established that federal judges must act as \"gatekeepers,\" evaluating whether expert scientific testimony is both relevant and methodologically sound before admitting it?",
+      "answers": [
+        {
+          "text": "Daubert v. Merrell Dow Pharmaceuticals",
+          "correct": true
+        },
+        {
+          "text": "Frye v. United States",
+          "correct": false
+        },
+        {
+          "text": "Brady v. Maryland",
+          "correct": false
+        },
+        {
+          "text": "Kumho Tire Co. v. Carmichael",
+          "correct": false
+        },
+        {
+          "text": "When scientists and lawyers finally agreed on something",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_047",
+      "question": "What forensic technique, pioneered by botanist Patricia Wiltshire, analyzes pollen and spores to track a suspect's geographic movements or link them to a crime scene?",
+      "answers": [
+        {
+          "text": "Forensic palynology",
+          "correct": true
+        },
+        {
+          "text": "Forensic geology",
+          "correct": false
+        },
+        {
+          "text": "Forensic botany",
+          "correct": false
+        },
+        {
+          "text": "Environmental DNA analysis",
+          "correct": false
+        },
+        {
+          "text": "Hay fever, but make it criminal",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_048",
+      "question": "What FBI agent conducted interviews with over 150 serial killers, co-founded the Behavioral Science Unit, and co-wrote the book \"Mindhunter\" that became a Netflix series?",
+      "answers": [
+        {
+          "text": "John Douglas",
+          "correct": true
+        },
+        {
+          "text": "Robert Ressler",
+          "correct": false
+        },
+        {
+          "text": "Roy Hazelwood",
+          "correct": false
+        },
+        {
+          "text": "James Reese",
+          "correct": false
+        },
+        {
+          "text": "The real Spencer Reid",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_049",
+      "question": "What legal doctrine, rooted in the 1914 Supreme Court case Weeks v. United States, bars courts from using evidence obtained through unconstitutional searches and seizures?",
+      "answers": [
+        {
+          "text": "The exclusionary rule",
+          "correct": true
+        },
+        {
+          "text": "The fruit of the poisonous tree doctrine",
+          "correct": false
+        },
+        {
+          "text": "The good faith exception",
+          "correct": false
+        },
+        {
+          "text": "The inevitable discovery rule",
+          "correct": false
+        },
+        {
+          "text": "The legal equivalent of \"you cheated, so it doesn't count\"",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "True Crime"
+    },
+    {
+      "id": "tc_050",
+      "question": "What 2002 case, in which a pregnant woman disappeared on Christmas Eve and her husband was later convicted of murder, became one of the most widely covered criminal trials of the decade?",
+      "answers": [
+        {
+          "text": "The Scott Peterson case",
+          "correct": true
+        },
+        {
+          "text": "The Drew Peterson case",
+          "correct": false
+        },
+        {
+          "text": "The Chris Watts case",
+          "correct": false
+        },
+        {
+          "text": "The Robert Blake case",
+          "correct": false
+        },
+        {
+          "text": "Every Dateline NBC episode condensed into one",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "True Crime"
+    }
+  ]
+}
