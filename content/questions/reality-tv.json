@@ -1,0 +1,1466 @@
+{
+  "category": "Reality TV",
+  "metadata": {
+    "totalQuestions": 50,
+    "difficulty": {
+      "easy": 20,
+      "medium": 20,
+      "hard": 10
+    },
+    "version": "1.0",
+    "created": "2026-02-20",
+    "updated": "2026-02-20"
+  },
+  "questions": [
+    {
+      "id": "rtv_001",
+      "question": "Who hosts Hell's Kitchen?",
+      "answers": [
+        {
+          "text": "Gordon Ramsay",
+          "correct": true
+        },
+        {
+          "text": "Jamie Oliver",
+          "correct": false
+        },
+        {
+          "text": "Bobby Flay",
+          "correct": false
+        },
+        {
+          "text": "Wolfgang Puck",
+          "correct": false
+        },
+        {
+          "text": "Gordon Ramsey Street",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_002",
+      "question": "What catchphrase did Donald Trump use to eliminate contestants on The Apprentice?",
+      "answers": [
+        {
+          "text": "You're fired",
+          "correct": true
+        },
+        {
+          "text": "You're out",
+          "correct": false
+        },
+        {
+          "text": "Pack your bags",
+          "correct": false
+        },
+        {
+          "text": "Deal's done",
+          "correct": false
+        },
+        {
+          "text": "You're grounded",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_003",
+      "question": "What does Jeff Probst say after a Survivor contestant's torch is snuffed at Tribal Council?",
+      "answers": [
+        {
+          "text": "The tribe has spoken",
+          "correct": true
+        },
+        {
+          "text": "Your journey ends here",
+          "correct": false
+        },
+        {
+          "text": "The vote is final",
+          "correct": false
+        },
+        {
+          "text": "Time to leave",
+          "correct": false
+        },
+        {
+          "text": "Please extinguish your flame of hope",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_004",
+      "question": "Who hosted American Idol from its premiere in 2002 through Season 15?",
+      "answers": [
+        {
+          "text": "Ryan Seacrest",
+          "correct": true
+        },
+        {
+          "text": "Simon Cowell",
+          "correct": false
+        },
+        {
+          "text": "Carson Daly",
+          "correct": false
+        },
+        {
+          "text": "Nick Cannon",
+          "correct": false
+        },
+        {
+          "text": "Randy Jackson",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_005",
+      "question": "On The Bachelor, what does he give to contestants he wants to keep?",
+      "answers": [
+        {
+          "text": "A rose",
+          "correct": true
+        },
+        {
+          "text": "A ring",
+          "correct": false
+        },
+        {
+          "text": "A key",
+          "correct": false
+        },
+        {
+          "text": "A ribbon",
+          "correct": false
+        },
+        {
+          "text": "A participation trophy",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_006",
+      "question": "Who won the first ever season of American Idol in 2002?",
+      "answers": [
+        {
+          "text": "Kelly Clarkson",
+          "correct": true
+        },
+        {
+          "text": "Justin Guarini",
+          "correct": false
+        },
+        {
+          "text": "Ruben Studdard",
+          "correct": false
+        },
+        {
+          "text": "Tamyra Gray",
+          "correct": false
+        },
+        {
+          "text": "William Hung",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_007",
+      "question": "Which reality competition features pairs racing across multiple countries for a grand prize?",
+      "answers": [
+        {
+          "text": "The Amazing Race",
+          "correct": true
+        },
+        {
+          "text": "Survivor",
+          "correct": false
+        },
+        {
+          "text": "The Mole",
+          "correct": false
+        },
+        {
+          "text": "Wipeout",
+          "correct": false
+        },
+        {
+          "text": "The Stationary Race",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_008",
+      "question": "What does RuPaul say to the eliminated queen at the end of each Drag Race episode?",
+      "answers": [
+        {
+          "text": "Sashay away",
+          "correct": true
+        },
+        {
+          "text": "Pack your wigs",
+          "correct": false
+        },
+        {
+          "text": "Farewell queen",
+          "correct": false
+        },
+        {
+          "text": "The runway is closed",
+          "correct": false
+        },
+        {
+          "text": "Werk it on out of here",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_009",
+      "question": "On The Voice, what makes the blind audition format unique?",
+      "answers": [
+        {
+          "text": "Coaches spin their chairs without seeing the performer",
+          "correct": true
+        },
+        {
+          "text": "Acts perform behind a curtain",
+          "correct": false
+        },
+        {
+          "text": "Coaches listen from another room",
+          "correct": false
+        },
+        {
+          "text": "Acts wear disguises",
+          "correct": false
+        },
+        {
+          "text": "Coaches wear blindfolds for entire season",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_010",
+      "question": "Which modelling competition show was created by Tyra Banks in 2003?",
+      "answers": [
+        {
+          "text": "America's Next Top Model",
+          "correct": true
+        },
+        {
+          "text": "Project Runway",
+          "correct": false
+        },
+        {
+          "text": "Making the Cut",
+          "correct": false
+        },
+        {
+          "text": "Next in Fashion",
+          "correct": false
+        },
+        {
+          "text": "America's Next Top Shelf Model",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_011",
+      "question": "Which cooking competition uses the elimination phrase \"Please pack your knives and go\"?",
+      "answers": [
+        {
+          "text": "Top Chef",
+          "correct": true
+        },
+        {
+          "text": "Hell's Kitchen",
+          "correct": false
+        },
+        {
+          "text": "MasterChef",
+          "correct": false
+        },
+        {
+          "text": "Chopped",
+          "correct": false
+        },
+        {
+          "text": "Please pack your spoons and leave",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_012",
+      "question": "The Great British Bake Off winner receives no cash prize. What do they actually receive?",
+      "answers": [
+        {
+          "text": "A cake stand and a bouquet of flowers",
+          "correct": true
+        },
+        {
+          "text": "A cookbook publishing deal",
+          "correct": false
+        },
+        {
+          "text": "A baking school scholarship",
+          "correct": false
+        },
+        {
+          "text": "A restaurant residency",
+          "correct": false
+        },
+        {
+          "text": "The actual Great British Bake",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_013",
+      "question": "What nickname is Kevin O'Leary known by on Shark Tank?",
+      "answers": [
+        {
+          "text": "Mr. Wonderful",
+          "correct": true
+        },
+        {
+          "text": "The Wolf",
+          "correct": false
+        },
+        {
+          "text": "The Dragon",
+          "correct": false
+        },
+        {
+          "text": "Captain Cash",
+          "correct": false
+        },
+        {
+          "text": "Mr. Horrible",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_014",
+      "question": "Which show features couples marrying a complete stranger selected by relationship scientists on their first meeting?",
+      "answers": [
+        {
+          "text": "Married at First Sight",
+          "correct": true
+        },
+        {
+          "text": "Love Island",
+          "correct": false
+        },
+        {
+          "text": "Perfect Match",
+          "correct": false
+        },
+        {
+          "text": "The Ultimatum",
+          "correct": false
+        },
+        {
+          "text": "Unmarried at Last Sight",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_015",
+      "question": "Which MTV reality show set in Seaside Heights, NJ featured housemates known as Snooki and The Situation?",
+      "answers": [
+        {
+          "text": "Jersey Shore",
+          "correct": true
+        },
+        {
+          "text": "The Hills",
+          "correct": false
+        },
+        {
+          "text": "Laguna Beach",
+          "correct": false
+        },
+        {
+          "text": "The Real World",
+          "correct": false
+        },
+        {
+          "text": "New Jersey Shoreline",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_016",
+      "question": "On which cable network does The Real Housewives franchise primarily air?",
+      "answers": [
+        {
+          "text": "Bravo",
+          "correct": true
+        },
+        {
+          "text": "E!",
+          "correct": false
+        },
+        {
+          "text": "VH1",
+          "correct": false
+        },
+        {
+          "text": "TLC",
+          "correct": false
+        },
+        {
+          "text": "The Home Shopping Network",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_017",
+      "question": "Which UK talent show lets judges hit a golden buzzer sending an act straight to the live finals?",
+      "answers": [
+        {
+          "text": "Britain's Got Talent",
+          "correct": true
+        },
+        {
+          "text": "The X Factor",
+          "correct": false
+        },
+        {
+          "text": "The Voice UK",
+          "correct": false
+        },
+        {
+          "text": "Pop Idol",
+          "correct": false
+        },
+        {
+          "text": "Britain's Got Limited Talent",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_018",
+      "question": "On which show do housemates live under 24-hour surveillance with viewers voting weekly to evict one person?",
+      "answers": [
+        {
+          "text": "Big Brother",
+          "correct": true
+        },
+        {
+          "text": "The Real World",
+          "correct": false
+        },
+        {
+          "text": "Survivor",
+          "correct": false
+        },
+        {
+          "text": "Love Island",
+          "correct": false
+        },
+        {
+          "text": "Little Brother",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_019",
+      "question": "Who hosts Survivor?",
+      "answers": [
+        {
+          "text": "Jeff Probst",
+          "correct": true
+        },
+        {
+          "text": "Phil Keoghan",
+          "correct": false
+        },
+        {
+          "text": "Ryan Seacrest",
+          "correct": false
+        },
+        {
+          "text": "Tom Bergeron",
+          "correct": false
+        },
+        {
+          "text": "Jeff Probst's twin brother",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_020",
+      "question": "What is the name of the Survivor ceremony where contestants vote to eliminate a fellow player?",
+      "answers": [
+        {
+          "text": "Tribal Council",
+          "correct": true
+        },
+        {
+          "text": "The Elimination Ceremony",
+          "correct": false
+        },
+        {
+          "text": "The Voting Circle",
+          "correct": false
+        },
+        {
+          "text": "Judgment Rock",
+          "correct": false
+        },
+        {
+          "text": "The Tribal Court of Law",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "easy",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_021",
+      "question": "Which Real Housewives franchise was the first to premiere on Bravo, in 2006?",
+      "answers": [
+        {
+          "text": "The Real Housewives of Orange County",
+          "correct": true
+        },
+        {
+          "text": "The Real Housewives of New York City",
+          "correct": false
+        },
+        {
+          "text": "The Real Housewives of Atlanta",
+          "correct": false
+        },
+        {
+          "text": "The Real Housewives of Beverly Hills",
+          "correct": false
+        },
+        {
+          "text": "The Real Housewives of Orange",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_022",
+      "question": "The Voice format originated in which country?",
+      "answers": [
+        {
+          "text": "Netherlands",
+          "correct": true
+        },
+        {
+          "text": "USA",
+          "correct": false
+        },
+        {
+          "text": "UK",
+          "correct": false
+        },
+        {
+          "text": "Australia",
+          "correct": false
+        },
+        {
+          "text": "The Voice Box",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_023",
+      "question": "On Love Is Blind, what is the key rule during the pods phase where contestants decide whether to get engaged?",
+      "answers": [
+        {
+          "text": "They can only communicate by voice and cannot see each other at all",
+          "correct": true
+        },
+        {
+          "text": "Contestants are blindfolded during dates",
+          "correct": false
+        },
+        {
+          "text": "They communicate through written messages only",
+          "correct": false
+        },
+        {
+          "text": "They can see each other's silhouettes but not faces",
+          "correct": false
+        },
+        {
+          "text": "They communicate via Morse code only",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_024",
+      "question": "What editing technique splices words from different sentences to create a statement never actually made?",
+      "answers": [
+        {
+          "text": "Frankenbiting",
+          "correct": true
+        },
+        {
+          "text": "Splice editing",
+          "correct": false
+        },
+        {
+          "text": "Pick-up cutting",
+          "correct": false
+        },
+        {
+          "text": "Audio dubbing",
+          "correct": false
+        },
+        {
+          "text": "Frankenstein's editor",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_025",
+      "question": "Who became the first Black man to star as the lead on the US version of The Bachelor?",
+      "answers": [
+        {
+          "text": "Matt James",
+          "correct": true
+        },
+        {
+          "text": "Nick Viall",
+          "correct": false
+        },
+        {
+          "text": "Colton Underwood",
+          "correct": false
+        },
+        {
+          "text": "Peter Weber",
+          "correct": false
+        },
+        {
+          "text": "The Bachelor of Arts",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_026",
+      "question": "On RuPaul's Drag Race, how do the bottom-two contestants compete to avoid elimination?",
+      "answers": [
+        {
+          "text": "They lip sync to a song for their lives",
+          "correct": true
+        },
+        {
+          "text": "They face a rapid-fire sewing challenge",
+          "correct": false
+        },
+        {
+          "text": "The other contestants hold a secret vote",
+          "correct": false
+        },
+        {
+          "text": "They perform a comedy roast",
+          "correct": false
+        },
+        {
+          "text": "They compete in a bake-off",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_027",
+      "question": "In what year did the first US season of Survivor premiere on CBS?",
+      "answers": [
+        {
+          "text": "2000",
+          "correct": true
+        },
+        {
+          "text": "1999",
+          "correct": false
+        },
+        {
+          "text": "2001",
+          "correct": false
+        },
+        {
+          "text": "1998",
+          "correct": false
+        },
+        {
+          "text": "1492",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_028",
+      "question": "Who was the first winner of the US Apprentice, selected by Trump in Season 1?",
+      "answers": [
+        {
+          "text": "Bill Rancic",
+          "correct": true
+        },
+        {
+          "text": "Kwame Jackson",
+          "correct": false
+        },
+        {
+          "text": "Troy McClain",
+          "correct": false
+        },
+        {
+          "text": "Nick Warnock",
+          "correct": false
+        },
+        {
+          "text": "Donald Trump Jr.",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_029",
+      "question": "Which survival show features contestants living completely alone in remote wilderness while filming themselves?",
+      "answers": [
+        {
+          "text": "Alone",
+          "correct": true
+        },
+        {
+          "text": "Naked and Afraid",
+          "correct": false
+        },
+        {
+          "text": "Survivor",
+          "correct": false
+        },
+        {
+          "text": "The Island with Bear Grylls",
+          "correct": false
+        },
+        {
+          "text": "Together",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_030",
+      "question": "On which cable network did Keeping Up with the Kardashians air for all 20 of its seasons?",
+      "answers": [
+        {
+          "text": "E!",
+          "correct": true
+        },
+        {
+          "text": "Bravo",
+          "correct": false
+        },
+        {
+          "text": "VH1",
+          "correct": false
+        },
+        {
+          "text": "TLC",
+          "correct": false
+        },
+        {
+          "text": "Vitamin E",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_031",
+      "question": "What is the grand prize awarded to the MasterChef US winner?",
+      "answers": [
+        {
+          "text": "$250,000",
+          "correct": true
+        },
+        {
+          "text": "$100,000",
+          "correct": false
+        },
+        {
+          "text": "$500,000",
+          "correct": false
+        },
+        {
+          "text": "$1,000,000",
+          "correct": false
+        },
+        {
+          "text": "A year's supply of Rice-A-Roni",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_032",
+      "question": "Which 1992 MTV series, placing seven strangers in a shared home, founded modern reality TV?",
+      "answers": [
+        {
+          "text": "The Real World",
+          "correct": true
+        },
+        {
+          "text": "Cops",
+          "correct": false
+        },
+        {
+          "text": "Road Rules",
+          "correct": false
+        },
+        {
+          "text": "An American Family",
+          "correct": false
+        },
+        {
+          "text": "The Fake World",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_033",
+      "question": "Which Amazing Race task can only be attempted by one designated team member, with no option to swap?",
+      "answers": [
+        {
+          "text": "Roadblock",
+          "correct": true
+        },
+        {
+          "text": "Detour",
+          "correct": false
+        },
+        {
+          "text": "Fast Forward",
+          "correct": false
+        },
+        {
+          "text": "U-Turn",
+          "correct": false
+        },
+        {
+          "text": "Speed bump",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_034",
+      "question": "Survivor was directly inspired by which Swedish reality show that first aired in 1997?",
+      "answers": [
+        {
+          "text": "Expedition Robinson",
+          "correct": true
+        },
+        {
+          "text": "Robinson Crusoe Live",
+          "correct": false
+        },
+        {
+          "text": "The Ultimate Challenge",
+          "correct": false
+        },
+        {
+          "text": "Öde ön",
+          "correct": false
+        },
+        {
+          "text": "Robinson Crusoe's Diary",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_035",
+      "question": "What is the name of the signature MasterChef challenge where contestants must cook using a surprise selection of ingredients?",
+      "answers": [
+        {
+          "text": "The Mystery Box Challenge",
+          "correct": true
+        },
+        {
+          "text": "The Pressure Test",
+          "correct": false
+        },
+        {
+          "text": "The Blind Basket",
+          "correct": false
+        },
+        {
+          "text": "The Lucky Dip",
+          "correct": false
+        },
+        {
+          "text": "The Mystery Machine",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_036",
+      "question": "On The Traitors, what are the non-traitor contestants called?",
+      "answers": [
+        {
+          "text": "The Faithful",
+          "correct": true
+        },
+        {
+          "text": "The Innocents",
+          "correct": false
+        },
+        {
+          "text": "The Believers",
+          "correct": false
+        },
+        {
+          "text": "The Civilians",
+          "correct": false
+        },
+        {
+          "text": "The Doubtful",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_037",
+      "question": "What is the private room in UK Big Brother where housemates speak candidly away from others?",
+      "answers": [
+        {
+          "text": "The Diary Room",
+          "correct": true
+        },
+        {
+          "text": "The Confessional",
+          "correct": false
+        },
+        {
+          "text": "The Interview Room",
+          "correct": false
+        },
+        {
+          "text": "The Private Suite",
+          "correct": false
+        },
+        {
+          "text": "The Bathroom",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_038",
+      "question": "Which reality show has contestants competing for followers via an app, never meeting face to face?",
+      "answers": [
+        {
+          "text": "The Circle",
+          "correct": true
+        },
+        {
+          "text": "Big Brother",
+          "correct": false
+        },
+        {
+          "text": "The Traitors",
+          "correct": false
+        },
+        {
+          "text": "Catfish",
+          "correct": false
+        },
+        {
+          "text": "The Triangle",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_039",
+      "question": "Which Netflix dating show has couples issuing an ultimatum to commit or split, then dating others from the cast?",
+      "answers": [
+        {
+          "text": "The Ultimatum",
+          "correct": true
+        },
+        {
+          "text": "Love Is Blind",
+          "correct": false
+        },
+        {
+          "text": "Married at First Sight",
+          "correct": false
+        },
+        {
+          "text": "Too Hot to Handle",
+          "correct": false
+        },
+        {
+          "text": "The Penultimatum",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_040",
+      "question": "What is \"zombieing\" in modern dating show terminology?",
+      "answers": [
+        {
+          "text": "When someone who previously ghosted you suddenly reappears acting as if nothing happened",
+          "correct": true
+        },
+        {
+          "text": "When a contestant is voted out but brought back by the public",
+          "correct": false
+        },
+        {
+          "text": "When a former contestant returns for a new season",
+          "correct": false
+        },
+        {
+          "text": "When editing makes a contestant appear to say something they did not",
+          "correct": false
+        },
+        {
+          "text": "The Walking Dead crossover episode",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "medium",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_041",
+      "question": "How many consecutive years did The Amazing Race win the Emmy for Outstanding Reality Competition Program, setting a record?",
+      "answers": [
+        {
+          "text": "10 years, from 2003 to 2012",
+          "correct": true
+        },
+        {
+          "text": "5",
+          "correct": false
+        },
+        {
+          "text": "7",
+          "correct": false
+        },
+        {
+          "text": "14",
+          "correct": false
+        },
+        {
+          "text": "150 years",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_042",
+      "question": "Who was the first Survivor contestant to win the game twice, across two separate seasons?",
+      "answers": [
+        {
+          "text": "Sandra Diaz-Twine",
+          "correct": true
+        },
+        {
+          "text": "Parvati Shallow",
+          "correct": false
+        },
+        {
+          "text": "Boston Rob Mariano",
+          "correct": false
+        },
+        {
+          "text": "Tony Vlachos",
+          "correct": false
+        },
+        {
+          "text": "Jeff Probst",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_043",
+      "question": "Which Dutch production company created both Big Brother and The Voice formats?",
+      "answers": [
+        {
+          "text": "Endemol",
+          "correct": true
+        },
+        {
+          "text": "FremantleMedia",
+          "correct": false
+        },
+        {
+          "text": "ITV Studios",
+          "correct": false
+        },
+        {
+          "text": "Shine Group",
+          "correct": false
+        },
+        {
+          "text": "DreamWorks Unscripted",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_044",
+      "question": "In what year did the first UK series of Big Brother premiere on Channel 4?",
+      "answers": [
+        {
+          "text": "2000",
+          "correct": true
+        },
+        {
+          "text": "1999",
+          "correct": false
+        },
+        {
+          "text": "2001",
+          "correct": false
+        },
+        {
+          "text": "2002",
+          "correct": false
+        },
+        {
+          "text": "1984",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_045",
+      "question": "Who won the first series of UK Big Brother in 2000, donating his entire prize to charity?",
+      "answers": [
+        {
+          "text": "Craig Phillips",
+          "correct": true
+        },
+        {
+          "text": "Nick Bateman",
+          "correct": false
+        },
+        {
+          "text": "Mel Hill",
+          "correct": false
+        },
+        {
+          "text": "Anna Nolan",
+          "correct": false
+        },
+        {
+          "text": "Craig's List",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_046",
+      "question": "Which 1973 PBS documentary about a Californian family capturing their divorce is considered the first true American reality TV program?",
+      "answers": [
+        {
+          "text": "An American Family",
+          "correct": true
+        },
+        {
+          "text": "The Real World",
+          "correct": false
+        },
+        {
+          "text": "Candid Camera",
+          "correct": false
+        },
+        {
+          "text": "Queen for a Day",
+          "correct": false
+        },
+        {
+          "text": "A Very American Family",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_047",
+      "question": "What psychological phenomenon describes how people change their behavior when they know they're being watched?",
+      "answers": [
+        {
+          "text": "The Hawthorne Effect",
+          "correct": true
+        },
+        {
+          "text": "The Spotlight Effect",
+          "correct": false
+        },
+        {
+          "text": "Observer Bias",
+          "correct": false
+        },
+        {
+          "text": "The Truman Syndrome",
+          "correct": false
+        },
+        {
+          "text": "The Reality TV Effect",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_048",
+      "question": "Which Survivor contestant masterminded the Black Widow Brigade, the dominant all-female alliance in Survivor: Micronesia?",
+      "answers": [
+        {
+          "text": "Parvati Shallow",
+          "correct": true
+        },
+        {
+          "text": "Amanda Kimmel",
+          "correct": false
+        },
+        {
+          "text": "Cirie Fields",
+          "correct": false
+        },
+        {
+          "text": "Sandra Diaz-Twine",
+          "correct": false
+        },
+        {
+          "text": "Black Widow",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_049",
+      "question": "In which Survivor season was the Hidden Immunity Idol first introduced as a game mechanic?",
+      "answers": [
+        {
+          "text": "Survivor: Guatemala, Season 11",
+          "correct": true
+        },
+        {
+          "text": "Survivor: Pearl Islands",
+          "correct": false
+        },
+        {
+          "text": "Survivor: Panama",
+          "correct": false
+        },
+        {
+          "text": "Survivor: Cook Islands",
+          "correct": false
+        },
+        {
+          "text": "Survivor: Hidden Valley Ranch",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Reality TV"
+    },
+    {
+      "id": "rtv_050",
+      "question": "What editing pattern deliberately frames a reality TV contestant as the antagonist regardless of their actual behavior?",
+      "answers": [
+        {
+          "text": "The villain edit",
+          "correct": true
+        },
+        {
+          "text": "The antagonist arc",
+          "correct": false
+        },
+        {
+          "text": "The dark cut",
+          "correct": false
+        },
+        {
+          "text": "The negative frame",
+          "correct": false
+        },
+        {
+          "text": "The heel turn",
+          "correct": false,
+          "absurd": true
+        }
+      ],
+      "difficulty": "hard",
+      "category": "Reality TV"
+    }
+  ]
+}

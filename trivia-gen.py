@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-trivia-gen.py — Generate trivia question batches using the Claude CLI (Max subscription).
+trivia-gen.py — Generate trivia question batches using the Anthropic Python SDK.
 
-Uses `claude -p` subprocess — no API key required, uses your Claude Max credits.
+Requires ANTHROPIC_API_KEY environment variable.
 
 Usage:
     python3 trivia-gen.py                          # run all categories in CATEGORIES list
@@ -18,7 +18,7 @@ import time
 import logging
 import re
 import argparse
-import subprocess
+import anthropic
 from pathlib import Path
 from datetime import datetime
 
@@ -32,8 +32,9 @@ REF_FILE    = OUTPUT_DIR / "true-crime.json"
 
 # ── Config ─────────────────────────────────────────────────────────────────
 
-SLEEP_SECS  = 3
-CLAUDE_BIN  = "claude"   # assumes `claude` is on PATH
+SLEEP_BATCH     = 300   # 5 minutes between batches within a category
+SLEEP_CATEGORY  = 1200  # 20 minutes between categories
+MODEL       = "claude-sonnet-4-6"
 
 # ── Category registry ──────────────────────────────────────────────────────
 # (slug, display_name, id_prefix)
@@ -85,7 +86,7 @@ REFERENCE_EXAMPLES = None  # loaded lazily
 # ── Prompt builder ─────────────────────────────────────────────────────────
 
 def build_prompt(category_name: str, id_prefix: str, batch_num: int,
-                 reference: str) -> str:
+                 reference: str, prior_questions: list[dict] | None = None) -> str:
     start = 1 + (batch_num - 1) * 25
     end   = start + 24
 
@@ -104,6 +105,15 @@ def build_prompt(category_name: str, id_prefix: str, batch_num: int,
 
     ids = [f"{id_prefix}_{str(i).zfill(3)}" for i in range(start, end + 1)]
 
+    already_covered = ""
+    if batch_num == 2 and prior_questions:
+        lines = [f"  {q['id']}: {q['question']} ({q['correct']})" for q in prior_questions]
+        already_covered = (
+            "\nALREADY COVERED IN BATCH 1 — do not repeat these topics or correct answers:\n"
+            + "\n".join(lines)
+            + "\n"
+        )
+
     return f"""Generate exactly 25 trivia questions for the party game category: {category_name}
 
 DIFFICULTY DISTRIBUTION FOR THIS BATCH:
@@ -114,7 +124,7 @@ IDs to use (in order): {ids[0]} through {ids[-1]}
 OUTPUT FORMAT — one question per line, exactly this structure:
 [id] | [question] | correct: [answer] | wrong: [ans1] / [ans2] / [ans3]
 
-RULES:
+{already_covered}RULES:
 - Output ONLY the 25 question lines — no headers, no commentary, no blank lines
 - 4 answers per question: 1 correct, 3 plausible wrong answers
 - Wrong answers must be genuinely plausible — not obviously incorrect
@@ -234,21 +244,23 @@ def questions_to_json(questions: list[dict], category_name: str) -> dict:
 
 # ── Claude CLI call ────────────────────────────────────────────────────────
 
+_client: anthropic.Anthropic | None = None
+
+def get_client() -> anthropic.Anthropic:
+    global _client
+    if _client is None:
+        _client = anthropic.Anthropic()
+    return _client
+
 def call_claude(prompt: str, log: logging.Logger) -> str:
-    """Call `claude -p` and return the text result."""
-    cmd = [CLAUDE_BIN, "-p", prompt, "--output-format", "json"]
-    log.debug(f"Running: {CLAUDE_BIN} -p [...] --output-format json")
-    env = {k: v for k, v in os.environ.items() if k != "CLAUDECODE"}
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=300, env=env)
-    if result.returncode != 0:
-        raise RuntimeError(
-            f"claude exited {result.returncode}: {result.stderr.strip()[:200]}"
-        )
-    try:
-        data = json.loads(result.stdout)
-        return data["result"]
-    except (json.JSONDecodeError, KeyError) as e:
-        raise RuntimeError(f"Unexpected claude output: {e}\n{result.stdout[:300]}")
+    """Call the Anthropic API and return the text result."""
+    log.debug(f"Calling API ({MODEL})…")
+    message = get_client().messages.create(
+        model=MODEL,
+        max_tokens=4096,
+        messages=[{"role": "user", "content": prompt}],
+    )
+    return message.content[0].text
 
 
 # ── Checkpoint helpers ─────────────────────────────────────────────────────
@@ -322,7 +334,8 @@ def generate_category(slug: str, name: str, prefix: str,
             continue
 
         log.info(f"[{name}] Generating batch {batch_num}/2…")
-        prompt = build_prompt(name, prefix, batch_num, REFERENCE_EXAMPLES)
+        prior = all_questions if batch_num == 2 else None
+        prompt = build_prompt(name, prefix, batch_num, REFERENCE_EXAMPLES, prior)
 
         try:
             raw_text = call_claude(prompt, log)
@@ -354,8 +367,8 @@ def generate_category(slug: str, name: str, prefix: str,
         mark_batch_done(cp, slug, batch_num, questions)
 
         if batch_num == 1:
-            log.info(f"[{name}] Sleeping {SLEEP_SECS}s before batch 2…")
-            time.sleep(SLEEP_SECS)
+            log.info(f"[{name}] Sleeping {SLEEP_BATCH}s before batch 2…")
+            time.sleep(SLEEP_BATCH)
 
     output = questions_to_json(all_questions, name)
     out_path.write_text(json.dumps(output, indent=2, ensure_ascii=False))
@@ -390,10 +403,8 @@ def main() -> None:
 
     log = setup_logging()
 
-    # Verify claude binary exists
-    check = subprocess.run(["which", CLAUDE_BIN], capture_output=True)
-    if check.returncode != 0:
-        log.error(f"'{CLAUDE_BIN}' not found on PATH — is Claude Code installed?")
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        log.error("ANTHROPIC_API_KEY is not set")
         sys.exit(1)
 
     if args.reset and CHECKPOINT.exists():
@@ -432,8 +443,8 @@ def main() -> None:
             failed.append(slug)
             continue
         if i < len(targets) - 1:
-            log.info(f"Sleeping {SLEEP_SECS}s before next category…")
-            time.sleep(SLEEP_SECS)
+            log.info(f"Sleeping {SLEEP_CATEGORY}s before next category…")
+            time.sleep(SLEEP_CATEGORY)
 
     if failed:
         log.warning(f"Failed categories: {failed}")

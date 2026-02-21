@@ -188,7 +188,7 @@
     },
     {
       "id": "tc_007",
-      "question": "What Netflix documentary series followed the case of Steven Avery, a Wisconsin man convicted of murder after being previously exonerated of a different crime?",
+      "question": "Which Netflix documentary series followed Steven Avery, exonerated then convicted of murder in Wisconsin?",
       "answers": [
         {
           "text": "Making a Murderer",
@@ -217,7 +217,7 @@
     },
     {
       "id": "tc_008",
-      "question": "What type of biological evidence, first used in a criminal conviction in 1987, revolutionized forensic science by allowing identification from trace samples?",
+      "question": "What type of biological evidence, first used in a criminal conviction in 1987, revolutionized forensic identification?",
       "answers": [
         {
           "text": "DNA evidence",
@@ -333,7 +333,7 @@
     },
     {
       "id": "tc_012",
-      "question": "In what year was six-year-old JonBenét Ramsey found murdered in her family's Boulder, Colorado home, in a case that remains officially unsolved?",
+      "question": "In what year was six-year-old JonBenét Ramsey found murdered in her Boulder, Colorado home?",
       "answers": [
         {
           "text": "1996",
@@ -449,7 +449,7 @@
     },
     {
       "id": "tc_016",
-      "question": "What is the pseudonym of the man who hijacked a Northwest Orient Airlines flight in 1971, collected a $200,000 ransom, and parachuted into the wilderness never to be found?",
+      "question": "What pseudonym did the man use who hijacked a flight in 1971, collected a ransom, and parachuted away never to be found?",
       "answers": [
         {
           "text": "D.B. Cooper",
@@ -478,7 +478,7 @@
     },
     {
       "id": "tc_017",
-      "question": "What serial killer, known as \"The Killer Clown,\" murdered at least 33 young men and buried most of them beneath his Chicago-area home?",
+      "question": "What serial killer, known as \"The Killer Clown,\" murdered at least 33 young men beneath his Chicago home?",
       "answers": [
         {
           "text": "John Wayne Gacy",
@@ -565,7 +565,7 @@
     },
     {
       "id": "tc_020",
-      "question": "What Depression-era outlaw couple robbed banks and stores across the central United States before being killed in a police ambush in 1934?",
+      "question": "Which Depression-era outlaw couple robbed banks across the central U.S. before being killed in a 1934 ambush?",
       "answers": [
         {
           "text": "Bonnie and Clyde",
@@ -594,7 +594,7 @@
     },
     {
       "id": "tc_021",
-      "question": "What truck painter, arrested in 2001, confessed to murdering 49 women in Washington state over nearly two decades, earning the name \"The Green River Killer\"?",
+      "question": "Which serial killer, known as \"The Green River Killer,\" confessed to murdering 49 women in Washington state?",
       "answers": [
         {
           "text": "Gary Ridgway",
@@ -652,7 +652,7 @@
     },
     {
       "id": "tc_023",
-      "question": "What serial killer terrorized Los Angeles in 1985 with home invasions and murders, and was identified after his fingerprint was matched through a new database?",
+      "question": "What serial killer terrorized LA in 1985 with home invasions, identified via a new fingerprint database?",
       "answers": [
         {
           "text": "Richard Ramirez",
@@ -681,7 +681,7 @@
     },
     {
       "id": "tc_024",
-      "question": "What 1990 art theft in Boston remains the largest unsolved property crime in history, with 13 works worth an estimated $500 million still missing?",
+      "question": "Which 1990 Boston museum heist, with 13 works worth $500 million still missing, remains history's largest unsolved art theft?",
       "answers": [
         {
           "text": "The Isabella Stewart Gardner Museum heist",
@@ -710,7 +710,7 @@
     },
     {
       "id": "tc_025",
-      "question": "What serial killer and rapist, active in California from 1974 to 1986, was finally identified in 2018 through genetic genealogy as former police officer Joseph DeAngelo?",
+      "question": "Which serial killer, active in California 1974–1986, was identified in 2018 as former officer Joseph DeAngelo?",
       "answers": [
         {
           "text": "The Golden State Killer",
@@ -739,7 +739,7 @@
     },
     {
       "id": "tc_026",
-      "question": "What domestic terrorist, known as the \"Unabomber,\" mailed explosives to academics and airlines over 17 years before being arrested in a Montana cabin in 1996?",
+      "question": "Who was the \"Unabomber,\" the domestic terrorist who mailed explosives to academics and airlines for 17 years?",
       "answers": [
         {
           "text": "Ted Kaczynski",
@@ -768,7 +768,7 @@
     },
     {
       "id": "tc_027",
-      "question": "What Army veteran carried out the 1995 Oklahoma City bombing, killing 168 people in what was then the deadliest act of domestic terrorism in U.S. history?",
+      "question": "What Army veteran carried out the 1995 Oklahoma City bombing, killing 168 people?",
       "answers": [
         {
           "text": "Timothy McVeigh",
@@ -797,7 +797,7 @@
     },
     {
       "id": "tc_028",
-      "question": "What American financier ran the largest Ponzi scheme in history, defrauding investors of approximately $65 billion before his arrest in 2008?",
+      "question": "Who ran history's largest Ponzi scheme, defrauding investors of $65 billion before his 2008 arrest?",
       "answers": [
         {
           "text": "Bernie Madoff",
@@ -826,7 +826,7 @@
     },
     {
       "id": "tc_029",
-      "question": "What Florida serial killer, convicted in 1992 of murdering seven men along state highways, became the subject of the 2003 film \"Monster\"?",
+      "question": "Which Florida serial killer, convicted in 1992 of murdering seven men, was portrayed in the 2003 film \"Monster\"?",
       "answers": [
         {
           "text": "Aileen Wuornos",
@@ -855,7 +855,7 @@
     },
     {
       "id": "tc_030",
-      "question": "What con artist, whose story was adapted into \"Catch Me If You Can,\" successfully impersonated a Pan Am pilot, doctor, and lawyer while cashing millions in fraudulent checks?",
+      "question": "What con artist, impersonating a pilot, doctor, and lawyer, inspired \"Catch Me If You Can\"?",
       "answers": [
         {
           "text": "Frank Abagnale",
@@ -884,7 +884,7 @@
     },
     {
       "id": "tc_031",
-      "question": "What iconic 1963 British robbery, in which thieves stole over £2.6 million from a Royal Mail train, became one of the most romanticized crimes in history?",
+      "question": "What 1963 British heist involved stealing £2.6 million from a Royal Mail train?",
       "answers": [
         {
           "text": "The Great Train Robbery",
@@ -913,7 +913,7 @@
     },
     {
       "id": "tc_032",
-      "question": "What rapper was fatally shot in a Las Vegas drive-by shooting in September 1996, in a case that remains officially unsolved?",
+      "question": "Which rapper was fatally shot in a Las Vegas drive-by shooting in September 1996?",
       "answers": [
         {
           "text": "Tupac Shakur",
@@ -942,7 +942,7 @@
     },
     {
       "id": "tc_033",
-      "question": "What Depression-era outlaw, declared \"Public Enemy Number One\" by the FBI, was shot and killed outside a Chicago cinema in July 1934?",
+      "question": "Which Depression-era outlaw, declared \"Public Enemy Number One,\" was shot dead outside a Chicago cinema in 1934?",
       "answers": [
         {
           "text": "John Dillinger",
@@ -971,7 +971,7 @@
     },
     {
       "id": "tc_034",
-      "question": "What Colombian drug lord ran the Medellín Cartel and became one of the wealthiest criminals in history before being killed by authorities in 1993?",
+      "question": "Which Colombian drug lord ran the Medellín Cartel before being killed by authorities in 1993?",
       "answers": [
         {
           "text": "Pablo Escobar",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "tc_037",
-      "question": "What British GP, convicted in 2000 of 15 murders, is believed to have killed an estimated 218 patients — making him possibly the most prolific serial killer in modern history?",
+      "question": "Which British GP, convicted in 2000 of 15 murders, is believed to have killed an estimated 218 patients?",
       "answers": [
         {
           "text": "Harold Shipman",
@@ -1087,7 +1087,7 @@
     },
     {
       "id": "tc_038",
-      "question": "What Mexican cartel boss, known as \"El Chapo,\" escaped from two maximum-security prisons before being extradited to the United States in 2017?",
+      "question": "Which Mexican cartel boss, nicknamed \"El Chapo,\" escaped two maximum-security prisons before his 2017 U.S. extradition?",
       "answers": [
         {
           "text": "Joaquín \"El Chapo\" Guzmán",
@@ -1116,7 +1116,7 @@
     },
     {
       "id": "tc_039",
-      "question": "What 1972 political scandal, involving a break-in at Democratic Party headquarters ordered by members of Nixon's reelection campaign, ultimately led to the president's resignation?",
+      "question": "What 1972 political scandal, involving a break-in at Democratic headquarters, led to Nixon's resignation?",
       "answers": [
         {
           "text": "The Watergate scandal",
@@ -1145,7 +1145,7 @@
     },
     {
       "id": "tc_040",
-      "question": "What FBI counterintelligence program, active from 1956 to 1971, used illegal surveillance and infiltration to disrupt domestic political organizations including civil rights groups?",
+      "question": "What FBI counterintelligence program (1956–1971) used illegal surveillance to disrupt domestic political organizations?",
       "answers": [
         {
           "text": "COINTELPRO",
@@ -1232,7 +1232,7 @@
     },
     {
       "id": "tc_043",
-      "question": "What British toddler disappeared from a holiday apartment in Praia da Luz, Portugal in May 2007, triggering one of the most extensive international missing persons investigations in history?",
+      "question": "Which British toddler disappeared from a holiday apartment in Praia da Luz, Portugal in May 2007?",
       "answers": [
         {
           "text": "Madeleine McCann",
@@ -1261,7 +1261,7 @@
     },
     {
       "id": "tc_044",
-      "question": "What notorious French con artist sold the Eiffel Tower — twice — by posing as a government official authorized to sell it for scrap metal?",
+      "question": "Who was the French con artist who sold the Eiffel Tower twice, posing as a government official?",
       "answers": [
         {
           "text": "Victor Lustig",
@@ -1290,7 +1290,7 @@
     },
     {
       "id": "tc_045",
-      "question": "What infamous stockbroker, known as \"The Wolf of Wall Street,\" defrauded investors through a massive pump-and-dump scheme at his firm Stratton Oakmont?",
+      "question": "Which stockbroker, nicknamed \"The Wolf of Wall Street,\" ran the fraudulent pump-and-dump scheme at Stratton Oakmont?",
       "answers": [
         {
           "text": "Jordan Belfort",
@@ -1319,7 +1319,7 @@
     },
     {
       "id": "tc_046",
-      "question": "What landmark 1993 Supreme Court ruling established that federal judges must act as \"gatekeepers,\" evaluating whether expert scientific testimony is both relevant and methodologically sound before admitting it?",
+      "question": "What 1993 Supreme Court ruling requires federal judges to act as \"gatekeepers\" for expert scientific testimony?",
       "answers": [
         {
           "text": "Daubert v. Merrell Dow Pharmaceuticals",
@@ -1348,7 +1348,7 @@
     },
     {
       "id": "tc_047",
-      "question": "What forensic technique, pioneered by botanist Patricia Wiltshire, analyzes pollen and spores to track a suspect's geographic movements or link them to a crime scene?",
+      "question": "What forensic technique analyzes pollen and spores to track suspects or link them to crime scenes?",
       "answers": [
         {
           "text": "Forensic palynology",
@@ -1377,7 +1377,7 @@
     },
     {
       "id": "tc_048",
-      "question": "What FBI agent conducted interviews with over 150 serial killers, co-founded the Behavioral Science Unit, and co-wrote the book \"Mindhunter\" that became a Netflix series?",
+      "question": "Which FBI agent co-founded the Behavioral Science Unit and co-wrote \"Mindhunter,\" later adapted into a Netflix series?",
       "answers": [
         {
           "text": "John Douglas",
@@ -1406,7 +1406,7 @@
     },
     {
       "id": "tc_049",
-      "question": "What legal doctrine, rooted in the 1914 Supreme Court case Weeks v. United States, bars courts from using evidence obtained through unconstitutional searches and seizures?",
+      "question": "What legal doctrine bars courts from using evidence obtained through unconstitutional searches and seizures?",
       "answers": [
         {
           "text": "The exclusionary rule",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "tc_050",
-      "question": "What 2002 case, in which a pregnant woman disappeared on Christmas Eve and her husband was later convicted of murder, became one of the most widely covered criminal trials of the decade?",
+      "question": "Which 2002 case, where a pregnant woman vanished on Christmas Eve and her husband was convicted of murder, became a media sensation?",
       "answers": [
         {
           "text": "The Scott Peterson case",

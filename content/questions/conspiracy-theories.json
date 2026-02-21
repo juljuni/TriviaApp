@@ -16,11 +16,27 @@
       "id": "con_001",
       "question": "What do conspiracy theorists claim about the 1969 Apollo 11 moon landing?",
       "answers": [
-        {"text": "The footage was filmed on Earth in a movie studio", "correct": true},
-        {"text": "The astronauts never left Earth's orbit", "correct": false},
-        {"text": "The Van Allen belts would have killed the crew", "correct": false},
-        {"text": "NASA edited out the real alien encounters", "correct": false},
-        {"text": "The director's cut was better", "correct": false, "absurd": true}
+        {
+          "text": "The footage was filmed on Earth in a movie studio",
+          "correct": true
+        },
+        {
+          "text": "The astronauts never left Earth's orbit",
+          "correct": false
+        },
+        {
+          "text": "The Van Allen belts would have killed the crew",
+          "correct": false
+        },
+        {
+          "text": "NASA edited out the real alien encounters",
+          "correct": false
+        },
+        {
+          "text": "The director's cut was better",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
@@ -29,11 +45,27 @@
       "id": "con_002",
       "question": "What conspiracy theory claims the Earth is shaped like a flat disk rather than a sphere?",
       "answers": [
-        {"text": "Flat Earth theory", "correct": true},
-        {"text": "Hollow Earth theory", "correct": false},
-        {"text": "Concave Earth theory", "correct": false},
-        {"text": "Dome Earth theory", "correct": false},
-        {"text": "Frisbee physics", "correct": false, "absurd": true}
+        {
+          "text": "Flat Earth theory",
+          "correct": true
+        },
+        {
+          "text": "Hollow Earth theory",
+          "correct": false
+        },
+        {
+          "text": "Concave Earth theory",
+          "correct": false
+        },
+        {
+          "text": "Dome Earth theory",
+          "correct": false
+        },
+        {
+          "text": "Frisbee physics",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
@@ -42,11 +74,27 @@
       "id": "con_003",
       "question": "What US military facility in Nevada is the center of conspiracy theories about hidden alien spacecraft and recovered extraterrestrial bodies?",
       "answers": [
-        {"text": "Area 51", "correct": true},
-        {"text": "Area 52", "correct": false},
-        {"text": "Groom Lake", "correct": false},
-        {"text": "Dreamland", "correct": false},
-        {"text": "The VIP Lounge", "correct": false, "absurd": true}
+        {
+          "text": "Area 51",
+          "correct": true
+        },
+        {
+          "text": "Area 52",
+          "correct": false
+        },
+        {
+          "text": "Groom Lake",
+          "correct": false
+        },
+        {
+          "text": "Dreamland",
+          "correct": false
+        },
+        {
+          "text": "The VIP Lounge",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
@@ -55,24 +103,56 @@
       "id": "con_004",
       "question": "What ancient secret society do conspiracy theorists most commonly claim secretly controls global banking, media, and world governments?",
       "answers": [
-        {"text": "The Illuminati", "correct": true},
-        {"text": "The Freemasons", "correct": false},
-        {"text": "The Bilderberg Group", "correct": false},
-        {"text": "The New World Order", "correct": false},
-        {"text": "The PTA", "correct": false, "absurd": true}
+        {
+          "text": "The Illuminati",
+          "correct": true
+        },
+        {
+          "text": "The Freemasons",
+          "correct": false
+        },
+        {
+          "text": "The Bilderberg Group",
+          "correct": false
+        },
+        {
+          "text": "The New World Order",
+          "correct": false
+        },
+        {
+          "text": "The PTA",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_005",
-      "question": "Who was the official suspect in the assassination of President Kennedy, whom many conspiracy theorists believe was set up as a patsy by shadowy forces?",
+      "question": "Who was the official suspect in JFK's assassination, whom many believe was a patsy?",
       "answers": [
-        {"text": "Lee Harvey Oswald", "correct": true},
-        {"text": "Jack Ruby", "correct": false},
-        {"text": "David Ferrie", "correct": false},
-        {"text": "Clay Shaw", "correct": false},
-        {"text": "Forrest Gump", "correct": false, "absurd": true}
+        {
+          "text": "Lee Harvey Oswald",
+          "correct": true
+        },
+        {
+          "text": "Jack Ruby",
+          "correct": false
+        },
+        {
+          "text": "David Ferrie",
+          "correct": false
+        },
+        {
+          "text": "Clay Shaw",
+          "correct": false
+        },
+        {
+          "text": "Forrest Gump",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
@@ -81,50 +161,114 @@
       "id": "con_006",
       "question": "What do conspiracy theorists claim is secretly added to aircraft condensation trails to secretly affect the population below?",
       "answers": [
-        {"text": "Chemical or biological agents", "correct": true},
-        {"text": "Cloud seeding compounds", "correct": false},
-        {"text": "Carbon black particles", "correct": false},
-        {"text": "Aluminum oxide powder", "correct": false},
-        {"text": "Free samples", "correct": false, "absurd": true}
+        {
+          "text": "Chemical or biological agents",
+          "correct": true
+        },
+        {
+          "text": "Cloud seeding compounds",
+          "correct": false
+        },
+        {
+          "text": "Carbon black particles",
+          "correct": false
+        },
+        {
+          "text": "Aluminum oxide powder",
+          "correct": false
+        },
+        {
+          "text": "Free samples",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_007",
-      "question": "What Beatles conspiracy theory, which spread in 1969, claimed that one of the band members had secretly died and been replaced by a lookalike?",
+      "question": "Which Beatles conspiracy theory, spreading in 1969, claimed a member had died and been replaced by a lookalike?",
       "answers": [
-        {"text": "Paul is Dead", "correct": true},
-        {"text": "John is Dead", "correct": false},
-        {"text": "The Abbey Road hoax", "correct": false},
-        {"text": "Ringo's replacement theory", "correct": false},
-        {"text": "Just a flesh wound", "correct": false, "absurd": true}
+        {
+          "text": "Paul is Dead",
+          "correct": true
+        },
+        {
+          "text": "John is Dead",
+          "correct": false
+        },
+        {
+          "text": "The Abbey Road hoax",
+          "correct": false
+        },
+        {
+          "text": "Ringo's replacement theory",
+          "correct": false
+        },
+        {
+          "text": "Just a flesh wound",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_008",
-      "question": "What term do conspiracy theorists use to describe the network of entrenched government officials they believe control policy regardless of who is elected?",
+      "question": "What term describes the network of entrenched officials conspiracy theorists believe control government regardless of who's elected?",
       "answers": [
-        {"text": "The Deep State", "correct": true},
-        {"text": "Shadow government", "correct": false},
-        {"text": "The Cabal", "correct": false},
-        {"text": "The Swamp", "correct": false},
-        {"text": "Middle Management", "correct": false, "absurd": true}
+        {
+          "text": "The Deep State",
+          "correct": true
+        },
+        {
+          "text": "Shadow government",
+          "correct": false
+        },
+        {
+          "text": "The Cabal",
+          "correct": false
+        },
+        {
+          "text": "The Swamp",
+          "correct": false
+        },
+        {
+          "text": "Middle Management",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_009",
-      "question": "What term describes a real or staged attack carried out by a government and deliberately blamed on another party as a pretext for war or political action?",
+      "question": "What term describes an attack carried out by a government but deliberately blamed on another party as a pretext?",
       "answers": [
-        {"text": "False flag", "correct": true},
-        {"text": "Inside job", "correct": false},
-        {"text": "Black operation", "correct": false},
-        {"text": "Managed event", "correct": false},
-        {"text": "Theater", "correct": false, "absurd": true}
+        {
+          "text": "False flag",
+          "correct": true
+        },
+        {
+          "text": "Inside job",
+          "correct": false
+        },
+        {
+          "text": "Black operation",
+          "correct": false
+        },
+        {
+          "text": "Managed event",
+          "correct": false
+        },
+        {
+          "text": "Theater",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
@@ -133,89 +277,201 @@
       "id": "con_010",
       "question": "What conspiracy theory claims that Princess Diana was murdered by the British establishment to prevent her marriage to Dodi Fayed?",
       "answers": [
-        {"text": "The British Royal Family ordered her death", "correct": true},
-        {"text": "MI5 arranged the tunnel crash", "correct": false},
-        {"text": "The Duke of Edinburgh gave the order", "correct": false},
-        {"text": "Mercenaries staged the accident", "correct": false},
-        {"text": "The Bodyguard", "correct": false, "absurd": true}
+        {
+          "text": "The British Royal Family ordered her death",
+          "correct": true
+        },
+        {
+          "text": "MI5 arranged the tunnel crash",
+          "correct": false
+        },
+        {
+          "text": "The Duke of Edinburgh gave the order",
+          "correct": false
+        },
+        {
+          "text": "Mercenaries staged the accident",
+          "correct": false
+        },
+        {
+          "text": "The Bodyguard",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_011",
-      "question": "What US government surveillance program, revealed by Edward Snowden in 2013, collected telephone and internet data on millions of Americans without warrants?",
+      "question": "What surveillance program, revealed by Snowden in 2013, collected data on millions of Americans without warrants?",
       "answers": [
-        {"text": "PRISM", "correct": true},
-        {"text": "ECHELON", "correct": false},
-        {"text": "XKeyscore", "correct": false},
-        {"text": "MUSCULAR", "correct": false},
-        {"text": "Google", "correct": false, "absurd": true}
+        {
+          "text": "PRISM",
+          "correct": true
+        },
+        {
+          "text": "ECHELON",
+          "correct": false
+        },
+        {
+          "text": "XKeyscore",
+          "correct": false
+        },
+        {
+          "text": "MUSCULAR",
+          "correct": false
+        },
+        {
+          "text": "Google",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_012",
-      "question": "In which US state did the 1947 incident occur that conspiracy theorists claim involved a crashed alien spacecraft and a government cover-up?",
+      "question": "In which US state did the 1947 Roswell incident allegedly involve a crashed alien spacecraft?",
       "answers": [
-        {"text": "New Mexico", "correct": true},
-        {"text": "Nevada", "correct": false},
-        {"text": "Arizona", "correct": false},
-        {"text": "Texas", "correct": false},
-        {"text": "Iowa", "correct": false, "absurd": true}
+        {
+          "text": "New Mexico",
+          "correct": true
+        },
+        {
+          "text": "Nevada",
+          "correct": false
+        },
+        {
+          "text": "Arizona",
+          "correct": false
+        },
+        {
+          "text": "Texas",
+          "correct": false
+        },
+        {
+          "text": "Iowa",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_013",
-      "question": "What term do conspiracy theorists use for civilians they believe are hired by the government to pose as victims in staged tragedies?",
+      "question": "What term do conspiracy theorists use for people they claim are hired to pose as victims in staged tragedies?",
       "answers": [
-        {"text": "Crisis actors", "correct": true},
-        {"text": "Plants", "correct": false},
-        {"text": "Shills", "correct": false},
-        {"text": "Controlled opposition", "correct": false},
-        {"text": "FEMA volunteers", "correct": false, "absurd": true}
+        {
+          "text": "Crisis actors",
+          "correct": true
+        },
+        {
+          "text": "Plants",
+          "correct": false
+        },
+        {
+          "text": "Shills",
+          "correct": false
+        },
+        {
+          "text": "Controlled opposition",
+          "correct": false
+        },
+        {
+          "text": "FEMA volunteers",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_014",
-      "question": "What group of business and political elites meets annually in Europe to discuss global policy, inspiring conspiracy theories about secret world governance?",
+      "question": "What secretive annual gathering of global elites inspires conspiracy theories about secret world governance?",
       "answers": [
-        {"text": "The Bilderberg Group", "correct": true},
-        {"text": "The Trilateral Commission", "correct": false},
-        {"text": "The Davos Group", "correct": false},
-        {"text": "The World Economic Forum", "correct": false},
-        {"text": "The Book Club", "correct": false, "absurd": true}
+        {
+          "text": "The Bilderberg Group",
+          "correct": true
+        },
+        {
+          "text": "The Trilateral Commission",
+          "correct": false
+        },
+        {
+          "text": "The Davos Group",
+          "correct": false
+        },
+        {
+          "text": "The World Economic Forum",
+          "correct": false
+        },
+        {
+          "text": "The Book Club",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_015",
-      "question": "What secret society, based at Yale University, has counted multiple US presidents among its members and is the subject of persistent conspiracy theories?",
+      "question": "Which secret society, based at Yale University, has counted multiple US presidents among its members?",
       "answers": [
-        {"text": "Skull and Bones", "correct": true},
-        {"text": "Scroll and Key", "correct": false},
-        {"text": "Wolf's Head", "correct": false},
-        {"text": "Book and Snake", "correct": false},
-        {"text": "Cap and Gown", "correct": false, "absurd": true}
+        {
+          "text": "Skull and Bones",
+          "correct": true
+        },
+        {
+          "text": "Scroll and Key",
+          "correct": false
+        },
+        {
+          "text": "Wolf's Head",
+          "correct": false
+        },
+        {
+          "text": "Book and Snake",
+          "correct": false
+        },
+        {
+          "text": "Cap and Gown",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_016",
-      "question": "In QAnon mythology, what name is given to the anonymous insider who posts cryptic clues about an alleged government cabal on internet message boards?",
+      "question": "What name is given to QAnon's anonymous insider who posts cryptic clues about an alleged government cabal?",
       "answers": [
-        {"text": "Q", "correct": true},
-        {"text": "The Source", "correct": false},
-        {"text": "The Oracle", "correct": false},
-        {"text": "The Whistleblower", "correct": false},
-        {"text": "Yelp reviewer", "correct": false, "absurd": true}
+        {
+          "text": "Q",
+          "correct": true
+        },
+        {
+          "text": "The Source",
+          "correct": false
+        },
+        {
+          "text": "The Oracle",
+          "correct": false
+        },
+        {
+          "text": "The Whistleblower",
+          "correct": false
+        },
+        {
+          "text": "Yelp reviewer",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
@@ -224,440 +480,984 @@
       "id": "con_017",
       "question": "What conspiracy theory suggests that many famous celebrities have been secretly replaced by government-created lookalikes or genetic duplicates?",
       "answers": [
-        {"text": "Celebrity clone theory", "correct": true},
-        {"text": "Body double replacement theory", "correct": false},
-        {"text": "Deep state impostor theory", "correct": false},
-        {"text": "Doppelganger program", "correct": false},
-        {"text": "Wax museum escape plan", "correct": false, "absurd": true}
+        {
+          "text": "Celebrity clone theory",
+          "correct": true
+        },
+        {
+          "text": "Body double replacement theory",
+          "correct": false
+        },
+        {
+          "text": "Deep state impostor theory",
+          "correct": false
+        },
+        {
+          "text": "Doppelganger program",
+          "correct": false
+        },
+        {
+          "text": "Wax museum escape plan",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_018",
-      "question": "What conspiracy theory about the Nickelodeon cartoon 'Rugrats' claims that the baby characters are all figments of troubled character Angelica's troubled imagination?",
+      "question": "What conspiracy theory claims the Rugrats babies are all figments of Angelica's imagination?",
       "answers": [
-        {"text": "The babies don't really exist", "correct": true},
-        {"text": "Tommy died at birth", "correct": false},
-        {"text": "The Rugrats are in purgatory", "correct": false},
-        {"text": "Angelica is schizophrenic", "correct": false},
-        {"text": "Nick Jr. is evil", "correct": false, "absurd": true}
+        {
+          "text": "The babies don't really exist",
+          "correct": true
+        },
+        {
+          "text": "Tommy died at birth",
+          "correct": false
+        },
+        {
+          "text": "The Rugrats are in purgatory",
+          "correct": false
+        },
+        {
+          "text": "Angelica is schizophrenic",
+          "correct": false
+        },
+        {
+          "text": "Nick Jr. is evil",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_019",
-      "question": "What conspiracy theory claims that governments deliberately add fluoride to public drinking water as a mass sedation or population control measure?",
+      "question": "What conspiracy theory claims governments add fluoride to drinking water for mass sedation or population control?",
       "answers": [
-        {"text": "Water fluoridation conspiracy", "correct": true},
-        {"text": "Chlorination conspiracy", "correct": false},
-        {"text": "Lithium in water theory", "correct": false},
-        {"text": "Trace elements program", "correct": false},
-        {"text": "Just add more Brita", "correct": false, "absurd": true}
+        {
+          "text": "Water fluoridation conspiracy",
+          "correct": true
+        },
+        {
+          "text": "Chlorination conspiracy",
+          "correct": false
+        },
+        {
+          "text": "Lithium in water theory",
+          "correct": false
+        },
+        {
+          "text": "Trace elements program",
+          "correct": false
+        },
+        {
+          "text": "Just add more Brita",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_020",
-      "question": "What conspiracy theory, which originated as a 4chan hoax in 2017, falsely claimed that the OK hand gesture was a secret white supremacist signal used by public figures?",
+      "question": "What conspiracy theory falsely claimed the OK hand gesture was a secret white supremacist signal?",
       "answers": [
-        {"text": "The OK sign conspiracy", "correct": true},
-        {"text": "The triangle hand symbol theory", "correct": false},
-        {"text": "The Masonic handshake theory", "correct": false},
-        {"text": "The 666 hand gesture theory", "correct": false},
-        {"text": "Thumbs up", "correct": false, "absurd": true}
+        {
+          "text": "The OK sign conspiracy",
+          "correct": true
+        },
+        {
+          "text": "The triangle hand symbol theory",
+          "correct": false
+        },
+        {
+          "text": "The Masonic handshake theory",
+          "correct": false
+        },
+        {
+          "text": "The 666 hand gesture theory",
+          "correct": false
+        },
+        {
+          "text": "Thumbs up",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_021",
-      "question": "What classified CIA program, officially running from 1953 to 1973, used unwitting subjects including mental patients for LSD experiments in efforts to develop mind control techniques?",
+      "question": "What CIA program, running 1953–1973, used unwitting subjects for LSD experiments to develop mind control?",
       "answers": [
-        {"text": "MKUltra", "correct": true},
-        {"text": "Project Artichoke", "correct": false},
-        {"text": "Operation Bluebird", "correct": false},
-        {"text": "Project Monarch", "correct": false},
-        {"text": "Burning Man", "correct": false, "absurd": true}
+        {
+          "text": "MKUltra",
+          "correct": true
+        },
+        {
+          "text": "Project Artichoke",
+          "correct": false
+        },
+        {
+          "text": "Operation Bluebird",
+          "correct": false
+        },
+        {
+          "text": "Project Monarch",
+          "correct": false
+        },
+        {
+          "text": "Burning Man",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_022",
-      "question": "What US government study, conducted from 1932 to 1972, deliberately withheld penicillin treatment from Black men with syphilis so researchers could observe the disease's natural progression?",
+      "question": "What study deliberately withheld penicillin from Black men with syphilis to observe the disease's progression?",
       "answers": [
-        {"text": "The Tuskegee Syphilis Study", "correct": true},
-        {"text": "The Willowbrook Study", "correct": false},
-        {"text": "The Guatemala experiments", "correct": false},
-        {"text": "The Oslo study", "correct": false},
-        {"text": "The Hippocratic Oath", "correct": false, "absurd": true}
+        {
+          "text": "The Tuskegee Syphilis Study",
+          "correct": true
+        },
+        {
+          "text": "The Willowbrook Study",
+          "correct": false
+        },
+        {
+          "text": "The Guatemala experiments",
+          "correct": false
+        },
+        {
+          "text": "The Oslo study",
+          "correct": false
+        },
+        {
+          "text": "The Hippocratic Oath",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_023",
-      "question": "What declassified 1962 US military document proposed staging terrorist attacks on American soil, including sinking boats and shooting down planes, to justify invading Cuba?",
+      "question": "What was the 1962 US military plan to stage fake terrorist attacks to justify invading Cuba?",
       "answers": [
-        {"text": "Operation Northwoods", "correct": true},
-        {"text": "Operation Mongoose", "correct": false},
-        {"text": "Operation Condor", "correct": false},
-        {"text": "Operation Zapata", "correct": false},
-        {"text": "Operation Pancake", "correct": false, "absurd": true}
+        {
+          "text": "Operation Northwoods",
+          "correct": true
+        },
+        {
+          "text": "Operation Mongoose",
+          "correct": false
+        },
+        {
+          "text": "Operation Condor",
+          "correct": false
+        },
+        {
+          "text": "Operation Zapata",
+          "correct": false
+        },
+        {
+          "text": "Operation Pancake",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_024",
-      "question": "What real CIA program, active from the 1950s through the 1970s, was designed to manipulate domestic news coverage by planting stories and recruiting journalists as assets?",
+      "question": "What CIA program, active from the 1950s–70s, recruited journalists to plant stories and manipulate domestic news?",
       "answers": [
-        {"text": "Operation Mockingbird", "correct": true},
-        {"text": "Operation Chaos", "correct": false},
-        {"text": "Project MERRIMAC", "correct": false},
-        {"text": "Project Celotex", "correct": false},
-        {"text": "Operation Telephone", "correct": false, "absurd": true}
+        {
+          "text": "Operation Mockingbird",
+          "correct": true
+        },
+        {
+          "text": "Operation Chaos",
+          "correct": false
+        },
+        {
+          "text": "Project MERRIMAC",
+          "correct": false
+        },
+        {
+          "text": "Project Celotex",
+          "correct": false
+        },
+        {
+          "text": "Operation Telephone",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_025",
-      "question": "What conspiracy theory claims that the September 11, 2001 attacks were orchestrated or deliberately permitted by elements within the US government?",
+      "question": "What conspiracy theory claims the 9/11 attacks were orchestrated or permitted by the US government?",
       "answers": [
-        {"text": "9/11 was an inside job", "correct": true},
-        {"text": "The towers were pre-wired for demolition", "correct": false},
-        {"text": "Israeli intelligence knew in advance", "correct": false},
-        {"text": "Dick Cheney gave the stand-down order", "correct": false},
-        {"text": "The government pressed the snooze button", "correct": false, "absurd": true}
+        {
+          "text": "9/11 was an inside job",
+          "correct": true
+        },
+        {
+          "text": "The towers were pre-wired for demolition",
+          "correct": false
+        },
+        {
+          "text": "Israeli intelligence knew in advance",
+          "correct": false
+        },
+        {
+          "text": "Dick Cheney gave the stand-down order",
+          "correct": false
+        },
+        {
+          "text": "The government pressed the snooze button",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_026",
-      "question": "What was the code name for the classified program under which hundreds of Nazi scientists were secretly brought to work in the United States after World War II?",
+      "question": "What was the code name for the secret U.S. program that recruited Nazi scientists after World War II?",
       "answers": [
-        {"text": "Operation Paperclip", "correct": true},
-        {"text": "Operation Overcast", "correct": false},
-        {"text": "Operation Surgeon", "correct": false},
-        {"text": "Project 63", "correct": false},
-        {"text": "The Secret Ingredient", "correct": false, "absurd": true}
+        {
+          "text": "Operation Paperclip",
+          "correct": true
+        },
+        {
+          "text": "Operation Overcast",
+          "correct": false
+        },
+        {
+          "text": "Operation Surgeon",
+          "correct": false
+        },
+        {
+          "text": "Project 63",
+          "correct": false
+        },
+        {
+          "text": "The Secret Ingredient",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_027",
-      "question": "What conspiracy theory falsely alleged that a Washington D.C. pizza restaurant was a front for a child trafficking ring run by prominent Democratic politicians?",
+      "question": "What conspiracy theory falsely claimed a D.C. pizza restaurant was a front for a Democratic child trafficking ring?",
       "answers": [
-        {"text": "Pizzagate", "correct": true},
-        {"text": "The Beltway trafficking theory", "correct": false},
-        {"text": "The D.C. connection", "correct": false},
-        {"text": "Tunnelgate", "correct": false},
-        {"text": "Domino's Theory", "correct": false, "absurd": true}
+        {
+          "text": "Pizzagate",
+          "correct": true
+        },
+        {
+          "text": "The Beltway trafficking theory",
+          "correct": false
+        },
+        {
+          "text": "The D.C. connection",
+          "correct": false
+        },
+        {
+          "text": "Tunnelgate",
+          "correct": false
+        },
+        {
+          "text": "Domino's Theory",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_028",
-      "question": "What California forest retreat, attended annually by powerful businessmen and politicians, is the subject of conspiracy theories about secretive and ritualistic gatherings?",
+      "question": "What California forest retreat, attended by powerful elites, is the subject of conspiracy theories about secretive rituals?",
       "answers": [
-        {"text": "Bohemian Grove", "correct": true},
-        {"text": "The Grove Ceremony", "correct": false},
-        {"text": "The Redwood Summit", "correct": false},
-        {"text": "The California Cabal", "correct": false},
-        {"text": "Camp David", "correct": false, "absurd": true}
+        {
+          "text": "Bohemian Grove",
+          "correct": true
+        },
+        {
+          "text": "The Grove Ceremony",
+          "correct": false
+        },
+        {
+          "text": "The Redwood Summit",
+          "correct": false
+        },
+        {
+          "text": "The California Cabal",
+          "correct": false
+        },
+        {
+          "text": "Camp David",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_029",
-      "question": "Who is the founder of InfoWars, considered the most prominent figure in American conspiracy media, known for claiming numerous tragedies were staged government operations?",
+      "question": "Who founded InfoWars, notorious for claiming tragedies were staged government operations?",
       "answers": [
-        {"text": "Alex Jones", "correct": true},
-        {"text": "David Icke", "correct": false},
-        {"text": "Glenn Beck", "correct": false},
-        {"text": "Jesse Ventura", "correct": false},
-        {"text": "Tucker Carlson", "correct": false, "absurd": true}
+        {
+          "text": "Alex Jones",
+          "correct": true
+        },
+        {
+          "text": "David Icke",
+          "correct": false
+        },
+        {
+          "text": "Glenn Beck",
+          "correct": false
+        },
+        {
+          "text": "Jesse Ventura",
+          "correct": false
+        },
+        {
+          "text": "Tucker Carlson",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_030",
-      "question": "What conspiracy theory claimed that Osama bin Laden had actually died years before the 2011 Navy SEAL raid, and the announcement was fabricated for political purposes?",
+      "question": "What conspiracy theory claimed Osama bin Laden died years before the 2011 Navy SEAL raid?",
       "answers": [
-        {"text": "Bin Laden had been dead for years", "correct": true},
-        {"text": "The raid was entirely staged", "correct": false},
-        {"text": "A body double was killed", "correct": false},
-        {"text": "He was captured and held secretly", "correct": false},
-        {"text": "He moved to Argentina", "correct": false, "absurd": true}
+        {
+          "text": "Bin Laden had been dead for years",
+          "correct": true
+        },
+        {
+          "text": "The raid was entirely staged",
+          "correct": false
+        },
+        {
+          "text": "A body double was killed",
+          "correct": false
+        },
+        {
+          "text": "He was captured and held secretly",
+          "correct": false
+        },
+        {
+          "text": "He moved to Argentina",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_031",
-      "question": "What conspiracy theory term describes the phenomenon where large groups of people share the same false memory, such as misremembering the Monopoly mascot wearing a monocle?",
+      "question": "What conspiracy theory term describes groups of people sharing the same false memory?",
       "answers": [
-        {"text": "The Mandela Effect", "correct": true},
-        {"text": "The Berenstain Bears Effect", "correct": false},
-        {"text": "Collective false memory", "correct": false},
-        {"text": "The CERN time split", "correct": false},
-        {"text": "Déjà vu", "correct": false, "absurd": true}
+        {
+          "text": "The Mandela Effect",
+          "correct": true
+        },
+        {
+          "text": "The Berenstain Bears Effect",
+          "correct": false
+        },
+        {
+          "text": "Collective false memory",
+          "correct": false
+        },
+        {
+          "text": "The CERN time split",
+          "correct": false
+        },
+        {
+          "text": "Déjà vu",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_032",
-      "question": "What US government program in Alaska do conspiracy theorists claim is used to control the weather, trigger earthquakes, and broadcast mind-altering electromagnetic frequencies?",
+      "question": "What US government program in Alaska do conspiracy theorists claim controls weather, triggers earthquakes, and alters minds?",
       "answers": [
-        {"text": "HAARP", "correct": true},
-        {"text": "The Large Hadron Collider", "correct": false},
-        {"text": "EISCAT", "correct": false},
-        {"text": "Project SkyNet", "correct": false},
-        {"text": "The Cloud Factory", "correct": false, "absurd": true}
+        {
+          "text": "HAARP",
+          "correct": true
+        },
+        {
+          "text": "The Large Hadron Collider",
+          "correct": false
+        },
+        {
+          "text": "EISCAT",
+          "correct": false
+        },
+        {
+          "text": "Project SkyNet",
+          "correct": false
+        },
+        {
+          "text": "The Cloud Factory",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_033",
-      "question": "What alleged secret NASA program, promoted by Canadian researcher Serge Monast, purportedly plans to stage a fake alien invasion and second coming to introduce a world government?",
+      "question": "What secret NASA program, alleged by Serge Monast, supposedly plans a fake alien invasion to establish world government?",
       "answers": [
-        {"text": "Project Blue Beam", "correct": true},
-        {"text": "Operation Psy-Op", "correct": false},
-        {"text": "Project Revelation", "correct": false},
-        {"text": "Operation Bluesky", "correct": false},
-        {"text": "Operation Sky Mall", "correct": false, "absurd": true}
+        {
+          "text": "Project Blue Beam",
+          "correct": true
+        },
+        {
+          "text": "Operation Psy-Op",
+          "correct": false
+        },
+        {
+          "text": "Project Revelation",
+          "correct": false
+        },
+        {
+          "text": "Operation Bluesky",
+          "correct": false
+        },
+        {
+          "text": "Operation Sky Mall",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_034",
-      "question": "What model, widely adopted in conspiracy theory communities, claims governments follow a cycle of creating a crisis, allowing public panic, then offering a predetermined solution that furthers their agenda?",
+      "question": "What model claims governments create a crisis, allow panic, then offer a predetermined solution?",
       "answers": [
-        {"text": "Problem-Reaction-Solution", "correct": true},
-        {"text": "Ordo ab chao", "correct": false},
-        {"text": "The Hegelian dialectic", "correct": false},
-        {"text": "The false flag model", "correct": false},
-        {"text": "The Customer Service Call", "correct": false, "absurd": true}
+        {
+          "text": "Problem-Reaction-Solution",
+          "correct": true
+        },
+        {
+          "text": "Ordo ab chao",
+          "correct": false
+        },
+        {
+          "text": "The Hegelian dialectic",
+          "correct": false
+        },
+        {
+          "text": "The false flag model",
+          "correct": false
+        },
+        {
+          "text": "The Customer Service Call",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_035",
-      "question": "What psychological term describes the tendency to detect meaningful patterns, connections, and conspiracies in random or unrelated data, which researchers link to conspiratorial thinking?",
+      "question": "What term describes the tendency to detect meaningful patterns in random or unrelated data?",
       "answers": [
-        {"text": "Apophenia", "correct": true},
-        {"text": "Confirmation bias", "correct": false},
-        {"text": "Pareidolia", "correct": false},
-        {"text": "Illusory correlation", "correct": false},
-        {"text": "Pinterest", "correct": false, "absurd": true}
+        {
+          "text": "Apophenia",
+          "correct": true
+        },
+        {
+          "text": "Confirmation bias",
+          "correct": false
+        },
+        {
+          "text": "Pareidolia",
+          "correct": false
+        },
+        {
+          "text": "Illusory correlation",
+          "correct": false
+        },
+        {
+          "text": "Pinterest",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_036",
-      "question": "What FBI counterintelligence program, active from 1956 to 1971, used illegal surveillance, infiltration, and disruption against the Black Panthers, civil rights movements, and antiwar groups?",
+      "question": "What FBI counterintelligence program, active 1956–1971, targeted the Black Panthers and civil rights groups?",
       "answers": [
-        {"text": "COINTELPRO", "correct": true},
-        {"text": "Operation CHAOS", "correct": false},
-        {"text": "Project MERRIMAC", "correct": false},
-        {"text": "The Hoover Program", "correct": false},
-        {"text": "The Neighborhood Watch", "correct": false, "absurd": true}
+        {
+          "text": "COINTELPRO",
+          "correct": true
+        },
+        {
+          "text": "Operation CHAOS",
+          "correct": false
+        },
+        {
+          "text": "Project MERRIMAC",
+          "correct": false
+        },
+        {
+          "text": "The Hoover Program",
+          "correct": false
+        },
+        {
+          "text": "The Neighborhood Watch",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_037",
-      "question": "What conspiracy film, first released online in 2007, became one of the most widely watched conspiracy documentaries in internet history, covering the Federal Reserve, 9/11, and religion?",
+      "question": "What 2007 online conspiracy documentary, covering the Federal Reserve, 9/11, and religion, became one of the most widely watched of its kind?",
       "answers": [
-        {"text": "Zeitgeist", "correct": true},
-        {"text": "Loose Change", "correct": false},
-        {"text": "Endgame", "correct": false},
-        {"text": "Fall of the Republic", "correct": false},
-        {"text": "The Matrix", "correct": false, "absurd": true}
+        {
+          "text": "Zeitgeist",
+          "correct": true
+        },
+        {
+          "text": "Loose Change",
+          "correct": false
+        },
+        {
+          "text": "Endgame",
+          "correct": false
+        },
+        {
+          "text": "Fall of the Republic",
+          "correct": false
+        },
+        {
+          "text": "The Matrix",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_038",
-      "question": "Which conspiracy theorist was ordered by courts in 2022 to pay approximately $1.5 billion in damages for falsely claiming that the Sandy Hook school shooting was staged with crisis actors?",
+      "question": "Which conspiracy theorist was ordered in 2022 to pay $1.5 billion for falsely claiming Sandy Hook was staged?",
       "answers": [
-        {"text": "Alex Jones", "correct": true},
-        {"text": "David Icke", "correct": false},
-        {"text": "Roger Stone", "correct": false},
-        {"text": "Wolfgang Halbig", "correct": false},
-        {"text": "Wolf Blitzer", "correct": false, "absurd": true}
+        {
+          "text": "Alex Jones",
+          "correct": true
+        },
+        {
+          "text": "David Icke",
+          "correct": false
+        },
+        {
+          "text": "Roger Stone",
+          "correct": false
+        },
+        {
+          "text": "Wolfgang Halbig",
+          "correct": false
+        },
+        {
+          "text": "Wolf Blitzer",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_039",
-      "question": "What conspiracy theory claims that Denver International Airport contains a vast underground bunker where global elites will retreat during a planned population reduction event?",
+      "question": "What conspiracy theory claims Denver International Airport hides an underground bunker for elites during a planned population reduction?",
       "answers": [
-        {"text": "The DIA bunker conspiracy", "correct": true},
-        {"text": "The Denver Protocol", "correct": false},
-        {"text": "Mile High Underground", "correct": false},
-        {"text": "The Colorado Cache", "correct": false},
-        {"text": "Denver Broncos headquarters", "correct": false, "absurd": true}
+        {
+          "text": "The DIA bunker conspiracy",
+          "correct": true
+        },
+        {
+          "text": "The Denver Protocol",
+          "correct": false
+        },
+        {
+          "text": "Mile High Underground",
+          "correct": false
+        },
+        {
+          "text": "The Colorado Cache",
+          "correct": false
+        },
+        {
+          "text": "Denver Broncos headquarters",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_040",
-      "question": "What specific theory, promoted by British conspiracy theorist David Icke since the 1990s, claims that most world leaders are interdimensional alien reptiles disguised as humans?",
+      "question": "Which conspiracy theory, promoted by David Icke, claims world leaders are disguised alien reptiles?",
       "answers": [
-        {"text": "The Reptilian Agenda", "correct": true},
-        {"text": "The Shapeshifter Elite", "correct": false},
-        {"text": "The Lizard People theory", "correct": false},
-        {"text": "The Annunaki conspiracy", "correct": false},
-        {"text": "David Beckham", "correct": false, "absurd": true}
+        {
+          "text": "The Reptilian Agenda",
+          "correct": true
+        },
+        {
+          "text": "The Shapeshifter Elite",
+          "correct": false
+        },
+        {
+          "text": "The Lizard People theory",
+          "correct": false
+        },
+        {
+          "text": "The Annunaki conspiracy",
+          "correct": false
+        },
+        {
+          "text": "David Beckham",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_041",
-      "question": "What was the name of the 1975 Senate committee that exposed illegal CIA activities including assassination plots, MKUltra, and domestic surveillance programs?",
+      "question": "What was the 1975 Senate committee that exposed illegal CIA activities like assassination plots and MKUltra?",
       "answers": [
-        {"text": "The Church Committee", "correct": true},
-        {"text": "The Pike Committee", "correct": false},
-        {"text": "The Rockefeller Commission", "correct": false},
-        {"text": "The Helms Inquiry", "correct": false},
-        {"text": "The Breakfast Club", "correct": false, "absurd": true}
+        {
+          "text": "The Church Committee",
+          "correct": true
+        },
+        {
+          "text": "The Pike Committee",
+          "correct": false
+        },
+        {
+          "text": "The Rockefeller Commission",
+          "correct": false
+        },
+        {
+          "text": "The Helms Inquiry",
+          "correct": false
+        },
+        {
+          "text": "The Breakfast Club",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_042",
-      "question": "What term, coined by the Mackinac Center for Public Policy, describes the narrow range of political ideas a society will currently accept, which conspiracy theorists accuse politicians of deliberately manipulating?",
+      "question": "What term describes the narrow range of political ideas a society will accept, coined by the Mackinac Center?",
       "answers": [
-        {"text": "The Overton Window", "correct": true},
-        {"text": "The Hallin Spheres", "correct": false},
-        {"text": "The Acceptable Discourse Framework", "correct": false},
-        {"text": "The Trusted Messenger Window", "correct": false},
-        {"text": "The Buffet Table", "correct": false, "absurd": true}
+        {
+          "text": "The Overton Window",
+          "correct": true
+        },
+        {
+          "text": "The Hallin Spheres",
+          "correct": false
+        },
+        {
+          "text": "The Acceptable Discourse Framework",
+          "correct": false
+        },
+        {
+          "text": "The Trusted Messenger Window",
+          "correct": false
+        },
+        {
+          "text": "The Buffet Table",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_043",
-      "question": "What was the code name for the covert CIA program to destabilize and assassinate Fidel Castro, which was among the illegal activities exposed in the 1970s?",
+      "question": "What was the CIA's covert program code name to destabilize and assassinate Fidel Castro?",
       "answers": [
-        {"text": "Operation Mongoose", "correct": true},
-        {"text": "Operation AMLASH", "correct": false},
-        {"text": "Operation 40", "correct": false},
-        {"text": "Operation Condor", "correct": false},
-        {"text": "Operation Barbershop", "correct": false, "absurd": true}
+        {
+          "text": "Operation Mongoose",
+          "correct": true
+        },
+        {
+          "text": "Operation AMLASH",
+          "correct": false
+        },
+        {
+          "text": "Operation 40",
+          "correct": false
+        },
+        {
+          "text": "Operation Condor",
+          "correct": false
+        },
+        {
+          "text": "Operation Barbershop",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_044",
-      "question": "What slang term, borrowed from The Matrix, describes the process in conspiracy theory communities of convincing someone to reject mainstream reality and accept an alternative worldview?",
+      "question": "What Matrix-borrowed slang term describes convincing someone to reject mainstream reality for a conspiracy worldview?",
       "answers": [
-        {"text": "Red-pilling", "correct": true},
-        {"text": "Going down the rabbit hole", "correct": false},
-        {"text": "Waking up", "correct": false},
-        {"text": "Taking the black pill", "correct": false},
-        {"text": "Downloading an update", "correct": false, "absurd": true}
+        {
+          "text": "Red-pilling",
+          "correct": true
+        },
+        {
+          "text": "Going down the rabbit hole",
+          "correct": false
+        },
+        {
+          "text": "Waking up",
+          "correct": false
+        },
+        {
+          "text": "Taking the black pill",
+          "correct": false
+        },
+        {
+          "text": "Downloading an update",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_045",
-      "question": "What real 1605 conspiracy, involving Catholic plotters led by Robert Catesby with Guy Fawkes assigned to detonate the explosives, planned to blow up the British Parliament during the State Opening?",
+      "question": "What 1605 Catholic conspiracy, led by Robert Catesby, planned to blow up the British Parliament?",
       "answers": [
-        {"text": "The Gunpowder Plot", "correct": true},
-        {"text": "The Popish Plot", "correct": false},
-        {"text": "The Rye House Plot", "correct": false},
-        {"text": "The Ridolfi Plot", "correct": false},
-        {"text": "Guy Fawkes Night", "correct": false, "absurd": true}
+        {
+          "text": "The Gunpowder Plot",
+          "correct": true
+        },
+        {
+          "text": "The Popish Plot",
+          "correct": false
+        },
+        {
+          "text": "The Rye House Plot",
+          "correct": false
+        },
+        {
+          "text": "The Ridolfi Plot",
+          "correct": false
+        },
+        {
+          "text": "Guy Fawkes Night",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_046",
-      "question": "What sub-project of MKUltra, revealed in the 1970s, involved CIA operatives dosing unsuspecting civilians with LSD and observing them through one-way mirrors in specially prepared safe houses?",
+      "question": "Which MKUltra sub-project involved CIA operatives secretly dosing civilians with LSD in monitored safe houses?",
       "answers": [
-        {"text": "Operation Midnight Climax", "correct": true},
-        {"text": "Project ARTICHOKE", "correct": false},
-        {"text": "Operation BLUEBIRD", "correct": false},
-        {"text": "Project CHATTER", "correct": false},
-        {"text": "Operation Happy Hour", "correct": false, "absurd": true}
+        {
+          "text": "Operation Midnight Climax",
+          "correct": true
+        },
+        {
+          "text": "Project ARTICHOKE",
+          "correct": false
+        },
+        {
+          "text": "Operation BLUEBIRD",
+          "correct": false
+        },
+        {
+          "text": "Project CHATTER",
+          "correct": false
+        },
+        {
+          "text": "Operation Happy Hour",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_047",
-      "question": "What political scandal, exposed in 1986, revealed that the Reagan administration had secretly sold weapons to Iran and funneled the profits to fund Nicaraguan Contra rebels?",
+      "question": "What 1986 scandal revealed Reagan secretly sold weapons to Iran and funded Nicaraguan Contras?",
       "answers": [
-        {"text": "The Iran-Contra affair", "correct": true},
-        {"text": "The BCCI scandal", "correct": false},
-        {"text": "The October Surprise", "correct": false},
-        {"text": "The Boland Amendment", "correct": false},
-        {"text": "The Garage Sale", "correct": false, "absurd": true}
+        {
+          "text": "The Iran-Contra affair",
+          "correct": true
+        },
+        {
+          "text": "The BCCI scandal",
+          "correct": false
+        },
+        {
+          "text": "The October Surprise",
+          "correct": false
+        },
+        {
+          "text": "The Boland Amendment",
+          "correct": false
+        },
+        {
+          "text": "The Garage Sale",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_048",
-      "question": "What specific portion of the 9/11 Commission Report was classified for over 13 years before being released in 2016, revealing details about potential Saudi government connections to the hijackers?",
+      "question": "What were the long-classified \"28 pages\" of the 9/11 Commission Report, released in 2016, mainly about?",
       "answers": [
-        {"text": "The 28 pages", "correct": true},
-        {"text": "The Saudi appendix", "correct": false},
-        {"text": "The 15 pages", "correct": false},
-        {"text": "The classified section", "correct": false},
-        {"text": "The Terms and Conditions", "correct": false, "absurd": true}
+        {
+          "text": "The 28 pages",
+          "correct": true
+        },
+        {
+          "text": "The Saudi appendix",
+          "correct": false
+        },
+        {
+          "text": "The 15 pages",
+          "correct": false
+        },
+        {
+          "text": "The classified section",
+          "correct": false
+        },
+        {
+          "text": "The Terms and Conditions",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_049",
-      "question": "What cognitive bias, in which people exclusively seek out information confirming their existing beliefs while dismissing contradictory evidence, is considered a core driver of conspiracy theory adoption?",
+      "question": "What cognitive bias, where people seek only confirming information while ignoring contradictory evidence, fuels conspiracy theories?",
       "answers": [
-        {"text": "Confirmation bias", "correct": true},
-        {"text": "Apophenia", "correct": false},
-        {"text": "Dunning-Kruger effect", "correct": false},
-        {"text": "Availability heuristic", "correct": false},
-        {"text": "The Algorithm", "correct": false, "absurd": true}
+        {
+          "text": "Confirmation bias",
+          "correct": true
+        },
+        {
+          "text": "Apophenia",
+          "correct": false
+        },
+        {
+          "text": "Dunning-Kruger effect",
+          "correct": false
+        },
+        {
+          "text": "Availability heuristic",
+          "correct": false
+        },
+        {
+          "text": "The Algorithm",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Conspiracy Theories"
     },
     {
       "id": "con_050",
-      "question": "What early internet conspiracy theory, circulated in 1999, claimed that Microsoft had intentionally built a hidden key into Windows software to give the NSA backdoor access to computers?",
+      "question": "What 1999 conspiracy theory claimed Microsoft built a hidden NSA backdoor key into Windows?",
       "answers": [
-        {"text": "The NSAKEY conspiracy", "correct": true},
-        {"text": "The Clipper Chip conspiracy", "correct": false},
-        {"text": "The Carnivore program", "correct": false},
-        {"text": "The Key Escrow backdoor", "correct": false},
-        {"text": "Microsoft Bob", "correct": false, "absurd": true}
+        {
+          "text": "The NSAKEY conspiracy",
+          "correct": true
+        },
+        {
+          "text": "The Clipper Chip conspiracy",
+          "correct": false
+        },
+        {
+          "text": "The Carnivore program",
+          "correct": false
+        },
+        {
+          "text": "The Key Escrow backdoor",
+          "correct": false
+        },
+        {
+          "text": "Microsoft Bob",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Conspiracy Theories"

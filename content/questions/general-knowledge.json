@@ -176,7 +176,7 @@
         {"text": "32°C", "correct": false},
         {"text": "100°C", "correct": false},
         {"text": "-32°C", "correct": false},
-        {"text": "Ice cold", "correct": false, "absurd": true}
+        {"text": "32°F", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -228,7 +228,7 @@
         {"text": "150,000 km/s", "correct": false},
         {"text": "500,000 km/s", "correct": false},
         {"text": "1,000,000 km/s", "correct": false},
-        {"text": "Light speed", "correct": false, "absurd": true}
+        {"text": "88 mph", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -241,7 +241,7 @@
         {"text": "Monaco", "correct": false},
         {"text": "San Marino", "correct": false},
         {"text": "Liechtenstein", "correct": false},
-        {"text": "My apartment", "correct": false, "absurd": true}
+        {"text": "Sealand", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -332,7 +332,7 @@
         {"text": "O negative", "correct": false},
         {"text": "B negative", "correct": false},
         {"text": "A negative", "correct": false},
-        {"text": "Type Overrated", "correct": false, "absurd": true}
+        {"text": "Platinum", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -670,7 +670,7 @@
         {"text": "90°C", "correct": false},
         {"text": "0°C", "correct": false},
         {"text": "212°C", "correct": false},
-        {"text": "Hot enough", "correct": false, "absurd": true}
+        {"text": "212°F", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -722,7 +722,7 @@
         {"text": "Milk", "correct": false},
         {"text": "Silk", "correct": false},
         {"text": "Wax only", "correct": false},
-        {"text": "Jazz", "correct": false, "absurd": true}
+        {"text": "Sting", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -748,7 +748,7 @@
         {"text": "Milan", "correct": false},
         {"text": "Venice", "correct": false},
         {"text": "Florence", "correct": false},
-        {"text": "Colosseum", "correct": false, "absurd": true}
+        {"text": "Pompeii", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -774,7 +774,7 @@
         {"text": "Carbon dioxide", "correct": false},
         {"text": "Nitrogen", "correct": false},
         {"text": "Helium", "correct": false},
-        {"text": "Air", "correct": false, "absurd": true}
+        {"text": "Ozone", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -826,7 +826,7 @@
         {"text": "Yuan", "correct": false},
         {"text": "Won", "correct": false},
         {"text": "Dollar", "correct": false},
-        {"text": "Yodel", "correct": false, "absurd": true}
+        {"text": "Nintendo Coins", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -839,7 +839,7 @@
         {"text": "4", "correct": false},
         {"text": "5", "correct": false},
         {"text": "7", "correct": false},
-        {"text": "12", "correct": false, "absurd": true}
+        {"text": "88", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -852,7 +852,7 @@
         {"text": "Tomato", "correct": false},
         {"text": "Onion", "correct": false},
         {"text": "Lime", "correct": false},
-        {"text": "Green stuff", "correct": false, "absurd": true}
+        {"text": "Wasabi", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"
@@ -1021,7 +1021,7 @@
         {"text": "Seinfeld", "correct": false},
         {"text": "How I Met Your Mother", "correct": false},
         {"text": "The Office", "correct": false},
-        {"text": "Enemies", "correct": false, "absurd": true}
+        {"text": "Cougar Town", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -1034,7 +1034,7 @@
         {"text": "Samsung", "correct": false},
         {"text": "Google", "correct": false},
         {"text": "Microsoft", "correct": false},
-        {"text": "Microsoft", "correct": false, "absurd": true}
+        {"text": "Nokia", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -1047,7 +1047,7 @@
         {"text": "Moana", "correct": false},
         {"text": "Tangled", "correct": false},
         {"text": "Brave", "correct": false},
-        {"text": "Defrosted", "correct": false, "absurd": true}
+        {"text": "Frosty the Snowman", "correct": false, "absurd": true}
       ],
       "difficulty": "easy",
       "category": "General Knowledge"
@@ -1099,7 +1099,7 @@
         {"text": "The Who", "correct": false},
         {"text": "AC/DC", "correct": false},
         {"text": "Aerosmith", "correct": false},
-        {"text": "King", "correct": false, "absurd": true}
+        {"text": "Mercury Records", "correct": false, "absurd": true}
       ],
       "difficulty": "medium",
       "category": "General Knowledge"

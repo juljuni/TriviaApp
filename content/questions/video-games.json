@@ -304,7 +304,7 @@
     },
     {
       "id": "vgm_011",
-      "question": "What is the name of Link's fairy companion in The Legend of Zelda: Ocarina of Time, famous for the repeatedly shouted catchphrase \"Hey, listen!\"?",
+      "question": "What is the name of Link's fairy companion in Ocarina of Time, known for shouting \"Hey, listen!\"?",
       "answers": [
         {
           "text": "Navi",
@@ -333,7 +333,7 @@
     },
     {
       "id": "vgm_012",
-      "question": "What indie farming and life simulation game, developed solo by Eric Barone over four years, takes place in a small town called Pelican Town?",
+      "question": "What indie farming simulation game by Eric Barone takes place in Pelican Town?",
       "answers": [
         {
           "text": "Stardew Valley",
@@ -362,7 +362,7 @@
     },
     {
       "id": "vgm_013",
-      "question": "What is the name of the iconic cheat code — Up, Up, Down, Down, Left, Right, Left, Right, B, A — associated with Konami games?",
+      "question": "What is the iconic Up, Up, Down, Down, Left, Right, Left, Right, B, A cheat code called?",
       "answers": [
         {
           "text": "The Konami Code",
@@ -391,7 +391,7 @@
     },
     {
       "id": "vgm_014",
-      "question": "What 2011 open-world RPG features the now-legendary line “I used to be an adventurer like you, then I took an arrow to the knee”?",
+      "question": "What 2011 open-world RPG features the line \"I used to be an adventurer like you, then I took an arrow to the knee\"?",
       "answers": [
         {
           "text": "The Elder Scrolls V: Skyrim",
@@ -449,7 +449,7 @@
     },
     {
       "id": "vgm_016",
-      "question": "In which FromSoftware game does the screen read \"You Died\" after each death, with all your collected currency dropped at the death location?",
+      "question": "Which FromSoftware game displays \"You Died\" on screen and drops your currency at your death location?",
       "answers": [
         {
           "text": "Dark Souls",
@@ -478,7 +478,7 @@
     },
     {
       "id": "vgm_017",
-      "question": "What is the name of the main antagonist in the Halo series — a religious alien alliance bent on activating ancient superweapons?",
+      "question": "What alien religious alliance serves as the main antagonist in the Halo series?",
       "answers": [
         {
           "text": "The Covenant",
@@ -536,7 +536,7 @@
     },
     {
       "id": "vgm_019",
-      "question": "What 2014 indie horror game features a security guard named Mike Schmidt surviving five nights against murderous animatronic animals at a pizza restaurant?",
+      "question": "What 2014 indie horror game features security guard Mike Schmidt surviving five nights against murderous animatronics?",
       "answers": [
         {
           "text": "Five Nights at Freddy's",
@@ -565,7 +565,7 @@
     },
     {
       "id": "vgm_020",
-      "question": "What 1993 id Software game, featuring a space marine fighting demons on Mars, is credited with popularizing the first-person shooter genre?",
+      "question": "What 1993 id Software game featuring a space marine fighting demons is credited with popularizing FPS games?",
       "answers": [
         {
           "text": "Doom",
@@ -652,7 +652,7 @@
     },
     {
       "id": "vgm_023",
-      "question": "The Konami Code was first programmed by Kazuhisa Hashimoto for which 1985 game, created as a personal shortcut so he could test the game without dying?",
+      "question": "Which 1985 Konami game was the first to feature the famous Konami Code cheat?",
       "answers": [
         {
           "text": "Gradius",
@@ -710,7 +710,7 @@
     },
     {
       "id": "vgm_025",
-      "question": "What 2023 RPG by Larian Studios, set in the Forgotten Realms D&D universe, became one of the most-played single-player games in Steam history at launch?",
+      "question": "Which 2023 Larian Studios RPG set in the Forgotten Realms became a massive Steam hit?",
       "answers": [
         {
           "text": "Baldur's Gate 3",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": "vgm_036",
-      "question": "What is the name of the underwater dystopian city at the heart of the original BioShock, built by the libertarian industrialist Andrew Ryan?",
+      "question": "What is the underwater dystopian city built by libertarian industrialist Andrew Ryan in BioShock?",
       "answers": [
         {
           "text": "Rapture",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "vgm_037",
-      "question": "What 2005 GameCube and PlayStation 2 game, widely considered one of the greatest ever made, reinvented survival horror with its over-the-shoulder camera and featured Leon S. Kennedy in rural Spain?",
+      "question": "Which 2005 survival horror game, widely considered one of the greatest ever made, featured Leon S. Kennedy in rural Spain?",
       "answers": [
         {
           "text": "Resident Evil 4",
@@ -1087,7 +1087,7 @@
     },
     {
       "id": "vgm_038",
-      "question": "What 2016 Blizzard hero shooter, featuring characters like Tracer, Mercy, and Reinhardt, is widely credited with popularizing the hero shooter genre?",
+      "question": "Which Blizzard hero shooter, featuring Tracer, Mercy, and Reinhardt, popularized the genre in 2016?",
       "answers": [
         {
           "text": "Overwatch",
@@ -1116,7 +1116,7 @@
     },
     {
       "id": "vgm_039",
-      "question": "What is the best-selling standalone video game of all time, with over 500 million copies sold across all platforms including mobile?",
+      "question": "What is the best-selling standalone video game of all time, with over 500 million copies sold?",
       "answers": [
         {
           "text": "Tetris",
@@ -1174,7 +1174,7 @@
     },
     {
       "id": "vgm_041",
-      "question": "What 2002 Grand Theft Auto game, set in a Miami-inspired city in the 1980s, features protagonist Tommy Vercetti building a criminal empire?",
+      "question": "Which 2002 Grand Theft Auto game, set in a Miami-inspired 1980s city, features Tommy Vercetti building a criminal empire?",
       "answers": [
         {
           "text": "Grand Theft Auto: Vice City",
@@ -1203,7 +1203,7 @@
     },
     {
       "id": "vgm_042",
-      "question": "What 2017 Nintendo Switch launch title placed Link in an open-world Hyrule for the first time, allowing players to climb, glide, and approach challenges in any order?",
+      "question": "Which 2017 Nintendo Switch launch title placed Link in an open-world Hyrule for the first time?",
       "answers": [
         {
           "text": "The Legend of Zelda: Breath of the Wild",
@@ -1232,7 +1232,7 @@
     },
     {
       "id": "vgm_043",
-      "question": "What is the name of the witcher protagonist in CD Projekt Red's acclaimed RPG series, known for his white hair, dual swords, and monster-hunting contracts?",
+      "question": "What is the witcher protagonist's name in CD Projekt Red's RPG series, known for white hair and dual swords?",
       "answers": [
         {
           "text": "Geralt of Rivia",
@@ -1261,7 +1261,7 @@
     },
     {
       "id": "vgm_044",
-      "question": "What 2020 RPG by CD Projekt Red, set in a dystopian open-world city, features protagonist V implanted with the digital consciousness of a deceased rockstar?",
+      "question": "What 2020 CD Projekt Red RPG features protagonist V implanted with a deceased rockstar's digital consciousness?",
       "answers": [
         {
           "text": "Cyberpunk 2077",
@@ -1319,7 +1319,7 @@
     },
     {
       "id": "vgm_046",
-      "question": "What is the name of the doomed mining spaceship at the center of Dead Space, overrun by alien creatures called Necromorphs?",
+      "question": "What is the doomed mining spaceship overrun by Necromorphs in Dead Space?",
       "answers": [
         {
           "text": "The USG Ishimura",
@@ -1348,7 +1348,7 @@
     },
     {
       "id": "vgm_047",
-      "question": "What 1986 NES game, when completed in under five hours, reveals that bounty hunter Samus Aran is a woman — a twist that shocked many players at the time?",
+      "question": "Which 1986 NES game reveals bounty hunter Samus Aran is a woman if completed in under five hours?",
       "answers": [
         {
           "text": "Metroid",
@@ -1377,7 +1377,7 @@
     },
     {
       "id": "vgm_048",
-      "question": "What 1981 Nintendo arcade game introduced a character called \"Jumpman\" — who was later renamed and became the most recognizable character in gaming history?",
+      "question": "Which 1981 Nintendo arcade game introduced Jumpman, who was later renamed Mario?",
       "answers": [
         {
           "text": "Donkey Kong",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "vgm_050",
-      "question": "What infamous glitch in the original Super Mario Bros. sends players to a looping, endless underwater level known as \"World -1\"?",
+      "question": "What glitch in Super Mario Bros. sends players to the endless underwater \"World -1\"?",
       "answers": [
         {
           "text": "The Minus World",

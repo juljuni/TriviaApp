@@ -193,22 +193,37 @@ The absurd answer must NOT give away the correct answer through shared words or 
 **Why it works:** Has stripes, completely different category, doesn't reveal "Zebra"
 
 
-## THE 80/20 RULE FOR SHARED NAMES
+## THE NAME SHARING RULE
 
-**80% of the time:** Absurd answer shares NO words/names with correct answer
-- Use related concepts from same universe
-- Different names, people, places
-- No derivatives or wordplay on correct answer
+Sharing a name with ANY answer (correct OR wrong) can be one of the funniest techniques. The rule is about HOW OFTEN you telegraph the correct answer, not about avoiding name overlap entirely.
 
-**20% of the time:** Shared first name IS acceptable IF it's genuinely funnier
-- Leonardo di Caprio (actor vs painter - genuinely hilarious)
-- Alexander Graham Cracker (snack pun too perfect to pass up)
-- Pablo Escobar (drug lord vs artist - peak comedy)
-- Kangaroo Jack (movie reference, classic)
+**Sharing a name with a WRONG answer = actively encouraged**
+- Creates misdirection toward the wrong answer
+- "Buzz Lightyear" when wrong answer is "Buzz Aldrin" → player looks at Aldrin first ✓
+- "Jack Nicholson" when wrong answer is "Jack Black" → perfectly fine ✓
+- No limit on this — use it freely
 
-**The test:** Ask "Is this shared-name version SIGNIFICANTLY funnier than a non-shared alternative?"
-- If yes → use it
-- If no → find something completely different that doesn't share words
+**Sharing a name with the CORRECT answer = allowed up to 30% of the time**
+- Only when it's genuinely hilarious
+- "Leonardo da Vinci" when correct answer is Leonardo DiCaprio ✓ (inverted gold standard)
+- "Leonardo di Caprio" when correct answer is Leonardo da Vinci ✓ (original gold standard)
+- "Pablo Escobar" when correct answer is Pablo Picasso ✓
+- "Alexander Graham Cracker" when correct answer is Alexander Graham Bell ✓
+- "Groucho Marx" when correct answer is Karl Marx ✓
+- "River Phoenix" when correct answer is Joaquin Phoenix ✓ (his actual brother)
+
+**Same first name, different person = usually hilarious IF from a different era or industry**
+The contrast between eras or industries IS the joke. The bigger the gap, the funnier.
+
+✅ "Leonardo da Vinci" for Leonardo DiCaprio — Renaissance painter vs modern actor, huge era/industry gap
+✅ "Groucho Marx" for Karl Marx — comedian vs philosopher, different era entirely
+✅ "River Phoenix" for Joaquin Phoenix — his actual late brother, same family different fate
+❌ "Lance Armstrong" for Neil Armstrong — both modern, both famous for physical achievement, gap too small
+❌ "Marie Kondo" for Marie Curie — similar era, contrast not wild enough to be funny
+
+**Also note:** The shared first name can overlap with ANY answer in the set (correct or wrong) — that's fine. The 30% limit only applies to how often the absurd telegraphs the CORRECT answer specifically.
+
+**The test:** Is the shared-name version GENUINELY HILARIOUS due to era/industry contrast? If it's just the same name with no great gap, find something else.
 
 
 ## Absurd Answer Techniques (Ranked Best to Worst)

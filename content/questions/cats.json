@@ -182,7 +182,7 @@
     },
     {
       "id": "cats_008",
-      "question": "Which cat breed is famous for being born with no tail, or a very short one?",
+      "question": "Which cat breed is famous for being born with no tail or a very short one?",
       "answers": [
         {
           "text": "Manx",
@@ -206,7 +206,7 @@
     },
     {
       "id": "cats_009",
-      "question": "What is the popular term for a cat's sudden burst of frantic running and leaping, often happening at night?",
+      "question": "What is the popular term for a cat's sudden burst of frantic running, often at night?",
       "answers": [
         {
           "text": "Zoomies",
@@ -230,7 +230,7 @@
     },
     {
       "id": "cats_010",
-      "question": "What is the name of the ancient Egyptian goddess depicted as a cat or with a cat's head?",
+      "question": "What ancient Egyptian goddess was depicted as a cat or with a cat's head?",
       "answers": [
         {
           "text": "Bastet",
@@ -350,7 +350,7 @@
     },
     {
       "id": "cats_015",
-      "question": "Which cat breed is recognized by its striking blue eyes and darker coloring on its face, ears, paws, and tail?",
+      "question": "Which cat breed has blue eyes and darker coloring on its face, ears, paws, and tail?",
       "answers": [
         {
           "text": "Siamese",
@@ -398,7 +398,7 @@
     },
     {
       "id": "cats_017",
-      "question": "What is the name for the behavior where a cat rhythmically pushes its paws in and out against a soft surface?",
+      "question": "What is the term for a cat rhythmically pushing its paws in and out against a soft surface?",
       "answers": [
         {
           "text": "Kneading",
@@ -494,7 +494,7 @@
     },
     {
       "id": "cats_021",
-      "question": "What was the real name of the internet-famous Grumpy Cat, whose perpetual scowl made her a global meme?",
+      "question": "What was Grumpy Cat's real name?",
       "answers": [
         {
           "text": "Tardar Sauce",
@@ -542,7 +542,7 @@
     },
     {
       "id": "cats_023",
-      "question": "What do you call a cat with a white base coat and distinct patches of two other colors?",
+      "question": "What is a cat with a white base coat and patches of two other colors called?",
       "answers": [
         {
           "text": "Calico",
@@ -590,7 +590,7 @@
     },
     {
       "id": "cats_025",
-      "question": "Which cat breed is known for going completely limp and relaxed when picked up, as if boneless?",
+      "question": "Which cat breed goes completely limp when picked up, as if boneless?",
       "answers": [
         {
           "text": "Ragdoll",
@@ -614,7 +614,7 @@
     },
     {
       "id": "cats_026",
-      "question": "What is the name of the animated internet cat with a Pop-Tart body that flies through space trailing a rainbow?",
+      "question": "What is the name of the animated cat with a Pop-Tart body that trails a rainbow?",
       "answers": [
         {
           "text": "Nyan Cat",
@@ -638,7 +638,7 @@
     },
     {
       "id": "cats_027",
-      "question": "What is the term for when a cat presses its head or body against objects and people to deposit its scent?",
+      "question": "What is it called when a cat presses against objects to deposit its scent?",
       "answers": [
         {
           "text": "Bunting",
@@ -662,7 +662,7 @@
     },
     {
       "id": "cats_028",
-      "question": "What fur color pattern is extremely rare in male cats, occurring roughly once in every 3,000 births, due to its sex-linked genetics?",
+      "question": "What fur color pattern is extremely rare in male cats due to sex-linked genetics?",
       "answers": [
         {
           "text": "Tortoiseshell",
@@ -686,7 +686,7 @@
     },
     {
       "id": "cats_029",
-      "question": "What is the term for the social behavior when two cats lick and groom each other?",
+      "question": "What is it called when two cats lick and groom each other?",
       "answers": [
         {
           "text": "Allogrooming",
@@ -710,7 +710,7 @@
     },
     {
       "id": "cats_030",
-      "question": "What is the name of the reflective layer behind a cat's retina that causes its eyes to glow when light hits them in the dark?",
+      "question": "What is the reflective layer behind a cat's retina that makes its eyes glow in the dark?",
       "answers": [
         {
           "text": "Tapetum lucidum",
@@ -734,7 +734,7 @@
     },
     {
       "id": "cats_031",
-      "question": "What are the scent-producing glands located between a cat's toes called, which leave marks when a cat scratches?",
+      "question": "What are the scent-producing glands between a cat's toes called?",
       "answers": [
         {
           "text": "Interdigital glands",
@@ -758,7 +758,7 @@
     },
     {
       "id": "cats_032",
-      "question": "Which wild cat is the most widely distributed in the Americas and is also known as cougar or mountain lion?",
+      "question": "Which wild cat, also known as cougar or mountain lion, is most widely distributed in the Americas?",
       "answers": [
         {
           "text": "Puma",
@@ -806,7 +806,7 @@
     },
     {
       "id": "cats_034",
-      "question": "What is the name of the distinctive marking found on the forehead of all tabby cats, shaped like the letter M?",
+      "question": "What marking shaped like the letter M appears on all tabby cats' foreheads?",
       "answers": [
         {
           "text": "M marking",
@@ -878,7 +878,7 @@
     },
     {
       "id": "cats_037",
-      "question": "Which cat breed takes its name from an ancient kingdom in Southeast Asia and is considered one of the world's oldest recognized breeds?",
+      "question": "Which cat breed is named after an ancient Southeast Asian kingdom?",
       "answers": [
         {
           "text": "Siamese",
@@ -902,7 +902,7 @@
     },
     {
       "id": "cats_038",
-      "question": "What is the term for the comfort behavior in which cats suck or chew on wool, blankets, or other soft fabrics, a habit carried over from kittenhood?",
+      "question": "What is the term for cats sucking or chewing on wool or soft fabrics?",
       "answers": [
         {
           "text": "Wool sucking",
@@ -926,7 +926,7 @@
     },
     {
       "id": "cats_039",
-      "question": "What is the name of the Japanese lucky cat figurine, typically depicted with one raised paw, believed to bring good fortune to its owner?",
+      "question": "What is the Japanese lucky cat figurine with a raised paw called?",
       "answers": [
         {
           "text": "Maneki-neko",
@@ -950,7 +950,7 @@
     },
     {
       "id": "cats_040",
-      "question": "In Japanese folklore, what is the name of a domestic cat that has lived long enough to develop supernatural powers and shapeshift?",
+      "question": "What is a Japanese folkloric cat that lives long enough to gain supernatural powers called?",
       "answers": [
         {
           "text": "Bakeneko",
@@ -974,7 +974,7 @@
     },
     {
       "id": "cats_041",
-      "question": "What is the medical term for the vestigial collarbone that cats possess, which floats freely in the chest muscle rather than connecting to other bones?",
+      "question": "What is the medical term for cats' vestigial floating collarbone?",
       "answers": [
         {
           "text": "Clavicle",
@@ -998,7 +998,7 @@
     },
     {
       "id": "cats_042",
-      "question": "In cat genetics, which sex-linked gene located on the X chromosome determines whether a cat will have an orange or black coat?",
+      "question": "Which X-linked gene determines whether a cat has an orange or black coat?",
       "answers": [
         {
           "text": "The O gene",
@@ -1022,7 +1022,7 @@
     },
     {
       "id": "cats_043",
-      "question": "What genetic condition, caused by failure of pigment cells to migrate properly during development, produces irregular white patches in a cat's coat?",
+      "question": "What genetic condition causes irregular white patches from pigment cells failing to migrate in cats?",
       "answers": [
         {
           "text": "Piebaldism",
@@ -1046,7 +1046,7 @@
     },
     {
       "id": "cats_044",
-      "question": "What is the medical term for abnormally dilated pupils in a cat, which can indicate neurological disease, toxin exposure, or high blood pressure?",
+      "question": "What is the medical term for abnormally dilated pupils in a cat?",
       "answers": [
         {
           "text": "Mydriasis",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": "cats_045",
-      "question": "Unlike all other large cats, cheetahs have a unique claw structure that gives them exceptional traction while sprinting. What is this feature?",
+      "question": "What unique claw feature gives cheetahs exceptional traction while sprinting?",
       "answers": [
         {
           "text": "Semi-retractable claws",
@@ -1094,7 +1094,7 @@
     },
     {
       "id": "cats_046",
-      "question": "What is the name of the genetic pattern that produces individual hairs banded with alternating rings of light and dark pigment, seen in wild-type cats?",
+      "question": "What genetic pattern produces cat hairs banded with alternating light and dark pigment rings?",
       "answers": [
         {
           "text": "Agouti",
@@ -1118,7 +1118,7 @@
     },
     {
       "id": "cats_047",
-      "question": "Which dominant gene in cats produces an all-white coat and is closely linked to hereditary deafness, especially in blue-eyed individuals?",
+      "question": "Which dominant gene causes all-white coats in cats and linked hereditary deafness?",
       "answers": [
         {
           "text": "The Dominant White gene",
@@ -1142,7 +1142,7 @@
     },
     {
       "id": "cats_048",
-      "question": "What is the scientific term used by veterinarians and animal behaviorists for the bursts of hyperactive running that cats commonly exhibit, especially at night?",
+      "question": "What is the scientific term for cats' bursts of hyperactive running?",
       "answers": [
         {
           "text": "FRAP",
@@ -1166,7 +1166,7 @@
     },
     {
       "id": "cats_049",
-      "question": "In which ancient region did the wildcat ancestor of domestic cats, Felis silvestris lybica, first begin living alongside human settlements around 10,000 years ago?",
+      "question": "In which ancient region did *Felis silvestris lybica* first live alongside human settlements?",
       "answers": [
         {
           "text": "The Fertile Crescent",
@@ -1190,7 +1190,7 @@
     },
     {
       "id": "cats_050",
-      "question": "What is the name of the compulsive condition in cats that causes them to eat non-food items such as plastic, wool, or rubber?",
+      "question": "What is the compulsive condition in cats that causes them to eat non-food items?",
       "answers": [
         {
           "text": "Pica",

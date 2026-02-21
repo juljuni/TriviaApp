@@ -14,7 +14,7 @@
   "questions": [
     {
       "id": "mem_001",
-      "question": "What is the name of the stock photo meme showing a man turning to look at a passing woman while his girlfriend glares at him?",
+      "question": "What is the \"Distracted Boyfriend\" meme also commonly called?",
       "answers": [
         {
           "text": "Distracted Boyfriend",
@@ -72,7 +72,7 @@
     },
     {
       "id": "mem_003",
-      "question": "What unimpressed white cat — photographed sitting at a dinner table opposite a screaming woman — became one of the internet's most beloved meme animals?",
+      "question": "What white cat, photographed sitting at a dinner table opposite a screaming woman, became a beloved meme?",
       "answers": [
         {
           "text": "Smudge",
@@ -101,7 +101,7 @@
     },
     {
       "id": "mem_004",
-      "question": "What dog breed stars in the \"Doge\" meme, shown with colorful Comic Sans text like \"wow,\" \"such internet,\" and \"very meme\"?",
+      "question": "What dog breed stars in the \"Doge\" meme, known for phrases like \"wow\" and \"such internet\"?",
       "answers": [
         {
           "text": "Shiba Inu",
@@ -217,7 +217,7 @@
     },
     {
       "id": "mem_008",
-      "question": "What cartoon frog, created by artist Matt Furie in 2005, became one of the most recognizable meme characters on the internet?",
+      "question": "What cartoon frog, created by Matt Furie in 2005, became a hugely recognizable internet meme?",
       "answers": [
         {
           "text": "Pepe the Frog",
@@ -275,7 +275,7 @@
     },
     {
       "id": "mem_010",
-      "question": "What animal is shown sitting calmly in a room that is completely on fire in the \"This is Fine\" webcomic meme?",
+      "question": "What animal sits calmly in a burning room in the \"This is Fine\" meme?",
       "answers": [
         {
           "text": "A dog",
@@ -362,7 +362,7 @@
     },
     {
       "id": "mem_013",
-      "question": "Who is the real person behind the \"Hide the Pain Harold\" meme — a Hungarian retired electrical engineer whose forced wide smile became a global stock photo phenomenon?",
+      "question": "What is the real name of the Hungarian engineer known as \"Hide the Pain Harold\"?",
       "answers": [
         {
           "text": "András Arató",
@@ -391,7 +391,7 @@
     },
     {
       "id": "mem_014",
-      "question": "What 2013 internet craze involved groups of people doing normal things before suddenly cutting to everyone dancing to an electronic music track?",
+      "question": "What 2013 internet craze involved people suddenly all dancing to an electronic music track?",
       "answers": [
         {
           "text": "The Harlem Shake",
@@ -478,7 +478,7 @@
     },
     {
       "id": "mem_017",
-      "question": "The \"Harambe\" meme is based on a gorilla who was shot after a child fell into his enclosure in 2016. At which zoo did this happen?",
+      "question": "Which zoo was home to Harambe, the gorilla shot after a child fell into his enclosure in 2016?",
       "answers": [
         {
           "text": "Cincinnati Zoo",
@@ -507,7 +507,7 @@
     },
     {
       "id": "mem_018",
-      "question": "Which conspiracy theorist, known for his appearances on the History Channel's Ancient Aliens, became a meme due to his wild hair and the phrase \"I'm not saying it was aliens\"?",
+      "question": "Which Ancient Aliens conspiracy theorist became a meme for his wild hair and the phrase \"I'm not saying it was aliens\"?",
       "answers": [
         {
           "text": "Giorgio A. Tsoukalos",
@@ -652,7 +652,7 @@
     },
     {
       "id": "mem_023",
-      "question": "What is the name of the crying/contemplative face character — originating from a 2010 Polish internet forum — that became a universal symbol of emotional relatability?",
+      "question": "Which crying/contemplative face meme, originating from a 2010 Polish internet forum, became a universal symbol of emotional relatability?",
       "answers": [
         {
           "text": "Wojak",
@@ -681,7 +681,7 @@
     },
     {
       "id": "mem_024",
-      "question": "The phrase \"All your base are belong to us\" entered internet culture as one of the first viral memes. It comes from the notorious mistranslation of which 1991 Sega game?",
+      "question": "Which 1991 Sega game features the notorious mistranslation \"All your base are belong to us\"?",
       "answers": [
         {
           "text": "Zero Wing",
@@ -710,7 +710,7 @@
     },
     {
       "id": "mem_025",
-      "question": "The \"Ugandan Knuckles\" meme, featuring a poorly rendered Knuckles the Echidna asking \"Do you know de wey?\", originated in which virtual reality platform in late 2017?",
+      "question": "Which VR platform did the \"Ugandan Knuckles\" meme, featuring Knuckles asking \"Do you know de wey?\", originate on?",
       "answers": [
         {
           "text": "VRChat",
@@ -768,7 +768,7 @@
     },
     {
       "id": "mem_027",
-      "question": "What 2012 South Korean music video became the first YouTube video to reach one billion views and inspired a worldwide horse-riding dance craze?",
+      "question": "Which 2012 South Korean music video was the first YouTube video to reach one billion views?",
       "answers": [
         {
           "text": "\"Gangnam Style\" by PSY",
@@ -884,7 +884,7 @@
     },
     {
       "id": "mem_031",
-      "question": "The famous \"Dramatic Chipmunk\" video — featuring a dramatic orchestral sting as an animal stares into the camera — actually features what animal?",
+      "question": "What animal actually appears in the viral \"Dramatic Chipmunk\" video, despite its name?",
       "answers": [
         {
           "text": "A prairie dog",
@@ -942,7 +942,7 @@
     },
     {
       "id": "mem_033",
-      "question": "What platform originated the \"Stories\" format — 24-hour disappearing photo and video posts — later copied by Instagram, Facebook, and others?",
+      "question": "Which platform originated the \"Stories\" format of 24-hour disappearing posts, later copied by Instagram and Facebook?",
       "answers": [
         {
           "text": "Snapchat",
@@ -1000,7 +1000,7 @@
     },
     {
       "id": "mem_035",
-      "question": "What 2019 viral meme, calling for a coordinated raid of a classified military facility, led to an actual music festival event in Nevada called \"Alienstock\"?",
+      "question": "What viral 2019 meme calling for a raid on a classified military facility led to Nevada's \"Alienstock\" festival?",
       "answers": [
         {
           "text": "Storm Area 51",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": "mem_036",
-      "question": "What short-form video platform, active from 2013 to 2017, is credited with launching many internet comedians and pioneering the looping video format later popularized by TikTok?",
+      "question": "What short-form looping video platform, active 2013–2017, helped launch many internet comedians?",
       "answers": [
         {
           "text": "Vine",
@@ -1087,7 +1087,7 @@
     },
     {
       "id": "mem_038",
-      "question": "What is the real name of YouTube's long-running most-subscribed individual creator, known for gaming commentary and the catchphrase \"Subscribe to PewDiePie\"?",
+      "question": "What is PewDiePie's real name?",
       "answers": [
         {
           "text": "Felix Kjellberg",
@@ -1116,7 +1116,7 @@
     },
     {
       "id": "mem_039",
-      "question": "The \"Distracted Boyfriend\" stock photo was taken by which Spanish photographer, who was reportedly surprised when his image became a global meme?",
+      "question": "Which Spanish photographer took the \"Distracted Boyfriend\" stock photo that became a global meme?",
       "answers": [
         {
           "text": "Antonio Guillem",
@@ -1145,7 +1145,7 @@
     },
     {
       "id": "mem_040",
-      "question": "What musician's 2000 song \"Stan\" — about an obsessive fan — gave the internet the word \"stan,\" now used to mean an intense devoted supporter?",
+      "question": "Which musician's 2000 song \"Stan\" gave the internet the word \"stan,\" meaning an obsessive fan?",
       "answers": [
         {
           "text": "Eminem",
@@ -1174,7 +1174,7 @@
     },
     {
       "id": "mem_041",
-      "question": "The \"Friday\" song by Rebecca Black, which became notorious as one of the most-disliked YouTube videos of its era, was released in what year?",
+      "question": "In what year was Rebecca Black's notorious \"Friday\" released?",
       "answers": [
         {
           "text": "2011",
@@ -1203,7 +1203,7 @@
     },
     {
       "id": "mem_042",
-      "question": "What internet slang term describes when a reply to a post receives significantly more likes than the original, implying the original was badly received?",
+      "question": "What internet slang term describes a reply getting more likes than the original post it's mocking?",
       "answers": [
         {
           "text": "Getting ratioed",
@@ -1261,7 +1261,7 @@
     },
     {
       "id": "mem_044",
-      "question": "What is the origin of the internet expression \"on fleek,\" meaning perfectly on point, which went viral after a 2014 Vine video?",
+      "question": "What does \"on fleek\" mean, and which platform's 2014 viral video popularized it?",
       "answers": [
         {
           "text": "A Vine by user Peaches Monroee describing her eyebrows",
@@ -1319,7 +1319,7 @@
     },
     {
       "id": "mem_046",
-      "question": "In what year did the original \"Numa Numa\" video — featuring Gary Brolsma enthusiastically lip-syncing to \"Dragostea Din Tei\" — first go viral, making it one of the earliest internet video sensations?",
+      "question": "In what year did Gary Brolsma's \"Numa Numa\" lip-sync video first go viral?",
       "answers": [
         {
           "text": "2004",
@@ -1348,7 +1348,7 @@
     },
     {
       "id": "mem_047",
-      "question": "The word \"meme\" was coined in 1976 by which evolutionary biologist in his book \"The Selfish Gene,\" to describe ideas that spread and replicate culturally like genes?",
+      "question": "Which evolutionary biologist coined the word \"meme\" in his 1976 book \"The Selfish Gene\"?",
       "answers": [
         {
           "text": "Richard Dawkins",
@@ -1377,7 +1377,7 @@
     },
     {
       "id": "mem_048",
-      "question": "The classic early internet meme site \"YTMND\" (You're the Man Now Dog) takes its name from a line spoken by Sean Connery in which 2000 film?",
+      "question": "Which 2000 film features the Sean Connery line that inspired the meme site YTMND?",
       "answers": [
         {
           "text": "Finding Forrester",
@@ -1406,7 +1406,7 @@
     },
     {
       "id": "mem_049",
-      "question": "The \"Rickrolling\" phenomenon originated on 4chan in 2007, where users posted the Rick Astley link under the pretense of it being a trailer for which highly anticipated video game?",
+      "question": "Which highly anticipated video game's fake trailer sparked the \"Rickrolling\" phenomenon on 4chan in 2007?",
       "answers": [
         {
           "text": "Grand Theft Auto IV",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "mem_050",
-      "question": "The \"Trollface\" meme character was created by artist Carlos Ramirez (known online as \"Whynne\") and first posted to DeviantArt in what year?",
+      "question": "In what year did Carlos Ramirez first post the \"Trollface\" meme to DeviantArt?",
       "answers": [
         {
           "text": "2008",

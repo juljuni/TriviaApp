@@ -942,7 +942,7 @@
     },
     {
       "id": "psy_033",
-      "question": "What psychological concept, famously tested in the Stanford marshmallow experiment, measures a child’s ability to resist a smaller reward for a larger one later?",
+      "question": "What psychological concept, tested in the Stanford marshmallow experiment, measures a child's ability to delay gratification?",
       "answers": [
         {
           "text": "Delay of gratification",
@@ -1116,7 +1116,7 @@
     },
     {
       "id": "psy_039",
-      "question": "What memory phenomenon explains why people tend to remember the first and last items in a list better than the middle ones?",
+      "question": "What memory phenomenon explains why people recall the first and last items in a list better than middle ones?",
       "answers": [
         {
           "text": "The serial position effect",
@@ -1348,7 +1348,7 @@
     },
     {
       "id": "psy_047",
-      "question": "What concept, introduced by Lev Vygotsky, describes the gap between what a learner can do alone and what they can do with guidance?",
+      "question": "What is Vygotsky's term for the gap between what a learner can do alone versus with guidance?",
       "answers": [
         {
           "text": "The zone of proximal development",

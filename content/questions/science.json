@@ -16,11 +16,27 @@
       "id": "sci_001",
       "question": "What is known as the powerhouse of the cell?",
       "answers": [
-        {"text": "Mitochondria", "correct": true},
-        {"text": "Nucleus", "correct": false},
-        {"text": "Ribosome", "correct": false},
-        {"text": "Cytoplasm", "correct": false},
-        {"text": "Mightychondria", "correct": false, "absurd": true}
+        {
+          "text": "Mitochondria",
+          "correct": true
+        },
+        {
+          "text": "Nucleus",
+          "correct": false
+        },
+        {
+          "text": "Ribosome",
+          "correct": false
+        },
+        {
+          "text": "Cytoplasm",
+          "correct": false
+        },
+        {
+          "text": "Mightychondria",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -29,11 +45,27 @@
       "id": "sci_002",
       "question": "What is the chemical symbol for gold on the periodic table?",
       "answers": [
-        {"text": "Au", "correct": true},
-        {"text": "Ag", "correct": false},
-        {"text": "Fe", "correct": false},
-        {"text": "Cu", "correct": false},
-        {"text": "14K", "correct": false, "absurd": true}
+        {
+          "text": "Au",
+          "correct": true
+        },
+        {
+          "text": "Ag",
+          "correct": false
+        },
+        {
+          "text": "Fe",
+          "correct": false
+        },
+        {
+          "text": "Cu",
+          "correct": false
+        },
+        {
+          "text": "14K",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -42,11 +74,27 @@
       "id": "sci_003",
       "question": "Which planet is known as the Red Planet?",
       "answers": [
-        {"text": "Mars", "correct": true},
-        {"text": "Venus", "correct": false},
-        {"text": "Mercury", "correct": false},
-        {"text": "Saturn", "correct": false},
-        {"text": "Clifford the Big Red Dog", "correct": false, "absurd": true}
+        {
+          "text": "Mars",
+          "correct": true
+        },
+        {
+          "text": "Venus",
+          "correct": false
+        },
+        {
+          "text": "Mercury",
+          "correct": false
+        },
+        {
+          "text": "Saturn",
+          "correct": false
+        },
+        {
+          "text": "Clifford the Big Red Dog",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -55,11 +103,27 @@
       "id": "sci_004",
       "question": "How many bones are in the adult human body?",
       "answers": [
-        {"text": "206", "correct": true},
-        {"text": "196", "correct": false},
-        {"text": "212", "correct": false},
-        {"text": "180", "correct": false},
-        {"text": "412", "correct": false, "absurd": true}
+        {
+          "text": "206",
+          "correct": true
+        },
+        {
+          "text": "196",
+          "correct": false
+        },
+        {
+          "text": "212",
+          "correct": false
+        },
+        {
+          "text": "180",
+          "correct": false
+        },
+        {
+          "text": "412",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -68,11 +132,27 @@
       "id": "sci_005",
       "question": "Which gas do plants absorb during photosynthesis?",
       "answers": [
-        {"text": "Carbon dioxide", "correct": true},
-        {"text": "Oxygen", "correct": false},
-        {"text": "Nitrogen", "correct": false},
-        {"text": "Carbon monoxide", "correct": false},
-        {"text": "Flatulence", "correct": false, "absurd": true}
+        {
+          "text": "Carbon dioxide",
+          "correct": true
+        },
+        {
+          "text": "Oxygen",
+          "correct": false
+        },
+        {
+          "text": "Nitrogen",
+          "correct": false
+        },
+        {
+          "text": "Carbon monoxide",
+          "correct": false
+        },
+        {
+          "text": "Flatulence",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -81,11 +161,27 @@
       "id": "sci_006",
       "question": "What is the most abundant gas in Earth's atmosphere?",
       "answers": [
-        {"text": "Nitrogen", "correct": true},
-        {"text": "Oxygen", "correct": false},
-        {"text": "Argon", "correct": false},
-        {"text": "Carbon dioxide", "correct": false},
-        {"text": "Clouds", "correct": false, "absurd": true}
+        {
+          "text": "Nitrogen",
+          "correct": true
+        },
+        {
+          "text": "Oxygen",
+          "correct": false
+        },
+        {
+          "text": "Argon",
+          "correct": false
+        },
+        {
+          "text": "Carbon dioxide",
+          "correct": false
+        },
+        {
+          "text": "Clouds",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -94,11 +190,27 @@
       "id": "sci_007",
       "question": "What is the hardest natural substance on Earth?",
       "answers": [
-        {"text": "Diamond", "correct": true},
-        {"text": "Quartz", "correct": false},
-        {"text": "Corundum", "correct": false},
-        {"text": "Topaz", "correct": false},
-        {"text": "Adamantium", "correct": false, "absurd": true}
+        {
+          "text": "Diamond",
+          "correct": true
+        },
+        {
+          "text": "Quartz",
+          "correct": false
+        },
+        {
+          "text": "Corundum",
+          "correct": false
+        },
+        {
+          "text": "Topaz",
+          "correct": false
+        },
+        {
+          "text": "Adamantium",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -107,11 +219,27 @@
       "id": "sci_008",
       "question": "Which organ pumps blood through the human body?",
       "answers": [
-        {"text": "Heart", "correct": true},
-        {"text": "Lungs", "correct": false},
-        {"text": "Kidneys", "correct": false},
-        {"text": "Liver", "correct": false},
-        {"text": "The Energizer Bunny", "correct": false, "absurd": true}
+        {
+          "text": "Heart",
+          "correct": true
+        },
+        {
+          "text": "Lungs",
+          "correct": false
+        },
+        {
+          "text": "Kidneys",
+          "correct": false
+        },
+        {
+          "text": "Liver",
+          "correct": false
+        },
+        {
+          "text": "The Energizer Bunny",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -120,11 +248,27 @@
       "id": "sci_009",
       "question": "What is H₂O?",
       "answers": [
-        {"text": "Water", "correct": true},
-        {"text": "Hydrogen peroxide", "correct": false},
-        {"text": "Hydrochloric acid", "correct": false},
-        {"text": "Heavy water", "correct": false},
-        {"text": "H₂OMG", "correct": false, "absurd": true}
+        {
+          "text": "Water",
+          "correct": true
+        },
+        {
+          "text": "Hydrogen peroxide",
+          "correct": false
+        },
+        {
+          "text": "Hydrochloric acid",
+          "correct": false
+        },
+        {
+          "text": "Heavy water",
+          "correct": false
+        },
+        {
+          "text": "H₂OMG",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -133,11 +277,27 @@
       "id": "sci_010",
       "question": "How many legs does a spider have?",
       "answers": [
-        {"text": "8", "correct": true},
-        {"text": "6", "correct": false},
-        {"text": "10", "correct": false},
-        {"text": "12", "correct": false},
-        {"text": "100", "correct": false, "absurd": true}
+        {
+          "text": "8",
+          "correct": true
+        },
+        {
+          "text": "6",
+          "correct": false
+        },
+        {
+          "text": "10",
+          "correct": false
+        },
+        {
+          "text": "12",
+          "correct": false
+        },
+        {
+          "text": "100",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -146,11 +306,27 @@
       "id": "sci_011",
       "question": "What is the largest organ in the human body?",
       "answers": [
-        {"text": "The skin", "correct": true},
-        {"text": "The liver", "correct": false},
-        {"text": "The brain", "correct": false},
-        {"text": "The lungs", "correct": false},
-        {"text": "The ego", "correct": false, "absurd": true}
+        {
+          "text": "The skin",
+          "correct": true
+        },
+        {
+          "text": "The liver",
+          "correct": false
+        },
+        {
+          "text": "The brain",
+          "correct": false
+        },
+        {
+          "text": "The lungs",
+          "correct": false
+        },
+        {
+          "text": "The ego",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -159,11 +335,27 @@
       "id": "sci_012",
       "question": "What force keeps objects on the surface of the Earth?",
       "answers": [
-        {"text": "Gravity", "correct": true},
-        {"text": "Magnetism", "correct": false},
-        {"text": "Inertia", "correct": false},
-        {"text": "Friction", "correct": false},
-        {"text": "Peer pressure", "correct": false, "absurd": true}
+        {
+          "text": "Gravity",
+          "correct": true
+        },
+        {
+          "text": "Magnetism",
+          "correct": false
+        },
+        {
+          "text": "Inertia",
+          "correct": false
+        },
+        {
+          "text": "Friction",
+          "correct": false
+        },
+        {
+          "text": "Peer pressure",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -172,11 +364,27 @@
       "id": "sci_013",
       "question": "What is the central part of an atom called?",
       "answers": [
-        {"text": "Nucleus", "correct": true},
-        {"text": "Proton", "correct": false},
-        {"text": "Electron", "correct": false},
-        {"text": "Quark", "correct": false},
-        {"text": "The kernel", "correct": false, "absurd": true}
+        {
+          "text": "Nucleus",
+          "correct": true
+        },
+        {
+          "text": "Proton",
+          "correct": false
+        },
+        {
+          "text": "Electron",
+          "correct": false
+        },
+        {
+          "text": "Quark",
+          "correct": false
+        },
+        {
+          "text": "The kernel",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -185,11 +393,27 @@
       "id": "sci_014",
       "question": "Which planet is closest to the Sun?",
       "answers": [
-        {"text": "Mercury", "correct": true},
-        {"text": "Venus", "correct": false},
-        {"text": "Earth", "correct": false},
-        {"text": "Mars", "correct": false},
-        {"text": "Icarus", "correct": false, "absurd": true}
+        {
+          "text": "Mercury",
+          "correct": true
+        },
+        {
+          "text": "Venus",
+          "correct": false
+        },
+        {
+          "text": "Earth",
+          "correct": false
+        },
+        {
+          "text": "Mars",
+          "correct": false
+        },
+        {
+          "text": "Icarus",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -198,11 +422,27 @@
       "id": "sci_015",
       "question": "What process do plants use to convert sunlight into food?",
       "answers": [
-        {"text": "Photosynthesis", "correct": true},
-        {"text": "Respiration", "correct": false},
-        {"text": "Osmosis", "correct": false},
-        {"text": "Fermentation", "correct": false},
-        {"text": "Chlorophyll Me In", "correct": false, "absurd": true}
+        {
+          "text": "Photosynthesis",
+          "correct": true
+        },
+        {
+          "text": "Respiration",
+          "correct": false
+        },
+        {
+          "text": "Osmosis",
+          "correct": false
+        },
+        {
+          "text": "Fermentation",
+          "correct": false
+        },
+        {
+          "text": "Chlorophyll Me In",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -211,11 +451,27 @@
       "id": "sci_016",
       "question": "At what temperature does water boil at sea level?",
       "answers": [
-        {"text": "100°C", "correct": true},
-        {"text": "90°C", "correct": false},
-        {"text": "120°C", "correct": false},
-        {"text": "80°C", "correct": false},
-        {"text": "Lukewarm", "correct": false, "absurd": true}
+        {
+          "text": "100°C",
+          "correct": true
+        },
+        {
+          "text": "90°C",
+          "correct": false
+        },
+        {
+          "text": "120°C",
+          "correct": false
+        },
+        {
+          "text": "80°C",
+          "correct": false
+        },
+        {
+          "text": "Lukewarm",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -224,11 +480,27 @@
       "id": "sci_017",
       "question": "What is the name of the force that opposes motion between two surfaces in contact?",
       "answers": [
-        {"text": "Friction", "correct": true},
-        {"text": "Gravity", "correct": false},
-        {"text": "Tension", "correct": false},
-        {"text": "Air resistance", "correct": false},
-        {"text": "Speed bumps", "correct": false, "absurd": true}
+        {
+          "text": "Friction",
+          "correct": true
+        },
+        {
+          "text": "Gravity",
+          "correct": false
+        },
+        {
+          "text": "Tension",
+          "correct": false
+        },
+        {
+          "text": "Air resistance",
+          "correct": false
+        },
+        {
+          "text": "Speed bumps",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -237,11 +509,27 @@
       "id": "sci_018",
       "question": "How many chambers does the human heart have?",
       "answers": [
-        {"text": "4", "correct": true},
-        {"text": "2", "correct": false},
-        {"text": "3", "correct": false},
-        {"text": "6", "correct": false},
-        {"text": "47", "correct": false, "absurd": true}
+        {
+          "text": "4",
+          "correct": true
+        },
+        {
+          "text": "2",
+          "correct": false
+        },
+        {
+          "text": "3",
+          "correct": false
+        },
+        {
+          "text": "6",
+          "correct": false
+        },
+        {
+          "text": "47",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -250,11 +538,27 @@
       "id": "sci_019",
       "question": "What gas do humans exhale when they breathe out?",
       "answers": [
-        {"text": "Carbon dioxide", "correct": true},
-        {"text": "Oxygen", "correct": false},
-        {"text": "Nitrogen", "correct": false},
-        {"text": "Methane", "correct": false},
-        {"text": "Hot air", "correct": false, "absurd": true}
+        {
+          "text": "Carbon dioxide",
+          "correct": true
+        },
+        {
+          "text": "Oxygen",
+          "correct": false
+        },
+        {
+          "text": "Nitrogen",
+          "correct": false
+        },
+        {
+          "text": "Methane",
+          "correct": false
+        },
+        {
+          "text": "Hot air",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -263,11 +567,27 @@
       "id": "sci_020",
       "question": "Approximately how fast does light travel per second?",
       "answers": [
-        {"text": "300,000 km/s", "correct": true},
-        {"text": "150,000 km/s", "correct": false},
-        {"text": "500,000 km/s", "correct": false},
-        {"text": "200,000 km/s", "correct": false},
-        {"text": "600,000 km/s", "correct": false, "absurd": true}
+        {
+          "text": "300,000 km/s",
+          "correct": true
+        },
+        {
+          "text": "150,000 km/s",
+          "correct": false
+        },
+        {
+          "text": "500,000 km/s",
+          "correct": false
+        },
+        {
+          "text": "200,000 km/s",
+          "correct": false
+        },
+        {
+          "text": "600,000 km/s",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Science"
@@ -276,11 +596,27 @@
       "id": "sci_021",
       "question": "What is the name of the theory that describes the origin and expansion of the universe?",
       "answers": [
-        {"text": "The Big Bang Theory", "correct": true},
-        {"text": "The Steady State Theory", "correct": false},
-        {"text": "The Oscillating Universe Theory", "correct": false},
-        {"text": "The Plasma Universe Theory", "correct": false},
-        {"text": "The Grand Opening", "correct": false, "absurd": true}
+        {
+          "text": "The Big Bang Theory",
+          "correct": true
+        },
+        {
+          "text": "The Steady State Theory",
+          "correct": false
+        },
+        {
+          "text": "The Oscillating Universe Theory",
+          "correct": false
+        },
+        {
+          "text": "The Plasma Universe Theory",
+          "correct": false
+        },
+        {
+          "text": "The Grand Opening",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -289,11 +625,27 @@
       "id": "sci_022",
       "question": "What is the name of the process by which a caterpillar transforms into a butterfly?",
       "answers": [
-        {"text": "Metamorphosis", "correct": true},
-        {"text": "Pupation", "correct": false},
-        {"text": "Molting", "correct": false},
-        {"text": "Ecdysis", "correct": false},
-        {"text": "Glow Up", "correct": false, "absurd": true}
+        {
+          "text": "Metamorphosis",
+          "correct": true
+        },
+        {
+          "text": "Pupation",
+          "correct": false
+        },
+        {
+          "text": "Molting",
+          "correct": false
+        },
+        {
+          "text": "Ecdysis",
+          "correct": false
+        },
+        {
+          "text": "Glow Up",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -302,11 +654,27 @@
       "id": "sci_023",
       "question": "Approximately how fast does sound travel through air?",
       "answers": [
-        {"text": "343 m/s", "correct": true},
-        {"text": "250 m/s", "correct": false},
-        {"text": "500 m/s", "correct": false},
-        {"text": "150 m/s", "correct": false},
-        {"text": "686 m/s", "correct": false, "absurd": true}
+        {
+          "text": "343 m/s",
+          "correct": true
+        },
+        {
+          "text": "250 m/s",
+          "correct": false
+        },
+        {
+          "text": "500 m/s",
+          "correct": false
+        },
+        {
+          "text": "150 m/s",
+          "correct": false
+        },
+        {
+          "text": "686 m/s",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -315,11 +683,27 @@
       "id": "sci_024",
       "question": "What is the name of the logarithmic scale used to measure the magnitude of earthquakes?",
       "answers": [
-        {"text": "Richter Scale", "correct": true},
-        {"text": "Beaufort Scale", "correct": false},
-        {"text": "Fujita Scale", "correct": false},
-        {"text": "Mercalli Scale", "correct": false},
-        {"text": "The Shake Shack Scale", "correct": false, "absurd": true}
+        {
+          "text": "Richter Scale",
+          "correct": true
+        },
+        {
+          "text": "Beaufort Scale",
+          "correct": false
+        },
+        {
+          "text": "Fujita Scale",
+          "correct": false
+        },
+        {
+          "text": "Mercalli Scale",
+          "correct": false
+        },
+        {
+          "text": "The Shake Shack Scale",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -328,11 +712,27 @@
       "id": "sci_025",
       "question": "What is Newton's second law of motion expressed as a formula?",
       "answers": [
-        {"text": "F = ma", "correct": true},
-        {"text": "F = mv", "correct": false},
-        {"text": "F = mg", "correct": false},
-        {"text": "E = mc²", "correct": false},
-        {"text": "The Force", "correct": false, "absurd": true}
+        {
+          "text": "F = ma",
+          "correct": true
+        },
+        {
+          "text": "F = mv",
+          "correct": false
+        },
+        {
+          "text": "F = mg",
+          "correct": false
+        },
+        {
+          "text": "E = mc²",
+          "correct": false
+        },
+        {
+          "text": "The Force",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -341,11 +741,27 @@
       "id": "sci_026",
       "question": "Which element has atomic number 1 on the periodic table?",
       "answers": [
-        {"text": "Hydrogen", "correct": true},
-        {"text": "Helium", "correct": false},
-        {"text": "Lithium", "correct": false},
-        {"text": "Carbon", "correct": false},
-        {"text": "The Fonz", "correct": false, "absurd": true}
+        {
+          "text": "Hydrogen",
+          "correct": true
+        },
+        {
+          "text": "Helium",
+          "correct": false
+        },
+        {
+          "text": "Lithium",
+          "correct": false
+        },
+        {
+          "text": "Carbon",
+          "correct": false
+        },
+        {
+          "text": "The Fonz",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -354,11 +770,27 @@
       "id": "sci_027",
       "question": "What layer of the atmosphere absorbs harmful UV radiation from the Sun?",
       "answers": [
-        {"text": "Ozone layer", "correct": true},
-        {"text": "Stratosphere", "correct": false},
-        {"text": "Troposphere", "correct": false},
-        {"text": "Thermosphere", "correct": false},
-        {"text": "Sunscreen Layer", "correct": false, "absurd": true}
+        {
+          "text": "Ozone layer",
+          "correct": true
+        },
+        {
+          "text": "Stratosphere",
+          "correct": false
+        },
+        {
+          "text": "Troposphere",
+          "correct": false
+        },
+        {
+          "text": "Thermosphere",
+          "correct": false
+        },
+        {
+          "text": "Sunscreen Layer",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -367,11 +799,27 @@
       "id": "sci_028",
       "question": "What is the most common blood type among humans?",
       "answers": [
-        {"text": "O positive", "correct": true},
-        {"text": "A positive", "correct": false},
-        {"text": "B positive", "correct": false},
-        {"text": "AB positive", "correct": false},
-        {"text": "The Universal Remote", "correct": false, "absurd": true}
+        {
+          "text": "O positive",
+          "correct": true
+        },
+        {
+          "text": "A positive",
+          "correct": false
+        },
+        {
+          "text": "B positive",
+          "correct": false
+        },
+        {
+          "text": "AB positive",
+          "correct": false
+        },
+        {
+          "text": "The Universal Remote",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -380,11 +828,27 @@
       "id": "sci_029",
       "question": "What is the chemical symbol for iron on the periodic table?",
       "answers": [
-        {"text": "Fe", "correct": true},
-        {"text": "In", "correct": false},
-        {"text": "Ir", "correct": false},
-        {"text": "Al", "correct": false},
-        {"text": "Irn Bru", "correct": false, "absurd": true}
+        {
+          "text": "Fe",
+          "correct": true
+        },
+        {
+          "text": "In",
+          "correct": false
+        },
+        {
+          "text": "Ir",
+          "correct": false
+        },
+        {
+          "text": "Al",
+          "correct": false
+        },
+        {
+          "text": "Irn Bru",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -393,11 +857,27 @@
       "id": "sci_030",
       "question": "What is the term for when a solid transforms directly into a gas, skipping the liquid stage?",
       "answers": [
-        {"text": "Sublimation", "correct": true},
-        {"text": "Evaporation", "correct": false},
-        {"text": "Vaporization", "correct": false},
-        {"text": "Condensation", "correct": false},
-        {"text": "Disappearing Act", "correct": false, "absurd": true}
+        {
+          "text": "Sublimation",
+          "correct": true
+        },
+        {
+          "text": "Evaporation",
+          "correct": false
+        },
+        {
+          "text": "Vaporization",
+          "correct": false
+        },
+        {
+          "text": "Condensation",
+          "correct": false
+        },
+        {
+          "text": "Disappearing Act",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -406,11 +886,27 @@
       "id": "sci_031",
       "question": "What is the name of the star closest to Earth, excluding the Sun?",
       "answers": [
-        {"text": "Proxima Centauri", "correct": true},
-        {"text": "Alpha Centauri A", "correct": false},
-        {"text": "Barnard's Star", "correct": false},
-        {"text": "Sirius", "correct": false},
-        {"text": "Sirius Black", "correct": false, "absurd": true}
+        {
+          "text": "Proxima Centauri",
+          "correct": true
+        },
+        {
+          "text": "Alpha Centauri A",
+          "correct": false
+        },
+        {
+          "text": "Barnard's Star",
+          "correct": false
+        },
+        {
+          "text": "Sirius",
+          "correct": false
+        },
+        {
+          "text": "Sirius Black",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -419,11 +915,27 @@
       "id": "sci_032",
       "question": "What is the SI unit of electrical resistance?",
       "answers": [
-        {"text": "Ohm", "correct": true},
-        {"text": "Volt", "correct": false},
-        {"text": "Watt", "correct": false},
-        {"text": "Ampere", "correct": false},
-        {"text": "Resistance is futile", "correct": false, "absurd": true}
+        {
+          "text": "Ohm",
+          "correct": true
+        },
+        {
+          "text": "Volt",
+          "correct": false
+        },
+        {
+          "text": "Watt",
+          "correct": false
+        },
+        {
+          "text": "Ampere",
+          "correct": false
+        },
+        {
+          "text": "Resistance is futile",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -432,11 +944,27 @@
       "id": "sci_033",
       "question": "What structure did Watson and Crick discover is the shape of DNA?",
       "answers": [
-        {"text": "Double helix", "correct": true},
-        {"text": "Triple helix", "correct": false},
-        {"text": "Single strand", "correct": false},
-        {"text": "Alpha helix", "correct": false},
-        {"text": "The Watson", "correct": false, "absurd": true}
+        {
+          "text": "Double helix",
+          "correct": true
+        },
+        {
+          "text": "Triple helix",
+          "correct": false
+        },
+        {
+          "text": "Single strand",
+          "correct": false
+        },
+        {
+          "text": "Alpha helix",
+          "correct": false
+        },
+        {
+          "text": "The Watson",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -445,11 +973,27 @@
       "id": "sci_034",
       "question": "What fundamental force acts between electrically charged particles?",
       "answers": [
-        {"text": "Electromagnetic force", "correct": true},
-        {"text": "Gravitational force", "correct": false},
-        {"text": "Strong nuclear force", "correct": false},
-        {"text": "Weak nuclear force", "correct": false},
-        {"text": "Star Wars", "correct": false, "absurd": true}
+        {
+          "text": "Electromagnetic force",
+          "correct": true
+        },
+        {
+          "text": "Gravitational force",
+          "correct": false
+        },
+        {
+          "text": "Strong nuclear force",
+          "correct": false
+        },
+        {
+          "text": "Weak nuclear force",
+          "correct": false
+        },
+        {
+          "text": "Star Wars",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -458,11 +1002,27 @@
       "id": "sci_035",
       "question": "What is the pH value of pure water?",
       "answers": [
-        {"text": "7", "correct": true},
-        {"text": "5", "correct": false},
-        {"text": "9", "correct": false},
-        {"text": "6", "correct": false},
-        {"text": "42", "correct": false, "absurd": true}
+        {
+          "text": "7",
+          "correct": true
+        },
+        {
+          "text": "5",
+          "correct": false
+        },
+        {
+          "text": "9",
+          "correct": false
+        },
+        {
+          "text": "6",
+          "correct": false
+        },
+        {
+          "text": "42",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -471,11 +1031,27 @@
       "id": "sci_036",
       "question": "What is the name of the process by which body cells divide and replicate?",
       "answers": [
-        {"text": "Mitosis", "correct": true},
-        {"text": "Meiosis", "correct": false},
-        {"text": "Cytokinesis", "correct": false},
-        {"text": "Binary fission", "correct": false},
-        {"text": "Going Viral", "correct": false, "absurd": true}
+        {
+          "text": "Mitosis",
+          "correct": true
+        },
+        {
+          "text": "Meiosis",
+          "correct": false
+        },
+        {
+          "text": "Cytokinesis",
+          "correct": false
+        },
+        {
+          "text": "Binary fission",
+          "correct": false
+        },
+        {
+          "text": "Going Viral",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -484,11 +1060,27 @@
       "id": "sci_037",
       "question": "What is the SI base unit of temperature?",
       "answers": [
-        {"text": "Kelvin", "correct": true},
-        {"text": "Celsius", "correct": false},
-        {"text": "Fahrenheit", "correct": false},
-        {"text": "Rankine", "correct": false},
-        {"text": "Room temperature", "correct": false, "absurd": true}
+        {
+          "text": "Kelvin",
+          "correct": true
+        },
+        {
+          "text": "Celsius",
+          "correct": false
+        },
+        {
+          "text": "Fahrenheit",
+          "correct": false
+        },
+        {
+          "text": "Rankine",
+          "correct": false
+        },
+        {
+          "text": "Room temperature",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -497,11 +1089,27 @@
       "id": "sci_038",
       "question": "Which planet in our solar system has the most confirmed moons?",
       "answers": [
-        {"text": "Saturn", "correct": true},
-        {"text": "Jupiter", "correct": false},
-        {"text": "Uranus", "correct": false},
-        {"text": "Neptune", "correct": false},
-        {"text": "The Moon", "correct": false, "absurd": true}
+        {
+          "text": "Saturn",
+          "correct": true
+        },
+        {
+          "text": "Jupiter",
+          "correct": false
+        },
+        {
+          "text": "Uranus",
+          "correct": false
+        },
+        {
+          "text": "Neptune",
+          "correct": false
+        },
+        {
+          "text": "The Moon",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -510,11 +1118,27 @@
       "id": "sci_039",
       "question": "What is the name of the scientific theory stating that Earth's outer shell is divided into moving segments?",
       "answers": [
-        {"text": "Plate tectonics", "correct": true},
-        {"text": "Continental drift", "correct": false},
-        {"text": "Seafloor spreading", "correct": false},
-        {"text": "Isostasy", "correct": false},
-        {"text": "Tetris", "correct": false, "absurd": true}
+        {
+          "text": "Plate tectonics",
+          "correct": true
+        },
+        {
+          "text": "Continental drift",
+          "correct": false
+        },
+        {
+          "text": "Seafloor spreading",
+          "correct": false
+        },
+        {
+          "text": "Isostasy",
+          "correct": false
+        },
+        {
+          "text": "Tetris",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
@@ -523,37 +1147,85 @@
       "id": "sci_040",
       "question": "What is the most abundant element in the observable universe by mass?",
       "answers": [
-        {"text": "Hydrogen", "correct": true},
-        {"text": "Helium", "correct": false},
-        {"text": "Carbon", "correct": false},
-        {"text": "Oxygen", "correct": false},
-        {"text": "Nothing", "correct": false, "absurd": true}
+        {
+          "text": "Hydrogen",
+          "correct": true
+        },
+        {
+          "text": "Helium",
+          "correct": false
+        },
+        {
+          "text": "Carbon",
+          "correct": false
+        },
+        {
+          "text": "Oxygen",
+          "correct": false
+        },
+        {
+          "text": "Nothing",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Science"
     },
     {
       "id": "sci_041",
-      "question": "What quantum phenomenon describes two particles remaining connected so that the state of one instantly influences the other, regardless of distance?",
+      "question": "What quantum phenomenon describes two particles remaining connected so that measuring one instantly affects the other?",
       "answers": [
-        {"text": "Quantum entanglement", "correct": true},
-        {"text": "Quantum superposition", "correct": false},
-        {"text": "Wave function collapse", "correct": false},
-        {"text": "Quantum tunneling", "correct": false},
-        {"text": "Long distance relationship", "correct": false, "absurd": true}
+        {
+          "text": "Quantum entanglement",
+          "correct": true
+        },
+        {
+          "text": "Quantum superposition",
+          "correct": false
+        },
+        {
+          "text": "Wave function collapse",
+          "correct": false
+        },
+        {
+          "text": "Quantum tunneling",
+          "correct": false
+        },
+        {
+          "text": "Long distance relationship",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Science"
     },
     {
       "id": "sci_042",
-      "question": "According to the Heisenberg Uncertainty Principle, which two properties of a particle cannot both be precisely known at the same time?",
+      "question": "Which two properties of a particle can't both be precisely known, per Heisenberg's Uncertainty Principle?",
       "answers": [
-        {"text": "Position and momentum", "correct": true},
-        {"text": "Spin and charge", "correct": false},
-        {"text": "Wavelength and amplitude", "correct": false},
-        {"text": "Temperature and pressure", "correct": false},
-        {"text": "Whether Schrödinger's cat is alive", "correct": false, "absurd": true}
+        {
+          "text": "Position and momentum",
+          "correct": true
+        },
+        {
+          "text": "Spin and charge",
+          "correct": false
+        },
+        {
+          "text": "Wavelength and amplitude",
+          "correct": false
+        },
+        {
+          "text": "Temperature and pressure",
+          "correct": false
+        },
+        {
+          "text": "Whether Schrödinger's cat is alive",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Science"
@@ -562,11 +1234,27 @@
       "id": "sci_043",
       "question": "What subatomic particle, confirmed at CERN in 2012, is responsible for giving other particles their mass?",
       "answers": [
-        {"text": "Higgs boson", "correct": true},
-        {"text": "Quark", "correct": false},
-        {"text": "Gluon", "correct": false},
-        {"text": "Lepton", "correct": false},
-        {"text": "Gluten", "correct": false, "absurd": true}
+        {
+          "text": "Higgs boson",
+          "correct": true
+        },
+        {
+          "text": "Quark",
+          "correct": false
+        },
+        {
+          "text": "Gluon",
+          "correct": false
+        },
+        {
+          "text": "Lepton",
+          "correct": false
+        },
+        {
+          "text": "Gluten",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Science"
@@ -575,11 +1263,27 @@
       "id": "sci_044",
       "question": "What is the name of the optical phenomenon where light changes direction as it passes from one medium into another?",
       "answers": [
-        {"text": "Refraction", "correct": true},
-        {"text": "Reflection", "correct": false},
-        {"text": "Diffraction", "correct": false},
-        {"text": "Dispersion", "correct": false},
-        {"text": "A bendy straw in water", "correct": false, "absurd": true}
+        {
+          "text": "Refraction",
+          "correct": true
+        },
+        {
+          "text": "Reflection",
+          "correct": false
+        },
+        {
+          "text": "Diffraction",
+          "correct": false
+        },
+        {
+          "text": "Dispersion",
+          "correct": false
+        },
+        {
+          "text": "A bendy straw in water",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Science"
@@ -588,11 +1292,27 @@
       "id": "sci_045",
       "question": "In what year did Watson and Crick publish their landmark paper describing the structure of DNA?",
       "answers": [
-        {"text": "1953", "correct": true},
-        {"text": "1948", "correct": false},
-        {"text": "1962", "correct": false},
-        {"text": "1944", "correct": false},
-        {"text": "2001", "correct": false, "absurd": true}
+        {
+          "text": "1953",
+          "correct": true
+        },
+        {
+          "text": "1948",
+          "correct": false
+        },
+        {
+          "text": "1962",
+          "correct": false
+        },
+        {
+          "text": "1944",
+          "correct": false
+        },
+        {
+          "text": "2001",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Science"
@@ -601,11 +1321,27 @@
       "id": "sci_046",
       "question": "What is the name of the boundary that separates Earth's crust from the mantle below?",
       "answers": [
-        {"text": "Mohorovičić discontinuity", "correct": true},
-        {"text": "Conrad discontinuity", "correct": false},
-        {"text": "Gutenberg discontinuity", "correct": false},
-        {"text": "Lehmann discontinuity", "correct": false},
-        {"text": "Pangea", "correct": false, "absurd": true}
+        {
+          "text": "Mohorovičić discontinuity",
+          "correct": true
+        },
+        {
+          "text": "Conrad discontinuity",
+          "correct": false
+        },
+        {
+          "text": "Gutenberg discontinuity",
+          "correct": false
+        },
+        {
+          "text": "Lehmann discontinuity",
+          "correct": false
+        },
+        {
+          "text": "Pangea",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Science"
@@ -614,24 +1350,56 @@
       "id": "sci_047",
       "question": "What quantum number, represented by the symbol ℓ, describes the shape of an electron's orbital?",
       "answers": [
-        {"text": "Azimuthal quantum number", "correct": true},
-        {"text": "Principal quantum number", "correct": false},
-        {"text": "Magnetic quantum number", "correct": false},
-        {"text": "Spin quantum number", "correct": false},
-        {"text": "The Vibe quantum number", "correct": false, "absurd": true}
+        {
+          "text": "Azimuthal quantum number",
+          "correct": true
+        },
+        {
+          "text": "Principal quantum number",
+          "correct": false
+        },
+        {
+          "text": "Magnetic quantum number",
+          "correct": false
+        },
+        {
+          "text": "Spin quantum number",
+          "correct": false
+        },
+        {
+          "text": "The Vibe quantum number",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Science"
     },
     {
       "id": "sci_048",
-      "question": "What is the name of the effect by which a massive object's gravity bends and magnifies the light of objects behind it?",
+      "question": "What effect describes how a massive object's gravity bends and magnifies light from objects behind it?",
       "answers": [
-        {"text": "Gravitational lensing", "correct": true},
-        {"text": "Gravitational redshift", "correct": false},
-        {"text": "Time dilation", "correct": false},
-        {"text": "Hawking radiation", "correct": false},
-        {"text": "Black hole Instagram filter", "correct": false, "absurd": true}
+        {
+          "text": "Gravitational lensing",
+          "correct": true
+        },
+        {
+          "text": "Gravitational redshift",
+          "correct": false
+        },
+        {
+          "text": "Time dilation",
+          "correct": false
+        },
+        {
+          "text": "Hawking radiation",
+          "correct": false
+        },
+        {
+          "text": "Black hole Instagram filter",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Science"
@@ -640,11 +1408,27 @@
       "id": "sci_049",
       "question": "What is the SI base unit of luminous intensity?",
       "answers": [
-        {"text": "Candela", "correct": true},
-        {"text": "Lumen", "correct": false},
-        {"text": "Lux", "correct": false},
-        {"text": "Watt", "correct": false},
-        {"text": "100 Watt bulb", "correct": false, "absurd": true}
+        {
+          "text": "Candela",
+          "correct": true
+        },
+        {
+          "text": "Lumen",
+          "correct": false
+        },
+        {
+          "text": "Lux",
+          "correct": false
+        },
+        {
+          "text": "Watt",
+          "correct": false
+        },
+        {
+          "text": "100 Watt bulb",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Science"
@@ -653,11 +1437,27 @@
       "id": "sci_050",
       "question": "Which law of thermodynamics states that the entropy of a closed system always increases over time?",
       "answers": [
-        {"text": "Second Law of Thermodynamics", "correct": true},
-        {"text": "First Law of Thermodynamics", "correct": false},
-        {"text": "Third Law of Thermodynamics", "correct": false},
-        {"text": "Zeroth Law of Thermodynamics", "correct": false},
-        {"text": "Murphy's Law", "correct": false, "absurd": true}
+        {
+          "text": "Second Law of Thermodynamics",
+          "correct": true
+        },
+        {
+          "text": "First Law of Thermodynamics",
+          "correct": false
+        },
+        {
+          "text": "Third Law of Thermodynamics",
+          "correct": false
+        },
+        {
+          "text": "Zeroth Law of Thermodynamics",
+          "correct": false
+        },
+        {
+          "text": "Murphy's Law",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Science"

@@ -16,11 +16,27 @@
       "id": "apc_001",
       "question": "Which Australian rock band is known for songs like \"Thunderstruck\" and \"Back in Black\"?",
       "answers": [
-        {"text": "AC/DC", "correct": true},
-        {"text": "INXS", "correct": false},
-        {"text": "Midnight Oil", "correct": false},
-        {"text": "Cold Chisel", "correct": false},
-        {"text": "The Voltage Brothers", "correct": false, "absurd": true}
+        {
+          "text": "AC/DC",
+          "correct": true
+        },
+        {
+          "text": "INXS",
+          "correct": false
+        },
+        {
+          "text": "Midnight Oil",
+          "correct": false
+        },
+        {
+          "text": "Cold Chisel",
+          "correct": false
+        },
+        {
+          "text": "The Voltage Brothers",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
@@ -29,11 +45,27 @@
       "id": "apc_002",
       "question": "Which Australian actress played the lead role of Barbie in the 2023 film \"Barbie\"?",
       "answers": [
-        {"text": "Margot Robbie", "correct": true},
-        {"text": "Cate Blanchett", "correct": false},
-        {"text": "Isla Fisher", "correct": false},
-        {"text": "Rose Byrne", "correct": false},
-        {"text": "Skipper", "correct": false, "absurd": true}
+        {
+          "text": "Margot Robbie",
+          "correct": true
+        },
+        {
+          "text": "Cate Blanchett",
+          "correct": false
+        },
+        {
+          "text": "Isla Fisher",
+          "correct": false
+        },
+        {
+          "text": "Rose Byrne",
+          "correct": false
+        },
+        {
+          "text": "Skipper",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
@@ -42,11 +74,27 @@
       "id": "apc_003",
       "question": "Which Australian actor plays Thor in the Marvel Cinematic Universe?",
       "answers": [
-        {"text": "Chris Hemsworth", "correct": true},
-        {"text": "Chris Evans", "correct": false},
-        {"text": "Chris Pratt", "correct": false},
-        {"text": "Chris Pine", "correct": false},
-        {"text": "Chris Vegemite", "correct": false, "absurd": true}
+        {
+          "text": "Chris Hemsworth",
+          "correct": true
+        },
+        {
+          "text": "Chris Evans",
+          "correct": false
+        },
+        {
+          "text": "Chris Pratt",
+          "correct": false
+        },
+        {
+          "text": "Chris Pine",
+          "correct": false
+        },
+        {
+          "text": "Chris Vegemite",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
@@ -55,11 +103,27 @@
       "id": "apc_004",
       "question": "In which fictional street does the long-running Australian soap opera \"Neighbours\" take place?",
       "answers": [
-        {"text": "Ramsay Street", "correct": true},
-        {"text": "Patterson Street", "correct": false},
-        {"text": "Erinsborough Avenue", "correct": false},
-        {"text": "Summer Drive", "correct": false},
-        {"text": "Harold Bishop Drive", "correct": false, "absurd": true}
+        {
+          "text": "Ramsay Street",
+          "correct": true
+        },
+        {
+          "text": "Patterson Street",
+          "correct": false
+        },
+        {
+          "text": "Erinsborough Avenue",
+          "correct": false
+        },
+        {
+          "text": "Summer Drive",
+          "correct": false
+        },
+        {
+          "text": "Harold Bishop Drive",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
@@ -68,24 +132,56 @@
       "id": "apc_005",
       "question": "Which Australian band recorded the song \"Down Under\" in 1981?",
       "answers": [
-        {"text": "Men at Work", "correct": true},
-        {"text": "INXS", "correct": false},
-        {"text": "Midnight Oil", "correct": false},
-        {"text": "Cold Chisel", "correct": false},
-        {"text": "Men at Arms", "correct": false, "absurd": true}
+        {
+          "text": "Men at Work",
+          "correct": true
+        },
+        {
+          "text": "INXS",
+          "correct": false
+        },
+        {
+          "text": "Midnight Oil",
+          "correct": false
+        },
+        {
+          "text": "Cold Chisel",
+          "correct": false
+        },
+        {
+          "text": "Men at Arms",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_006",
-      "question": "Which Australian actress won the Academy Award for Best Actress for her role in \"The Hours\" (2002)?",
+      "question": "Which Australian actress won the Best Actress Oscar for \"The Hours\" (2002)?",
       "answers": [
-        {"text": "Nicole Kidman", "correct": true},
-        {"text": "Cate Blanchett", "correct": false},
-        {"text": "Naomi Watts", "correct": false},
-        {"text": "Rose Byrne", "correct": false},
-        {"text": "Dame Edna Everage", "correct": false, "absurd": true}
+        {
+          "text": "Nicole Kidman",
+          "correct": true
+        },
+        {
+          "text": "Cate Blanchett",
+          "correct": false
+        },
+        {
+          "text": "Naomi Watts",
+          "correct": false
+        },
+        {
+          "text": "Rose Byrne",
+          "correct": false
+        },
+        {
+          "text": "Dame Edna Everage",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
@@ -94,11 +190,27 @@
       "id": "apc_007",
       "question": "Which Australian comedian released the Netflix stand-up special \"Nanette\" in 2018?",
       "answers": [
-        {"text": "Hannah Gadsby", "correct": true},
-        {"text": "Wil Anderson", "correct": false},
-        {"text": "Judith Lucy", "correct": false},
-        {"text": "Kitty Flanagan", "correct": false},
-        {"text": "Steve Irwin", "correct": false, "absurd": true}
+        {
+          "text": "Hannah Gadsby",
+          "correct": true
+        },
+        {
+          "text": "Wil Anderson",
+          "correct": false
+        },
+        {
+          "text": "Judith Lucy",
+          "correct": false
+        },
+        {
+          "text": "Kitty Flanagan",
+          "correct": false
+        },
+        {
+          "text": "Steve Irwin",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
@@ -107,24 +219,56 @@
       "id": "apc_008",
       "question": "In which fictional location is the Australian soap opera \"Home and Away\" set?",
       "answers": [
-        {"text": "Summer Bay", "correct": true},
-        {"text": "Sunset Cove", "correct": false},
-        {"text": "Bondi Bay", "correct": false},
-        {"text": "Half Moon Beach", "correct": false},
-        {"text": "Coober Pedy", "correct": false, "absurd": true}
+        {
+          "text": "Summer Bay",
+          "correct": true
+        },
+        {
+          "text": "Sunset Cove",
+          "correct": false
+        },
+        {
+          "text": "Bondi Bay",
+          "correct": false
+        },
+        {
+          "text": "Half Moon Beach",
+          "correct": false
+        },
+        {
+          "text": "Coober Pedy",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_009",
-      "question": "Which Australian actor is famous for playing Wolverine in the X-Men franchise for nearly two decades?",
+      "question": "Which Australian actor played Wolverine in the X-Men franchise for nearly two decades?",
       "answers": [
-        {"text": "Hugh Jackman", "correct": true},
-        {"text": "Russell Crowe", "correct": false},
-        {"text": "Eric Bana", "correct": false},
-        {"text": "Simon Baker", "correct": false},
-        {"text": "Crocodile Dundee", "correct": false, "absurd": true}
+        {
+          "text": "Hugh Jackman",
+          "correct": true
+        },
+        {
+          "text": "Russell Crowe",
+          "correct": false
+        },
+        {
+          "text": "Eric Bana",
+          "correct": false
+        },
+        {
+          "text": "Simon Baker",
+          "correct": false
+        },
+        {
+          "text": "Crocodile Dundee",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
@@ -133,11 +277,27 @@
       "id": "apc_010",
       "question": "Which Australian pop star is often nicknamed \"The Princess of Pop\"?",
       "answers": [
-        {"text": "Kylie Minogue", "correct": true},
-        {"text": "Delta Goodrem", "correct": false},
-        {"text": "Natalie Imbruglia", "correct": false},
-        {"text": "Dami Im", "correct": false},
-        {"text": "Princess Fiona", "correct": false, "absurd": true}
+        {
+          "text": "Kylie Minogue",
+          "correct": true
+        },
+        {
+          "text": "Delta Goodrem",
+          "correct": false
+        },
+        {
+          "text": "Natalie Imbruglia",
+          "correct": false
+        },
+        {
+          "text": "Dami Im",
+          "correct": false
+        },
+        {
+          "text": "Princess Fiona",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
@@ -146,11 +306,27 @@
       "id": "apc_026",
       "question": "Which Australian psychedelic rock band, led by Kevin Parker, is known for the album \"Currents\"?",
       "answers": [
-        {"text": "Tame Impala", "correct": true},
-        {"text": "Pond", "correct": false},
-        {"text": "Methyl Ethel", "correct": false},
-        {"text": "Courtney Barnett", "correct": false},
-        {"text": "Kevin Bacon", "correct": false, "absurd": true}
+        {
+          "text": "Tame Impala",
+          "correct": true
+        },
+        {
+          "text": "Pond",
+          "correct": false
+        },
+        {
+          "text": "Methyl Ethel",
+          "correct": false
+        },
+        {
+          "text": "Courtney Barnett",
+          "correct": false
+        },
+        {
+          "text": "Kevin Bacon",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
@@ -159,50 +335,114 @@
       "id": "apc_027",
       "question": "Which Australian children's music group is famous for colorful shirts and the song \"Hot Potato\"?",
       "answers": [
-        {"text": "The Wiggles", "correct": true},
-        {"text": "Hi-5", "correct": false},
-        {"text": "The Hooley Dooleys", "correct": false},
-        {"text": "Play School", "correct": false},
-        {"text": "The Wobblegongs", "correct": false, "absurd": true}
+        {
+          "text": "The Wiggles",
+          "correct": true
+        },
+        {
+          "text": "Hi-5",
+          "correct": false
+        },
+        {
+          "text": "The Hooley Dooleys",
+          "correct": false
+        },
+        {
+          "text": "Play School",
+          "correct": false
+        },
+        {
+          "text": "The Wobblegongs",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_028",
-      "question": "Which Australian sprinter won gold in the 400m at the 2000 Sydney Olympics and famously carried both the Aboriginal and Australian flags on her victory lap?",
+      "question": "Which Australian sprinter won 400m gold at the 2000 Sydney Olympics, carrying both flags?",
       "answers": [
-        {"text": "Cathy Freeman", "correct": true},
-        {"text": "Nova Peris", "correct": false},
-        {"text": "Melinda Gainsford-Taylor", "correct": false},
-        {"text": "Jana Pittman", "correct": false},
-        {"text": "Usain Bolt", "correct": false, "absurd": true}
+        {
+          "text": "Cathy Freeman",
+          "correct": true
+        },
+        {
+          "text": "Nova Peris",
+          "correct": false
+        },
+        {
+          "text": "Melinda Gainsford-Taylor",
+          "correct": false
+        },
+        {
+          "text": "Jana Pittman",
+          "correct": false
+        },
+        {
+          "text": "Usain Bolt",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_029",
-      "question": "Which Australian wildlife expert hosted the TV show \"The Crocodile Hunter\" before his tragic death in 2006?",
+      "question": "Who hosted \"The Crocodile Hunter\" before his death in 2006?",
       "answers": [
-        {"text": "Steve Irwin", "correct": true},
-        {"text": "David Attenborough", "correct": false},
-        {"text": "Malcolm Douglas", "correct": false},
-        {"text": "Terry Domico", "correct": false},
-        {"text": "Bear Grylls", "correct": false, "absurd": true}
+        {
+          "text": "Steve Irwin",
+          "correct": true
+        },
+        {
+          "text": "David Attenborough",
+          "correct": false
+        },
+        {
+          "text": "Malcolm Douglas",
+          "correct": false
+        },
+        {
+          "text": "Terry Domico",
+          "correct": false
+        },
+        {
+          "text": "Bear Grylls",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_030",
-      "question": "Which Australian actor posthumously won the Academy Award for Best Supporting Actor for playing The Joker in \"The Dark Knight\"?",
+      "question": "Which Australian actor posthumously won the Oscar for Best Supporting Actor for playing The Joker?",
       "answers": [
-        {"text": "Heath Ledger", "correct": true},
-        {"text": "Guy Pearce", "correct": false},
-        {"text": "Hugo Weaving", "correct": false},
-        {"text": "Joel Edgerton", "correct": false},
-        {"text": "The Clown Prince of Crime himself", "correct": false, "absurd": true}
+        {
+          "text": "Heath Ledger",
+          "correct": true
+        },
+        {
+          "text": "Guy Pearce",
+          "correct": false
+        },
+        {
+          "text": "Hugo Weaving",
+          "correct": false
+        },
+        {
+          "text": "Joel Edgerton",
+          "correct": false
+        },
+        {
+          "text": "The Clown Prince of Crime himself",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
@@ -211,11 +451,27 @@
       "id": "apc_031",
       "question": "Which Australian singer had a massive worldwide hit in 2019 with the song \"Dance Monkey\"?",
       "answers": [
-        {"text": "Tones and I", "correct": true},
-        {"text": "Amy Shark", "correct": false},
-        {"text": "Vera Blue", "correct": false},
-        {"text": "G Flip", "correct": false},
-        {"text": "The Monkees", "correct": false, "absurd": true}
+        {
+          "text": "Tones and I",
+          "correct": true
+        },
+        {
+          "text": "Amy Shark",
+          "correct": false
+        },
+        {
+          "text": "Vera Blue",
+          "correct": false
+        },
+        {
+          "text": "G Flip",
+          "correct": false
+        },
+        {
+          "text": "The Monkees",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
@@ -224,24 +480,56 @@
       "id": "apc_032",
       "question": "Which beloved Australian comedy series features the characters Kath Day-Knight and her daughter Kim Craig?",
       "answers": [
-        {"text": "Kath & Kim", "correct": true},
-        {"text": "Packed to the Rafters", "correct": false},
-        {"text": "Mother and Son", "correct": false},
-        {"text": "Offspring", "correct": false},
-        {"text": "Bazza and Cheryl", "correct": false, "absurd": true}
+        {
+          "text": "Kath & Kim",
+          "correct": true
+        },
+        {
+          "text": "Packed to the Rafters",
+          "correct": false
+        },
+        {
+          "text": "Mother and Son",
+          "correct": false
+        },
+        {
+          "text": "Offspring",
+          "correct": false
+        },
+        {
+          "text": "Bazza and Cheryl",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_033",
-      "question": "Which Australian actress has won two Academy Awards for acting, including Best Actress for \"Blue Jasmine\" (2014)?",
+      "question": "Which Australian actress won two acting Oscars, including Best Actress for \"Blue Jasmine\"?",
       "answers": [
-        {"text": "Cate Blanchett", "correct": true},
-        {"text": "Nicole Kidman", "correct": false},
-        {"text": "Naomi Watts", "correct": false},
-        {"text": "Toni Collette", "correct": false},
-        {"text": "Dame Judi Dench", "correct": false, "absurd": true}
+        {
+          "text": "Cate Blanchett",
+          "correct": true
+        },
+        {
+          "text": "Nicole Kidman",
+          "correct": false
+        },
+        {
+          "text": "Naomi Watts",
+          "correct": false
+        },
+        {
+          "text": "Toni Collette",
+          "correct": false
+        },
+        {
+          "text": "Dame Judi Dench",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
@@ -250,24 +538,56 @@
       "id": "apc_034",
       "question": "Which Australian-raised country music star, married to Nicole Kidman, has won four Grammy Awards?",
       "answers": [
-        {"text": "Keith Urban", "correct": true},
-        {"text": "Kasey Chambers", "correct": false},
-        {"text": "Lee Kernaghan", "correct": false},
-        {"text": "Troy Cassar-Daley", "correct": false},
-        {"text": "Billy Ray Cyrus", "correct": false, "absurd": true}
+        {
+          "text": "Keith Urban",
+          "correct": true
+        },
+        {
+          "text": "Kasey Chambers",
+          "correct": false
+        },
+        {
+          "text": "Lee Kernaghan",
+          "correct": false
+        },
+        {
+          "text": "Troy Cassar-Daley",
+          "correct": false
+        },
+        {
+          "text": "Billy Ray Cyrus",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_035",
-      "question": "Which Australian reality TV show pairs complete strangers who agree to marry each other before they have ever met?",
+      "question": "Which Australian reality TV show pairs strangers who agree to marry before meeting?",
       "answers": [
-        {"text": "Married at First Sight", "correct": true},
-        {"text": "The Bachelor Australia", "correct": false},
-        {"text": "Love Island Australia", "correct": false},
-        {"text": "Farmer Wants a Wife", "correct": false},
-        {"text": "The Wedding Planner", "correct": false, "absurd": true}
+        {
+          "text": "Married at First Sight",
+          "correct": true
+        },
+        {
+          "text": "The Bachelor Australia",
+          "correct": false
+        },
+        {
+          "text": "Love Island Australia",
+          "correct": false
+        },
+        {
+          "text": "Farmer Wants a Wife",
+          "correct": false
+        },
+        {
+          "text": "The Wedding Planner",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Australian Pop Culture"
@@ -276,11 +596,27 @@
       "id": "apc_011",
       "question": "Which Australian band, fronted by Michael Hutchence, recorded \"Need You Tonight\"?",
       "answers": [
-        {"text": "INXS", "correct": true},
-        {"text": "Midnight Oil", "correct": false},
-        {"text": "Cold Chisel", "correct": false},
-        {"text": "Crowded House", "correct": false},
-        {"text": "Midnight Rush", "correct": false, "absurd": true}
+        {
+          "text": "INXS",
+          "correct": true
+        },
+        {
+          "text": "Midnight Oil",
+          "correct": false
+        },
+        {
+          "text": "Cold Chisel",
+          "correct": false
+        },
+        {
+          "text": "Crowded House",
+          "correct": false
+        },
+        {
+          "text": "Midnight Rush",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
@@ -289,11 +625,27 @@
       "id": "apc_012",
       "question": "Which 1997 Australian comedy film features the iconic line \"Tell him he's dreaming\"?",
       "answers": [
-        {"text": "The Castle", "correct": true},
-        {"text": "The Dish", "correct": false},
-        {"text": "Muriel's Wedding", "correct": false},
-        {"text": "Strictly Ballroom", "correct": false},
-        {"text": "The Shed", "correct": false, "absurd": true}
+        {
+          "text": "The Castle",
+          "correct": true
+        },
+        {
+          "text": "The Dish",
+          "correct": false
+        },
+        {
+          "text": "Muriel's Wedding",
+          "correct": false
+        },
+        {
+          "text": "Strictly Ballroom",
+          "correct": false
+        },
+        {
+          "text": "The Shed",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
@@ -302,37 +654,85 @@
       "id": "apc_013",
       "question": "Which Australian actor played the title character in \"Crocodile Dundee\" (1986)?",
       "answers": [
-        {"text": "Paul Hogan", "correct": true},
-        {"text": "Mel Gibson", "correct": false},
-        {"text": "Yahoo Serious", "correct": false},
-        {"text": "Jack Thompson", "correct": false},
-        {"text": "Mick Jagger", "correct": false, "absurd": true}
+        {
+          "text": "Paul Hogan",
+          "correct": true
+        },
+        {
+          "text": "Mel Gibson",
+          "correct": false
+        },
+        {
+          "text": "Yahoo Serious",
+          "correct": false
+        },
+        {
+          "text": "Jack Thompson",
+          "correct": false
+        },
+        {
+          "text": "Mick Jagger",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_014",
-      "question": "Which Australian singer, famous for performing with a long blonde wig covering her face, recorded \"Chandelier\"?",
+      "question": "Which Australian singer, known for performing with a blonde wig over her face, recorded \"Chandelier\"?",
       "answers": [
-        {"text": "Sia", "correct": true},
-        {"text": "Tones and I", "correct": false},
-        {"text": "Amy Shark", "correct": false},
-        {"text": "Vera Blue", "correct": false},
-        {"text": "Lady Godiva", "correct": false, "absurd": true}
+        {
+          "text": "Sia",
+          "correct": true
+        },
+        {
+          "text": "Tones and I",
+          "correct": false
+        },
+        {
+          "text": "Amy Shark",
+          "correct": false
+        },
+        {
+          "text": "Vera Blue",
+          "correct": false
+        },
+        {
+          "text": "Lady Godiva",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_015",
-      "question": "Which Australian band released \"Beds Are Burning\" in 1987, an anthem calling for the return of land to Indigenous Australians?",
+      "question": "Which Australian band released \"Beds Are Burning\" in 1987, calling for Indigenous land rights?",
       "answers": [
-        {"text": "Midnight Oil", "correct": true},
-        {"text": "Yothu Yindi", "correct": false},
-        {"text": "Cold Chisel", "correct": false},
-        {"text": "Goanna", "correct": false},
-        {"text": "The Sleepy Blankets", "correct": false, "absurd": true}
+        {
+          "text": "Midnight Oil",
+          "correct": true
+        },
+        {
+          "text": "Yothu Yindi",
+          "correct": false
+        },
+        {
+          "text": "Cold Chisel",
+          "correct": false
+        },
+        {
+          "text": "Goanna",
+          "correct": false
+        },
+        {
+          "text": "The Sleepy Blankets",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
@@ -341,24 +741,56 @@
       "id": "apc_016",
       "question": "Which Australian actress starred as Fat Amy in the \"Pitch Perfect\" film series?",
       "answers": [
-        {"text": "Rebel Wilson", "correct": true},
-        {"text": "Rose Byrne", "correct": false},
-        {"text": "Isla Fisher", "correct": false},
-        {"text": "Cate Blanchett", "correct": false},
-        {"text": "Meryl Streep", "correct": false, "absurd": true}
+        {
+          "text": "Rebel Wilson",
+          "correct": true
+        },
+        {
+          "text": "Rose Byrne",
+          "correct": false
+        },
+        {
+          "text": "Isla Fisher",
+          "correct": false
+        },
+        {
+          "text": "Cate Blanchett",
+          "correct": false
+        },
+        {
+          "text": "Meryl Streep",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_017",
-      "question": "Which Australian director is responsible for both the Mad Max franchise and the animated film \"Happy Feet\" (2006)?",
+      "question": "Which Australian director made both the Mad Max franchise and *Happy Feet* (2006)?",
       "answers": [
-        {"text": "George Miller", "correct": true},
-        {"text": "Peter Weir", "correct": false},
-        {"text": "Gillian Armstrong", "correct": false},
-        {"text": "Fred Schepisi", "correct": false},
-        {"text": "Russell Crowe", "correct": false, "absurd": true}
+        {
+          "text": "George Miller",
+          "correct": true
+        },
+        {
+          "text": "Peter Weir",
+          "correct": false
+        },
+        {
+          "text": "Gillian Armstrong",
+          "correct": false
+        },
+        {
+          "text": "Fred Schepisi",
+          "correct": false
+        },
+        {
+          "text": "Russell Crowe",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
@@ -367,11 +799,27 @@
       "id": "apc_018",
       "question": "Which Australian cooking competition show launched the careers of judges Matt Preston and George Calombaris?",
       "answers": [
-        {"text": "MasterChef Australia", "correct": true},
-        {"text": "My Kitchen Rules", "correct": false},
-        {"text": "The Great Australian Bake Off", "correct": false},
-        {"text": "Hell's Kitchen Australia", "correct": false},
-        {"text": "The Iron Chefs", "correct": false, "absurd": true}
+        {
+          "text": "MasterChef Australia",
+          "correct": true
+        },
+        {
+          "text": "My Kitchen Rules",
+          "correct": false
+        },
+        {
+          "text": "The Great Australian Bake Off",
+          "correct": false
+        },
+        {
+          "text": "Hell's Kitchen Australia",
+          "correct": false
+        },
+        {
+          "text": "The Iron Chefs",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
@@ -380,24 +828,56 @@
       "id": "apc_019",
       "question": "Which Australian pop duo, consisting of Darren Hayes and Daniel Jones, recorded \"Truly Madly Deeply\"?",
       "answers": [
-        {"text": "Savage Garden", "correct": true},
-        {"text": "Air Supply", "correct": false},
-        {"text": "The Dissociatives", "correct": false},
-        {"text": "Killing Heidi", "correct": false},
-        {"text": "Velvet Hammer", "correct": false, "absurd": true}
+        {
+          "text": "Savage Garden",
+          "correct": true
+        },
+        {
+          "text": "Air Supply",
+          "correct": false
+        },
+        {
+          "text": "The Dissociatives",
+          "correct": false
+        },
+        {
+          "text": "Killing Heidi",
+          "correct": false
+        },
+        {
+          "text": "Velvet Hammer",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_020",
-      "question": "Which Australian renovation reality show features teams of contestants competing to transform homes across Australian cities?",
+      "question": "Which Australian renovation reality show features teams competing to transform homes?",
       "answers": [
-        {"text": "The Block", "correct": true},
-        {"text": "House Rules", "correct": false},
-        {"text": "Reno Rumble", "correct": false},
-        {"text": "Selling Houses Australia", "correct": false},
-        {"text": "Bob the Builder", "correct": false, "absurd": true}
+        {
+          "text": "The Block",
+          "correct": true
+        },
+        {
+          "text": "House Rules",
+          "correct": false
+        },
+        {
+          "text": "Reno Rumble",
+          "correct": false
+        },
+        {
+          "text": "Selling Houses Australia",
+          "correct": false
+        },
+        {
+          "text": "Bob the Builder",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
@@ -406,11 +886,27 @@
       "id": "apc_036",
       "question": "Which iconic Queensland rock band released the breakthrough album \"Odyssey Number Five\" in 2000?",
       "answers": [
-        {"text": "Powderfinger", "correct": true},
-        {"text": "Regurgitator", "correct": false},
-        {"text": "The Veronicas", "correct": false},
-        {"text": "Savage Garden", "correct": false},
-        {"text": "The Brisbane Lions", "correct": false, "absurd": true}
+        {
+          "text": "Powderfinger",
+          "correct": true
+        },
+        {
+          "text": "Regurgitator",
+          "correct": false
+        },
+        {
+          "text": "The Veronicas",
+          "correct": false
+        },
+        {
+          "text": "Savage Garden",
+          "correct": false
+        },
+        {
+          "text": "The Brisbane Lions",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
@@ -419,50 +915,114 @@
       "id": "apc_037",
       "question": "Which Australian comedian created and starred in the mockumentary series \"Summer Heights High\"?",
       "answers": [
-        {"text": "Chris Lilley", "correct": true},
-        {"text": "Hamish Blake", "correct": false},
-        {"text": "Josh Thomas", "correct": false},
-        {"text": "Charlie Pickering", "correct": false},
-        {"text": "Mr. G", "correct": false, "absurd": true}
+        {
+          "text": "Chris Lilley",
+          "correct": true
+        },
+        {
+          "text": "Hamish Blake",
+          "correct": false
+        },
+        {
+          "text": "Josh Thomas",
+          "correct": false
+        },
+        {
+          "text": "Charlie Pickering",
+          "correct": false
+        },
+        {
+          "text": "Mr. G",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_038",
-      "question": "Which Australian radio duo became famous for their long-running comedy program and \"Gap Year\" travel specials?",
+      "question": "Which Australian radio duo is famous for their comedy program and \"Gap Year\" travel specials?",
       "answers": [
-        {"text": "Hamish Blake and Andy Lee", "correct": true},
-        {"text": "Dave Hughes and Kate Langbroek", "correct": false},
-        {"text": "Kyle Sandilands and Jackie O", "correct": false},
-        {"text": "Merrick and Rosso", "correct": false},
-        {"text": "Simon and Garfunkel", "correct": false, "absurd": true}
+        {
+          "text": "Hamish Blake and Andy Lee",
+          "correct": true
+        },
+        {
+          "text": "Dave Hughes and Kate Langbroek",
+          "correct": false
+        },
+        {
+          "text": "Kyle Sandilands and Jackie O",
+          "correct": false
+        },
+        {
+          "text": "Merrick and Rosso",
+          "correct": false
+        },
+        {
+          "text": "Simon and Garfunkel",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_039",
-      "question": "Which Australian crime drama series, based on real events from Melbourne's gangland war of the 1990s and 2000s, first aired in 2008?",
+      "question": "Which Australian crime drama, based on Melbourne's gangland war, first aired in 2008?",
       "answers": [
-        {"text": "Underbelly", "correct": true},
-        {"text": "Blue Heelers", "correct": false},
-        {"text": "Rush", "correct": false},
-        {"text": "East West 101", "correct": false},
-        {"text": "The Sopranos: Melbourne", "correct": false, "absurd": true}
+        {
+          "text": "Underbelly",
+          "correct": true
+        },
+        {
+          "text": "Blue Heelers",
+          "correct": false
+        },
+        {
+          "text": "Rush",
+          "correct": false
+        },
+        {
+          "text": "East West 101",
+          "correct": false
+        },
+        {
+          "text": "The Sopranos: Melbourne",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_040",
-      "question": "Which iconic Australian children's TV series, based on Paul Jennings' stories and set in a lighthouse, aired from 1990 to 2001?",
+      "question": "Which Australian children's TV series, based on Paul Jennings' stories, was set in a lighthouse?",
       "answers": [
-        {"text": "Round the Twist", "correct": true},
-        {"text": "Pugwall", "correct": false},
-        {"text": "Crash Zone", "correct": false},
-        {"text": "Ship to Shore", "correct": false},
-        {"text": "Lighthouse Keep", "correct": false, "absurd": true}
+        {
+          "text": "Round the Twist",
+          "correct": true
+        },
+        {
+          "text": "Pugwall",
+          "correct": false
+        },
+        {
+          "text": "Crash Zone",
+          "correct": false
+        },
+        {
+          "text": "Ship to Shore",
+          "correct": false
+        },
+        {
+          "text": "Lighthouse Keep",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
@@ -471,11 +1031,27 @@
       "id": "apc_041",
       "question": "Which controversial Australian stand-up comedian is known for the Netflix specials \"Bare\" and \"FREEDUMB\"?",
       "answers": [
-        {"text": "Jim Jefferies", "correct": true},
-        {"text": "Dave Hughes", "correct": false},
-        {"text": "Wil Anderson", "correct": false},
-        {"text": "Carl Barron", "correct": false},
-        {"text": "Bill Burr", "correct": false, "absurd": true}
+        {
+          "text": "Jim Jefferies",
+          "correct": true
+        },
+        {
+          "text": "Dave Hughes",
+          "correct": false
+        },
+        {
+          "text": "Wil Anderson",
+          "correct": false
+        },
+        {
+          "text": "Carl Barron",
+          "correct": false
+        },
+        {
+          "text": "Bill Burr",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
@@ -484,11 +1060,27 @@
       "id": "apc_042",
       "question": "Which Australian swimmer, nicknamed \"The Thorpedo,\" won three gold medals at the 2000 Sydney Olympics?",
       "answers": [
-        {"text": "Ian Thorpe", "correct": true},
-        {"text": "Michael Klim", "correct": false},
-        {"text": "Grant Hackett", "correct": false},
-        {"text": "Kieren Perkins", "correct": false},
-        {"text": "Nemo", "correct": false, "absurd": true}
+        {
+          "text": "Ian Thorpe",
+          "correct": true
+        },
+        {
+          "text": "Michael Klim",
+          "correct": false
+        },
+        {
+          "text": "Grant Hackett",
+          "correct": false
+        },
+        {
+          "text": "Kieren Perkins",
+          "correct": false
+        },
+        {
+          "text": "Nemo",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
@@ -497,11 +1089,27 @@
       "id": "apc_043",
       "question": "Which Australian singer had a massive international hit in 1997 with the song \"Torn\"?",
       "answers": [
-        {"text": "Natalie Imbruglia", "correct": true},
-        {"text": "Tina Arena", "correct": false},
-        {"text": "Vanessa Amorosi", "correct": false},
-        {"text": "Kate Ceberano", "correct": false},
-        {"text": "Tina Turner", "correct": false, "absurd": true}
+        {
+          "text": "Natalie Imbruglia",
+          "correct": true
+        },
+        {
+          "text": "Tina Arena",
+          "correct": false
+        },
+        {
+          "text": "Vanessa Amorosi",
+          "correct": false
+        },
+        {
+          "text": "Kate Ceberano",
+          "correct": false
+        },
+        {
+          "text": "Tina Turner",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
@@ -510,24 +1118,56 @@
       "id": "apc_044",
       "question": "Which Australian tennis player became world number 1 and won Wimbledon in 2002?",
       "answers": [
-        {"text": "Lleyton Hewitt", "correct": true},
-        {"text": "Pat Rafter", "correct": false},
-        {"text": "Mark Philippoussis", "correct": false},
-        {"text": "Todd Woodbridge", "correct": false},
-        {"text": "Shane Warne", "correct": false, "absurd": true}
+        {
+          "text": "Lleyton Hewitt",
+          "correct": true
+        },
+        {
+          "text": "Pat Rafter",
+          "correct": false
+        },
+        {
+          "text": "Mark Philippoussis",
+          "correct": false
+        },
+        {
+          "text": "Todd Woodbridge",
+          "correct": false
+        },
+        {
+          "text": "Shane Warne",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_045",
-      "question": "Which Australian musician is the frontman of the gothic rock band known as \"the Bad Seeds\"?",
+      "question": "Which Australian musician fronts the gothic rock band the Bad Seeds?",
       "answers": [
-        {"text": "Nick Cave", "correct": true},
-        {"text": "Paul Kelly", "correct": false},
-        {"text": "Tex Perkins", "correct": false},
-        {"text": "Dave McCormack", "correct": false},
-        {"text": "Bad Santa", "correct": false, "absurd": true}
+        {
+          "text": "Nick Cave",
+          "correct": true
+        },
+        {
+          "text": "Paul Kelly",
+          "correct": false
+        },
+        {
+          "text": "Tex Perkins",
+          "correct": false
+        },
+        {
+          "text": "Dave McCormack",
+          "correct": false
+        },
+        {
+          "text": "Bad Santa",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Australian Pop Culture"
@@ -536,24 +1176,56 @@
       "id": "apc_021",
       "question": "Which Australian director made both \"Strictly Ballroom\" (1992) and \"Romeo + Juliet\" (1996)?",
       "answers": [
-        {"text": "Baz Luhrmann", "correct": true},
-        {"text": "Gillian Armstrong", "correct": false},
-        {"text": "Fred Schepisi", "correct": false},
-        {"text": "Simon Wincer", "correct": false},
-        {"text": "Ken Burns", "correct": false, "absurd": true}
+        {
+          "text": "Baz Luhrmann",
+          "correct": true
+        },
+        {
+          "text": "Gillian Armstrong",
+          "correct": false
+        },
+        {
+          "text": "Fred Schepisi",
+          "correct": false
+        },
+        {
+          "text": "Simon Wincer",
+          "correct": false
+        },
+        {
+          "text": "Ken Burns",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_022",
-      "question": "What was the name of the character Kylie Minogue played in \"Neighbours\" before launching her music career?",
+      "question": "What character did Kylie Minogue play in \"Neighbours\" before her music career?",
       "answers": [
-        {"text": "Charlene Mitchell", "correct": true},
-        {"text": "Madge Bishop", "correct": false},
-        {"text": "Jane Harris", "correct": false},
-        {"text": "Daphne Lawrence", "correct": false},
-        {"text": "Shazza McLachlan", "correct": false, "absurd": true}
+        {
+          "text": "Charlene Mitchell",
+          "correct": true
+        },
+        {
+          "text": "Madge Bishop",
+          "correct": false
+        },
+        {
+          "text": "Jane Harris",
+          "correct": false
+        },
+        {
+          "text": "Daphne Lawrence",
+          "correct": false
+        },
+        {
+          "text": "Shazza McLachlan",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Australian Pop Culture"
@@ -562,24 +1234,56 @@
       "id": "apc_023",
       "question": "In what year did INXS frontman Michael Hutchence die in Sydney?",
       "answers": [
-        {"text": "1997", "correct": true},
-        {"text": "1994", "correct": false},
-        {"text": "1999", "correct": false},
-        {"text": "2001", "correct": false},
-        {"text": "2099", "correct": false, "absurd": true}
+        {
+          "text": "1997",
+          "correct": true
+        },
+        {
+          "text": "1994",
+          "correct": false
+        },
+        {
+          "text": "1999",
+          "correct": false
+        },
+        {
+          "text": "2001",
+          "correct": false
+        },
+        {
+          "text": "2099",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_024",
-      "question": "Which Australian band recorded \"Eagle Rock\" (1971), a song associated with the tradition of audience members removing clothing when it plays?",
+      "question": "Which Australian band recorded \"Eagle Rock\" (1971), known for prompting audiences to remove clothing?",
       "answers": [
-        {"text": "Daddy Cool", "correct": true},
-        {"text": "Skyhooks", "correct": false},
-        {"text": "Billy Thorpe and the Aztecs", "correct": false},
-        {"text": "Masters Apprentices", "correct": false},
-        {"text": "Eagles", "correct": false, "absurd": true}
+        {
+          "text": "Daddy Cool",
+          "correct": true
+        },
+        {
+          "text": "Skyhooks",
+          "correct": false
+        },
+        {
+          "text": "Billy Thorpe and the Aztecs",
+          "correct": false
+        },
+        {
+          "text": "Masters Apprentices",
+          "correct": false
+        },
+        {
+          "text": "Eagles",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Australian Pop Culture"
@@ -588,37 +1292,85 @@
       "id": "apc_025",
       "question": "What is the real name of Australian rapper Iggy Azalea?",
       "answers": [
-        {"text": "Amethyst Amelia Kelly", "correct": true},
-        {"text": "Ingrid Azalea", "correct": false},
-        {"text": "Angela Marie Carter", "correct": false},
-        {"text": "Amy Louise Thomas", "correct": false},
-        {"text": "Igloo Koalafield", "correct": false, "absurd": true}
+        {
+          "text": "Amethyst Amelia Kelly",
+          "correct": true
+        },
+        {
+          "text": "Ingrid Azalea",
+          "correct": false
+        },
+        {
+          "text": "Angela Marie Carter",
+          "correct": false
+        },
+        {
+          "text": "Amy Louise Thomas",
+          "correct": false
+        },
+        {
+          "text": "Igloo Koalafield",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_046",
-      "question": "Which Australian band featured George Young (older brother of AC/DC's Angus and Malcolm) and released the 1966 hit \"Friday on My Mind\"?",
+      "question": "Which Australian band featured George Young and released the 1966 hit \"Friday on My Mind\"?",
       "answers": [
-        {"text": "The Easybeats", "correct": true},
-        {"text": "The Masters Apprentices", "correct": false},
-        {"text": "Billy Thorpe and the Aztecs", "correct": false},
-        {"text": "The Twilights", "correct": false},
-        {"text": "The Monday Group", "correct": false, "absurd": true}
+        {
+          "text": "The Easybeats",
+          "correct": true
+        },
+        {
+          "text": "The Masters Apprentices",
+          "correct": false
+        },
+        {
+          "text": "Billy Thorpe and the Aztecs",
+          "correct": false
+        },
+        {
+          "text": "The Twilights",
+          "correct": false
+        },
+        {
+          "text": "The Monday Group",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_047",
-      "question": "Which 1906 Australian film about bushranger Ned Kelly is widely regarded as the world's first feature-length narrative film?",
+      "question": "Which 1906 Australian film about Ned Kelly is considered the world's first feature film?",
       "answers": [
-        {"text": "The Story of the Kelly Gang", "correct": true},
-        {"text": "Soldiers of the Cross", "correct": false},
-        {"text": "The Life of Ned Kelly", "correct": false},
-        {"text": "Robbery Under Arms", "correct": false},
-        {"text": "Birth of a Nation", "correct": false, "absurd": true}
+        {
+          "text": "The Story of the Kelly Gang",
+          "correct": true
+        },
+        {
+          "text": "Soldiers of the Cross",
+          "correct": false
+        },
+        {
+          "text": "The Life of Ned Kelly",
+          "correct": false
+        },
+        {
+          "text": "Robbery Under Arms",
+          "correct": false
+        },
+        {
+          "text": "Birth of a Nation",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Australian Pop Culture"
@@ -627,37 +1379,85 @@
       "id": "apc_048",
       "question": "Who directed the 1986 film \"Crocodile Dundee\"?",
       "answers": [
-        {"text": "Peter Faiman", "correct": true},
-        {"text": "Paul Hogan", "correct": false},
-        {"text": "John Cornell", "correct": false},
-        {"text": "Simon Wincer", "correct": false},
-        {"text": "The crocodile itself", "correct": false, "absurd": true}
+        {
+          "text": "Peter Faiman",
+          "correct": true
+        },
+        {
+          "text": "Paul Hogan",
+          "correct": false
+        },
+        {
+          "text": "John Cornell",
+          "correct": false
+        },
+        {
+          "text": "Simon Wincer",
+          "correct": false
+        },
+        {
+          "text": "The crocodile itself",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_049",
-      "question": "The Bee Gees, before becoming global superstars, grew up and launched their career in which Australian city?",
+      "question": "In which Australian city did the Bee Gees grow up and launch their career?",
       "answers": [
-        {"text": "Brisbane", "correct": true},
-        {"text": "Sydney", "correct": false},
-        {"text": "Melbourne", "correct": false},
-        {"text": "Gold Coast", "correct": false},
-        {"text": "Discoland", "correct": false, "absurd": true}
+        {
+          "text": "Brisbane",
+          "correct": true
+        },
+        {
+          "text": "Sydney",
+          "correct": false
+        },
+        {
+          "text": "Melbourne",
+          "correct": false
+        },
+        {
+          "text": "Gold Coast",
+          "correct": false
+        },
+        {
+          "text": "Discoland",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Australian Pop Culture"
     },
     {
       "id": "apc_050",
-      "question": "Which Australian actor played the villainous Tom Buchanan in Baz Luhrmann's 2013 film \"The Great Gatsby\"?",
+      "question": "Which Australian actor played Tom Buchanan in Baz Luhrmann's 2013 \"The Great Gatsby\"?",
       "answers": [
-        {"text": "Joel Edgerton", "correct": true},
-        {"text": "Hugo Weaving", "correct": false},
-        {"text": "Richard Roxburgh", "correct": false},
-        {"text": "Guy Pearce", "correct": false},
-        {"text": "Jay Gatsby himself", "correct": false, "absurd": true}
+        {
+          "text": "Joel Edgerton",
+          "correct": true
+        },
+        {
+          "text": "Hugo Weaving",
+          "correct": false
+        },
+        {
+          "text": "Richard Roxburgh",
+          "correct": false
+        },
+        {
+          "text": "Guy Pearce",
+          "correct": false
+        },
+        {
+          "text": "Jay Gatsby himself",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Australian Pop Culture"

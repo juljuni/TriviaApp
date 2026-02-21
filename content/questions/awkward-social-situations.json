@@ -14,7 +14,7 @@
   "questions": [
     {
       "id": "awk_001",
-      "question": "What embarrassing phrase do most people blurt out when a restaurant server wishes them 'enjoy your meal'?",
+      "question": "What do people embarrassingly say when a server says \"enjoy your meal\"?",
       "answers": [
         {
           "text": "You too",
@@ -43,7 +43,7 @@
     },
     {
       "id": "awk_002",
-      "question": "When you enthusiastically wave at someone who was not actually waving at you, what is the most common instinctive cover-up?",
+      "question": "What's the most common instinctive cover-up after waving at someone not waving at you?",
       "answers": [
         {
           "text": "Pretend to fix your hair",
@@ -72,7 +72,7 @@
     },
     {
       "id": "awk_003",
-      "question": "What classic strategy do people use to avoid revealing they have forgotten someone's name when introducing them to a third person?",
+      "question": "What strategy helps you hide forgetting someone's name when introducing them to others?",
       "answers": [
         {
           "text": "Let the other person introduce themselves",
@@ -101,7 +101,7 @@
     },
     {
       "id": "awk_004",
-      "question": "When you accidentally say 'I love you' to the wrong person at the end of a phone call, what do most people do first?",
+      "question": "What do most people do first after accidentally saying 'I love you' to the wrong person?",
       "answers": [
         {
           "text": "Hang up immediately",
@@ -130,7 +130,7 @@
     },
     {
       "id": "awk_005",
-      "question": "When you hold a door open for someone who is still too far away, forcing them into an apologetic jog-walk, what do most door-holders do?",
+      "question": "What do door-holders typically do after forcing someone into an apologetic jog-walk?",
       "answers": [
         {
           "text": "Give an apologetic smile and keep holding it",
@@ -159,7 +159,7 @@
     },
     {
       "id": "awk_006",
-      "question": "When you and a stranger keep stepping in the same direction while trying to pass each other in a corridor, what do most people eventually say?",
+      "question": "What do people say when they keep stepping the same way trying to pass?",
       "answers": [
         {
           "text": "Sorry, after you",
@@ -188,7 +188,7 @@
     },
     {
       "id": "awk_007",
-      "question": "What do most people stare at intently when they spot someone they know but desperately want to avoid?",
+      "question": "What do people stare at to avoid someone they recognize?",
       "answers": [
         {
           "text": "Their phone",
@@ -217,7 +217,7 @@
     },
     {
       "id": "awk_008",
-      "question": "When someone tells a joke you did not understand and you laugh anyway, what do most people do immediately after?",
+      "question": "What do most people do after fake-laughing at a joke they didn't understand?",
       "answers": [
         {
           "text": "Nod and hope no follow-up question comes",
@@ -246,7 +246,7 @@
     },
     {
       "id": "awk_009",
-      "question": "What is the most universally devastating single-character response to receive after sending a long, heartfelt text message?",
+      "question": "What single-character response is most devastating to receive after a heartfelt text?",
       "answers": [
         {
           "text": "k",
@@ -275,7 +275,7 @@
     },
     {
       "id": "awk_010",
-      "question": "What do most people immediately do the moment they realize they have accidentally liked a photo from years ago while scrolling through someone's profile?",
+      "question": "What do people typically do after accidentally liking an old photo on someone's profile?",
       "answers": [
         {
           "text": "Unlike it instantly and put the phone face-down",
@@ -304,7 +304,7 @@
     },
     {
       "id": "awk_011",
-      "question": "What term describes the anxiety felt when you can see that someone has opened and read your message but has not responded?",
+      "question": "What term describes anxiety from seeing your message was read but not replied to?",
       "answers": [
         {
           "text": "Read receipt anxiety",
@@ -333,7 +333,7 @@
     },
     {
       "id": "awk_012",
-      "question": "In modern texting etiquette, after approximately how many days does replying to a message typically become awkward without offering some explanation?",
+      "question": "After how many days does replying to a text become awkward without explanation?",
       "answers": [
         {
           "text": "3 days",
@@ -362,7 +362,7 @@
     },
     {
       "id": "awk_013",
-      "question": "What term describes the act of sending a second message to someone before they have replied to your first?",
+      "question": "What is it called when you message someone again before they've replied?",
       "answers": [
         {
           "text": "Double texting",
@@ -391,7 +391,7 @@
     },
     {
       "id": "awk_014",
-      "question": "When you unexpectedly run into your ex while they are with their new partner, what physical adjustment do most people make almost immediately?",
+      "question": "What physical adjustment do most people make when unexpectedly encountering their ex with a new partner?",
       "answers": [
         {
           "text": "Stand up straighter",
@@ -420,7 +420,7 @@
     },
     {
       "id": "awk_015",
-      "question": "What is the universally agreed safest conversation topic for elevator small talk with a colleague or stranger?",
+      "question": "What's considered the safest small talk topic in an elevator?",
       "answers": [
         {
           "text": "The weather",
@@ -449,7 +449,7 @@
     },
     {
       "id": "awk_016",
-      "question": "What is the term for when someone shares excessively personal information with a casual acquaintance or stranger far too early in the relationship?",
+      "question": "What is the term for sharing overly personal information too early with strangers?",
       "answers": [
         {
           "text": "Oversharing",
@@ -478,7 +478,7 @@
     },
     {
       "id": "awk_017",
-      "question": "What behavioral technique, recommended for disengaging from manipulative or excessively talkative people, involves giving deliberately flat and uninteresting responses?",
+      "question": "What technique involves giving deliberately flat responses to disengage from manipulative or talkative people?",
       "answers": [
         {
           "text": "Grey rocking",
@@ -507,7 +507,7 @@
     },
     {
       "id": "awk_018",
-      "question": "When you mishear someone three times in a row and still cannot understand them, what do most people do rather than ask a fourth time?",
+      "question": "What do most people do instead of asking someone to repeat themselves a fourth time?",
       "answers": [
         {
           "text": "Nod and pretend to have understood",
@@ -536,7 +536,7 @@
     },
     {
       "id": "awk_019",
-      "question": "What does receiving a text message written entirely in capital letters most commonly signal to the reader?",
+      "question": "What does a text message written entirely in capital letters commonly signal?",
       "answers": [
         {
           "text": "The sender is angry or shouting",
@@ -565,7 +565,7 @@
     },
     {
       "id": "awk_020",
-      "question": "What is the first thing most people do after accidentally hitting 'reply all' on a company email with a comment intended only for one person?",
+      "question": "What do most people do first after accidentally hitting \"reply all\" on an email?",
       "answers": [
         {
           "text": "Send a panicked recall message immediately",
@@ -594,7 +594,7 @@
     },
     {
       "id": "awk_021",
-      "question": "What psychological term describes the discomfort of watching someone else's embarrassing social blunder, even when the person committing it seems completely unaware?",
+      "question": "What psychological term describes discomfort from watching someone else's embarrassing social blunder?",
       "answers": [
         {
           "text": "Vicarious embarrassment",
@@ -623,7 +623,7 @@
     },
     {
       "id": "awk_022",
-      "question": "What French term, now used in English, describes the perfectly witty comeback that only occurs to you after the awkward moment has already passed?",
+      "question": "What French term describes a witty comeback you think of only after the moment has passed?",
       "answers": [
         {
           "text": "L'esprit de l'escalier",
@@ -652,7 +652,7 @@
     },
     {
       "id": "awk_023",
-      "question": "What term distinguishes the gradual deliberate reduction of contact with someone from an abrupt complete cessation of communication?",
+      "question": "What term contrasts gradual withdrawal from someone with abrupt complete cessation of contact?",
       "answers": [
         {
           "text": "The slow fade",
@@ -681,7 +681,7 @@
     },
     {
       "id": "awk_024",
-      "question": "What is the technical Freudian term for a verbal slip in which someone accidentally says what they unconsciously meant rather than what they consciously intended?",
+      "question": "What is the Freudian term for accidentally saying what you unconsciously meant?",
       "answers": [
         {
           "text": "Parapraxis",
@@ -710,7 +710,7 @@
     },
     {
       "id": "awk_025",
-      "question": "What psychological phenomenon explains why people consistently overestimate how much others notice and judge their appearance, behavior, or mistakes in social situations?",
+      "question": "What psychological phenomenon makes people overestimate how much others notice their appearance or mistakes?",
       "answers": [
         {
           "text": "The spotlight effect",
@@ -739,7 +739,7 @@
     },
     {
       "id": "awk_026",
-      "question": "When you go in for a handshake but the other person goes in for a hug simultaneously, what do most people end up performing?",
+      "question": "What do people typically end up doing when a handshake and hug attempt happen simultaneously?",
       "answers": [
         {
           "text": "An awkward combination of both, resulting in a shoulder pat",
@@ -768,7 +768,7 @@
     },
     {
       "id": "awk_027",
-      "question": "When you realize mid-story that you have already told this exact story to this exact person before, what do most people do?",
+      "question": "What do most people do when they realize mid-story they've already told it to that person?",
       "answers": [
         {
           "text": "Speed through the ending and hope the other person is too polite to mention it",
@@ -797,7 +797,7 @@
     },
     {
       "id": "awk_028",
-      "question": "What expression do most people wear on their face when a group of strangers or coworkers sings 'Happy Birthday' to them in a public setting?",
+      "question": "What expression do most people wear when strangers sing \"Happy Birthday\" to them?",
       "answers": [
         {
           "text": "An uncomfortable frozen smile held for the entire song",
@@ -826,7 +826,7 @@
     },
     {
       "id": "awk_029",
-      "question": "What typically happens when someone says 'you're welcome' before the other person has actually said thank you?",
+      "question": "What is it called when someone says \"you're welcome\" before being thanked?",
       "answers": [
         {
           "text": "They keep talking immediately to bury it",
@@ -855,7 +855,7 @@
     },
     {
       "id": "awk_030",
-      "question": "When you accidentally send a text clearly meant for someone else to the wrong person, what do most people do first?",
+      "question": "What do most people do first after sending a text to the wrong person?",
       "answers": [
         {
           "text": "Delete the message from the conversation if the platform allows it",
@@ -884,7 +884,7 @@
     },
     {
       "id": "awk_031",
-      "question": "What is the name given to the social phenomenon where two people say goodbye to each other but continue talking and fail to actually part ways for another ten minutes or more?",
+      "question": "What is the term for when two people say goodbye but keep talking instead of parting?",
       "answers": [
         {
           "text": "The long goodbye",
@@ -913,7 +913,7 @@
     },
     {
       "id": "awk_032",
-      "question": "When you walk past the street, shop, or door you intended to enter and do not want to look like you made a mistake, what do most people do?",
+      "question": "What do most people do to hide accidentally walking past their intended destination?",
       "answers": [
         {
           "text": "Continue walking a short distance before casually doubling back",
@@ -942,7 +942,7 @@
     },
     {
       "id": "awk_033",
-      "question": "When you accidentally laugh at exactly the wrong moment during a sad or serious conversation, what do most people instinctively do?",
+      "question": "What do people instinctively do when they accidentally laugh at a serious moment?",
       "answers": [
         {
           "text": "Convert the laugh into a cough or throat-clearing",
@@ -971,7 +971,7 @@
     },
     {
       "id": "awk_034",
-      "question": "When someone's name disappears from memory within seconds of being introduced, what strategy do most people use for the rest of the conversation?",
+      "question": "What strategy do people use when they forget someone's name seconds after introduction?",
       "answers": [
         {
           "text": "Avoid using the person's name entirely until they hear it again naturally",
@@ -1000,7 +1000,7 @@
     },
     {
       "id": "awk_035",
-      "question": "When someone is caught talking or singing to themselves in public and realizes others have noticed, what do most people instinctively do?",
+      "question": "What do most people instinctively do when caught talking to themselves in public?",
       "answers": [
         {
           "text": "Pretend they are on a phone call or listening through earbuds",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": "awk_036",
-      "question": "What is the term for the behavior of someone who has stopped communicating with you romantically or socially but continues watching all of your social media stories without making contact?",
+      "question": "What term describes someone who ghosts you but still watches all your social media stories?",
       "answers": [
         {
           "text": "Orbiting",
@@ -1087,7 +1087,7 @@
     },
     {
       "id": "awk_038",
-      "question": "What social media practice involves posting carefully ambiguous content that hints at a new romantic relationship without officially announcing it?",
+      "question": "What is it called when you hint at a new relationship on social media without announcing it?",
       "answers": [
         {
           "text": "Soft launching",
@@ -1145,7 +1145,7 @@
     },
     {
       "id": "awk_040",
-      "question": "When you realize mid-complaint that the person you are complaining about has just walked into the room behind you, what do most people do?",
+      "question": "What do most people do when they realize the person they're complaining about just walked in?",
       "answers": [
         {
           "text": "Abruptly change topic and act completely natural",
@@ -1174,7 +1174,7 @@
     },
     {
       "id": "awk_041",
-      "question": "What term describes the act of typing a message in a chat, changing your mind, and deleting it before sending — a behavior now visible to others through typing indicators?",
+      "question": "What term describes typing a message, then deleting it before sending?",
       "answers": [
         {
           "text": "Ghost typing",
@@ -1203,7 +1203,7 @@
     },
     {
       "id": "awk_042",
-      "question": "What name is given to the social media tactic of following an account to prompt a follow-back and then immediately unfollowing once the follow-back is secured?",
+      "question": "What is the social media tactic of following, getting a follow-back, then unfollowing called?",
       "answers": [
         {
           "text": "Follow-unfollow",
@@ -1232,7 +1232,7 @@
     },
     {
       "id": "awk_043",
-      "question": "What is the term for a romantic connection that is neither a casual hookup nor a committed relationship, existing in a deliberately undefined middle ground?",
+      "question": "What term describes a romantic connection deliberately kept undefined between hookup and committed relationship?",
       "answers": [
         {
           "text": "A situationship",
@@ -1290,7 +1290,7 @@
     },
     {
       "id": "awk_045",
-      "question": "What is the social term for the behavior of repeatedly agreeing to plans you have no intention of keeping, typically cancelling with a different excuse each time?",
+      "question": "What is the social term for repeatedly agreeing to plans you never intend to keep?",
       "answers": [
         {
           "text": "Flaking",
@@ -1319,7 +1319,7 @@
     },
     {
       "id": "awk_046",
-      "question": "According to Robin Dunbar's research on social cognition, what is the approximate maximum number of stable social relationships the human brain can comfortably maintain at one time?",
+      "question": "What is the maximum number of stable social relationships the human brain can maintain, per Dunbar?",
       "answers": [
         {
           "text": "150",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "awk_050",
-      "question": "What term describes the psychological mechanism explaining why individuals in a large group are less likely to help in an emergency, as each person assumes someone else will step in?",
+      "question": "What term describes why large groups are less likely to help, assuming others will?",
       "answers": [
         {
           "text": "Diffusion of responsibility",

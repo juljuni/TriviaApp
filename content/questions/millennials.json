@@ -14,13 +14,29 @@
   "questions": [
     {
       "id": "mil_001",
-      "question": "Which social networking site, popular in the early-to-mid 2000s, let users customize their profiles with HTML, background music, and choose a \"Top 8\" of friends?",
+      "question": "Which early 2000s social network let users customize profiles with HTML and choose a \"Top 8\" friends list?",
       "answers": [
-        {"text": "MySpace", "correct": true},
-        {"text": "Facebook", "correct": false},
-        {"text": "Friendster", "correct": false},
-        {"text": "Bebo", "correct": false},
-        {"text": "LinkedIn", "correct": false, "absurd": true}
+        {
+          "text": "MySpace",
+          "correct": true
+        },
+        {
+          "text": "Facebook",
+          "correct": false
+        },
+        {
+          "text": "Friendster",
+          "correct": false
+        },
+        {
+          "text": "Bebo",
+          "correct": false
+        },
+        {
+          "text": "LinkedIn",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
@@ -29,11 +45,27 @@
       "id": "mil_002",
       "question": "What was the name of the coffee house where the characters in \"Friends\" regularly hung out?",
       "answers": [
-        {"text": "Central Perk", "correct": true},
-        {"text": "The Max", "correct": false},
-        {"text": "The Peach Pit", "correct": false},
-        {"text": "Java Junction", "correct": false},
-        {"text": "The One Where They Drink Coffee", "correct": false, "absurd": true}
+        {
+          "text": "Central Perk",
+          "correct": true
+        },
+        {
+          "text": "The Max",
+          "correct": false
+        },
+        {
+          "text": "The Peach Pit",
+          "correct": false
+        },
+        {
+          "text": "Java Junction",
+          "correct": false
+        },
+        {
+          "text": "The One Where They Drink Coffee",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
@@ -42,11 +74,27 @@
       "id": "mil_003",
       "question": "Which boy band, featuring Justin Timberlake, released the iconic songs \"Bye Bye Bye\" and \"It's Gonna Be Me\"?",
       "answers": [
-        {"text": "NSYNC", "correct": true},
-        {"text": "Backstreet Boys", "correct": false},
-        {"text": "98 Degrees", "correct": false},
-        {"text": "Boyz II Men", "correct": false},
-        {"text": "Five Guys", "correct": false, "absurd": true}
+        {
+          "text": "NSYNC",
+          "correct": true
+        },
+        {
+          "text": "Backstreet Boys",
+          "correct": false
+        },
+        {
+          "text": "98 Degrees",
+          "correct": false
+        },
+        {
+          "text": "Boyz II Men",
+          "correct": false
+        },
+        {
+          "text": "Five Guys",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
@@ -55,11 +103,27 @@
       "id": "mil_004",
       "question": "Which British author wrote the \"Harry Potter\" series, beginning with \"The Philosopher's Stone\" in 1997?",
       "answers": [
-        {"text": "J.K. Rowling", "correct": true},
-        {"text": "Roald Dahl", "correct": false},
-        {"text": "Philip Pullman", "correct": false},
-        {"text": "C.S. Lewis", "correct": false},
-        {"text": "Albus Dumbledore", "correct": false, "absurd": true}
+        {
+          "text": "J.K. Rowling",
+          "correct": true
+        },
+        {
+          "text": "Roald Dahl",
+          "correct": false
+        },
+        {
+          "text": "Philip Pullman",
+          "correct": false
+        },
+        {
+          "text": "C.S. Lewis",
+          "correct": false
+        },
+        {
+          "text": "Albus Dumbledore",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
@@ -68,11 +132,27 @@
       "id": "mil_005",
       "question": "What technology, used for internet access throughout the 1990s, produced a distinctive screeching and hissing sound when establishing a connection?",
       "answers": [
-        {"text": "Dial-up modem", "correct": true},
-        {"text": "DSL router", "correct": false},
-        {"text": "Cable modem", "correct": false},
-        {"text": "Broadband adapter", "correct": false},
-        {"text": "A fax machine", "correct": false, "absurd": true}
+        {
+          "text": "Dial-up modem",
+          "correct": true
+        },
+        {
+          "text": "DSL router",
+          "correct": false
+        },
+        {
+          "text": "Cable modem",
+          "correct": false
+        },
+        {
+          "text": "Broadband adapter",
+          "correct": false
+        },
+        {
+          "text": "A fax machine",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
@@ -81,76 +161,172 @@
       "id": "mil_006",
       "question": "What is the title of the first film in Peter Jackson's \"The Lord of the Rings\" trilogy, released in 2001?",
       "answers": [
-        {"text": "The Fellowship of the Ring", "correct": true},
-        {"text": "The Two Towers", "correct": false},
-        {"text": "An Unexpected Journey", "correct": false},
-        {"text": "The Battle of Five Armies", "correct": false},
-        {"text": "The One Ring to Rule Them All", "correct": false, "absurd": true}
+        {
+          "text": "The Fellowship of the Ring",
+          "correct": true
+        },
+        {
+          "text": "The Two Towers",
+          "correct": false
+        },
+        {
+          "text": "An Unexpected Journey",
+          "correct": false
+        },
+        {
+          "text": "The Battle of Five Armies",
+          "correct": false
+        },
+        {
+          "text": "The One Ring to Rule Them All",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
     },
     {
       "id": "mil_007",
-      "question": "What style of jeans, sitting far below the natural waist and often exposing the hip bones, was a defining millennial fashion trend of the early 2000s?",
+      "question": "What style of jeans, sitting far below the natural waist and exposing hip bones, defined early 2000s fashion?",
       "answers": [
-        {"text": "Low-rise jeans", "correct": true},
-        {"text": "Bell-bottoms", "correct": false},
-        {"text": "Mom jeans", "correct": false},
-        {"text": "Baggy jeans", "correct": false},
-        {"text": "Crocs", "correct": false, "absurd": true}
+        {
+          "text": "Low-rise jeans",
+          "correct": true
+        },
+        {
+          "text": "Bell-bottoms",
+          "correct": false
+        },
+        {
+          "text": "Mom jeans",
+          "correct": false
+        },
+        {
+          "text": "Baggy jeans",
+          "correct": false
+        },
+        {
+          "text": "Crocs",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
     },
     {
       "id": "mil_008",
-      "question": "Which instant messaging service, featuring \"buddy lists\" and carefully crafted \"away messages,\" was the dominant chat platform for millennials in the early 2000s?",
+      "question": "Which instant messaging service, known for \"buddy lists\" and \"away messages,\" dominated millennial chat in the early 2000s?",
       "answers": [
-        {"text": "AIM", "correct": true},
-        {"text": "MSN Messenger", "correct": false},
-        {"text": "ICQ", "correct": false},
-        {"text": "Yahoo Messenger", "correct": false},
-        {"text": "Slack", "correct": false, "absurd": true}
+        {
+          "text": "AIM",
+          "correct": true
+        },
+        {
+          "text": "MSN Messenger",
+          "correct": false
+        },
+        {
+          "text": "ICQ",
+          "correct": false
+        },
+        {
+          "text": "Yahoo Messenger",
+          "correct": false
+        },
+        {
+          "text": "Slack",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
     },
     {
       "id": "mil_009",
-      "question": "Which Sony video game console, released in 2000, became the best-selling console of its generation with over 155 million units sold?",
+      "question": "Which Sony console, released in 2000, became the best-selling of its generation with over 155 million units sold?",
       "answers": [
-        {"text": "PlayStation 2", "correct": true},
-        {"text": "Nintendo GameCube", "correct": false},
-        {"text": "Sega Dreamcast", "correct": false},
-        {"text": "Original Xbox", "correct": false},
-        {"text": "A Sony Walkman", "correct": false, "absurd": true}
+        {
+          "text": "PlayStation 2",
+          "correct": true
+        },
+        {
+          "text": "Nintendo GameCube",
+          "correct": false
+        },
+        {
+          "text": "Sega Dreamcast",
+          "correct": false
+        },
+        {
+          "text": "Original Xbox",
+          "correct": false
+        },
+        {
+          "text": "A Sony Walkman",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
     },
     {
       "id": "mil_010",
-      "question": "Which US TV mockumentary series featured the character Michael Scott as the bumbling regional manager of the Dunder Mifflin paper company?",
+      "question": "Which US mockumentary series featured Michael Scott as the bumbling manager of Dunder Mifflin?",
       "answers": [
-        {"text": "The Office", "correct": true},
-        {"text": "Parks and Recreation", "correct": false},
-        {"text": "Brooklyn Nine-Nine", "correct": false},
-        {"text": "Arrested Development", "correct": false},
-        {"text": "Staples", "correct": false, "absurd": true}
+        {
+          "text": "The Office",
+          "correct": true
+        },
+        {
+          "text": "Parks and Recreation",
+          "correct": false
+        },
+        {
+          "text": "Brooklyn Nine-Nine",
+          "correct": false
+        },
+        {
+          "text": "Arrested Development",
+          "correct": false
+        },
+        {
+          "text": "Staples",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
     },
     {
       "id": "mil_011",
-      "question": "What peer-to-peer music sharing service, used by millions of millennials to download free music, was shut down in 2001 after losing a landmark copyright infringement lawsuit?",
+      "question": "Which peer-to-peer music sharing service was shut down in 2001 after losing a landmark copyright infringement lawsuit?",
       "answers": [
-        {"text": "Napster", "correct": true},
-        {"text": "LimeWire", "correct": false},
-        {"text": "Kazaa", "correct": false},
-        {"text": "BitTorrent", "correct": false},
-        {"text": "iTunes", "correct": false, "absurd": true}
+        {
+          "text": "Napster",
+          "correct": true
+        },
+        {
+          "text": "LimeWire",
+          "correct": false
+        },
+        {
+          "text": "Kazaa",
+          "correct": false
+        },
+        {
+          "text": "BitTorrent",
+          "correct": false
+        },
+        {
+          "text": "iTunes",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
@@ -159,11 +335,27 @@
       "id": "mil_012",
       "question": "In what year did Facebook open its registration to the general public, beyond just college and high school students?",
       "answers": [
-        {"text": "2006", "correct": true},
-        {"text": "2005", "correct": false},
-        {"text": "2007", "correct": false},
-        {"text": "2008", "correct": false},
-        {"text": "1984", "correct": false, "absurd": true}
+        {
+          "text": "2006",
+          "correct": true
+        },
+        {
+          "text": "2005",
+          "correct": false
+        },
+        {
+          "text": "2007",
+          "correct": false
+        },
+        {
+          "text": "2008",
+          "correct": false
+        },
+        {
+          "text": "1984",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
@@ -172,37 +364,85 @@
       "id": "mil_013",
       "question": "Which pop-punk band released the 2005 album \"From Under the Cork Tree,\" featuring the hit single \"Sugar We're Goin Down\"?",
       "answers": [
-        {"text": "Fall Out Boy", "correct": true},
-        {"text": "Panic at the Disco", "correct": false},
-        {"text": "My Chemical Romance", "correct": false},
-        {"text": "Paramore", "correct": false},
-        {"text": "Beethoven", "correct": false, "absurd": true}
+        {
+          "text": "Fall Out Boy",
+          "correct": true
+        },
+        {
+          "text": "Panic at the Disco",
+          "correct": false
+        },
+        {
+          "text": "My Chemical Romance",
+          "correct": false
+        },
+        {
+          "text": "Paramore",
+          "correct": false
+        },
+        {
+          "text": "Beethoven",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
     },
     {
       "id": "mil_014",
-      "question": "Which reality TV show, premiering on CBS in 2000, had contestants competing for $1 million by surviving on an island and voting each other out of the game?",
+      "question": "Which CBS reality show, premiering in 2000, had contestants surviving on an island while voting each other out?",
       "answers": [
-        {"text": "Survivor", "correct": true},
-        {"text": "The Amazing Race", "correct": false},
-        {"text": "Big Brother", "correct": false},
-        {"text": "Fear Factor", "correct": false},
-        {"text": "LOST", "correct": false, "absurd": true}
+        {
+          "text": "Survivor",
+          "correct": true
+        },
+        {
+          "text": "The Amazing Race",
+          "correct": false
+        },
+        {
+          "text": "Big Brother",
+          "correct": false
+        },
+        {
+          "text": "Fear Factor",
+          "correct": false
+        },
+        {
+          "text": "LOST",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
     },
     {
       "id": "mil_015",
-      "question": "Which 2001 video game set in the fictional Liberty City popularized open-world crime gameplay for an entire generation of millennial gamers?",
+      "question": "Which 2001 video game set in fictional Liberty City popularized open-world crime gameplay?",
       "answers": [
-        {"text": "Grand Theft Auto III", "correct": true},
-        {"text": "Grand Theft Auto: Vice City", "correct": false},
-        {"text": "Mafia", "correct": false},
-        {"text": "True Crime: Streets of LA", "correct": false},
-        {"text": "SimCity", "correct": false, "absurd": true}
+        {
+          "text": "Grand Theft Auto III",
+          "correct": true
+        },
+        {
+          "text": "Grand Theft Auto: Vice City",
+          "correct": false
+        },
+        {
+          "text": "Mafia",
+          "correct": false
+        },
+        {
+          "text": "True Crime: Streets of LA",
+          "correct": false
+        },
+        {
+          "text": "SimCity",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
@@ -211,24 +451,56 @@
       "id": "mil_016",
       "question": "Which 2008 superhero film, featuring Heath Ledger's iconic performance as The Joker, became a defining cultural moment for millennial moviegoers?",
       "answers": [
-        {"text": "The Dark Knight", "correct": true},
-        {"text": "Batman Begins", "correct": false},
-        {"text": "Iron Man", "correct": false},
-        {"text": "Spider-Man 3", "correct": false},
-        {"text": "Heath Bar", "correct": false, "absurd": true}
+        {
+          "text": "The Dark Knight",
+          "correct": true
+        },
+        {
+          "text": "Batman Begins",
+          "correct": false
+        },
+        {
+          "text": "Iron Man",
+          "correct": false
+        },
+        {
+          "text": "Spider-Man 3",
+          "correct": false
+        },
+        {
+          "text": "Heath Bar",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
     },
     {
       "id": "mil_017",
-      "question": "Which TV series, premiering in 2008, followed high school chemistry teacher Walter White as he descended into drug manufacturing and organized crime?",
+      "question": "Which TV series followed chemistry teacher Walter White as he descended into drug manufacturing and crime?",
       "answers": [
-        {"text": "Breaking Bad", "correct": true},
-        {"text": "Weeds", "correct": false},
-        {"text": "The Wire", "correct": false},
-        {"text": "Ozark", "correct": false},
-        {"text": "Chemistry Class", "correct": false, "absurd": true}
+        {
+          "text": "Breaking Bad",
+          "correct": true
+        },
+        {
+          "text": "Weeds",
+          "correct": false
+        },
+        {
+          "text": "The Wire",
+          "correct": false
+        },
+        {
+          "text": "Ozark",
+          "correct": false
+        },
+        {
+          "text": "Better Call Saul",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
@@ -237,37 +509,85 @@
       "id": "mil_018",
       "question": "What economic crisis, beginning in 2007-2008, caused widespread unemployment and became a defining financial hardship for millennials entering the workforce?",
       "answers": [
-        {"text": "The Great Recession", "correct": true},
-        {"text": "The Dot-com Bubble", "correct": false},
-        {"text": "The Savings and Loan Crisis", "correct": false},
-        {"text": "The Stagflation Era", "correct": false},
-        {"text": "The Hunger Games", "correct": false, "absurd": true}
+        {
+          "text": "The Great Recession",
+          "correct": true
+        },
+        {
+          "text": "The Dot-com Bubble",
+          "correct": false
+        },
+        {
+          "text": "The Savings and Loan Crisis",
+          "correct": false
+        },
+        {
+          "text": "The Stagflation Era",
+          "correct": false
+        },
+        {
+          "text": "The Hunger Games",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
     },
     {
       "id": "mil_019",
-      "question": "Which Nintendo console, released in 2006, revolutionized gaming with its motion-sensing controllers that had players physically swinging, bowling, and swinging tennis rackets?",
+      "question": "Which Nintendo console, released in 2006, revolutionized gaming with its motion-sensing controllers?",
       "answers": [
-        {"text": "Nintendo Wii", "correct": true},
-        {"text": "Nintendo DS", "correct": false},
-        {"text": "GameCube", "correct": false},
-        {"text": "Xbox 360", "correct": false},
-        {"text": "A TV remote", "correct": false, "absurd": true}
+        {
+          "text": "Nintendo Wii",
+          "correct": true
+        },
+        {
+          "text": "Nintendo DS",
+          "correct": false
+        },
+        {
+          "text": "GameCube",
+          "correct": false
+        },
+        {
+          "text": "Xbox 360",
+          "correct": false
+        },
+        {
+          "text": "A TV remote",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
     },
     {
       "id": "mil_020",
-      "question": "Which professional networking platform, launched in 2003, became the go-to site for millennial job seekers building online resumes and career connections?",
+      "question": "Which professional networking platform, launched in 2003, became the go-to site for online resumes and career connections?",
       "answers": [
-        {"text": "LinkedIn", "correct": true},
-        {"text": "Monster.com", "correct": false},
-        {"text": "CareerBuilder", "correct": false},
-        {"text": "Indeed", "correct": false},
-        {"text": "Tinder", "correct": false, "absurd": true}
+        {
+          "text": "LinkedIn",
+          "correct": true
+        },
+        {
+          "text": "Monster.com",
+          "correct": false
+        },
+        {
+          "text": "CareerBuilder",
+          "correct": false
+        },
+        {
+          "text": "Indeed",
+          "correct": false
+        },
+        {
+          "text": "Tinder",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
@@ -276,63 +596,143 @@
       "id": "mil_021",
       "question": "In what year was YouTube founded by former PayPal employees Chad Hurley, Steve Chen, and Jawed Karim?",
       "answers": [
-        {"text": "2005", "correct": true},
-        {"text": "2004", "correct": false},
-        {"text": "2006", "correct": false},
-        {"text": "2003", "correct": false},
-        {"text": "1969", "correct": false, "absurd": true}
+        {
+          "text": "2005",
+          "correct": true
+        },
+        {
+          "text": "2004",
+          "correct": false
+        },
+        {
+          "text": "2006",
+          "correct": false
+        },
+        {
+          "text": "2003",
+          "correct": false
+        },
+        {
+          "text": "1969",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Millennials"
     },
     {
       "id": "mil_022",
-      "question": "What was the name of Mark Zuckerberg's controversial Harvard website, created in 2003, that allowed students to compare and rate classmates' photos?",
+      "question": "What was the name of Mark Zuckerberg's 2003 Harvard website where students rated classmates' photos?",
       "answers": [
-        {"text": "Facemash", "correct": true},
-        {"text": "Hot or Not", "correct": false},
-        {"text": "Campus Network", "correct": false},
-        {"text": "Rate My Professor", "correct": false},
-        {"text": "The Social Network", "correct": false, "absurd": true}
+        {
+          "text": "Facemash",
+          "correct": true
+        },
+        {
+          "text": "Hot or Not",
+          "correct": false
+        },
+        {
+          "text": "Campus Network",
+          "correct": false
+        },
+        {
+          "text": "Rate My Professor",
+          "correct": false
+        },
+        {
+          "text": "The Social Network",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Millennials"
     },
     {
       "id": "mil_023",
-      "question": "Which massively multiplayer online role-playing game, launched in 2004, became a defining cultural phenomenon for millennials and peaked at over 12 million subscribers?",
+      "question": "Which MMORPG, launched in 2004, peaked at over 12 million subscribers and defined millennial gaming culture?",
       "answers": [
-        {"text": "World of Warcraft", "correct": true},
-        {"text": "EverQuest", "correct": false},
-        {"text": "RuneScape", "correct": false},
-        {"text": "Guild Wars", "correct": false},
-        {"text": "Real Life", "correct": false, "absurd": true}
+        {
+          "text": "World of Warcraft",
+          "correct": true
+        },
+        {
+          "text": "EverQuest",
+          "correct": false
+        },
+        {
+          "text": "RuneScape",
+          "correct": false
+        },
+        {
+          "text": "Guild Wars",
+          "correct": false
+        },
+        {
+          "text": "Real Life",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Millennials"
     },
     {
       "id": "mil_024",
-      "question": "Which web browser, released by Mozilla in 2004, became the millennial alternative to Internet Explorer and was represented by a fox wrapping around a globe?",
+      "question": "Which web browser, released by Mozilla in 2004, was represented by a fox wrapping around a globe?",
       "answers": [
-        {"text": "Mozilla Firefox", "correct": true},
-        {"text": "Netscape Navigator", "correct": false},
-        {"text": "Opera", "correct": false},
-        {"text": "Safari", "correct": false},
-        {"text": "Internet Exploder", "correct": false, "absurd": true}
+        {
+          "text": "Mozilla Firefox",
+          "correct": true
+        },
+        {
+          "text": "Netscape Navigator",
+          "correct": false
+        },
+        {
+          "text": "Opera",
+          "correct": false
+        },
+        {
+          "text": "Safari",
+          "correct": false
+        },
+        {
+          "text": "Internet Exploder",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Millennials"
     },
     {
       "id": "mil_025",
-      "question": "Which MTV reality series, premiering in 2009 and set in Seaside Heights, New Jersey, became a millennial cultural phenomenon despite widespread criticism of its content?",
+      "question": "Which MTV reality series, set in Seaside Heights, New Jersey, became a millennial cultural phenomenon despite widespread criticism?",
       "answers": [
-        {"text": "Jersey Shore", "correct": true},
-        {"text": "The Real World", "correct": false},
-        {"text": "The Hills", "correct": false},
-        {"text": "Laguna Beach", "correct": false},
-        {"text": "The Sopranos", "correct": false, "absurd": true}
+        {
+          "text": "Jersey Shore",
+          "correct": true
+        },
+        {
+          "text": "The Real World",
+          "correct": false
+        },
+        {
+          "text": "The Hills",
+          "correct": false
+        },
+        {
+          "text": "Laguna Beach",
+          "correct": false
+        },
+        {
+          "text": "The Sopranos",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Millennials"
@@ -341,50 +741,114 @@
       "id": "mil_026",
       "question": "Which boy band sang \"I Want It That Way,\" one of the best-selling singles of the 1990s?",
       "answers": [
-        {"text": "Backstreet Boys", "correct": true},
-        {"text": "NSYNC", "correct": false},
-        {"text": "98 Degrees", "correct": false},
-        {"text": "O-Town", "correct": false},
-        {"text": "The Barbershop Quartet", "correct": false, "absurd": true}
+        {
+          "text": "Backstreet Boys",
+          "correct": true
+        },
+        {
+          "text": "NSYNC",
+          "correct": false
+        },
+        {
+          "text": "98 Degrees",
+          "correct": false
+        },
+        {
+          "text": "O-Town",
+          "correct": false
+        },
+        {
+          "text": "The Barbershop Quartet",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
     },
     {
       "id": "mil_027",
-      "question": "Which Nickelodeon animated series, premiering in 1999, follows a sea sponge and his friends living in the underwater city of Bikini Bottom?",
+      "question": "Which Nickelodeon animated series follows a sea sponge and friends living in Bikini Bottom?",
       "answers": [
-        {"text": "SpongeBob SquarePants", "correct": true},
-        {"text": "Rugrats", "correct": false},
-        {"text": "CatDog", "correct": false},
-        {"text": "Rocko's Modern Life", "correct": false},
-        {"text": "Gary", "correct": false, "absurd": true}
+        {
+          "text": "SpongeBob SquarePants",
+          "correct": true
+        },
+        {
+          "text": "Rugrats",
+          "correct": false
+        },
+        {
+          "text": "CatDog",
+          "correct": false
+        },
+        {
+          "text": "Rocko's Modern Life",
+          "correct": false
+        },
+        {
+          "text": "Gary",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
     },
     {
       "id": "mil_028",
-      "question": "What is the famous tagline of the Pokémon franchise, used in the original TV show and games to encourage collecting all creatures?",
+      "question": "What famous tagline encouraged players to collect every creature in the Pokémon franchise?",
       "answers": [
-        {"text": "Gotta Catch 'Em All", "correct": true},
-        {"text": "Be the Very Best", "correct": false},
-        {"text": "Catch 'Em If You Can", "correct": false},
-        {"text": "The Ultimate Challenge", "correct": false},
-        {"text": "I Choose You, Pikachu", "correct": false, "absurd": true}
+        {
+          "text": "Gotta Catch 'Em All",
+          "correct": true
+        },
+        {
+          "text": "Be the Very Best",
+          "correct": false
+        },
+        {
+          "text": "Catch 'Em If You Can",
+          "correct": false
+        },
+        {
+          "text": "The Ultimate Challenge",
+          "correct": false
+        },
+        {
+          "text": "I Choose You, Pikachu",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
     },
     {
       "id": "mil_029",
-      "question": "Which Apple device, launched in 2001 with the slogan \"a thousand songs in your pocket,\" revolutionized how millennials carried and listened to music?",
+      "question": "Which Apple device, launched in 2001 with the slogan \"a thousand songs in your pocket\"?",
       "answers": [
-        {"text": "iPod", "correct": true},
-        {"text": "Creative Zen", "correct": false},
-        {"text": "Microsoft Zune", "correct": false},
-        {"text": "Sony Walkman", "correct": false},
-        {"text": "Napster", "correct": false, "absurd": true}
+        {
+          "text": "iPod",
+          "correct": true
+        },
+        {
+          "text": "Creative Zen",
+          "correct": false
+        },
+        {
+          "text": "Microsoft Zune",
+          "correct": false
+        },
+        {
+          "text": "Sony Walkman",
+          "correct": false
+        },
+        {
+          "text": "Napster",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
@@ -393,11 +857,27 @@
       "id": "mil_030",
       "question": "Which 2001 DreamWorks animated film featured a green ogre who falls in love with Princess Fiona, voiced by Mike Myers?",
       "answers": [
-        {"text": "Shrek", "correct": true},
-        {"text": "Antz", "correct": false},
-        {"text": "Monsters, Inc.", "correct": false},
-        {"text": "A Bug's Life", "correct": false},
-        {"text": "Donkey", "correct": false, "absurd": true}
+        {
+          "text": "Shrek",
+          "correct": true
+        },
+        {
+          "text": "Antz",
+          "correct": false
+        },
+        {
+          "text": "Monsters, Inc.",
+          "correct": false
+        },
+        {
+          "text": "A Bug's Life",
+          "correct": false
+        },
+        {
+          "text": "Donkey",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
@@ -406,89 +886,201 @@
       "id": "mil_031",
       "question": "Which energy drink brand, wildly popular with millennial students pulling all-nighters, uses the slogan \"Gives You Wings\"?",
       "answers": [
-        {"text": "Red Bull", "correct": true},
-        {"text": "Monster Energy", "correct": false},
-        {"text": "Rockstar", "correct": false},
-        {"text": "Full Throttle", "correct": false},
-        {"text": "Monster Truck", "correct": false, "absurd": true}
+        {
+          "text": "Red Bull",
+          "correct": true
+        },
+        {
+          "text": "Monster Energy",
+          "correct": false
+        },
+        {
+          "text": "Rockstar",
+          "correct": false
+        },
+        {
+          "text": "Full Throttle",
+          "correct": false
+        },
+        {
+          "text": "Monster Truck",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
     },
     {
       "id": "mil_032",
-      "question": "Which 1990s and 2000s fashion accessory consisted of a tight band of velvet, lace, or plastic worn snugly around the neck?",
+      "question": "Which fashion accessory of the 1990s–2000s was a tight band of velvet, lace, or plastic worn around the neck?",
       "answers": [
-        {"text": "Choker", "correct": true},
-        {"text": "Neck scarf", "correct": false},
-        {"text": "Collar necklace", "correct": false},
-        {"text": "Bandana", "correct": false},
-        {"text": "A scrunchie", "correct": false, "absurd": true}
+        {
+          "text": "Choker",
+          "correct": true
+        },
+        {
+          "text": "Neck scarf",
+          "correct": false
+        },
+        {
+          "text": "Collar necklace",
+          "correct": false
+        },
+        {
+          "text": "Bandana",
+          "correct": false
+        },
+        {
+          "text": "A scrunchie",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
     },
     {
       "id": "mil_033",
-      "question": "Which animated TV show, featuring Homer, Marge, Bart, Lisa, and Maggie, has been running on Fox since 1989 and was a constant in millennial childhoods?",
+      "question": "Which animated Fox TV show, featuring the Simpson family, has been running since 1989?",
       "answers": [
-        {"text": "The Simpsons", "correct": true},
-        {"text": "Family Guy", "correct": false},
-        {"text": "King of the Hill", "correct": false},
-        {"text": "Futurama", "correct": false},
-        {"text": "The Iliad", "correct": false, "absurd": true}
+        {
+          "text": "The Simpsons",
+          "correct": true
+        },
+        {
+          "text": "Family Guy",
+          "correct": false
+        },
+        {
+          "text": "King of the Hill",
+          "correct": false
+        },
+        {
+          "text": "Futurama",
+          "correct": false
+        },
+        {
+          "text": "The Iliad",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
     },
     {
       "id": "mil_034",
-      "question": "Which Nintendo handheld gaming device, released in 2001, let millennial kids play Pokémon, Mario, and The Legend of Zelda anywhere they went?",
+      "question": "Which Nintendo handheld, released in 2001, succeeded the original Game Boy?",
       "answers": [
-        {"text": "Game Boy Advance", "correct": true},
-        {"text": "Game Boy Color", "correct": false},
-        {"text": "Nintendo DS", "correct": false},
-        {"text": "Game Boy Pocket", "correct": false},
-        {"text": "A brick", "correct": false, "absurd": true}
+        {
+          "text": "Game Boy Advance",
+          "correct": true
+        },
+        {
+          "text": "Game Boy Color",
+          "correct": false
+        },
+        {
+          "text": "Nintendo DS",
+          "correct": false
+        },
+        {
+          "text": "Game Boy Pocket",
+          "correct": false
+        },
+        {
+          "text": "A brick",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
     },
     {
       "id": "mil_035",
-      "question": "Which 2002 Marvel film, starring Tobey Maguire and featuring the line \"With great power comes great responsibility,\" launched the modern superhero movie era?",
+      "question": "Which 2002 Marvel film starring Tobey Maguire featured the line \"With great power comes great responsibility\"?",
       "answers": [
-        {"text": "Spider-Man", "correct": true},
-        {"text": "Batman Begins", "correct": false},
-        {"text": "X-Men", "correct": false},
-        {"text": "Daredevil", "correct": false},
-        {"text": "Charlotte's Web", "correct": false, "absurd": true}
+        {
+          "text": "Spider-Man",
+          "correct": true
+        },
+        {
+          "text": "Batman Begins",
+          "correct": false
+        },
+        {
+          "text": "X-Men",
+          "correct": false
+        },
+        {
+          "text": "Daredevil",
+          "correct": false
+        },
+        {
+          "text": "Charlotte's Web",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "easy",
       "category": "Millennials"
     },
     {
       "id": "mil_036",
-      "question": "Which portable virtual pet device, released by Bandai in 1996, required millennial children to constantly feed, clean up after, and entertain it or risk it dying?",
+      "question": "Which Bandai virtual pet device, released in 1996, required constant feeding and care or it would die?",
       "answers": [
-        {"text": "Tamagotchi", "correct": true},
-        {"text": "Furby", "correct": false},
-        {"text": "Digimon", "correct": false},
-        {"text": "Nano Pet", "correct": false},
-        {"text": "A real pet", "correct": false, "absurd": true}
+        {
+          "text": "Tamagotchi",
+          "correct": true
+        },
+        {
+          "text": "Furby",
+          "correct": false
+        },
+        {
+          "text": "Digimon",
+          "correct": false
+        },
+        {
+          "text": "Nano Pet",
+          "correct": false
+        },
+        {
+          "text": "A Beanie Baby",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
     },
     {
       "id": "mil_037",
-      "question": "Which Fox talent competition show, premiering in 2002 with Simon Cowell, Paula Abdul, and Randy Jackson as judges, dominated millennial television for over a decade?",
+      "question": "Which Fox talent competition show, premiering in 2002 with Simon Cowell as a judge, dominated millennial television?",
       "answers": [
-        {"text": "American Idol", "correct": true},
-        {"text": "The X Factor", "correct": false},
-        {"text": "America's Got Talent", "correct": false},
-        {"text": "The Voice", "correct": false},
-        {"text": "Simon Says", "correct": false, "absurd": true}
+        {
+          "text": "American Idol",
+          "correct": true
+        },
+        {
+          "text": "The X Factor",
+          "correct": false
+        },
+        {
+          "text": "America's Got Talent",
+          "correct": false
+        },
+        {
+          "text": "The Voice",
+          "correct": false
+        },
+        {
+          "text": "Simon Says",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
@@ -497,11 +1089,27 @@
       "id": "mil_038",
       "question": "Which rapper released \"Get Rich or Die Tryin'\" in 2003, one of the fastest-selling debut albums in music history?",
       "answers": [
-        {"text": "50 Cent", "correct": true},
-        {"text": "Eminem", "correct": false},
-        {"text": "Jay-Z", "correct": false},
-        {"text": "DMX", "correct": false},
-        {"text": "Benjamin Franklin", "correct": false, "absurd": true}
+        {
+          "text": "50 Cent",
+          "correct": true
+        },
+        {
+          "text": "Eminem",
+          "correct": false
+        },
+        {
+          "text": "Jay-Z",
+          "correct": false
+        },
+        {
+          "text": "DMX",
+          "correct": false
+        },
+        {
+          "text": "Benjamin Franklin",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
@@ -510,154 +1118,346 @@
       "id": "mil_039",
       "question": "Which microblogging platform, launched in 2006, initially limited posts to 140 characters and became essential for millennial real-time communication?",
       "answers": [
-        {"text": "Twitter", "correct": true},
-        {"text": "Tumblr", "correct": false},
-        {"text": "Reddit", "correct": false},
-        {"text": "Blogger", "correct": false},
-        {"text": "A fortune cookie", "correct": false, "absurd": true}
+        {
+          "text": "Twitter",
+          "correct": true
+        },
+        {
+          "text": "Tumblr",
+          "correct": false
+        },
+        {
+          "text": "Reddit",
+          "correct": false
+        },
+        {
+          "text": "Blogger",
+          "correct": false
+        },
+        {
+          "text": "A fortune cookie",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
     },
     {
       "id": "mil_040",
-      "question": "Which Disney Channel film, released in 2006 and starring Zac Efron and Vanessa Hudgens, became a massive cultural phenomenon among millennial teens?",
+      "question": "Which 2006 Disney Channel film starring Zac Efron and Vanessa Hudgens became a massive teen cultural phenomenon?",
       "answers": [
-        {"text": "High School Musical", "correct": true},
-        {"text": "Camp Rock", "correct": false},
-        {"text": "The Cheetah Girls", "correct": false},
-        {"text": "Jump In!", "correct": false},
-        {"text": "Grease", "correct": false, "absurd": true}
+        {
+          "text": "High School Musical",
+          "correct": true
+        },
+        {
+          "text": "Camp Rock",
+          "correct": false
+        },
+        {
+          "text": "The Cheetah Girls",
+          "correct": false
+        },
+        {
+          "text": "Jump In!",
+          "correct": false
+        },
+        {
+          "text": "Grease",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
     },
     {
       "id": "mil_041",
-      "question": "Which band released the 2000 debut album \"Hybrid Theory,\" featuring hits like \"In the End\" and \"Crawling,\" making it one of the best-selling debut albums of all time?",
+      "question": "Which band released the 2000 debut album \"Hybrid Theory,\" featuring hits \"In the End\" and \"Crawling\"?",
       "answers": [
-        {"text": "Linkin Park", "correct": true},
-        {"text": "Limp Bizkit", "correct": false},
-        {"text": "Papa Roach", "correct": false},
-        {"text": "Evanescence", "correct": false},
-        {"text": "The Philharmonic", "correct": false, "absurd": true}
+        {
+          "text": "Linkin Park",
+          "correct": true
+        },
+        {
+          "text": "Limp Bizkit",
+          "correct": false
+        },
+        {
+          "text": "Papa Roach",
+          "correct": false
+        },
+        {
+          "text": "Evanescence",
+          "correct": false
+        },
+        {
+          "text": "The Philharmonic",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
     },
     {
       "id": "mil_042",
-      "question": "Which virtual world platform, launched in 2003, allowed millennials to create avatars, build digital homes, and even run virtual businesses using a real-money currency?",
+      "question": "Which virtual world platform, launched in 2003, let users create avatars and run businesses with real currency?",
       "answers": [
-        {"text": "Second Life", "correct": true},
-        {"text": "The Sims Online", "correct": false},
-        {"text": "IMVU", "correct": false},
-        {"text": "Active Worlds", "correct": false},
-        {"text": "The Metaverse", "correct": false, "absurd": true}
+        {
+          "text": "Second Life",
+          "correct": true
+        },
+        {
+          "text": "The Sims Online",
+          "correct": false
+        },
+        {
+          "text": "IMVU",
+          "correct": false
+        },
+        {
+          "text": "Active Worlds",
+          "correct": false
+        },
+        {
+          "text": "The Metaverse",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
     },
     {
       "id": "mil_043",
-      "question": "Which blogging platform, launched in 2007, became a home for millennial fandom communities and was famous for its endless reblogging of images and posts?",
+      "question": "Which blogging platform, launched in 2007, became famous for millennial fandom communities and endless reblogging?",
       "answers": [
-        {"text": "Tumblr", "correct": true},
-        {"text": "WordPress", "correct": false},
-        {"text": "LiveJournal", "correct": false},
-        {"text": "Blogger", "correct": false},
-        {"text": "The Scrapbook", "correct": false, "absurd": true}
+        {
+          "text": "Tumblr",
+          "correct": true
+        },
+        {
+          "text": "WordPress",
+          "correct": false
+        },
+        {
+          "text": "LiveJournal",
+          "correct": false
+        },
+        {
+          "text": "Blogger",
+          "correct": false
+        },
+        {
+          "text": "GeoCities",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
     },
     {
       "id": "mil_044",
-      "question": "Which 2005 rhythm video game had millennials rocking out with a plastic guitar controller, eventually sparking a real-world surge in guitar lesson enrollments?",
+      "question": "Which 2005 rhythm game, played with a plastic guitar controller, sparked a surge in real guitar lesson enrollments?",
       "answers": [
-        {"text": "Guitar Hero", "correct": true},
-        {"text": "Rock Band", "correct": false},
-        {"text": "DJ Hero", "correct": false},
-        {"text": "Band Hero", "correct": false},
-        {"text": "A broom", "correct": false, "absurd": true}
+        {
+          "text": "Guitar Hero",
+          "correct": true
+        },
+        {
+          "text": "Rock Band",
+          "correct": false
+        },
+        {
+          "text": "DJ Hero",
+          "correct": false
+        },
+        {
+          "text": "Band Hero",
+          "correct": false
+        },
+        {
+          "text": "A broom",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
     },
     {
       "id": "mil_045",
-      "question": "Which Gordon Ramsay cooking competition, premiering in the US in 2005, had aspiring chefs competing under the chef's legendarily intense and profanity-laden criticism?",
+      "question": "Which Gordon Ramsay cooking competition, premiering in 2005, featured chefs enduring his intense, profanity-laden criticism?",
       "answers": [
-        {"text": "Hell's Kitchen", "correct": true},
-        {"text": "MasterChef", "correct": false},
-        {"text": "Top Chef", "correct": false},
-        {"text": "Chopped", "correct": false},
-        {"text": "The Devil Wears Prada", "correct": false, "absurd": true}
+        {
+          "text": "Hell's Kitchen",
+          "correct": true
+        },
+        {
+          "text": "MasterChef",
+          "correct": false
+        },
+        {
+          "text": "Top Chef",
+          "correct": false
+        },
+        {
+          "text": "Chopped",
+          "correct": false
+        },
+        {
+          "text": "The Devil Wears Prada",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "medium",
       "category": "Millennials"
     },
     {
       "id": "mil_046",
-      "question": "At what notoriously high launch price did Sony release the 60GB PlayStation 3 in the US in 2006, shocking millennial gamers and spawning countless internet memes?",
+      "question": "What was the US launch price of the 60GB PlayStation 3 in 2006?",
       "answers": [
-        {"text": "$599", "correct": true},
-        {"text": "$499", "correct": false},
-        {"text": "$449", "correct": false},
-        {"text": "$399", "correct": false},
-        {"text": "Two kidneys", "correct": false, "absurd": true}
+        {
+          "text": "$599",
+          "correct": true
+        },
+        {
+          "text": "$499",
+          "correct": false
+        },
+        {
+          "text": "$449",
+          "correct": false
+        },
+        {
+          "text": "$399",
+          "correct": false
+        },
+        {
+          "text": "Two kidneys",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Millennials"
     },
     {
       "id": "mil_047",
-      "question": "What was the title of the very first video ever uploaded to YouTube, posted by co-founder Jawed Karim on April 23, 2005?",
+      "question": "What was the title of the first video uploaded to YouTube by co-founder Jawed Karim?",
       "answers": [
-        {"text": "Me at the zoo", "correct": true},
-        {"text": "Just setting up my YouTube", "correct": false},
-        {"text": "First Post", "correct": false},
-        {"text": "Hello World", "correct": false},
-        {"text": "Gangnam Style", "correct": false, "absurd": true}
+        {
+          "text": "Me at the zoo",
+          "correct": true
+        },
+        {
+          "text": "Just setting up my YouTube",
+          "correct": false
+        },
+        {
+          "text": "First Post",
+          "correct": false
+        },
+        {
+          "text": "Hello World",
+          "correct": false
+        },
+        {
+          "text": "Gangnam Style",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Millennials"
     },
     {
       "id": "mil_048",
-      "question": "Which rapper released \"The College Dropout\" in 2004, a debut album that became a cultural milestone for millennials after years of him producing beats for other artists?",
+      "question": "Which rapper released his debut album \"The College Dropout\" in 2004 after years producing beats for others?",
       "answers": [
-        {"text": "Kanye West", "correct": true},
-        {"text": "Common", "correct": false},
-        {"text": "Lupe Fiasco", "correct": false},
-        {"text": "Kid Cudi", "correct": false},
-        {"text": "A college dropout", "correct": false, "absurd": true}
+        {
+          "text": "Kanye West",
+          "correct": true
+        },
+        {
+          "text": "Common",
+          "correct": false
+        },
+        {
+          "text": "Lupe Fiasco",
+          "correct": false
+        },
+        {
+          "text": "Kid Cudi",
+          "correct": false
+        },
+        {
+          "text": "Bill Gates",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Millennials"
     },
     {
       "id": "mil_049",
-      "question": "Which band's music video for \"Here It Goes Again,\" featuring choreographed treadmill dancing, became a YouTube viral sensation and won a Grammy for Best Music Video in 2007?",
+      "question": "Which band won a 2007 Grammy for Best Music Video with their treadmill-dancing \"Here It Goes Again\" video?",
       "answers": [
-        {"text": "OK Go", "correct": true},
-        {"text": "Weezer", "correct": false},
-        {"text": "Fountains of Wayne", "correct": false},
-        {"text": "They Might Be Giants", "correct": false},
-        {"text": "The Treadmill", "correct": false, "absurd": true}
+        {
+          "text": "OK Go",
+          "correct": true
+        },
+        {
+          "text": "Weezer",
+          "correct": false
+        },
+        {
+          "text": "Fountains of Wayne",
+          "correct": false
+        },
+        {
+          "text": "They Might Be Giants",
+          "correct": false
+        },
+        {
+          "text": "The Treadmill",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Millennials"
     },
     {
       "id": "mil_050",
-      "question": "What was the content of the very first tweet ever posted on Twitter, sent by co-founder Jack Dorsey in March 2006?",
+      "question": "What was the content of Jack Dorsey's first-ever tweet, sent in March 2006?",
       "answers": [
-        {"text": "just setting up my twttr", "correct": true},
-        {"text": "Hello world", "correct": false},
-        {"text": "First tweet", "correct": false},
-        {"text": "Twitter is live!", "correct": false},
-        {"text": "tweet tweet", "correct": false, "absurd": true}
+        {
+          "text": "just setting up my twttr",
+          "correct": true
+        },
+        {
+          "text": "Hello world",
+          "correct": false
+        },
+        {
+          "text": "First tweet",
+          "correct": false
+        },
+        {
+          "text": "Twitter is live!",
+          "correct": false
+        },
+        {
+          "text": "What hath God wrought",
+          "correct": false,
+          "absurd": true
+        }
       ],
       "difficulty": "hard",
       "category": "Millennials"
