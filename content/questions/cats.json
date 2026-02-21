@@ -31,6 +31,11 @@
         {
           "text": "A flock",
           "correct": false
+        },
+        {
+          "text": "A catastrophe",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -55,6 +60,11 @@
         {
           "text": "Ragdoll",
           "correct": false
+        },
+        {
+          "text": "Dolly",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -79,6 +89,11 @@
         {
           "text": "Trill",
           "correct": false
+        },
+        {
+          "text": "The Ottoman Empire",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -103,6 +118,11 @@
         {
           "text": "6",
           "correct": false
+        },
+        {
+          "text": "Seven business days",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -127,6 +147,11 @@
         {
           "text": "Doe",
           "correct": false
+        },
+        {
+          "text": "The Landlord",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -151,6 +176,11 @@
         {
           "text": "Tom",
           "correct": false
+        },
+        {
+          "text": "Monday",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -175,6 +205,11 @@
         {
           "text": "About 120 days",
           "correct": false
+        },
+        {
+          "text": "Nine months",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -199,6 +234,11 @@
         {
           "text": "Japanese Bobtail",
           "correct": false
+        },
+        {
+          "text": "Boxer",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -223,6 +263,11 @@
         {
           "text": "Nocturnal sprints",
           "correct": false
+        },
+        {
+          "text": "Existential dread",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -247,6 +292,11 @@
         {
           "text": "Hathor",
           "correct": false
+        },
+        {
+          "text": "Celine Dion",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -271,6 +321,11 @@
         {
           "text": "14",
           "correct": false
+        },
+        {
+          "text": "36 toes",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -295,6 +350,11 @@
         {
           "text": "Lion",
           "correct": false
+        },
+        {
+          "text": "Keith Richards",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -319,6 +379,11 @@
         {
           "text": "Multidactyl",
           "correct": false
+        },
+        {
+          "text": "Hemingway",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -343,6 +408,11 @@
         {
           "text": "Bustopher Jones",
           "correct": false
+        },
+        {
+          "text": "Andrew Lloyd Webber",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -367,6 +437,11 @@
         {
           "text": "Ragdoll",
           "correct": false
+        },
+        {
+          "text": "David Bowie",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -391,6 +466,11 @@
         {
           "text": "20 to 25 years",
           "correct": false
+        },
+        {
+          "text": "Three business days",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -415,6 +495,11 @@
         {
           "text": "Caching",
           "correct": false
+        },
+        {
+          "text": "Aura",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -439,6 +524,11 @@
         {
           "text": "Bambino",
           "correct": false
+        },
+        {
+          "text": "Kojak",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -463,6 +553,11 @@
         {
           "text": "Panthera domestica",
           "correct": false
+        },
+        {
+          "text": "Pandas",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -487,6 +582,11 @@
         {
           "text": "Cilia",
           "correct": false
+        },
+        {
+          "text": "Velcro",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "easy",
@@ -511,6 +611,11 @@
         {
           "text": "Grumchetta",
           "correct": false
+        },
+        {
+          "text": "Gordon Ramsay",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -535,6 +640,11 @@
         {
           "text": "18 to 20 hours",
           "correct": false
+        },
+        {
+          "text": "All of recorded history",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -559,6 +669,11 @@
         {
           "text": "Parti-colored",
           "correct": false
+        },
+        {
+          "text": "Neapolitan",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -583,6 +698,11 @@
         {
           "text": "Vestibular system",
           "correct": false
+        },
+        {
+          "text": "Ryan Gosling",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -607,6 +727,11 @@
         {
           "text": "Turkish Van",
           "correct": false
+        },
+        {
+          "text": "Beanbag Chair",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -631,6 +756,11 @@
         {
           "text": "Longcat",
           "correct": false
+        },
+        {
+          "text": "LinkedIn",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -655,6 +785,11 @@
         {
           "text": "Caching",
           "correct": false
+        },
+        {
+          "text": "Accountant",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -679,6 +814,11 @@
         {
           "text": "Black",
           "correct": false
+        },
+        {
+          "text": "Ron Weasley",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -703,6 +843,11 @@
         {
           "text": "Communal grooming",
           "correct": false
+        },
+        {
+          "text": "Mewtwo",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -727,6 +872,11 @@
         {
           "text": "Tapetal layer",
           "correct": false
+        },
+        {
+          "text": "Simon Cowell",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -751,6 +901,11 @@
         {
           "text": "Metatarsal glands",
           "correct": false
+        },
+        {
+          "text": "IKEA",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -775,6 +930,11 @@
         {
           "text": "Jaguar",
           "correct": false
+        },
+        {
+          "text": "Nike",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -799,6 +959,11 @@
         {
           "text": "A clutter",
           "correct": false
+        },
+        {
+          "text": "God",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -823,6 +988,11 @@
         {
           "text": "Stripe",
           "correct": false
+        },
+        {
+          "text": "Eminem",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -847,6 +1017,11 @@
         {
           "text": "26",
           "correct": false
+        },
+        {
+          "text": "Tom Hanks",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -871,6 +1046,11 @@
         {
           "text": "Garfield",
           "correct": false
+        },
+        {
+          "text": "Sylvester Stallone",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -895,6 +1075,11 @@
         {
           "text": "Burmese",
           "correct": false
+        },
+        {
+          "text": "Ming Dynasty",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -919,6 +1104,11 @@
         {
           "text": "Pica",
           "correct": false
+        },
+        {
+          "text": "Linus van Pelt",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -943,6 +1133,11 @@
         {
           "text": "Feng shui cat",
           "correct": false
+        },
+        {
+          "text": "Jake from State Farm",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -967,6 +1162,11 @@
         {
           "text": "Werecat",
           "correct": false
+        },
+        {
+          "text": "Ceiling Cat",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "medium",
@@ -991,6 +1191,11 @@
         {
           "text": "Scapula",
           "correct": false
+        },
+        {
+          "text": "TripAdvisor",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "hard",
@@ -1015,6 +1220,11 @@
         {
           "text": "The W gene",
           "correct": false
+        },
+        {
+          "text": "23andMe",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "hard",
@@ -1039,6 +1249,11 @@
         {
           "text": "Vitiligo",
           "correct": false
+        },
+        {
+          "text": "Michael Phelps",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "hard",
@@ -1063,6 +1278,11 @@
         {
           "text": "Buphthalmos",
           "correct": false
+        },
+        {
+          "text": "Axe Body Spray",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "hard",
@@ -1087,6 +1307,11 @@
         {
           "text": "Rigid wrist joints",
           "correct": false
+        },
+        {
+          "text": "Neil Armstrong",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "hard",
@@ -1111,6 +1336,11 @@
         {
           "text": "Bicolor banding",
           "correct": false
+        },
+        {
+          "text": "A QR code",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "hard",
@@ -1135,6 +1365,11 @@
         {
           "text": "The Tyrosinase gene",
           "correct": false
+        },
+        {
+          "text": "Elton John",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "hard",
@@ -1159,6 +1394,11 @@
         {
           "text": "Nocturnal arousal",
           "correct": false
+        },
+        {
+          "text": "NASA",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "hard",
@@ -1183,6 +1423,11 @@
         {
           "text": "The Indus Valley",
           "correct": false
+        },
+        {
+          "text": "1888",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "hard",
@@ -1207,6 +1452,11 @@
         {
           "text": "Trichophagia",
           "correct": false
+        },
+        {
+          "text": "Douglas Adams",
+          "correct": false,
+          "absurd": true
         }
       ],
       "difficulty": "hard",
